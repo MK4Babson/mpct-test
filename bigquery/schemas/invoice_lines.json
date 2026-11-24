@@ -1,0 +1,62 @@
+[
+ {
+  "name": "invoice_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "line_no",
+  "type": "INT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "line_type",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "ref_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "description",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "unit",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "qty",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "unit_rate",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "amount",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "pct_complete_prev",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "pct_complete_cum",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "grn_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ }
+]

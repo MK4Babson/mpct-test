@@ -1,0 +1,32 @@
+[
+ {
+  "name": "grn_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "po_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "item_code",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "period",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "verified_qty",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "verified_pct_complete_cum",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ }
+]

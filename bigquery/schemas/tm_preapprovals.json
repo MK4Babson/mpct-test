@@ -1,0 +1,32 @@
+[
+ {
+  "name": "approval_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "po_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "period",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "craft",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "approved_hours",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "approved_rate",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ }
+]

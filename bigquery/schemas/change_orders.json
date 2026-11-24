@@ -1,0 +1,42 @@
+[
+ {
+  "name": "co_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "po_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "status",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "approval_period",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "co_qty",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "co_unit_rate",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "co_amount",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "description",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ }
+]

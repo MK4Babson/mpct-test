@@ -1,0 +1,27 @@
+[
+ {
+  "name": "po_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "project_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "prime_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "retainage_rate",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "contract_type",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ }
+]

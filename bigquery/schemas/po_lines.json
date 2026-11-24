@@ -1,0 +1,47 @@
+[
+ {
+  "name": "po_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "item_code",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "line_source",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "description",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "unit",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "contract_qty",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "contract_unit_rate",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "scheduled_value",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "co_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ }
+]

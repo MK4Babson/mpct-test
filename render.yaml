@@ -1,0 +1,9 @@
+# One-click deploy of the bill-checking API on Render (free plan).
+services:
+  - type: web
+    name: mpct-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements-api.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health

@@ -1,0 +1,52 @@
+[
+ {
+  "name": "invoice_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "invoice_number",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "po_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "project_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "prime_id",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "period",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "invoice_date",
+  "type": "STRING",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "gross_amount",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "retainage_withheld",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ },
+ {
+  "name": "net_amount",
+  "type": "FLOAT64",
+  "mode": "NULLABLE"
+ }
+]
