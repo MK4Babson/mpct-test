@@ -19,6 +19,19 @@ import altair as alt
 import numpy as np
 import pandas as pd
 import streamlit as st
+from pathlib import Path as _Path
+
+# Keep the dark theme even when .streamlit/config.toml is missing (web uploads to GitHub often skip folders whose
+# names start with a dot). The file is recreated on first run; Streamlit applies it after one reload.
+_cfg = _Path(__file__).resolve().parent / ".streamlit" / "config.toml"
+if not _cfg.exists():
+    try:
+        _cfg.parent.mkdir(exist_ok=True)
+        _cfg.write_text('[theme]\nbase = "dark"\nprimaryColor = "#4fd1ff"\nbackgroundColor = "#05070d"\n'
+                        'secondaryBackgroundColor = "#0e1525"\ntextColor = "#e8eef8"\nfont = "sans serif"\n\n'
+                        '[client]\ntoolbarMode = "minimal"\n')
+    except OSError:
+        pass
 
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "src"))
