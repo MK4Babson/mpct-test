@@ -286,9 +286,9 @@ def story(ctx):
 
 # ---------------------------------------------------------------- Mobile
 MOBILE_CSS = """<style>
-.m-card { background: rgba(14,21,37,.75); border:1px solid rgba(120,170,255,.18); border-radius:14px; padding:12px 14px; margin:8px 0; }
-.m-big { font-family:'JetBrains Mono',monospace; font-size:2.2rem; color:#e8eef8; line-height:1; }
-.m-k { font-size:.7rem; color:#8792a6; text-transform:uppercase; letter-spacing:.08em; }
+.m-card { background: #ffffff; border:1px solid #e3e6ea; border-radius:14px; padding:12px 14px; margin:8px 0; }
+.m-big { font-family:'JetBrains Mono',monospace; font-size:2.2rem; color:#1f1f1f; line-height:1; }
+.m-k { font-size:.7rem; color:#5e6368; text-transform:uppercase; letter-spacing:.08em; }
 .m-row { display:flex; gap:10px; } .m-row > div { flex:1; }
 </style>"""
 
@@ -325,7 +325,7 @@ def mobile(ctx):
     st.markdown("##### Alerts")
     for d in ctx.insights[:5]:
         icon = {"critical": "🔴", "warning": "🟠", "info": "🔵", "good": "🟢"}[d["level"]]
-        st.markdown(f'<div class="m-card">{icon} <b>{d["title"]}</b><br><span style="color:#b9c3d3;font-size:.85rem">{d["action"]}</span></div>',
+        st.markdown(f'<div class="m-card">{icon} <b>{d["title"]}</b><br><span style="color:#444746;font-size:.85rem">{d["action"]}</span></div>',
                     unsafe_allow_html=True)
     if log:
         st.markdown("##### Your decisions")

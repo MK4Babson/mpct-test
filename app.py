@@ -21,14 +21,14 @@ import pandas as pd
 import streamlit as st
 from pathlib import Path as _Path
 
-# Keep the dark theme even when .streamlit/config.toml is missing (web uploads to GitHub often skip folders whose
+# Keep the light theme even when .streamlit/config.toml is missing (web uploads to GitHub often skip folders whose
 # names start with a dot). The file is recreated on first run; Streamlit applies it after one reload.
 _cfg = _Path(__file__).resolve().parent / ".streamlit" / "config.toml"
 if not _cfg.exists():
     try:
         _cfg.parent.mkdir(exist_ok=True)
-        _cfg.write_text('[theme]\nbase = "dark"\nprimaryColor = "#4fd1ff"\nbackgroundColor = "#05070d"\n'
-                        'secondaryBackgroundColor = "#0e1525"\ntextColor = "#e8eef8"\nfont = "sans serif"\n\n'
+        _cfg.write_text('[theme]\nbase = "light"\nprimaryColor = "#0b57d0"\nbackgroundColor = "#f8fafd"\n'
+                        'secondaryBackgroundColor = "#ffffff"\ntextColor = "#1f1f1f"\nfont = "sans serif"\n\n'
                         '[client]\ntoolbarMode = "minimal"\n')
     except OSError:
         pass
@@ -466,7 +466,7 @@ def analytics():
             long = pt.rename(columns={"budget": "Budget", "eac": "Forecast cost", "billed": "Billed", "verified": "Verified work"})
             long = long.melt(id_vars="name", value_vars=meas, var_name="measure", value_name="v")
             long["v"] = long.v / 1e6
-            ch = (alt.Chart(long).mark_bar(cornerRadiusEnd=4, stroke="#0e1525", strokeWidth=2)
+            ch = (alt.Chart(long).mark_bar(cornerRadiusEnd=4, stroke="#ffffff", strokeWidth=2)
                   .encode(x=alt.X("name:N", title=None, axis=alt.Axis(labelAngle=0)),
                           xOffset=alt.XOffset("measure:N", sort=meas),
                           y=alt.Y("v:Q", title="$ millions"),
@@ -699,7 +699,7 @@ def analytics():
                         "advance_recovered": "Actually recovered"}
                 al["m"] = al.m.map(mlab)
                 dom = list(mlab.values())
-                ab = (alt.Chart(al).mark_bar(cornerRadiusEnd=4, stroke="#0e1525", strokeWidth=2)
+                ab = (alt.Chart(al).mark_bar(cornerRadiusEnd=4, stroke="#ffffff", strokeWidth=2)
                       .encode(x=alt.X("name:N", title=None, axis=alt.Axis(labelAngle=0)), xOffset=alt.XOffset("m:N", sort=dom),
                               y=alt.Y("v:Q", title="$"), color=alt.Color("m:N", sort=dom, scale=alt.Scale(domain=dom, range=SERIES[:3]),
                                                                         legend=alt.Legend(orient="top", title=None)),
@@ -741,7 +741,7 @@ def analytics():
         sl["k"] = sl.k.map({"bills_on_hold": "On hold", "bills_to_review": "To review"})
         pol_order = list(sim.policy)
         c1, c2 = st.columns(2)
-        wl = (alt.Chart(sl).mark_bar(stroke="#0e1525", strokeWidth=2)
+        wl = (alt.Chart(sl).mark_bar(stroke="#ffffff", strokeWidth=2)
               .encode(y=alt.Y("policy:N", sort=pol_order, title=None, axis=alt.Axis(labelLimit=260)), x=alt.X("n:Q", title="Bills needing a person"),
                       color=alt.Color("k:N", scale=alt.Scale(domain=["On hold", "To review"], range=[SERIES[7], SERIES[3]]),
                                       legend=alt.Legend(orient="top", title=None)),

@@ -11,24 +11,25 @@ from ui.payapp_pages import ACTIONS, LABELS, findings
 CSS = """
 <style>
 .fp-context { color: var(--muted); font-size: .92rem; letter-spacing: .02em; margin-bottom: .6rem; }
-.fp-head { font-size: 2.9rem; line-height: 1.12; font-weight: 400; letter-spacing: -0.02em; color: var(--ink); margin: 0 0 .9rem; max-width: 1050px; }
+.fp-head { font-size: 3.1rem; line-height: 1.1; font-weight: 500; letter-spacing: -0.02em; color: var(--ink); margin: 0 0 .9rem; max-width: 1050px; }
 .fp-lede { font-size: 1.18rem; line-height: 1.5; color: var(--ink2); max-width: 900px; margin-bottom: 1.6rem; }
-.fp-band { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 28px; padding: 30px 34px; border-radius: 22px;
-  background: linear-gradient(120deg, rgba(26,95,214,.55), rgba(63,140,240,.35) 55%, rgba(142,192,255,.18)); border: 1px solid var(--line); margin: .4rem 0 2.4rem; }
-.fp-band .k { font-size: .9rem; color: var(--ink2); }
-.fp-band .v { font-size: 2.5rem; font-weight: 400; letter-spacing: -0.02em; color: #fff; margin-top: 4px; }
-.fp-band .s { font-size: .86rem; color: var(--ink2); margin-top: 2px; }
-.fp-h2 { font-size: 1.7rem; font-weight: 400; color: var(--ink); margin: 1.2rem 0 .2rem; }
+.fp-band { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 28px; padding: 34px 38px; border-radius: 28px;
+  background: radial-gradient(circle at 82% 20%, rgba(194,219,255,.55), rgba(194,219,255,0) 40%), linear-gradient(120deg, #0b57d0 0%, #1a73e8 55%, #4c8df6 100%);
+  margin: .4rem 0 2.4rem; box-shadow: 0 6px 20px rgba(11,87,208,.22); }
+.fp-band .k { font-size: .95rem; color: rgba(255,255,255,.92); font-weight: 500; }
+.fp-band .v { font-size: 2.9rem; font-weight: 500; letter-spacing: -0.02em; color: #fff; margin-top: 4px; }
+.fp-band .s { font-size: .9rem; color: rgba(255,255,255,.88); margin-top: 2px; }
+.fp-h2 { font-size: 1.8rem; font-weight: 500; color: var(--ink); margin: 1.2rem 0 .2rem; }
 .fp-sub { color: var(--muted); font-size: .98rem; margin-bottom: .8rem; }
-.fp-row { display: flex; flex-wrap: wrap; gap: 18px; align-items: flex-start; padding: 18px 2px; border-top: 1px solid var(--line); }
+.fp-row { display: flex; flex-wrap: wrap; gap: 18px; align-items: flex-start; padding: 18px 20px; margin-bottom: 10px; background: #fff; border: 1px solid var(--line); border-radius: 16px; box-shadow: 0 1px 2px rgba(60,64,67,.06); }
 .fp-ico { flex: 0 0 30px; display: flex; justify-content: center; padding-top: 1px; }
 .fp-legend { display: flex; flex-wrap: wrap; gap: 18px; align-items: center; color: var(--muted); font-size: .85rem; margin: -.2rem 0 .6rem; }
 .fp-legend span { display: inline-flex; align-items: center; gap: 6px; } .fp-legend svg { width: 16px; height: 16px; }
 .fp-main { flex: 1 1 420px; min-width: 0; } .fp-title { font-size: 1.08rem; color: var(--ink); font-weight: 500; }
 .fp-why { color: var(--ink2); font-size: .95rem; line-height: 1.5; margin-top: 4px; } .fp-meta { color: var(--muted); font-size: .82rem; margin-top: 6px; }
-.fp-amt { flex: 0 0 auto; text-align: right; font-size: 1.3rem; color: var(--ink); }
+.fp-amt { flex: 0 0 auto; text-align: right; font-size: 1.45rem; font-weight: 600; color: var(--ink); }
 .fp-bars { display: grid; grid-template-columns: minmax(170px, 260px) 1fr; gap: 12px 20px; align-items: center; font-size: .95rem; color: var(--ink2); max-width: 900px; }
-.fp-bar { display: flex; align-items: center; gap: 12px; } .fp-bar i { display: block; height: 12px; border-radius: 0 4px 4px 0; background: #3987e5; }
+.fp-bar { display: flex; align-items: center; gap: 12px; } .fp-bar i { display: block; height: 14px; border-radius: 0 4px 4px 0; background: #2a78d6; }
 .fp-bar b { font-weight: 500; color: var(--ink); min-width: 72px; }
 </style>
 """
@@ -41,7 +42,7 @@ ICON = {
                '<path d="M12 2.5 23 21.5H1z" fill="#f5b120"/><rect x="11" y="9" width="2" height="7" rx="1" fill="#1a1200"/>'
                '<circle cx="12" cy="18.4" r="1.2" fill="#1a1200"/></svg>'),
     "flag": ('<svg width="26" height="26" viewBox="0 0 24 24" role="img" aria-label="Red flag"><title>Red flag</title>'
-             '<rect x="4" y="2" width="2" height="20" rx="1" fill="#c9d1de"/><path d="M6 3h13l-3 4.5 3 4.5H6z" fill="#e5484d"/></svg>'),
+             '<rect x="4" y="2" width="2" height="20" rx="1" fill="#5e6368"/><path d="M6 3h13l-3 4.5 3 4.5H6z" fill="#e5484d"/></svg>'),
 }
 
 

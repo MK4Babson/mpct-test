@@ -117,7 +117,7 @@ def cost_intel(ctx):
         bars = alt.Chart(t).mark_bar(height=22, cornerRadiusEnd=4, color=SERIES[2]).encode(
             y=alt.Y("tier:N", title=None), x=alt.X("alpha_pct_month:Q", title="Alpha: growth not explained by prices (% / month)"),
             tooltip=["tier", alt.Tooltip("alpha_pct_month:Q", format=".3f"), alt.Tooltip("alpha_p:Q", format=".3f", title="p-value"), "months"])
-        err = alt.Chart(t).mark_rule(color="#e8eef8").encode(y="tier:N", x="lo:Q", x2="hi:Q")
+        err = alt.Chart(t).mark_rule(color="#1f1f1f").encode(y="tier:N", x="lo:Q", x2="hi:Q")
         c2.altair_chart((bars + err).properties(height=220, title="Alpha by contractor tier (95% CI)"), width="stretch")
         howto(f"<b>How to read:</b> each dot is one past package in one month. The slope of the orange line is <b>beta</b>: for {trade.lower()} "
               f"work, cost grew {b.beta:.2f}% for every 1% rise in the trade's price index (R² {b.r2:.2f}). The intercept is <b>alpha</b>: "
@@ -136,7 +136,7 @@ def cost_intel(ctx):
             split["package"] = split.project_id.map(lambda p: ctx.labels.get(p, p)) + " · " + split.trade
             long = pd.concat([split.assign(part="Market (beta × index move)", v=split.market_usd),
                               split.assign(part="Project-specific (alpha)", v=split.specific_usd)])
-            ch = alt.Chart(long).mark_bar(cornerRadiusEnd=3, stroke="#0e1525", strokeWidth=2).encode(
+            ch = alt.Chart(long).mark_bar(cornerRadiusEnd=3, stroke="#ffffff", strokeWidth=2).encode(
                 y=alt.Y("package:N", sort=list(split.sort_values("specific_usd", ascending=False).package), title=None, axis=alt.Axis(labelLimit=220)),
                 x=alt.X("v:Q", title="Cost growth vs original contract ($)", axis=alt.Axis(format="$~s")),
                 color=alt.Color("part:N", scale=alt.Scale(domain=["Market (beta × index move)", "Project-specific (alpha)"], range=[SERIES[0], SERIES[1]]),
@@ -176,8 +176,8 @@ def cost_intel(ctx):
             y=alt.Y("label:N", sort=list(coef.label), title=None, axis=alt.Axis(labelLimit=240)), x=alt.X("estimate:Q", title="Coefficient (log points, 95% CI)"),
             tooltip=["label", alt.Tooltip("estimate:Q", format=".3f"), alt.Tooltip("std_error:Q", format=".3f"), alt.Tooltip("p_value:Q", format=".2g"),
                      alt.Tooltip("effect_pct:Q", format="+.1f", title="Effect on rate %")])
-        rules = alt.Chart(coef).mark_rule(color="#b9c3d3").encode(y=alt.Y("label:N", sort=list(coef.label)), x="lo:Q", x2="hi:Q")
-        zero = alt.Chart(pd.DataFrame({"x": [0]})).mark_rule(color="#8792a6", strokeDash=[3, 3]).encode(x="x:Q")
+        rules = alt.Chart(coef).mark_rule(color="#444746").encode(y=alt.Y("label:N", sort=list(coef.label)), x="lo:Q", x2="hi:Q")
+        zero = alt.Chart(pd.DataFrame({"x": [0]})).mark_rule(color="#5e6368", strokeDash=[3, 3]).encode(x="x:Q")
         c1.altair_chart((rules + pts + zero).properties(height=alt.Step(26), title="What moves a rate (item effects not shown)"), width="stretch")
         with c2:
             st.markdown(f"**Do regions matter? (joint F-test)** F = {sc['region_F']:.1f}, p = {sc['region_p']:.1g} → "
@@ -220,7 +220,7 @@ def cost_intel(ctx):
                          alt.Tooltip("pi_hi:Q", format="$,.2f", title="Range high"), alt.Tooltip("gap_pct:Q", format="+.1f", title="Gap %")])
             from scipy import stats as _st
             zc = _st.norm.ppf(0.5 + lev / 2)
-            band = alt.Chart(pd.DataFrame({"a": [-zc], "b": [zc]})).mark_rect(opacity=0.08, color="#4fd1ff").encode(x="a:Q", x2="b:Q")
+            band = alt.Chart(pd.DataFrame({"a": [-zc], "b": [zc]})).mark_rect(opacity=0.08, color="#0b57d0").encode(x="a:Q", x2="b:Q")
             st.altair_chart((band + dots).properties(height=alt.Step(22)), width="stretch")
             st.dataframe(L.sort_values("z", ascending=False)[["project", "family", "unit", "contract_qty", "contract_unit_rate", "should_cost", "pi_lo", "pi_hi",
                                                               "gap_pct", "flag", "excess_usd"]], hide_index=True, width="stretch", column_config={
@@ -395,7 +395,7 @@ def change_orders(ctx):
         x=alt.X("p:Q", title="Probability the change is justified", axis=alt.Axis(format="%")), y=alt.Y("ev:Q", title="Expected cost ($)", axis=alt.Axis(format="$~s")),
         color=alt.Color("option:N", scale=alt.Scale(domain=["Approve as priced", "Negotiate", "Reject"], range=[SERIES[0], SERIES[2], SERIES[1]]),
                         legend=alt.Legend(orient="top", title=None)), tooltip=["option", alt.Tooltip("p:Q", format=".0%"), alt.Tooltip("ev:Q", format="$,.0f")])
-    now = alt.Chart(pd.DataFrame({"x": [r.p_justified]})).mark_rule(color="#e8eef8", strokeDash=[3, 3]).encode(x="x:Q")
+    now = alt.Chart(pd.DataFrame({"x": [r.p_justified]})).mark_rule(color="#1f1f1f", strokeDash=[3, 3]).encode(x="x:Q")
     st.altair_chart((lc + now).properties(height=240, title="Sensitivity: which option is cheapest as the justification gets stronger"), width="stretch")
     be = CO.breakeven_p(r.amount, r.delay_days, a)
     howto("<b>How to read:</b> the lowest line is the cheapest option at that level of justification; the dashed line is this change "

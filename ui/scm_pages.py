@@ -270,7 +270,7 @@ def _policy(M, service):
     ch = alt.Chart(mat).mark_rect(cornerRadius=4).encode(
         x=alt.X("xyz:N", title="XYZ (variability)", sort=["X", "Y", "Z"]), y=alt.Y("abc:N", title="ABC (value)", sort=["A", "B", "C"]),
         color=alt.Color("value:Q", scale=alt.Scale(range=["#1c2a4a", SERIES[0]]), legend=None), tooltip=["abc", "xyz", "items", alt.Tooltip("value:Q", format="$,.0f")])
-    txt = alt.Chart(mat).mark_text(color="#e8eef8", fontSize=14).encode(x=alt.X("xyz:N", sort=["X", "Y", "Z"]), y=alt.Y("abc:N", sort=["A", "B", "C"]),
+    txt = alt.Chart(mat).mark_text(color="#1f1f1f", fontSize=14).encode(x=alt.X("xyz:N", sort=["X", "Y", "Z"]), y=alt.Y("abc:N", sort=["A", "B", "C"]),
                                                                          text=alt.Text("items:Q"))
     c1, c2 = st.columns([1, 2])
     c1.altair_chart((ch + txt).properties(height=200, title="Items by class"), width="stretch")
@@ -548,7 +548,7 @@ def _network(M):
                         get_target_color=[25, 158, 112], get_width=2, pickable=True),
               pdk.Layer("ScatterplotLayer", fac, get_position=["lon", "lat"], get_radius=60000, get_fill_color=[217, 89, 38], pickable=True)]
     st.pydeck_chart(pdk.Deck(layers=layers, initial_view_state=pdk.ViewState(latitude=28, longitude=-20, zoom=0.9),
-                             map_style=pdk.map_styles.CARTO_DARK, tooltip={"text": "{factory}, {city} ({country})\nMakes: {items}\n{capacity_note}"}),
+                             map_style=pdk.map_styles.CARTO_LIGHT, tooltip={"text": "{factory}, {city} ({country})\nMakes: {items}\n{capacity_note}"}),
                     height=380)
     st.dataframe(fac.merge(d["suppliers"][["supplier_id", "name"]], on="supplier_id").rename(columns={"name": "supplier"})[
         ["factory_id", "supplier", "factory", "city", "country", "items", "capacity_note"]], hide_index=True, width="stretch")
@@ -567,7 +567,7 @@ def _network(M):
     x["end"] = x.mean_days.cumsum()
     g = alt.Chart(x).mark_bar(cornerRadius=3, height=22).encode(
         x=alt.X("start:Q", title="Days from order"), x2="end:Q", y=alt.Y("stage:N", sort=list(x.stage), title=None, axis=alt.Axis(labelLimit=320)),
-        color=alt.Color("share_of_uncertainty_%:Q", scale=alt.Scale(range=["#3b4a66", SERIES[1]]), legend=alt.Legend(title="share of uncertainty %")),
+        color=alt.Color("share_of_uncertainty_%:Q", scale=alt.Scale(range=["#c4c7c5", SERIES[1]]), legend=alt.Legend(title="share of uncertainty %")),
         tooltip=["stage", alt.Tooltip("mean_days:Q", format=".0f"), alt.Tooltip("sd_days:Q", format=".1f"), alt.Tooltip("share_of_uncertainty_%:Q", format=".0f")])
     st.altair_chart(g.properties(height=alt.Step(28)), width="stretch")
     top = x.sort_values("var", ascending=False).iloc[0]

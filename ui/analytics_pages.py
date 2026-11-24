@@ -86,7 +86,7 @@ def ml_lab(ctx):
         y=alt.Y("tpr:Q", title="Error bills caught", scale=alt.Scale(domain=[0, 1])),
         color=alt.Color("model:N", scale=alt.Scale(domain=dom, range=SERIES[:len(dom)]), legend=alt.Legend(orient="bottom", title=None, columns=2)),
         tooltip=["model", alt.Tooltip("fpr:Q", format=".2f"), alt.Tooltip("tpr:Q", format=".2f")])
-    diag = alt.Chart(pd.DataFrame({"x": [0, 1], "y": [0, 1]})).mark_line(strokeDash=[4, 4], color="#8792a6").encode(x="x:Q", y="y:Q")
+    diag = alt.Chart(pd.DataFrame({"x": [0, 1], "y": [0, 1]})).mark_line(strokeDash=[4, 4], color="#5e6368").encode(x="x:Q", y="y:Q")
     c1.altair_chart((roc + diag).properties(height=330, title="ROC curves"), width="stretch")
     g = R.gains(ho.assign(score=T["scores"][chosen]))
     gl = g.melt(id_vars="share_reviewed", value_vars=["share_errors", "share_money"], var_name="m", value_name="v")
@@ -96,10 +96,10 @@ def ml_lab(ctx):
     gc = alt.Chart(pd.concat([gl, rnd])).mark_line(strokeWidth=2).encode(
         x=alt.X("share_reviewed:Q", title="Share of bills reviewed (riskiest first)", axis=alt.Axis(format="%")),
         y=alt.Y("v:Q", title="Share caught", axis=alt.Axis(format="%")),
-        color=alt.Color("m:N", scale=alt.Scale(domain=gd, range=[SERIES[0], SERIES[1], "#8792a6"]), legend=alt.Legend(orient="bottom", title=None)),
+        color=alt.Color("m:N", scale=alt.Scale(domain=gd, range=[SERIES[0], SERIES[1], "#5e6368"]), legend=alt.Legend(orient="bottom", title=None)),
         strokeDash=alt.condition("datum.m == 'Random order'", alt.value([4, 4]), alt.value([1, 0])),
         tooltip=[alt.Tooltip("share_reviewed:Q", format=".0%"), "m", alt.Tooltip("v:Q", format=".0%")])
-    rule = alt.Chart(pd.DataFrame({"x": [0.2]})).mark_rule(color="#8792a6", strokeDash=[2, 3]).encode(x="x:Q")
+    rule = alt.Chart(pd.DataFrame({"x": [0.2]})).mark_rule(color="#5e6368", strokeDash=[2, 3]).encode(x="x:Q")
     c2.altair_chart((gc + rule).properties(height=330, title=f"Gains chart: {chosen}"), width="stretch")
     _howto("<b>How to read:</b> ROC: the further a curve bows toward the top-left, the better the model separates bills with "
            "errors from clean ones; the dashed diagonal is guessing. Gains: follow the dotted line at 20% reviewed up to each curve "
@@ -129,7 +129,7 @@ def ml_lab(ctx):
         color=alt.Color("direction:N", scale=alt.Scale(domain=["Raises risk", "Lowers risk"], range=[SERIES[1], SERIES[0]]),
                         legend=alt.Legend(orient="top", title=None)),
         tooltip=["feature", alt.Tooltip("odds_ratio_per_sd:Q", format=".2f")])
-    one = alt.Chart(pd.DataFrame({"x": [1]})).mark_rule(color="#8792a6").encode(x="x:Q")
+    one = alt.Chart(pd.DataFrame({"x": [1]})).mark_rule(color="#5e6368").encode(x="x:Q")
     st.altair_chart((cb + one).properties(height=alt.Step(24), title="Logistic regression: effect of each signal"), width="stretch")
     _howto("<b>How to read:</b> an odds ratio of 1.5 means a bill one standard deviation higher on that signal has 1.5× the odds "
            "of containing an error, holding the others fixed. These are associations in the training data, not proof of cause.")
@@ -253,7 +253,7 @@ def forecast(ctx):
     h = alt.Chart(hist).mark_bar(color=SERIES[0], opacity=0.85).encode(
         x=alt.X("cost:Q", bin=alt.Bin(maxbins=45), title="Final cost ($M)"), y=alt.Y("count():Q", title="Scenarios"))
     rl = alt.Chart(mk).mark_rule(strokeDash=[4, 3]).encode(x="x:Q", color=alt.Color("t:N", scale=alt.Scale(
-        domain=["P50", "P80", "Budget"], range=["#e8eef8", SERIES[3], STATUS["critical"]]), legend=alt.Legend(orient="top", title=None)))
+        domain=["P50", "P80", "Budget"], range=["#1f1f1f", SERIES[3], STATUS["critical"]]), legend=alt.Legend(orient="top", title=None)))
     c1.altair_chart((h + rl).properties(height=280, title="Final cost: 5,000 scenarios"), width="stretch")
     if "finish" in mc:
         wk = pd.to_datetime(mc["finish"]).to_period("W").start_time
@@ -266,7 +266,7 @@ def forecast(ctx):
             x=alt.X("finish:T", title="Finish date (week)", axis=alt.Axis(format="%d %b %y")), y=alt.Y("n:Q", title="Scenarios"),
             tooltip=[alt.Tooltip("finish:T", format="week of %d %b %Y"), alt.Tooltip("n:Q", title="Scenarios")])
         frl = alt.Chart(fmk).mark_rule(strokeDash=[4, 3]).encode(x="x:T", color=alt.Color("t:N", scale=alt.Scale(
-            domain=["P50", "P80", "Contract finish"], range=["#e8eef8", SERIES[3], STATUS["critical"]]), legend=alt.Legend(orient="top", title=None)))
+            domain=["P50", "P80", "Contract finish"], range=["#1f1f1f", SERIES[3], STATUS["critical"]]), legend=alt.Legend(orient="top", title=None)))
         c2.altair_chart((fhc + frl).properties(height=280, title="Finish date: 5,000 scenarios"), width="stretch")
     _howto(f"<b>How to read:</b> each bar counts simulated futures. The wider the spread, the less certain the outcome. "
            f"<b>Now:</b> cost lands between {money(s['cost_p10'])} and {money(s['cost_p90'])} in 80% of futures"
@@ -284,7 +284,7 @@ def forecast(ctx):
         color=alt.Color("side:N", scale=alt.Scale(domain=["Low value", "High value"], range=[SERIES[0], SERIES[1]]),
                         legend=alt.Legend(orient="top", title=None)),
         tooltip=["input", "side", alt.Tooltip("v:Q", format="$,.0f")])
-    zero = alt.Chart(pd.DataFrame({"x": [0]})).mark_rule(color="#8792a6").encode(x="x:Q")
+    zero = alt.Chart(pd.DataFrame({"x": [0]})).mark_rule(color="#5e6368").encode(x="x:Q")
     st.altair_chart((tor + zero).properties(height=alt.Step(34)), width="stretch")
     top = tc.iloc[0]
     fin = td[td.measure == "finish"]

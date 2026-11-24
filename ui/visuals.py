@@ -16,50 +16,57 @@ IMG_BASE = os.environ.get("MPCT_IMG_BASE", "https://cdn.jsdelivr.net/npm/three-g
 GLOBE_TEMPLATE = r"""
 <!DOCTYPE html><html><head><meta charset="utf-8">
 <style>
-html,body{margin:0;background:transparent;overflow:hidden;font-family:'JetBrains Mono',ui-monospace,monospace;}
-#wrap{position:relative;width:100%;height:__H__px;border-radius:16px;overflow:hidden;
-  background:radial-gradient(ellipse at 60% 40%,#0b1730 0%,#04060c 70%);border:1px solid rgba(120,170,255,.14);}
+html,body{margin:0;background:transparent;overflow:hidden;font-family:'Figtree',system-ui,sans-serif;}
+#wrap{position:relative;width:100%;height:__H__px;border-radius:24px;overflow:hidden;
+  background:radial-gradient(ellipse at 55% 45%,#ffffff 0%,#e8f0fe 55%,#d3e3fd 100%);border:1px solid #e3e6ea;}
 #g{position:absolute;inset:0;}
-.hud{position:absolute;color:#cfe8ff;font-size:11px;letter-spacing:.14em;text-transform:uppercase;pointer-events:none;text-shadow:0 0 8px rgba(79,209,255,.5);}
+.hud{position:absolute;color:#444746;font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;pointer-events:none;}
+#fallback{position:absolute;inset:0;display:none;align-items:center;justify-content:center;flex-direction:column;gap:8px;color:#444746;font-size:15px;text-align:center;padding:0 40px}
+#fallback b{color:#1f1f1f;font-size:18px}
 .tl{top:14px;left:16px}.tr{top:14px;right:16px;text-align:right}.bl{bottom:14px;left:16px}.br{bottom:14px;right:16px;text-align:right}
-.big{font-size:20px;letter-spacing:.02em;text-transform:none;color:#fff;font-family:'Space Grotesk',system-ui,sans-serif;font-weight:600}
-.acc{color:#4fd1ff}.dim{color:#7f95b5}
-.reticle{position:absolute;left:50%;top:50%;width:120px;height:120px;margin:-60px 0 0 -60px;border:1px solid rgba(79,209,255,.18);border-radius:50%;pointer-events:none}
-.reticle:before,.reticle:after{content:"";position:absolute;background:rgba(79,209,255,.25)}
+.big{font-size:22px;letter-spacing:0;text-transform:none;color:#1f1f1f;font-weight:600}
+.acc{color:#0b57d0}.dim{color:#5e6368}
+.reticle{position:absolute;left:50%;top:50%;width:120px;height:120px;margin:-60px 0 0 -60px;border:1px solid rgba(11,87,208,.18);border-radius:50%;pointer-events:none}
+.reticle:before,.reticle:after{content:"";position:absolute;background:rgba(11,87,208,.2)}
 .reticle:before{left:50%;top:-14px;width:1px;height:148px}.reticle:after{top:50%;left:-14px;height:1px;width:148px}
 .pinwrap{pointer-events:auto;cursor:default}
 .pin{position:relative;transform:translate(-50%,-100%);animation:drop .9s cubic-bezier(.2,1.4,.4,1) both}
-.pin .head{width:10px;height:10px;border-radius:50%;margin:0 auto;box-shadow:0 0 12px currentColor,0 0 2px #fff}
+.pin .head{width:12px;height:12px;border-radius:50%;margin:0 auto;background:currentColor;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.35)}
 .pin .stem{width:2px;height:22px;margin:0 auto;background:linear-gradient(currentColor,transparent)}
-.pin .lab{position:absolute;left:14px;top:-6px;white-space:nowrap;font-size:10px;letter-spacing:.08em;color:#e8eef8;
-  background:rgba(5,8,16,.7);border:1px solid rgba(79,209,255,.35);padding:2px 6px;border-radius:4px;opacity:0;transition:opacity .4s}
+.pin .lab{position:absolute;left:14px;top:-6px;white-space:nowrap;font-size:11px;font-weight:600;color:#1f1f1f;
+  background:#ffffff;border:1px solid #c4c7c5;padding:2px 7px;border-radius:6px;opacity:0;transition:opacity .4s;box-shadow:0 1px 3px rgba(60,64,67,.2)}
 .pin.on .lab{opacity:1}
 @keyframes drop{0%{transform:translate(-50%,-260%);opacity:0}100%{transform:translate(-50%,-100%);opacity:1}}
-#scan{position:absolute;inset:0;background:repeating-linear-gradient(0deg,rgba(255,255,255,.018) 0 1px,transparent 1px 3px);pointer-events:none}
+#scan{display:none}
 </style></head><body>
 <div id="wrap"><div id="g"></div><div id="scan"></div><div class="reticle"></div>
+<div id="fallback"><b>The 3D globe could not load</b><span>It needs a network connection to its map library. Every project and its status is listed below.</span></div>
 <div class="hud tl"><div class="acc">● Orbital view</div><div class="dim" id="alt">ALT —</div></div>
 <div class="hud tr"><div class="dim">Active sites</div><div class="big" id="count">—</div></div>
 <div class="hud bl"><div class="dim" id="prog">—</div><div class="big" id="site">Acquiring target…</div><div id="coord" class="acc">—</div></div>
 <div class="hud br"><div class="dim">Status</div><div class="big" id="stat">—</div></div>
 </div>
-<script src="__GLOBE_JS__"></script>
+<script src="__GLOBE_JS__" onerror="window.__globeFail=true"></script>
 <script>
+if (typeof Globe === 'undefined' || window.__globeFail) {
+  document.getElementById('fallback').style.display = 'flex';
+  document.querySelectorAll('.reticle,.hud').forEach(e => e.style.display = 'none');
+  throw new Error('globe library unavailable');
+}
 const PTS = __POINTS__;
 const TOUR = __TOUR__;
 const IMG = "__IMG__";
 const H = __H__;
 const el = document.getElementById('g');
 const W0 = () => el.clientWidth || document.documentElement.clientWidth || window.innerWidth || 900;
-const col = s => s==='Red' ? '#ff5a5a' : s==='Amber' ? '#fab219' : s==='Green' ? '#3fd13f' : '#4fd1ff';
+const col = s => s==='Red' ? '#d93025' : s==='Amber' ? '#e37400' : s==='Green' ? '#188038' : '#0b57d0';
 const world = Globe({animateIn:true})(el)
   .width(W0()).height(H)
   .backgroundColor('rgba(0,0,0,0)')
   .globeImageUrl(IMG+'earth-blue-marble.jpg')
   .bumpImageUrl(IMG+'earth-topology.png')
-  .backgroundImageUrl(IMG+'night-sky.png')
-  .showAtmosphere(true).atmosphereColor('#4fd1ff').atmosphereAltitude(0.2)
-  .ringsData(PTS).ringLat('lat').ringLng('lng').ringColor(d => t => `rgba(79,209,255,${(1-t)*0.9})`)
+  .showAtmosphere(true).atmosphereColor('#8ab4f8').atmosphereAltitude(0.18)
+  .ringsData(PTS).ringLat('lat').ringLng('lng').ringColor(d => t => `rgba(11,87,208,${(1-t)*0.8})`)
   .ringMaxRadius(1.6).ringPropagationSpeed(1.2).ringRepeatPeriod(1600)
   .htmlElementsData(PTS).htmlLat('lat').htmlLng('lng').htmlAltitude(0.005)
   .htmlElement(d => { const w=document.createElement('div'); w.className='pinwrap';
@@ -87,6 +94,9 @@ function visit(){
   if(t.rotate) setTimeout(() => { ctr.autoRotate = true; ctr.autoRotateSpeed = 0.15; }, 3000);
 }
 setTimeout(visit, 2200); setInterval(visit, 6500);
+const probe = new Image(); probe.onerror = () => { document.getElementById('fallback').style.display = 'flex';
+  document.querySelectorAll('.reticle,.hud').forEach(e => e.style.display = 'none'); };
+probe.src = IMG + 'earth-blue-marble.jpg';
 new ResizeObserver(() => world.width(W0())).observe(document.body);
 window.addEventListener('resize', () => world.width(W0()));
 </script></body></html>
@@ -96,10 +106,10 @@ STRUCT_TEMPLATE = r"""
 <!DOCTYPE html><html><head><meta charset="utf-8"><style>
 html,body{margin:0;background:transparent;overflow:hidden}
 #w{position:relative;height:__H__px;border-radius:12px;overflow:hidden;
-   background:radial-gradient(ellipse at 50% 0%,rgba(57,135,229,.18),rgba(5,8,16,0) 70%),#070b15;border:1px solid rgba(120,170,255,.12)}
+   background:linear-gradient(180deg,#e8f0fe 0%,#f8fafd 100%);border:1px solid #e3e6ea}
 canvas{display:block}
-.tag{position:absolute;top:8px;left:10px;font:600 10px 'JetBrains Mono',monospace;letter-spacing:.16em;color:#4fd1ff;text-transform:uppercase}
-.pc{position:absolute;top:8px;right:10px;font:600 11px 'JetBrains Mono',monospace;color:#e8eef8}
+.tag{position:absolute;top:8px;left:12px;font:700 10px system-ui,sans-serif;letter-spacing:.12em;color:#0b57d0;text-transform:uppercase}
+.pc{position:absolute;top:8px;right:12px;font:700 11px system-ui,sans-serif;color:#1f1f1f}
 </style></head><body><div id="w"><canvas id="c"></canvas><div class="tag">__LABEL__</div><div class="pc" id="pc"></div></div>
 <script>
 const TYPE="__TYPE__", PROG=__PROG__, H=__H__, CELL=__CELL__, SEED=__SEED__;
@@ -177,7 +187,7 @@ function frame(now){
     if(p<1){ctx.globalAlpha=0.25*fade;ctx.fillStyle='#4fd1ff';ctx.fillRect(x*CELL,y*CELL-CELL*2,1,CELL*2);}
   }
   ctx.globalAlpha=1;
-  const sy=((now/12)%(H+40))-20; const gr=ctx.createLinearGradient(0,sy-20,0,sy); gr.addColorStop(0,'rgba(79,209,255,0)'); gr.addColorStop(1,'rgba(79,209,255,0.10)');
+  const sy=((now/12)%(H+40))-20; const gr=ctx.createLinearGradient(0,sy-20,0,sy); gr.addColorStop(0,'rgba(11,87,208,0)'); gr.addColorStop(1,'rgba(11,87,208,0.06)');
   ctx.fillStyle=gr; ctx.fillRect(0,sy-20,W,20);
   requestAnimationFrame(frame);
 }

@@ -9,7 +9,7 @@ from insights import money
 from ui.cost_pages import back, hero, howto, synthetic_note
 from ui.theme import SERIES, STATUS
 
-CRIT, NONCRIT, DONE, BASE = STATUS["critical"], SERIES[0], "#3b4a66", "#8792a6"
+CRIT, NONCRIT, DONE, BASE = STATUS["critical"], SERIES[0], "#c4c7c5", "#5e6368"
 
 
 def _controls_row(ctx, pid):
@@ -128,7 +128,7 @@ def page(ctx):
                      alt.Tooltip("start_d:T", title="Forecast start"), alt.Tooltip("finish_d:T", title="Forecast finish"),
                      alt.Tooltip("total_float:Q", format=".0f", title="Total float (days)"), alt.Tooltip("free_float:Q", format=".0f", title="Free float (days)")])
         lines = pd.DataFrame({"d": [meta["data_date"], meta["planned_finish"]], "what": ["Data date", "Contract finish"]})
-        rl = alt.Chart(lines).mark_rule(strokeDash=[4, 3], strokeWidth=2).encode(x="d:T", color=alt.Color("what:N", scale=alt.Scale(domain=["Data date", "Contract finish"], range=["#e8eef8", STATUS["warning"]]), legend=alt.Legend(orient="top", title=None)))
+        rl = alt.Chart(lines).mark_rule(strokeDash=[4, 3], strokeWidth=2).encode(x="d:T", color=alt.Color("what:N", scale=alt.Scale(domain=["Data date", "Contract finish"], range=["#1f1f1f", STATUS["warning"]]), legend=alt.Legend(orient="top", title=None)))
         st.altair_chart(alt.layer(base, flt, bars, rl).resolve_scale(color="independent").properties(height=alt.Step(20)), width="stretch")
         cp = f[f.critical & ~f.done].sort_values("es")
         howto(f"<b>How to read:</b> red bars are the critical path; blue bars have float (the faint extension shows how far they can slip "
@@ -136,13 +136,13 @@ def page(ctx):
               f"{' → '.join(cp.name.head(5))}{' …' if len(cp) > 5 else ''}, finishing {abs(late):.0f} days {'after' if late > 0 else 'before'} the contract date. "
               "<b>Decisions:</b> put supervision, overtime and expediting on red tasks only; a slip on a blue task within its float costs nothing.")
         with st.expander("Network diagram"):
-            dot = ['digraph G { rankdir=LR; bgcolor="transparent"; node [shape=box, style="rounded", fontname="Helvetica", fontsize=10, fontcolor="#e8eef8"]; edge [color="#5a6b8c"];']
+            dot = ['digraph G { rankdir=LR; bgcolor="transparent"; node [shape=box, style="rounded", fontname="Helvetica", fontsize=10, fontcolor="#1f1f1f"]; edge [color="#80868b"];']
             for r in f.itertuples():
                 col = DONE if r.done else (CRIT if r.critical else NONCRIT)
                 dot.append(f'{r.id} [label="{r.id}\\n{r.name[:28]}\\nfloat {r.total_float:.0f} d", color="{col}", penwidth={2.5 if r.critical else 1}];')
                 for p in r.preds:
                     crit_edge = r.critical and f.set_index("id").critical[p]
-                    dot.append(f'{p} -> {r.id} [color="{CRIT if crit_edge else "#5a6b8c"}", penwidth={2 if crit_edge else 1}];')
+                    dot.append(f'{p} -> {r.id} [color="{CRIT if crit_edge else "#80868b"}", penwidth={2 if crit_edge else 1}];')
             dot.append("}")
             st.graphviz_chart("\n".join(dot), width="stretch")
         tbl = f[["id", "name", "trade", "pct", "pct_source", "dur", "remaining", "fstart", "ffinish", "total_float", "free_float", "critical"]].copy()

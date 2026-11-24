@@ -190,7 +190,7 @@ def _lab(d, ctx):
     w["inside"] = np.where(w.month <= ml, "inside the project window", "after the project")
     st.altair_chart(alt.Chart(w).mark_bar(cornerRadiusEnd=3).encode(
         x=alt.X("month:O", title="Months after the rate change", axis=alt.Axis(labelAngle=0)), y=alt.Y("weight:Q", title=None, axis=alt.Axis(format=".0%")),
-        color=alt.Color("inside:N", scale=alt.Scale(domain=["inside the project window", "after the project"], range=[SERIES[0], "#3b4a66"]),
+        color=alt.Color("inside:N", scale=alt.Scale(domain=["inside the project window", "after the project"], range=[SERIES[0], "#c4c7c5"]),
                         legend=alt.Legend(orient="bottom", title=None)),
         tooltip=["month", alt.Tooltip("weight:Q", format=".1%"), "inside"]).properties(height=200, title="Share of the effect arriving each month"), width="stretch")
     st.caption(f"Spending, prices and output respond over months (lag assumed to peak at 12 months). With {ml} months left, "

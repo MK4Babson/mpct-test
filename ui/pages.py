@@ -10,9 +10,9 @@ from ui import visuals
 from ui.theme import SERIES, STATUS, GATE_COLOR, ACCENT
 
 PILL = {"Healthy": "good", "Watch": "warn", "At risk": "crit", "No data": "warn"}
-HCOL = {"Healthy": STATUS["good"], "Watch": STATUS["warning"], "At risk": STATUS["critical"], "No data": "#8792a6"}
+HCOL = {"Healthy": STATUS["good"], "Watch": STATUS["warning"], "At risk": STATUS["critical"], "No data": "#5e6368"}
 FLAG_ICON = {"crit": "✕", "warn": "!", "info": "i"}
-FLAG_COL = {"crit": "#ff6b6b", "warn": "#fab219", "info": "#7fb8ff"}
+FLAG_COL = {"crit": "#b3261e", "warn": "#b06000", "info": "#0b57d0"}
 STATUS_TO_PIN = {"Healthy": "Green", "Watch": "Amber", "At risk": "Red"}
 
 
@@ -23,13 +23,13 @@ def ring(score, size=74, label=True):
     circ = 2 * np.pi * r
     txt = "–" if pd.isna(score) else f"{s:.0f}"
     return (f'<svg width="{size}" height="{size}" viewBox="0 0 {size} {size}">'
-            f'<circle cx="{size/2}" cy="{size/2}" r="{r}" stroke="rgba(255,255,255,0.08)" stroke-width="6" fill="none"/>'
+            f'<circle cx="{size/2}" cy="{size/2}" r="{r}" stroke="#e8eaed" stroke-width="6" fill="none"/>'
             f'<circle cx="{size/2}" cy="{size/2}" r="{r}" stroke="{col}" stroke-width="6" fill="none" stroke-linecap="round" '
             f'stroke-dasharray="{circ * s / 100:.1f} {circ:.1f}" transform="rotate(-90 {size/2} {size/2})" '
             f'style="filter:drop-shadow(0 0 6px {col}88)"/>'
-            f'<text x="50%" y="52%" text-anchor="middle" dominant-baseline="middle" fill="#e8eef8" '
+            f'<text x="50%" y="52%" text-anchor="middle" dominant-baseline="middle" fill="#1f1f1f" '
             f'font-family="JetBrains Mono, monospace" font-size="{size*0.28:.0f}" font-weight="600">{txt}</text>'
-            + (f'<text x="50%" y="74%" text-anchor="middle" fill="#8792a6" font-size="{size*0.11:.0f}" font-family="Space Grotesk, system-ui, sans-serif" letter-spacing="1">HEALTH</text>' if label else "")
+            + (f'<text x="50%" y="74%" text-anchor="middle" fill="#5e6368" font-size="{size*0.11:.0f}" font-family="Space Grotesk, system-ui, sans-serif" letter-spacing="1">HEALTH</text>' if label else "")
             + "</svg>")
 
 
@@ -37,7 +37,7 @@ def subbars(h):
     out = '<div class="grid4">'
     for k, lab in [("cost", "Cost"), ("schedule", "Schedule"), ("billing", "Billing"), ("cash", "Cash")]:
         v = h.get(f"{k}_score", np.nan)
-        col = "#8792a6" if pd.isna(v) else (HCOL["Healthy"] if v >= 80 else HCOL["Watch"] if v >= 60 else HCOL["At risk"])
+        col = "#5e6368" if pd.isna(v) else (HCOL["Healthy"] if v >= 80 else HCOL["Watch"] if v >= 60 else HCOL["At risk"])
         w = 0 if pd.isna(v) else v
         out += (f'<div><div class="lbl"><span>{lab}</span><span class="kv">{"–" if pd.isna(v) else f"{v:.0f}"}</span></div>'
                 f'<div class="subbar"><div style="width:{w:.0f}%;background:{col}"></div></div></div>')
@@ -46,7 +46,7 @@ def subbars(h):
 
 def flags_html(flags, n=3):
     if not flags:
-        return '<div class="flag" style="color:#3fd13f">✓ No open flags</div>'
+        return '<div class="flag" style="color:#137333">✓ No open flags</div>'
     return "".join(f'<div class="flag"><span style="color:{FLAG_COL[l]};font-weight:700">{FLAG_ICON[l]}</span> {t}</div>'
                    for l, t in flags[:n])
 
@@ -222,8 +222,8 @@ items to act on, most serious first.
 
     st.markdown("### Program decisions this week")
     for d in ctx.insights[:5]:
-        col = {"critical": "#ff6b6b", "warning": "#fab219", "info": "#7fb8ff", "good": "#3fd13f"}[d["level"]]
-        st.markdown(f'<div style="border-left:3px solid {col};padding:6px 12px;margin:6px 0;background:rgba(14,21,37,.5);border-radius:6px">'
+        col = {"critical": "#b3261e", "warning": "#b06000", "info": "#0b57d0", "good": "#137333"}[d["level"]]
+        st.markdown(f'<div style="border-left:3px solid {col};padding:6px 12px;margin:6px 0;background:#ffffff;border-radius:6px">'
                     f'<b>{d["title"]}</b><br><span class="muted">{d["action"]}</span></div>', unsafe_allow_html=True)
     st.button("Open full program analytics →", on_click=ctx.go, args=("analytics", None, None))
 
@@ -323,9 +323,9 @@ def project(ctx):
             marks.append({"d": r.forecast_finish, "t": "Forecast finish", "dy": -114})
     if marks:
         mk = pd.DataFrame(marks)
-        layers.append(alt.Chart(mk).mark_rule(strokeDash=[2, 3], color="#8792a6").encode(x="d:T"))
+        layers.append(alt.Chart(mk).mark_rule(strokeDash=[2, 3], color="#5e6368").encode(x="d:T"))
         for m in marks:
-            layers.append(alt.Chart(pd.DataFrame([m])).mark_text(align="left", dx=4, dy=m["dy"], color="#b9c3d3", fontSize=11)
+            layers.append(alt.Chart(pd.DataFrame([m])).mark_text(align="left", dx=4, dy=m["dy"], color="#444746", fontSize=11)
                           .encode(x="d:T", text="t"))
     c1, c2 = st.columns([3, 2])
     c1.altair_chart(alt.layer(*layers).properties(height=320, title="Progress: planned vs built vs billed"), width="stretch")
@@ -351,7 +351,7 @@ def project(ctx):
             bd = pd.DataFrame(rows)
             bd["vm"] = bd.v / 1e3
             dom = ["Room", "Approved", "Pending"]
-            bc = alt.Chart(bd).mark_bar(height=34, stroke="#0e1525", strokeWidth=2).encode(
+            bc = alt.Chart(bd).mark_bar(height=34, stroke="#ffffff", strokeWidth=2).encode(
                 y=alt.Y("bar:N", title=None, sort=["Budget room above contract", "Changes to contract"], axis=alt.Axis(labelLimit=220)),
                 x=alt.X("sum(vm):Q", title="$ thousands", stack="zero"),
                 color=alt.Color("part:N", scale=alt.Scale(domain=dom, range=[SERIES[0], SERIES[1], SERIES[6]]),
@@ -360,7 +360,7 @@ def project(ctx):
                 tooltip=["part", alt.Tooltip("v:Q", format="$,.0f", title="Amount")])
             tot = pd.DataFrame([{"bar": "Budget room above contract", "vm": room / 1e3, "t": money(room)},
                                 {"bar": "Changes to contract", "vm": (r.approved_co + r.pending_co) / 1e3, "t": money(r.approved_co + r.pending_co)}])
-            tl = alt.Chart(tot).mark_text(align="left", dx=6, color="#e8eef8", fontSize=12).encode(
+            tl = alt.Chart(tot).mark_text(align="left", dx=6, color="#1f1f1f", fontSize=12).encode(
                 y=alt.Y("bar:N", sort=["Budget room above contract", "Changes to contract"]), x="vm:Q", text="t")
             st.altair_chart((bc + tl).properties(height=170), width="stretch")
             over = r.eac - r.budget
@@ -368,7 +368,7 @@ def project(ctx):
                 f'<div class="howto"><span class="kv">{money(r.original_contract)}</span> contract + '
                 f'<span class="kv">{money(r.approved_co)}</span> approved + <span class="kv">{money(r.pending_co)}</span> pending = '
                 f'<b class="kv">{money(r.eac)}</b> forecast vs <span class="kv">{money(r.budget)}</span> budget → '
-                + (f'<b style="color:#ff6b6b">{money(over)} over</b>' if over > 0 else f'<b style="color:#3fd13f">{money(-over)} under</b>')
+                + (f'<b style="color:#b3261e">{money(over)} over</b>' if over > 0 else f'<b style="color:#137333">{money(-over)} under</b>')
                 + ('. <b>Why:</b> changes exceed the room in the budget'
                    + (f'; deciding the {money(r.pending_co)} of pending changes decides whether this project stays in budget.' if over > 0 and r.pending_co > 0 else '.')
                    if over > 0 else '. The changes fit within the budget room.')
@@ -382,7 +382,7 @@ def project(ctx):
     if len(g):
         gg = g.groupby(["period", "gate"]).gross_amount.sum().reset_index()
         gg["gate_l"] = gg.gate.map({"PASS": "✓ Pass", "REVIEW": "! Review", "HOLD": "✕ Hold"})
-        bm = alt.Chart(gg).mark_bar(stroke="#0e1525", strokeWidth=2, cornerRadiusEnd=3).encode(
+        bm = alt.Chart(gg).mark_bar(stroke="#ffffff", strokeWidth=2, cornerRadiusEnd=3).encode(
             x=alt.X("period:O", title=None, axis=alt.Axis(labelAngle=0)), y=alt.Y("gross_amount:Q", title="Billed ($)", axis=alt.Axis(format="$~s")),
             color=alt.Color("gate_l:N", scale=alt.Scale(domain=["✓ Pass", "! Review", "✕ Hold"],
                                                          range=[GATE_COLOR["PASS"], GATE_COLOR["REVIEW"], GATE_COLOR["HOLD"]]),
@@ -410,13 +410,13 @@ def project(ctx):
                 totals["t"] = [f"{money(v)} · {b} line{'s' if b != 1 else ''}" for v, b in zip(totals.v, totals.bills)]
                 order = list(totals.sort_values("v", ascending=False).issue)
                 cdom = sorted(ei.contractor.unique())
-                ib = alt.Chart(ei).mark_bar(height=16, stroke="#0e1525", strokeWidth=1).encode(
+                ib = alt.Chart(ei).mark_bar(height=16, stroke="#ffffff", strokeWidth=1).encode(
                     y=alt.Y("issue:N", sort=order, title=None, axis=alt.Axis(labelLimit=300)),
                     x=alt.X("sum(v):Q", title="Money at risk ($)", axis=alt.Axis(format="$~s"), scale=alt.Scale(nice=True)),
                     color=alt.Color("contractor:N", scale=alt.Scale(domain=cdom, range=SERIES[:len(cdom)]),
                                     legend=alt.Legend(orient="bottom", title=None, columns=1, labelLimit=320)),
                     tooltip=["issue", "contractor", alt.Tooltip("v:Q", format="$,.0f"), "bills"])
-                tx = alt.Chart(totals).mark_text(align="left", dx=6, color="#e8eef8", fontSize=11).encode(
+                tx = alt.Chart(totals).mark_text(align="left", dx=6, color="#1f1f1f", fontSize=11).encode(
                     y=alt.Y("issue:N", sort=order), x="v:Q", text="t")
                 st.altair_chart((ib + tx).properties(height=alt.Step(30)), width="stretch")
                 top = totals.sort_values("v", ascending=False).iloc[0]
@@ -451,7 +451,7 @@ def project(ctx):
             tooltip=["item_code", "description", "unit", alt.Tooltip("contract_unit_rate:Q", format="$,.2f"),
                      alt.Tooltip("median:Q", format="$,.2f"), alt.Tooltip("vs_median_pct:Q", format="+.1f")]
         ).properties(height=alt.Step(24), title="Largest items by value (orange = above median)")
-        st.altair_chart(rb + alt.Chart(pd.DataFrame({"x": [0]})).mark_rule(color="#8792a6").encode(x="x:Q"), width="stretch")
+        st.altair_chart(rb + alt.Chart(pd.DataFrame({"x": [0]})).mark_rule(color="#5e6368").encode(x="x:Q"), width="stretch")
     else:
         st.caption("No items shared with other projects to compare.")
 
@@ -462,8 +462,8 @@ def project(ctx):
     if not mine_ins and not h["alerts"]:
         st.success("Nothing needs a decision on this project right now.")
     for d in mine_ins[:6]:
-        col = {"critical": "#ff6b6b", "warning": "#fab219", "info": "#7fb8ff", "good": "#3fd13f"}[d["level"]]
-        st.markdown(f'<div style="border-left:3px solid {col};padding:6px 12px;margin:6px 0;background:rgba(14,21,37,.5);border-radius:6px">'
+        col = {"critical": "#b3261e", "warning": "#b06000", "info": "#0b57d0", "good": "#137333"}[d["level"]]
+        st.markdown(f'<div style="border-left:3px solid {col};padding:6px 12px;margin:6px 0;background:#ffffff;border-radius:6px">'
                     f'<b>{d["title"]}</b><br>{d["detail"]}<br><span class="muted">Action: {d["action"]}</span></div>', unsafe_allow_html=True)
     with st.expander(f"Evidence: {len(g)} bills on this project"):
         view = g.merge(ctx.risk, on="invoice_id", how="left").sort_values("period")

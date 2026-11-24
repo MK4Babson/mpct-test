@@ -29,9 +29,9 @@ def contractors(ctx):
     prime = st.radio("Contractor", list(verdict.contractor), horizontal=True, key="pc_prime")
     d = pc[pc.contractor == prime]
     base = alt.Chart(d).encode(x=alt.X("period:O", title=None, axis=alt.Axis(labelAngle=0)))
-    band = base.mark_area(opacity=0.10, color="#4fd1ff").encode(y=alt.Y("lcl:Q", title="Share of lines with an issue", axis=alt.Axis(format="%")), y2="ucl:Q")
+    band = base.mark_area(opacity=0.10, color="#0b57d0").encode(y=alt.Y("lcl:Q", title="Share of lines with an issue", axis=alt.Axis(format="%")), y2="ucl:Q")
     ucl = base.mark_line(color=STATUS["critical"], strokeDash=[5, 3], interpolate="step-after").encode(y="ucl:Q")
-    ctr = alt.Chart(pd.DataFrame({"c": [d.center.iloc[0]]})).mark_rule(color="#b9c3d3", strokeDash=[2, 2]).encode(y="c:Q")
+    ctr = alt.Chart(pd.DataFrame({"c": [d.center.iloc[0]]})).mark_rule(color="#444746", strokeDash=[2, 2]).encode(y="c:Q")
     line = base.mark_line(color=SERIES[0], strokeWidth=2, point=alt.OverlayMarkDef(size=70, filled=True)).encode(
         y="p:Q", tooltip=["period", alt.Tooltip("p:Q", format=".1%", title="Issue rate"), alt.Tooltip("ucl:Q", format=".1%", title="Upper limit"),
                           alt.Tooltip("n:Q", title="Lines billed"), alt.Tooltip("x:Q", title="Lines with an issue")])
@@ -52,7 +52,7 @@ def contractors(ctx):
     seg["package"] = seg.project_id.map(lambda p: ctx.labels.get(p, p)) + " · " + seg.prime_id.map(lambda p: ctx.names.get(p, p))
     dom = [PA.POLICY[i][0] for i in range(3)]
     c1, c2 = st.columns([3, 2])
-    sc = alt.Chart(seg).mark_circle(size=160, opacity=0.9, stroke="#0e1525", strokeWidth=2).encode(
+    sc = alt.Chart(seg).mark_circle(size=160, opacity=0.9, stroke="#ffffff", strokeWidth=2).encode(
         x=alt.X("pc1:Q", title="Component 1 (mostly first-pass rate and money at risk)"), y=alt.Y("pc2:Q", title="Component 2"),
         color=alt.Color("segment:N", scale=alt.Scale(domain=dom, range=[SERIES[2], SERIES[3], SERIES[1]]), legend=alt.Legend(orient="top", title=None)),
         tooltip=["package", "segment", alt.Tooltip("first_pass_pct:Q", format=".0f"), alt.Tooltip("risk_pct:Q", format=".2f"),
@@ -101,11 +101,11 @@ def patterns(ctx):
                 top = rules.head(14)
                 ch = alt.Chart(top).mark_bar(height=16, cornerRadiusEnd=3).encode(
                     y=alt.Y("rule:N", sort=list(top.rule), title=None, axis=alt.Axis(labelLimit=520)), x=alt.X("lift:Q", title="Lift (1 = independent)"),
-                    color=alt.Color("significant:N", scale=alt.Scale(domain=["p < 0.05", "not significant"], range=[SERIES[0], "#4a5672"]),
+                    color=alt.Color("significant:N", scale=alt.Scale(domain=["p < 0.05", "not significant"], range=[SERIES[0], "#80868b"]),
                                     legend=alt.Legend(orient="top", title=None)),
                     tooltip=["rule", alt.Tooltip("support:Q", format=".1%"), alt.Tooltip("confidence:Q", format=".0%"), alt.Tooltip("lift:Q", format=".2f"),
                              "bills_with_both", alt.Tooltip("p_value:Q", format=".3f", title="Fisher p")])
-                one = alt.Chart(pd.DataFrame({"x": [1]})).mark_rule(color="#8792a6", strokeDash=[3, 3]).encode(x="x:Q")
+                one = alt.Chart(pd.DataFrame({"x": [1]})).mark_rule(color="#5e6368", strokeDash=[3, 3]).encode(x="x:Q")
                 st.altair_chart((ch + one).properties(height=alt.Step(24)), width="stretch")
                 t = rules.iloc[0]
                 howto(f"<b>How to read:</b> <i>support</i> = share of bills with both issues; <i>confidence</i> = when the first appears, how "
@@ -130,7 +130,7 @@ def patterns(ctx):
         ch = alt.Chart(res).mark_bar(height=18, cornerRadiusEnd=3).encode(
             y=alt.Y("test:N", sort=list(res.test), title=None, axis=alt.Axis(labelLimit=420)), x=alt.X("F:Q", title="F statistic"),
             color=alt.Color("verdict:N", scale=alt.Scale(domain=["Leads (Bonferroni-adjusted)", "Weak (p < 0.05 only)", "No evidence"],
-                                                        range=[SERIES[2], SERIES[3], "#4a5672"]), legend=alt.Legend(orient="top", title=None)),
+                                                        range=[SERIES[2], SERIES[3], "#80868b"]), legend=alt.Legend(orient="top", title=None)),
             tooltip=["test", alt.Tooltip("F:Q", format=".2f"), alt.Tooltip("p_value:Q", format=".4f"), "n", alt.Tooltip("sum_of_cause_coefs:Q", format="+.3f", title="Effect")])
         st.altair_chart(ch.properties(height=alt.Step(30)), width="stretch")
         lead = res[res.verdict.str.startswith("Leads")]
