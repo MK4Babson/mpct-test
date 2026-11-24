@@ -1,0 +1,790 @@
+invoice_id,line_no,line_type,ref_id,description,unit,qty,unit_rate,amount,pct_complete_prev,pct_complete_cum,grn_id
+RA-AMB-01,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,37.36,176.49,6593.67,,,MB-AMB-A1-2026-03
+RA-AMB-01,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,187.0,23.53,4400.11,,,MB-AMB-A2-2026-03
+RA-AMB-01,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,549.0,13.24,7268.76,,,MB-AMB-A3-2026-03
+RA-AMB-01,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,224442.0,0.14,31421.88,,,MB-AMB-A4-2026-03
+RA-AMB-01,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,30309.0,0.48,14548.32,,,MB-AMB-A5-2026-03
+RA-AMB-01,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,15148.23,2.3,34840.93,,,MB-AMB-B1-2026-03
+RA-AMB-01,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,27697.46,3.04,84200.28,,,MB-AMB-B2-2026-03
+RA-AMB-01,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,11984.2,1.82,21811.24,,,MB-AMB-B3-2026-03
+RA-AMB-01,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,2350.8,5.1,11989.08,,,MB-AMB-B4-2026-03
+RA-AMB-01,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,1325.55,14.21,18836.07,,,MB-AMB-B5-2026-03
+RA-AMB-01,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,229.0,11.28,2583.12,,,MB-AMB-C1-2026-03
+RA-AMB-01,12,SOV,C10,Toe drain lined with dismantled tiles,rm,664.0,3.73,2476.72,,,MB-AMB-C10-2026-03
+RA-AMB-01,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,308.0,7.65,2356.2,,,MB-AMB-C11-2026-03
+RA-AMB-01,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,272.0,1.32,359.04,,,MB-AMB-C2-2026-03
+RA-AMB-01,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,65.0,5.1,331.5,,,MB-AMB-C3-2026-03
+RA-AMB-01,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,10342.0,0.61,6308.62,,,MB-AMB-C4-2026-03
+RA-AMB-01,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,734.47,67.17,49334.35,,,MB-AMB-C5-2026-03
+RA-AMB-01,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,367.99,69.13,25439.15,,,MB-AMB-C6-2026-03
+RA-AMB-01,19,SOV,C7,PVC top seal in construction joints,rm,9973.0,1.82,18150.86,,,MB-AMB-C7-2026-03
+RA-AMB-01,20,SOV,C8,M10 coping along lining incl. construction joints,cum,143.83,54.91,7897.71,,,MB-AMB-C8-2026-03
+RA-AMB-01,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,943.0,4.12,3885.16,,,MB-AMB-C9-2026-03
+RA-AMB-01,22,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,4460.95,4460.95,,,MB-AMB-D-CD-RP-S-2026-03
+RA-AMB-01,23,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,11275.81,11275.81,,,MB-AMB-D-FALL-NW-L-2026-03
+RA-AMB-01,24,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,4.0,7893.53,31574.12,,,MB-AMB-D-FALL-NW-S-2026-03
+RA-AMB-01,25,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,2.0,9315.0,18630.0,,,MB-AMB-D-FALL-RC-L-2026-03
+RA-AMB-01,26,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,3.0,6520.5,19561.5,,,MB-AMB-D-FALL-RC-S-2026-03
+RA-AMB-01,27,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,4.0,2157.35,8629.4,,,MB-AMB-D-FALL-RP-L-2026-03
+RA-AMB-01,28,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,13.0,1509.96,19629.48,,,MB-AMB-D-FALL-RP-S-2026-03
+RA-AMB-01,29,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,1.0,21571.68,21571.68,,,MB-AMB-D-HR-RC-L-2026-03
+RA-AMB-01,30,SOV,D-HR-RC-S,"Reconstruct Head Regulator (small channel) as per drawing, complete",each,1.0,15100.55,15100.55,,,MB-AMB-D-HR-RC-S-2026-03
+RA-AMB-01,31,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,19.0,411.72,7822.68,,,MB-AMB-D-OUT-NW-L-2026-03
+RA-AMB-01,32,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,36.0,287.83,10361.88,,,MB-AMB-D-OUT-NW-S-2026-03
+RA-AMB-01,33,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,2.0,892.38,1784.76,,,MB-AMB-D-PIPE-RP-S-2026-03
+RA-AMB-01,34,SOV,D-SLAB-RC-S,"Reconstruct Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,14414.03,14414.03,,,MB-AMB-D-SLAB-RC-S-2026-03
+RA-AMB-01,35,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,3726.0,3726.0,,,MB-AMB-D-SLAB-RP-L-2026-03
+RA-AMB-01,36,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,9.0,2608.2,23473.8,,,MB-AMB-D-SLAB-RP-S-2026-03
+RA-AMB-01,37,SOV,E1,"Temporary diversion by Bailey bridge (IRC 24R loading) incl. civil works, complete",each,2.0,18140.03,36280.06,,,MB-AMB-E1-2026-03
+RA-AMB-01,38,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,37147.1,0.0,60.0,MB-AMB-E2-2026-03
+RA-AMB-01,39,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,4210.01,0.0,17.0,MB-AMB-E3-2026-03
+RA-AMB-02,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,62.25,176.49,10986.5,,,MB-AMB-A1-2026-04
+RA-AMB-02,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,311.0,23.53,7317.83,,,MB-AMB-A2-2026-04
+RA-AMB-02,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,915.0,13.24,12114.6,,,MB-AMB-A3-2026-04
+RA-AMB-02,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,374071.0,0.14,52369.94,,,MB-AMB-A4-2026-04
+RA-AMB-02,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,50514.0,0.48,24246.72,,,MB-AMB-A5-2026-04
+RA-AMB-02,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,25247.04,2.3,58068.19,,,MB-AMB-B1-2026-04
+RA-AMB-02,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,46162.44,3.04,140333.82,,,MB-AMB-B2-2026-04
+RA-AMB-02,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,19973.67,1.82,36352.08,,,MB-AMB-B3-2026-04
+RA-AMB-02,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,3917.99,5.1,19981.75,,,MB-AMB-B4-2026-04
+RA-AMB-02,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,2209.25,14.21,31393.44,,,MB-AMB-B5-2026-04
+RA-AMB-02,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,1147.0,11.28,12938.16,,,MB-AMB-C1-2026-04
+RA-AMB-02,12,SOV,C10,Toe drain lined with dismantled tiles,rm,3321.0,3.73,12387.33,,,MB-AMB-C10-2026-04
+RA-AMB-02,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,1541.0,7.65,11788.65,,,MB-AMB-C11-2026-04
+RA-AMB-02,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,1360.0,1.32,1795.2,,,MB-AMB-C2-2026-04
+RA-AMB-02,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,322.0,5.1,1642.2,,,MB-AMB-C3-2026-04
+RA-AMB-02,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,51711.0,0.61,31543.71,,,MB-AMB-C4-2026-04
+RA-AMB-02,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,3672.32,67.17,246669.73,,,MB-AMB-C5-2026-04
+RA-AMB-02,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,1839.94,69.13,127195.05,,,MB-AMB-C6-2026-04
+RA-AMB-02,19,SOV,C7,PVC top seal in construction joints,rm,49866.0,1.82,90756.12,,,MB-AMB-C7-2026-04
+RA-AMB-02,20,SOV,C8,M10 coping along lining incl. construction joints,cum,719.12,54.91,39486.88,,,MB-AMB-C8-2026-04
+RA-AMB-02,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,4715.0,4.12,19425.8,,,MB-AMB-C9-2026-04
+RA-AMB-02,22,SOV,D-CD-NW-S,"New CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,30886.68,30886.68,,,MB-AMB-D-CD-NW-S-2026-04
+RA-AMB-02,23,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,3.0,4460.95,13382.85,,,MB-AMB-D-CD-RP-S-2026-04
+RA-AMB-02,24,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,11275.81,11275.81,,,MB-AMB-D-FALL-NW-L-2026-04
+RA-AMB-02,25,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,8.0,7893.53,63148.24,,,MB-AMB-D-FALL-NW-S-2026-04
+RA-AMB-02,26,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,3.0,9315.0,27945.0,,,MB-AMB-D-FALL-RC-L-2026-04
+RA-AMB-02,27,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,6.0,6520.5,39123.0,,,MB-AMB-D-FALL-RC-S-2026-04
+RA-AMB-02,28,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,6.0,2157.35,12944.1,,,MB-AMB-D-FALL-RP-L-2026-04
+RA-AMB-02,29,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,21.0,1509.96,31709.16,,,MB-AMB-D-FALL-RP-S-2026-04
+RA-AMB-02,30,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,2.0,21571.68,43143.36,,,MB-AMB-D-HR-RC-L-2026-04
+RA-AMB-02,31,SOV,D-HR-RC-S,"Reconstruct Head Regulator (small channel) as per drawing, complete",each,1.0,15100.55,15100.55,,,MB-AMB-D-HR-RC-S-2026-04
+RA-AMB-02,32,SOV,D-INL-NW-S,"New Inlet (small channel) as per drawing, complete",each,1.0,823.45,823.45,,,MB-AMB-D-INL-NW-S-2026-04
+RA-AMB-02,33,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,32.0,411.72,13175.04,,,MB-AMB-D-OUT-NW-L-2026-04
+RA-AMB-02,34,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,61.0,287.83,17557.63,,,MB-AMB-D-OUT-NW-S-2026-04
+RA-AMB-02,35,SOV,D-PIPE-RC-S,"Reconstruct Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,3569.51,3569.51,,,MB-AMB-D-PIPE-RC-S-2026-04
+RA-AMB-02,36,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,2.0,892.38,1784.76,,,MB-AMB-D-PIPE-RP-S-2026-04
+RA-AMB-02,37,SOV,D-SLAB-RC-L,"Reconstruct Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,20590.81,20590.81,,,MB-AMB-D-SLAB-RC-L-2026-04
+RA-AMB-02,38,SOV,D-SLAB-RC-S,"Reconstruct Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,14414.03,14414.03,,,MB-AMB-D-SLAB-RC-S-2026-04
+RA-AMB-02,39,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,3.0,3726.0,11178.0,,,MB-AMB-D-SLAB-RP-L-2026-04
+RA-AMB-02,40,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,14.0,2608.2,36514.8,,,MB-AMB-D-SLAB-RP-S-2026-04
+RA-AMB-02,41,SOV,E1,"Temporary diversion by Bailey bridge (IRC 24R loading) incl. civil works, complete",each,1.0,18140.03,18140.03,,,MB-AMB-E1-2026-04
+RA-AMB-02,42,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,24764.74,60.0,100.0,MB-AMB-E2-2026-04
+RA-AMB-02,43,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,4952.95,17.0,37.0,MB-AMB-E3-2026-04
+RA-AMB-02,44,CO,CO-AMB-01,Extra item: drainage syphon at Basdiha Dy. RD 14.20 km (new village drain),each,1.0,50987.37,50987.37,,,
+RA-AMB-02,45,TM,DW-AMB-2026-04,Day-work: Hydraulic excavator 0.9 cum with operator (emergency breach / desilting),HR,108.0,24.02,2594.16,,,
+RA-AMB-03,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,71.6,176.49,12636.68,,,MB-AMB-A1-2026-05
+RA-AMB-03,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,357.0,23.53,8400.21,,,MB-AMB-A2-2026-05
+RA-AMB-03,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,1052.0,13.24,13928.48,,,MB-AMB-A3-2026-05
+RA-AMB-03,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,430181.0,0.14,60225.34,,,MB-AMB-A4-2026-05
+RA-AMB-03,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,58092.0,0.48,27884.16,,,MB-AMB-A5-2026-05
+RA-AMB-03,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,29034.1,2.3,66778.43,,,MB-AMB-B1-2026-05
+RA-AMB-03,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,53086.81,3.04,161383.9,,,MB-AMB-B2-2026-05
+RA-AMB-03,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,22969.71,1.82,41804.87,,,MB-AMB-B3-2026-05
+RA-AMB-03,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,4505.7,5.1,22979.07,,,MB-AMB-B4-2026-05
+RA-AMB-03,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,2540.64,14.21,36102.49,,,MB-AMB-B5-2026-05
+RA-AMB-03,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,1319.0,11.28,14878.32,,,MB-AMB-C1-2026-05
+RA-AMB-03,12,SOV,C10,Toe drain lined with dismantled tiles,rm,3818.0,3.73,14241.14,,,MB-AMB-C10-2026-05
+RA-AMB-03,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,1771.0,7.65,13548.15,,,MB-AMB-C11-2026-05
+RA-AMB-03,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,1563.0,1.32,2063.16,,,MB-AMB-C2-2026-05
+RA-AMB-03,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,372.0,5.1,1897.2,,,MB-AMB-C3-2026-05
+RA-AMB-03,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,59467.0,0.61,36274.87,,,MB-AMB-C4-2026-05
+RA-AMB-03,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,4641.27,67.17,311754.11,,,MB-AMB-C5-2026-05
+RA-AMB-03,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,2115.94,69.13,146274.93,,,MB-AMB-C6-2026-05
+RA-AMB-03,19,SOV,C7,PVC top seal in construction joints,rm,57345.0,1.82,104367.9,,,MB-AMB-C7-2026-05
+RA-AMB-03,20,SOV,C8,M10 coping along lining incl. construction joints,cum,826.99,54.91,45410.02,,,MB-AMB-C8-2026-05
+RA-AMB-03,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,5422.0,4.12,22338.64,,,MB-AMB-C9-2026-05
+RA-AMB-03,22,SOV,D-CD-NW-S,"New CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,30886.68,30886.68,,,MB-AMB-D-CD-NW-S-2026-05
+RA-AMB-03,23,SOV,D-CD-RP-L,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (large channel) as per drawing, complete",each,1.0,6373.32,6373.32,,,MB-AMB-D-CD-RP-L-2026-05
+RA-AMB-03,24,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,3.0,4460.95,13382.85,,,MB-AMB-D-CD-RP-S-2026-05
+RA-AMB-03,25,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,2.0,11275.81,22551.62,,,MB-AMB-D-FALL-NW-L-2026-05
+RA-AMB-03,26,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,8.0,7893.53,63148.24,,,MB-AMB-D-FALL-NW-S-2026-05
+RA-AMB-03,27,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,4.0,9315.0,37260.0,,,MB-AMB-D-FALL-RC-L-2026-05
+RA-AMB-03,28,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,7.0,6520.5,45643.5,,,MB-AMB-D-FALL-RC-S-2026-05
+RA-AMB-03,29,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,7.0,2157.35,15101.45,,,MB-AMB-D-FALL-RP-L-2026-05
+RA-AMB-03,30,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,24.0,1509.96,36239.04,,,MB-AMB-D-FALL-RP-S-2026-05
+RA-AMB-03,31,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,2.0,21571.68,43143.36,,,MB-AMB-D-HR-RC-L-2026-05
+RA-AMB-03,32,SOV,D-HR-RC-S,"Reconstruct Head Regulator (small channel) as per drawing, complete",each,1.0,15100.55,15100.55,,,MB-AMB-D-HR-RC-S-2026-05
+RA-AMB-03,33,SOV,D-INL-NW-S,"New Inlet (small channel) as per drawing, complete",each,1.0,823.45,823.45,,,MB-AMB-D-INL-NW-S-2026-05
+RA-AMB-03,34,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,37.0,411.72,15233.64,,,MB-AMB-D-OUT-NW-L-2026-05
+RA-AMB-03,35,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,69.0,287.83,19860.27,,,MB-AMB-D-OUT-NW-S-2026-05
+RA-AMB-03,36,SOV,D-PIPE-RC-S,"Reconstruct Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,3569.51,3569.51,,,MB-AMB-D-PIPE-RC-S-2026-05
+RA-AMB-03,37,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,4.0,892.38,3569.52,,,MB-AMB-D-PIPE-RP-S-2026-05
+RA-AMB-03,38,SOV,D-SLAB-RC-L,"Reconstruct Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,20590.81,20590.81,,,MB-AMB-D-SLAB-RC-L-2026-05
+RA-AMB-03,39,SOV,D-SLAB-RC-S,"Reconstruct Slab Bridge / Culvert (small channel) as per drawing, complete",each,2.0,14414.03,28828.06,,,MB-AMB-D-SLAB-RC-S-2026-05
+RA-AMB-03,40,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,2.0,3726.0,7452.0,,,MB-AMB-D-SLAB-RP-L-2026-05
+RA-AMB-03,41,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,16.0,2608.2,41731.2,,,MB-AMB-D-SLAB-RP-S-2026-05
+RA-AMB-03,42,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,9286.78,85.0,100.0,MB-AMB-E2-2026-05
+RA-AMB-03,43,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,5695.89,37.0,60.0,MB-AMB-E3-2026-05
+RA-AMB-03,44,CO,CO-AMB-02,Substituted item: M20 lining in lieu of M15 at aqueduct approaches,each,90.0,73.05,6574.5,,,
+RA-AMB-04,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,1.73,176.49,305.33,,,MB-AMB-A1-2026-06
+RA-AMB-04,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,9.0,23.53,211.77,,,MB-AMB-A2-2026-06
+RA-AMB-04,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,25.0,13.24,331.0,,,MB-AMB-A3-2026-06
+RA-AMB-04,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,10391.0,0.14,1454.74,,,MB-AMB-A4-2026-06
+RA-AMB-04,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,1403.0,0.48,673.44,,,MB-AMB-A5-2026-06
+RA-AMB-04,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,23984.69,2.3,55164.79,,,MB-AMB-B1-2026-06
+RA-AMB-04,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,43854.32,3.04,133317.13,,,MB-AMB-B2-2026-06
+RA-AMB-04,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,18974.98,1.82,34534.46,,,MB-AMB-B3-2026-06
+RA-AMB-04,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,3722.09,5.1,18982.66,,,MB-AMB-B4-2026-06
+RA-AMB-04,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,2098.78,14.21,29823.66,,,MB-AMB-B5-2026-06
+RA-AMB-04,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,1089.0,11.28,12283.92,,,MB-AMB-C1-2026-06
+RA-AMB-04,12,SOV,C10,Toe drain lined with dismantled tiles,rm,3154.0,3.73,11764.42,,,MB-AMB-C10-2026-06
+RA-AMB-04,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,1464.0,7.65,11199.6,,,MB-AMB-C11-2026-06
+RA-AMB-04,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,1292.0,1.32,1705.44,,,MB-AMB-C2-2026-06
+RA-AMB-04,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,307.0,5.1,1565.7,,,MB-AMB-C3-2026-06
+RA-AMB-04,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,49126.0,0.61,29966.86,,,MB-AMB-C4-2026-06
+RA-AMB-04,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,3488.71,67.17,234336.65,,,MB-AMB-C5-2026-06
+RA-AMB-04,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,1747.95,69.13,120835.78,,,MB-AMB-C6-2026-06
+RA-AMB-04,19,SOV,C7,PVC top seal in construction joints,rm,47373.0,1.82,86218.86,,,MB-AMB-C7-2026-06
+RA-AMB-04,20,SOV,C8,M10 coping along lining incl. construction joints,cum,683.17,54.91,37512.86,,,MB-AMB-C8-2026-06
+RA-AMB-04,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,4479.0,4.12,18453.48,,,MB-AMB-C9-2026-06
+RA-AMB-04,22,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,2.0,4460.95,8921.9,,,MB-AMB-D-CD-RP-S-2026-06
+RA-AMB-04,23,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,11275.81,11275.81,,,MB-AMB-D-FALL-NW-L-2026-06
+RA-AMB-04,24,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,7.0,7893.53,55254.71,,,MB-AMB-D-FALL-NW-S-2026-06
+RA-AMB-04,25,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,4.0,9315.0,37260.0,,,MB-AMB-D-FALL-RC-L-2026-06
+RA-AMB-04,26,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,5.0,6520.5,32602.5,,,MB-AMB-D-FALL-RC-S-2026-06
+RA-AMB-04,27,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,6.0,2157.35,12944.1,,,MB-AMB-D-FALL-RP-L-2026-06
+RA-AMB-04,28,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,20.0,1509.96,30199.2,,,MB-AMB-D-FALL-RP-S-2026-06
+RA-AMB-04,29,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,2.0,21571.68,43143.36,,,MB-AMB-D-HR-RC-L-2026-06
+RA-AMB-04,30,SOV,D-HR-RC-S,"Reconstruct Head Regulator (small channel) as per drawing, complete",each,1.0,15100.55,15100.55,,,MB-AMB-D-HR-RC-S-2026-06
+RA-AMB-04,31,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,30.0,411.72,12351.6,,,MB-AMB-D-OUT-NW-L-2026-06
+RA-AMB-04,32,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,57.0,287.83,16406.31,,,MB-AMB-D-OUT-NW-S-2026-06
+RA-AMB-04,33,SOV,D-PIPE-RC-S,"Reconstruct Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,3569.51,3569.51,,,MB-AMB-D-PIPE-RC-S-2026-06
+RA-AMB-04,34,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,2.0,892.38,1784.76,,,MB-AMB-D-PIPE-RP-S-2026-06
+RA-AMB-04,35,SOV,D-SLAB-RC-L,"Reconstruct Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,20590.81,20590.81,,,MB-AMB-D-SLAB-RC-L-2026-06
+RA-AMB-04,36,SOV,D-SLAB-RC-S,"Reconstruct Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,14414.03,14414.03,,,MB-AMB-D-SLAB-RC-S-2026-06
+RA-AMB-04,37,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,2.0,3726.0,7452.0,,,MB-AMB-D-SLAB-RP-L-2026-06
+RA-AMB-04,38,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,14.0,2608.2,36514.8,,,MB-AMB-D-SLAB-RP-S-2026-06
+RA-AMB-04,39,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,4705.3,60.0,79.0,MB-AMB-E3-2026-06
+RA-AMB-04,40,CO,CO-AMB-02,Substituted item: M20 lining in lieu of M15 at aqueduct approaches,each,90.0,73.05,6574.5,,,
+RA-AMB-05,1,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,3689.96,2.3,8486.91,,,MB-AMB-B1-2026-11
+RA-AMB-05,2,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,6746.82,3.04,20510.33,,,MB-AMB-B2-2026-11
+RA-AMB-05,3,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,2919.23,1.82,5313.0,,,MB-AMB-B3-2026-11
+RA-AMB-05,4,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,572.63,5.1,2920.41,,,MB-AMB-B4-2026-11
+RA-AMB-05,5,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,322.89,14.21,4588.27,,,MB-AMB-B5-2026-11
+RA-AMB-05,6,SOV,C1,Under-drainage with porous concrete sleepers,rm,688.0,11.28,7760.64,,,MB-AMB-C1-2026-11
+RA-AMB-05,7,SOV,C10,Toe drain lined with dismantled tiles,rm,1993.0,3.73,7433.89,,,MB-AMB-C10-2026-11
+RA-AMB-05,8,SOV,C11,Brick block pitching at structure approaches and curves,sqm,924.0,7.65,7068.6,,,MB-AMB-C11-2026-11
+RA-AMB-05,9,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,816.0,1.32,1077.12,,,MB-AMB-C2-2026-11
+RA-AMB-05,10,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,193.0,5.1,984.3,,,MB-AMB-C3-2026-11
+RA-AMB-05,11,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,31026.0,0.61,18925.86,,,MB-AMB-C4-2026-11
+RA-AMB-05,12,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,2203.39,67.17,148001.71,,,MB-AMB-C5-2026-11
+RA-AMB-05,13,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,1103.96,69.13,76316.75,,,MB-AMB-C6-2026-11
+RA-AMB-05,14,SOV,C7,PVC top seal in construction joints,rm,29919.0,1.82,54452.58,,,MB-AMB-C7-2026-11
+RA-AMB-05,15,SOV,C8,M10 coping along lining incl. construction joints,cum,431.48,54.91,23692.57,,,MB-AMB-C8-2026-11
+RA-AMB-05,16,SOV,C9,Catch water drain lined with dismantled tiles,rm,2829.0,4.12,11655.48,,,MB-AMB-C9-2026-11
+RA-AMB-05,17,SOV,D-CD-NW-S,"New CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,30886.68,30886.68,,,MB-AMB-D-CD-NW-S-2026-11
+RA-AMB-05,18,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,4460.95,4460.95,,,MB-AMB-D-CD-RP-S-2026-11
+RA-AMB-05,19,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,11275.81,11275.81,,,MB-AMB-D-FALL-NW-L-2026-11
+RA-AMB-05,20,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,4.0,7893.53,31574.12,,,MB-AMB-D-FALL-NW-S-2026-11
+RA-AMB-05,21,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,2.0,9315.0,18630.0,,,MB-AMB-D-FALL-RC-L-2026-11
+RA-AMB-05,22,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,4.0,6520.5,26082.0,,,MB-AMB-D-FALL-RC-S-2026-11
+RA-AMB-05,23,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,4.0,2157.35,8629.4,,,MB-AMB-D-FALL-RP-L-2026-11
+RA-AMB-05,24,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,13.0,1509.96,19629.48,,,MB-AMB-D-FALL-RP-S-2026-11
+RA-AMB-05,25,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,1.0,21571.68,21571.68,,,MB-AMB-D-HR-RC-L-2026-11
+RA-AMB-05,26,SOV,D-HR-RC-S,"Reconstruct Head Regulator (small channel) as per drawing, complete",each,1.0,15100.55,15100.55,,,MB-AMB-D-HR-RC-S-2026-11
+RA-AMB-05,27,SOV,D-INL-NW-S,"New Inlet (small channel) as per drawing, complete",each,1.0,823.45,823.45,,,MB-AMB-D-INL-NW-S-2026-11
+RA-AMB-05,28,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,20.0,411.72,8234.4,,,MB-AMB-D-OUT-NW-L-2026-11
+RA-AMB-05,29,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,37.0,287.83,10649.71,,,MB-AMB-D-OUT-NW-S-2026-11
+RA-AMB-05,30,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,2.0,892.38,1784.76,,,MB-AMB-D-PIPE-RP-S-2026-11
+RA-AMB-05,31,SOV,D-SLAB-RC-S,"Reconstruct Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,14414.03,14414.03,,,MB-AMB-D-SLAB-RC-S-2026-11
+RA-AMB-05,32,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,3726.0,3726.0,,,MB-AMB-D-SLAB-RP-L-2026-11
+RA-AMB-05,33,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,8.0,2608.2,20865.6,,,MB-AMB-D-SLAB-RP-S-2026-11
+RA-AMB-05,34,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,2971.77,79.0,91.0,MB-AMB-E3-2026-11
+RA-NAB-01,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,31.16,183.41,5715.06,,,MB-NAB-A1-2026-03
+RA-NAB-01,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,156.0,24.45,3814.2,,,MB-NAB-A2-2026-03
+RA-NAB-01,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,444.0,13.76,6109.44,,,MB-NAB-A3-2026-03
+RA-NAB-01,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,148711.0,0.15,22306.65,,,MB-NAB-A4-2026-03
+RA-NAB-01,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,20374.0,0.49,9983.26,,,MB-NAB-A5-2026-03
+RA-NAB-01,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,10568.16,2.39,25257.9,,,MB-NAB-B1-2026-03
+RA-NAB-01,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,18186.36,3.16,57468.9,,,MB-NAB-B2-2026-03
+RA-NAB-01,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,7729.19,1.89,14608.17,,,MB-NAB-B3-2026-03
+RA-NAB-01,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,1767.56,5.29,9350.39,,,MB-NAB-B4-2026-03
+RA-NAB-01,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,882.85,14.77,13039.69,,,MB-NAB-B5-2026-03
+RA-NAB-01,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,63.0,11.72,738.36,,,MB-NAB-C1-2026-03
+RA-NAB-01,12,SOV,C10,Toe drain lined with dismantled tiles,rm,262.0,3.87,1013.94,,,MB-NAB-C10-2026-03
+RA-NAB-01,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,92.0,7.95,731.4,,,MB-NAB-C11-2026-03
+RA-NAB-01,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,74.0,1.37,101.38,,,MB-NAB-C2-2026-03
+RA-NAB-01,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,20.0,5.29,105.8,,,MB-NAB-C3-2026-03
+RA-NAB-01,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,4289.0,0.63,2702.07,,,MB-NAB-C4-2026-03
+RA-NAB-01,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,324.92,69.8,22679.42,,,MB-NAB-C5-2026-03
+RA-NAB-01,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,161.53,71.84,11604.32,,,MB-NAB-C6-2026-03
+RA-NAB-01,19,SOV,C7,PVC top seal in construction joints,rm,3953.0,1.89,7471.17,,,MB-NAB-C7-2026-03
+RA-NAB-01,20,SOV,C8,M10 coping along lining incl. construction joints,cum,53.96,57.06,3078.96,,,MB-NAB-C8-2026-03
+RA-NAB-01,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,323.0,4.28,1382.44,,,MB-NAB-C9-2026-03
+RA-NAB-01,22,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,4635.75,4635.75,,,MB-NAB-D-CD-RP-S-2026-03
+RA-NAB-01,23,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,3.0,8202.83,24608.49,,,MB-NAB-D-FALL-NW-S-2026-03
+RA-NAB-01,24,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,1.0,9680.0,9680.0,,,MB-NAB-D-FALL-RC-L-2026-03
+RA-NAB-01,25,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,1.0,6776.0,6776.0,,,MB-NAB-D-FALL-RC-S-2026-03
+RA-NAB-01,26,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,1.0,2241.89,2241.89,,,MB-NAB-D-FALL-RP-L-2026-03
+RA-NAB-01,27,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,8.0,1569.13,12553.04,,,MB-NAB-D-FALL-RP-S-2026-03
+RA-NAB-01,28,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,1.0,22416.94,22416.94,,,MB-NAB-D-HR-RC-L-2026-03
+RA-NAB-01,29,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,10.0,427.86,4278.6,,,MB-NAB-D-OUT-NW-L-2026-03
+RA-NAB-01,30,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,26.0,299.11,7776.86,,,MB-NAB-D-OUT-NW-S-2026-03
+RA-NAB-01,31,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,927.34,927.34,,,MB-NAB-D-PIPE-RP-S-2026-03
+RA-NAB-01,32,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,3872.0,3872.0,,,MB-NAB-D-SLAB-RP-L-2026-03
+RA-NAB-01,33,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,6.0,2710.4,16262.4,,,MB-NAB-D-SLAB-RP-S-2026-03
+RA-NAB-01,34,SOV,E1,"Temporary diversion by Bailey bridge (IRC 24R loading) incl. civil works, complete",each,1.0,18850.83,18850.83,,,MB-NAB-E1-2026-03
+RA-NAB-01,35,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,28807.59,0.0,60.0,MB-NAB-E2-2026-03
+RA-NAB-01,36,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,2880.76,0.0,15.0,MB-NAB-E3-2026-03
+RA-NAB-02,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,56.09,183.41,10287.47,,,MB-NAB-A1-2026-04
+RA-NAB-02,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,280.0,24.45,6846.0,,,MB-NAB-A2-2026-04
+RA-NAB-02,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,799.0,13.76,10994.24,,,MB-NAB-A3-2026-04
+RA-NAB-02,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,267680.0,0.15,40152.0,,,MB-NAB-A4-2026-04
+RA-NAB-02,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,36672.0,0.49,17969.28,,,MB-NAB-A5-2026-04
+RA-NAB-02,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,19022.68,2.39,45464.21,,,MB-NAB-B1-2026-04
+RA-NAB-02,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,32735.43,3.26,106717.5,,,MB-NAB-B2-2026-04
+RA-NAB-02,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,13912.55,1.89,26294.72,,,MB-NAB-B3-2026-04
+RA-NAB-02,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,3181.61,5.29,16830.72,,,MB-NAB-B4-2026-04
+RA-NAB-02,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,1589.12,14.77,23471.3,,,MB-NAB-B5-2026-04
+RA-NAB-02,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,569.0,11.72,6668.68,,,MB-NAB-C1-2026-04
+RA-NAB-02,12,SOV,C10,Toe drain lined with dismantled tiles,rm,2358.0,3.87,9125.46,,,MB-NAB-C10-2026-04
+RA-NAB-02,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,827.0,7.95,6574.65,,,MB-NAB-C11-2026-04
+RA-NAB-02,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,668.0,1.37,915.16,,,MB-NAB-C2-2026-04
+RA-NAB-02,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,181.0,5.29,957.49,,,MB-NAB-C3-2026-04
+RA-NAB-02,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,38597.0,0.65,25088.05,,,MB-NAB-C4-2026-04
+RA-NAB-02,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,2924.3,72.11,210871.27,,,MB-NAB-C5-2026-04
+RA-NAB-02,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,1453.73,71.84,104435.96,,,MB-NAB-C6-2026-04
+RA-NAB-02,19,SOV,C7,PVC top seal in construction joints,rm,35576.0,1.89,67238.64,,,MB-NAB-C7-2026-04
+RA-NAB-02,20,SOV,C8,M10 coping along lining incl. construction joints,cum,485.64,57.06,27710.62,,,MB-NAB-C8-2026-04
+RA-NAB-02,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,2909.0,4.28,12450.52,,,MB-NAB-C9-2026-04
+RA-NAB-02,22,SOV,D-CD-RC-S,"Reconstruct CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,27104.0,27104.0,,,MB-NAB-D-CD-RC-S-2026-04
+RA-NAB-02,23,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,2.0,4635.75,9271.5,,,MB-NAB-D-CD-RP-S-2026-04
+RA-NAB-02,24,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,11717.64,11717.64,,,MB-NAB-D-FALL-NW-L-2026-04
+RA-NAB-02,25,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,6.0,8202.83,49216.98,,,MB-NAB-D-FALL-NW-S-2026-04
+RA-NAB-02,26,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,1.0,9680.0,9680.0,,,MB-NAB-D-FALL-RC-L-2026-04
+RA-NAB-02,27,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,3.0,6776.0,20328.0,,,MB-NAB-D-FALL-RC-S-2026-04
+RA-NAB-02,28,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,3.0,2241.89,6725.67,,,MB-NAB-D-FALL-RP-L-2026-04
+RA-NAB-02,29,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,14.0,1569.13,21967.82,,,MB-NAB-D-FALL-RP-S-2026-04
+RA-NAB-02,30,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,1.0,22416.94,22416.94,,,MB-NAB-D-HR-RC-L-2026-04
+RA-NAB-02,31,SOV,D-HR-RC-S,"Reconstruct Head Regulator (small channel) as per drawing, complete",each,1.0,15692.25,15692.25,,,MB-NAB-D-HR-RC-S-2026-04
+RA-NAB-02,32,SOV,D-HRP-RC-S,"Reconstruct Head Regulator (Pipe) (small channel) as per drawing, complete",each,1.0,5349.17,5349.17,,,MB-NAB-D-HRP-RC-S-2026-04
+RA-NAB-02,33,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,17.0,427.86,7273.62,,,MB-NAB-D-OUT-NW-L-2026-04
+RA-NAB-02,34,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,45.0,299.11,13459.95,,,MB-NAB-D-OUT-NW-S-2026-04
+RA-NAB-02,35,SOV,D-PIPE-RC-S,"Reconstruct Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,3709.38,3709.38,,,MB-NAB-D-PIPE-RC-S-2026-04
+RA-NAB-02,36,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,2.0,927.34,1854.68,,,MB-NAB-D-PIPE-RP-S-2026-04
+RA-NAB-02,37,SOV,D-SLAB-RC-S,"Reconstruct Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,14978.83,14978.83,,,MB-NAB-D-SLAB-RC-S-2026-04
+RA-NAB-02,38,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,2.0,3872.0,7744.0,,,MB-NAB-D-SLAB-RP-L-2026-04
+RA-NAB-02,39,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,9.0,2710.4,24393.6,,,MB-NAB-D-SLAB-RP-S-2026-04
+RA-NAB-02,40,SOV,E1,"Temporary diversion by Bailey bridge (IRC 24R loading) incl. civil works, complete",each,1.0,18850.83,18850.83,,,MB-NAB-E1-2026-04
+RA-NAB-02,41,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,12003.16,60.0,85.0,MB-NAB-E2-2026-04
+RA-NAB-02,42,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,3456.91,15.0,33.0,MB-NAB-E3-2026-04
+RA-NAB-03,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,68.55,183.41,12572.76,,,MB-NAB-A1-2026-05
+RA-NAB-03,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,343.0,24.45,8386.35,,,MB-NAB-A2-2026-05
+RA-NAB-03,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,977.0,13.76,13443.52,,,MB-NAB-A3-2026-05
+RA-NAB-03,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,327164.0,0.15,49074.6,,,MB-NAB-A4-2026-05
+RA-NAB-03,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,44822.0,0.49,21962.78,,,MB-NAB-A5-2026-05
+RA-NAB-03,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,23249.95,2.39,55567.38,,,MB-NAB-B1-2026-05
+RA-NAB-03,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,40009.99,3.16,126431.57,,,MB-NAB-B2-2026-05
+RA-NAB-03,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,17004.22,1.89,32137.98,,,MB-NAB-B3-2026-05
+RA-NAB-03,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,3888.64,5.29,20570.91,,,MB-NAB-B4-2026-05
+RA-NAB-03,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,1942.27,14.77,28687.33,,,MB-NAB-B5-2026-05
+RA-NAB-03,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,694.0,11.72,8133.68,,,MB-NAB-C1-2026-05
+RA-NAB-03,12,SOV,C10,Toe drain lined with dismantled tiles,rm,2883.0,3.87,11157.21,,,MB-NAB-C10-2026-05
+RA-NAB-03,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,1011.0,7.95,8037.45,,,MB-NAB-C11-2026-05
+RA-NAB-03,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,816.0,1.37,1117.92,,,MB-NAB-C2-2026-05
+RA-NAB-03,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,221.0,5.29,1169.09,,,MB-NAB-C3-2026-05
+RA-NAB-03,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,47175.0,0.63,29720.25,,,MB-NAB-C4-2026-05
+RA-NAB-03,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,3574.14,69.8,249474.97,,,MB-NAB-C5-2026-05
+RA-NAB-03,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,1776.8,71.84,127645.31,,,MB-NAB-C6-2026-05
+RA-NAB-03,19,SOV,C7,PVC top seal in construction joints,rm,43482.0,1.89,82180.98,,,MB-NAB-C7-2026-05
+RA-NAB-03,20,SOV,C8,M10 coping along lining incl. construction joints,cum,593.57,57.06,33869.1,,,MB-NAB-C8-2026-05
+RA-NAB-03,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,3554.0,4.28,15211.12,,,MB-NAB-C9-2026-05
+RA-NAB-03,22,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,3.0,4635.75,13907.25,,,MB-NAB-D-CD-RP-S-2026-05
+RA-NAB-03,23,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,11717.64,11717.64,,,MB-NAB-D-FALL-NW-L-2026-05
+RA-NAB-03,24,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,7.0,8202.83,57419.81,,,MB-NAB-D-FALL-NW-S-2026-05
+RA-NAB-03,25,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,2.0,9680.0,19360.0,,,MB-NAB-D-FALL-RC-L-2026-05
+RA-NAB-03,26,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,3.0,6776.0,20328.0,,,MB-NAB-D-FALL-RC-S-2026-05
+RA-NAB-03,27,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,2.0,2241.89,4483.78,,,MB-NAB-D-FALL-RP-L-2026-05
+RA-NAB-03,28,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,17.0,1569.13,26675.21,,,MB-NAB-D-FALL-RP-S-2026-05
+RA-NAB-03,29,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,2.0,22416.94,44833.88,,,MB-NAB-D-HR-RC-L-2026-05
+RA-NAB-03,30,SOV,D-HR-RC-S,"Reconstruct Head Regulator (small channel) as per drawing, complete",each,1.0,15692.25,15692.25,,,MB-NAB-D-HR-RC-S-2026-05
+RA-NAB-03,31,SOV,D-HRP-RC-S,"Reconstruct Head Regulator (Pipe) (small channel) as per drawing, complete",each,1.0,5349.17,5349.17,,,MB-NAB-D-HRP-RC-S-2026-05
+RA-NAB-03,32,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,21.0,427.86,8985.06,,,MB-NAB-D-OUT-NW-L-2026-05
+RA-NAB-03,33,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,57.0,299.11,17049.27,,,MB-NAB-D-OUT-NW-S-2026-05
+RA-NAB-03,34,SOV,D-PIPE-RC-S,"Reconstruct Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,3709.38,3709.38,,,MB-NAB-D-PIPE-RC-S-2026-05
+RA-NAB-03,35,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,927.34,927.34,,,MB-NAB-D-PIPE-RP-S-2026-05
+RA-NAB-03,36,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,3872.0,3872.0,,,MB-NAB-D-SLAB-RP-L-2026-05
+RA-NAB-03,37,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,13.0,2710.4,35235.2,,,MB-NAB-D-SLAB-RP-S-2026-05
+RA-NAB-03,38,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,7201.9,85.0,100.0,MB-NAB-E2-2026-05
+RA-NAB-03,39,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,4225.11,33.0,55.0,MB-NAB-E3-2026-05
+RA-NAB-03,40,CO,CO-NAB-01,Extra item: breach closure of Ruir Branch Canal at RD 18.60 km,each,1.0,18341.05,18341.05,,,
+RA-NAB-03,41,TM,DW-NAB-2026-05,Day-work: Hydraulic excavator 0.9 cum with operator (emergency breach / desilting),HR,144.0,24.96,3594.24,,,
+RA-NAB-04,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,17.31,183.41,3174.83,,,MB-NAB-A1-2026-06
+RA-NAB-04,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,87.0,24.45,2127.15,,,MB-NAB-A2-2026-06
+RA-NAB-04,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,247.0,13.76,3398.72,,,MB-NAB-A3-2026-06
+RA-NAB-04,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,82617.0,0.15,12392.55,,,MB-NAB-A4-2026-06
+RA-NAB-04,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,11319.0,0.49,5546.31,,,MB-NAB-A5-2026-06
+RA-NAB-04,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,21136.31,2.39,50515.78,,,MB-NAB-B1-2026-06
+RA-NAB-04,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,36372.71,3.16,114937.76,,,MB-NAB-B2-2026-06
+RA-NAB-04,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,15458.38,1.89,29216.34,,,MB-NAB-B3-2026-06
+RA-NAB-04,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,3535.13,5.29,18700.84,,,MB-NAB-B4-2026-06
+RA-NAB-04,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,1765.69,14.77,26079.24,,,MB-NAB-B5-2026-06
+RA-NAB-04,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,632.0,11.72,7407.04,,,MB-NAB-C1-2026-06
+RA-NAB-04,12,SOV,C10,Toe drain lined with dismantled tiles,rm,2620.0,3.87,10139.4,,,MB-NAB-C10-2026-06
+RA-NAB-04,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,919.0,7.95,7306.05,,,MB-NAB-C11-2026-06
+RA-NAB-04,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,742.0,1.37,1016.54,,,MB-NAB-C2-2026-06
+RA-NAB-04,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,201.0,5.29,1063.29,,,MB-NAB-C3-2026-06
+RA-NAB-04,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,42886.0,0.63,27018.18,,,MB-NAB-C4-2026-06
+RA-NAB-04,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,3249.22,69.8,226795.56,,,MB-NAB-C5-2026-06
+RA-NAB-04,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,1615.26,71.84,116040.28,,,MB-NAB-C6-2026-06
+RA-NAB-04,19,SOV,C7,PVC top seal in construction joints,rm,39528.0,1.89,74707.92,,,MB-NAB-C7-2026-06
+RA-NAB-04,20,SOV,C8,M10 coping along lining incl. construction joints,cum,539.6,57.06,30789.58,,,MB-NAB-C8-2026-06
+RA-NAB-04,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,3232.0,4.28,13832.96,,,MB-NAB-C9-2026-06
+RA-NAB-04,22,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,2.0,4635.75,9271.5,,,MB-NAB-D-CD-RP-S-2026-06
+RA-NAB-04,23,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,11717.64,11717.64,,,MB-NAB-D-FALL-NW-L-2026-06
+RA-NAB-04,24,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,6.0,8202.83,49216.98,,,MB-NAB-D-FALL-NW-S-2026-06
+RA-NAB-04,25,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,2.0,9680.0,19360.0,,,MB-NAB-D-FALL-RC-L-2026-06
+RA-NAB-04,26,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,3.0,6776.0,20328.0,,,MB-NAB-D-FALL-RC-S-2026-06
+RA-NAB-04,27,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,3.0,2241.89,6725.67,,,MB-NAB-D-FALL-RP-L-2026-06
+RA-NAB-04,28,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,16.0,1569.13,25106.08,,,MB-NAB-D-FALL-RP-S-2026-06
+RA-NAB-04,29,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,1.0,22416.94,22416.94,,,MB-NAB-D-HR-RC-L-2026-06
+RA-NAB-04,30,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,19.0,427.86,8129.34,,,MB-NAB-D-OUT-NW-L-2026-06
+RA-NAB-04,31,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,50.0,299.11,14955.5,,,MB-NAB-D-OUT-NW-S-2026-06
+RA-NAB-04,32,SOV,D-PIPE-RC-S,"Reconstruct Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,3709.38,3709.38,,,MB-NAB-D-PIPE-RC-S-2026-06
+RA-NAB-04,33,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,2.0,927.34,1854.68,,,MB-NAB-D-PIPE-RP-S-2026-06
+RA-NAB-04,34,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,2.0,3872.0,7744.0,,,MB-NAB-D-SLAB-RP-L-2026-06
+RA-NAB-04,35,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,10.0,2710.4,27104.0,,,MB-NAB-D-SLAB-RP-S-2026-06
+RA-NAB-04,36,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,3841.01,55.0,75.0,MB-NAB-E3-2026-06
+RA-NAB-04,37,TM,DW-NAB-2026-06,Day-work: Hydraulic excavator 0.9 cum with operator (emergency breach / desilting),HR,72.0,24.96,1797.12,,,
+RA-NAB-05,1,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,7316.42,2.39,17486.24,,,MB-NAB-B1-2026-11
+RA-NAB-05,2,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,12590.55,3.16,39786.14,,,MB-NAB-B2-2026-11
+RA-NAB-05,3,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,5350.98,1.89,10113.35,,,MB-NAB-B3-2026-11
+RA-NAB-05,4,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,1223.69,5.29,6473.32,,,MB-NAB-B4-2026-11
+RA-NAB-05,5,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,611.21,14.77,9027.57,,,MB-NAB-B5-2026-11
+RA-NAB-05,6,SOV,C1,Under-drainage with porous concrete sleepers,rm,442.0,11.72,5180.24,,,MB-NAB-C1-2026-11
+RA-NAB-05,7,SOV,C10,Toe drain lined with dismantled tiles,rm,1835.0,3.87,7101.45,,,MB-NAB-C10-2026-11
+RA-NAB-05,8,SOV,C11,Brick block pitching at structure approaches and curves,sqm,643.0,7.95,5111.85,,,MB-NAB-C11-2026-11
+RA-NAB-05,9,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,519.0,1.37,711.03,,,MB-NAB-C2-2026-11
+RA-NAB-05,10,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,140.0,5.29,740.6,,,MB-NAB-C3-2026-11
+RA-NAB-05,11,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,30021.0,0.63,18913.23,,,MB-NAB-C4-2026-11
+RA-NAB-05,12,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,2274.46,69.8,158757.31,,,MB-NAB-C5-2026-11
+RA-NAB-05,13,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,1130.68,71.84,81228.05,,,MB-NAB-C6-2026-11
+RA-NAB-05,14,SOV,C7,PVC top seal in construction joints,rm,27671.0,1.89,52298.19,,,MB-NAB-C7-2026-11
+RA-NAB-05,15,SOV,C8,M10 coping along lining incl. construction joints,cum,377.72,57.06,21552.7,,,MB-NAB-C8-2026-11
+RA-NAB-05,16,SOV,C9,Catch water drain lined with dismantled tiles,rm,2262.0,4.28,9681.36,,,MB-NAB-C9-2026-11
+RA-NAB-05,17,SOV,D-CD-RC-S,"Reconstruct CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,27104.0,27104.0,,,MB-NAB-D-CD-RC-S-2026-11
+RA-NAB-05,18,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,4635.75,4635.75,,,MB-NAB-D-CD-RP-S-2026-11
+RA-NAB-05,19,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,5.0,8202.83,41014.15,,,MB-NAB-D-FALL-NW-S-2026-11
+RA-NAB-05,20,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,1.0,9680.0,9680.0,,,MB-NAB-D-FALL-RC-L-2026-11
+RA-NAB-05,21,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,2.0,6776.0,13552.0,,,MB-NAB-D-FALL-RC-S-2026-11
+RA-NAB-05,22,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,2.0,2241.89,4483.78,,,MB-NAB-D-FALL-RP-L-2026-11
+RA-NAB-05,23,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,11.0,1569.13,17260.43,,,MB-NAB-D-FALL-RP-S-2026-11
+RA-NAB-05,24,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,1.0,22416.94,22416.94,,,MB-NAB-D-HR-RC-L-2026-11
+RA-NAB-05,25,SOV,D-HR-RC-S,"Reconstruct Head Regulator (small channel) as per drawing, complete",each,1.0,15692.25,15692.25,,,MB-NAB-D-HR-RC-S-2026-11
+RA-NAB-05,26,SOV,D-HRP-RC-S,"Reconstruct Head Regulator (Pipe) (small channel) as per drawing, complete",each,1.0,5349.17,5349.17,,,MB-NAB-D-HRP-RC-S-2026-11
+RA-NAB-05,27,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,14.0,427.86,5990.04,,,MB-NAB-D-OUT-NW-L-2026-11
+RA-NAB-05,28,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,36.0,299.11,10767.96,,,MB-NAB-D-OUT-NW-S-2026-11
+RA-NAB-05,29,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,2.0,927.34,1854.68,,,MB-NAB-D-PIPE-RP-S-2026-11
+RA-NAB-05,30,SOV,D-SLAB-RC-S,"Reconstruct Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,14978.83,14978.83,,,MB-NAB-D-SLAB-RC-S-2026-11
+RA-NAB-05,31,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,2.0,3872.0,7744.0,,,MB-NAB-D-SLAB-RP-L-2026-11
+RA-NAB-05,32,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,8.0,2710.4,21683.2,,,MB-NAB-D-SLAB-RP-S-2026-11
+RA-NAB-05,33,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,2688.71,75.0,89.0,MB-NAB-E3-2026-11
+RA-AUR-01,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,19.78,192.31,3803.89,,,MB-AUR-A1-2026-03
+RA-AUR-01,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,99.0,25.64,2538.36,,,MB-AUR-A2-2026-03
+RA-AUR-01,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,320.0,14.42,4614.4,,,MB-AUR-A3-2026-03
+RA-AUR-01,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,121968.0,0.15,18295.2,,,MB-AUR-A4-2026-03
+RA-AUR-01,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,17981.0,0.52,9350.12,,,MB-AUR-A5-2026-03
+RA-AUR-01,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,7783.67,2.51,19537.01,,,MB-AUR-B1-2026-03
+RA-AUR-01,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,13987.2,3.31,46297.63,,,MB-AUR-B2-2026-03
+RA-AUR-01,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,6621.16,1.98,13109.9,,,MB-AUR-B3-2026-03
+RA-AUR-01,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,1559.94,5.55,8657.67,,,MB-AUR-B4-2026-03
+RA-AUR-01,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,736.81,15.49,11413.19,,,MB-AUR-B5-2026-03
+RA-AUR-01,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,42.0,12.29,516.18,,,MB-AUR-C1-2026-03
+RA-AUR-01,12,SOV,C10,Toe drain lined with dismantled tiles,rm,144.0,4.06,584.64,,,MB-AUR-C10-2026-03
+RA-AUR-01,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,62.0,8.33,516.46,,,MB-AUR-C11-2026-03
+RA-AUR-01,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,53.0,1.44,76.32,,,MB-AUR-C2-2026-03
+RA-AUR-01,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,15.0,5.55,83.25,,,MB-AUR-C3-2026-03
+RA-AUR-01,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,2078.0,0.66,1371.48,,,MB-AUR-C4-2026-03
+RA-AUR-01,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,178.52,73.19,13065.88,,,MB-AUR-C5-2026-03
+RA-AUR-01,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,49.0,75.32,3690.68,,,MB-AUR-C6-2026-03
+RA-AUR-01,19,SOV,C7,PVC top seal in construction joints,rm,1857.0,1.98,3676.86,,,MB-AUR-C7-2026-03
+RA-AUR-01,20,SOV,C8,M10 coping along lining incl. construction joints,cum,24.74,59.83,1480.19,,,MB-AUR-C8-2026-03
+RA-AUR-01,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,179.0,4.49,803.71,,,MB-AUR-C9-2026-03
+RA-AUR-01,22,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,4860.83,4860.83,,,MB-AUR-D-CD-RP-S-2026-03
+RA-AUR-01,23,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,3.0,8601.11,25803.33,,,MB-AUR-D-FALL-NW-S-2026-03
+RA-AUR-01,24,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,1.0,10150.0,10150.0,,,MB-AUR-D-FALL-RC-L-2026-03
+RA-AUR-01,25,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,4.0,7105.0,28420.0,,,MB-AUR-D-FALL-RC-S-2026-03
+RA-AUR-01,26,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,2.0,2350.74,4701.48,,,MB-AUR-D-FALL-RP-L-2026-03
+RA-AUR-01,27,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,9.0,1645.31,14807.79,,,MB-AUR-D-FALL-RP-S-2026-03
+RA-AUR-01,28,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,10.0,448.63,4486.3,,,MB-AUR-D-OUT-NW-L-2026-03
+RA-AUR-01,29,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,21.0,313.64,6586.44,,,MB-AUR-D-OUT-NW-S-2026-03
+RA-AUR-01,30,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,972.37,972.37,,,MB-AUR-D-PIPE-RP-S-2026-03
+RA-AUR-01,31,SOV,D-SLAB-RC-L,"Reconstruct Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,22436.57,22436.57,,,MB-AUR-D-SLAB-RC-L-2026-03
+RA-AUR-01,32,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,4060.0,4060.0,,,MB-AUR-D-SLAB-RP-L-2026-03
+RA-AUR-01,33,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,3.0,2842.0,8526.0,,,MB-AUR-D-SLAB-RP-S-2026-03
+RA-AUR-01,34,SOV,E1,"Temporary diversion by Bailey bridge (IRC 24R loading) incl. civil works, complete",each,2.0,19766.11,39532.22,,,MB-AUR-E1-2026-03
+RA-AUR-01,35,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,32074.65,0.0,60.0,MB-AUR-E2-2026-03
+RA-AUR-01,36,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,2993.63,0.0,14.0,MB-AUR-E3-2026-03
+RA-AUR-02,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,35.17,192.31,6763.54,,,MB-AUR-A1-2026-04
+RA-AUR-02,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,176.0,25.64,4512.64,,,MB-AUR-A2-2026-04
+RA-AUR-02,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,568.0,14.42,8190.56,,,MB-AUR-A3-2026-04
+RA-AUR-02,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,216832.0,0.15,32524.8,,,MB-AUR-A4-2026-04
+RA-AUR-02,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,31967.0,0.52,16622.84,,,MB-AUR-A5-2026-04
+RA-AUR-02,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,13837.63,2.51,34732.45,,,MB-AUR-B1-2026-04
+RA-AUR-02,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,24866.13,3.31,82306.89,,,MB-AUR-B2-2026-04
+RA-AUR-02,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,11770.95,1.98,23306.48,,,MB-AUR-B3-2026-04
+RA-AUR-02,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,2773.24,5.55,15391.48,,,MB-AUR-B4-2026-04
+RA-AUR-02,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,1309.89,15.49,20290.2,,,MB-AUR-B5-2026-04
+RA-AUR-02,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,673.0,12.29,8271.17,,,MB-AUR-C1-2026-04
+RA-AUR-02,12,SOV,C10,Toe drain lined with dismantled tiles,rm,2311.0,4.06,9382.66,,,MB-AUR-C10-2026-04
+RA-AUR-02,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,999.0,8.33,8321.67,,,MB-AUR-C11-2026-04
+RA-AUR-02,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,844.0,1.44,1215.36,,,MB-AUR-C2-2026-04
+RA-AUR-02,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,232.0,5.55,1287.6,,,MB-AUR-C3-2026-04
+RA-AUR-02,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,33247.0,0.66,21943.02,,,MB-AUR-C4-2026-04
+RA-AUR-02,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,2856.33,73.19,209054.79,,,MB-AUR-C5-2026-04
+RA-AUR-02,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,784.07,75.32,59056.15,,,MB-AUR-C6-2026-04
+RA-AUR-02,19,SOV,C7,PVC top seal in construction joints,rm,29713.0,1.98,58831.74,,,MB-AUR-C7-2026-04
+RA-AUR-02,20,SOV,C8,M10 coping along lining incl. construction joints,cum,395.77,59.83,23678.92,,,MB-AUR-C8-2026-04
+RA-AUR-02,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,2867.0,4.49,12872.83,,,MB-AUR-C9-2026-04
+RA-AUR-02,22,SOV,D-CD-NW-S,"New CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,33655.37,33655.37,,,MB-AUR-D-CD-NW-S-2026-04
+RA-AUR-02,23,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,2.0,4860.83,9721.66,,,MB-AUR-D-CD-RP-S-2026-04
+RA-AUR-02,24,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,12286.58,12286.58,,,MB-AUR-D-FALL-NW-L-2026-04
+RA-AUR-02,25,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,5.0,8601.11,43005.55,,,MB-AUR-D-FALL-NW-S-2026-04
+RA-AUR-02,26,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,2.0,10150.0,20300.0,,,MB-AUR-D-FALL-RC-L-2026-04
+RA-AUR-02,27,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,8.0,7105.0,56840.0,,,MB-AUR-D-FALL-RC-S-2026-04
+RA-AUR-02,28,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,4.0,2350.74,9402.96,,,MB-AUR-D-FALL-RP-L-2026-04
+RA-AUR-02,29,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,16.0,1645.31,26324.96,,,MB-AUR-D-FALL-RP-S-2026-04
+RA-AUR-02,30,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,18.0,448.63,8075.34,,,MB-AUR-D-OUT-NW-L-2026-04
+RA-AUR-02,31,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,39.0,313.64,12231.96,,,MB-AUR-D-OUT-NW-S-2026-04
+RA-AUR-02,32,SOV,D-PIPE-NW-S,"New Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,4636.52,4636.52,,,MB-AUR-D-PIPE-NW-S-2026-04
+RA-AUR-02,33,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,972.37,972.37,,,MB-AUR-D-PIPE-RP-S-2026-04
+RA-AUR-02,34,SOV,D-SLAB-NW-S,"New Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,19445.37,19445.37,,,MB-AUR-D-SLAB-NW-S-2026-04
+RA-AUR-02,35,SOV,D-SLAB-RC-L,"Reconstruct Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,22436.57,22436.57,,,MB-AUR-D-SLAB-RC-L-2026-04
+RA-AUR-02,36,SOV,D-SLAB-RC-S,"Reconstruct Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,15706.11,15706.11,,,MB-AUR-D-SLAB-RC-S-2026-04
+RA-AUR-02,37,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,3.0,4060.0,12180.0,,,MB-AUR-D-SLAB-RP-L-2026-04
+RA-AUR-02,38,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,6.0,2842.0,17052.0,,,MB-AUR-D-SLAB-RP-S-2026-04
+RA-AUR-02,39,SOV,E1,"Temporary diversion by Bailey bridge (IRC 24R loading) incl. civil works, complete",each,1.0,19766.11,19766.11,,,MB-AUR-E1-2026-04
+RA-AUR-02,40,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,13364.44,60.0,85.0,MB-AUR-E2-2026-04
+RA-AUR-02,41,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,3421.3,14.0,30.0,MB-AUR-E3-2026-04
+RA-AUR-02,42,CO,CO-AUR-01,Substituted item: RCC NP3 900 mm pipes in lieu of 600 mm at 2 pipe culverts,each,1.0,7372.11,7372.11,,,
+RA-AUR-02,43,TM,DW-AUR-2026-04,Day-work: Hydraulic excavator 0.9 cum with operator (emergency breach / desilting),HR,128.0,26.18,3351.04,,,
+RA-AUR-03,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,46.16,192.31,8877.03,,,MB-AUR-A1-2026-05
+RA-AUR-03,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,231.0,25.64,5922.84,,,MB-AUR-A2-2026-05
+RA-AUR-03,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,746.0,14.42,10757.32,,,MB-AUR-A3-2026-05
+RA-AUR-03,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,284591.0,0.15,42688.65,,,MB-AUR-A4-2026-05
+RA-AUR-03,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,41957.0,0.52,21817.64,,,MB-AUR-A5-2026-05
+RA-AUR-03,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,18161.9,2.51,45586.37,,,MB-AUR-B1-2026-05
+RA-AUR-03,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,32636.8,3.31,108027.81,,,MB-AUR-B2-2026-05
+RA-AUR-03,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,15449.37,1.98,30589.75,,,MB-AUR-B3-2026-05
+RA-AUR-03,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,3639.87,5.55,20201.28,,,MB-AUR-B4-2026-05
+RA-AUR-03,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,1719.24,15.49,26631.03,,,MB-AUR-B5-2026-05
+RA-AUR-03,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,883.0,12.29,10852.07,,,MB-AUR-C1-2026-05
+RA-AUR-03,12,SOV,C10,Toe drain lined with dismantled tiles,rm,3032.0,4.06,12309.92,,,MB-AUR-C10-2026-05
+RA-AUR-03,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,1311.0,8.33,10920.63,,,MB-AUR-C11-2026-05
+RA-AUR-03,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,1109.0,1.44,1596.96,,,MB-AUR-C2-2026-05
+RA-AUR-03,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,306.0,5.55,1698.3,,,MB-AUR-C3-2026-05
+RA-AUR-03,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,43638.0,0.66,28801.08,,,MB-AUR-C4-2026-05
+RA-AUR-03,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,3748.93,73.19,274384.19,,,MB-AUR-C5-2026-05
+RA-AUR-03,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,1029.08,75.32,77510.31,,,MB-AUR-C6-2026-05
+RA-AUR-03,19,SOV,C7,PVC top seal in construction joints,rm,38999.0,1.98,77218.02,,,MB-AUR-C7-2026-05
+RA-AUR-03,20,SOV,C8,M10 coping along lining incl. construction joints,cum,519.44,59.83,31078.1,,,MB-AUR-C8-2026-05
+RA-AUR-03,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,3762.0,4.49,16891.38,,,MB-AUR-C9-2026-05
+RA-AUR-03,22,SOV,D-CD-RP-L,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (large channel) as per drawing, complete",each,1.0,6944.63,6944.63,,,MB-AUR-D-CD-RP-L-2026-05
+RA-AUR-03,23,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,2.0,4860.83,9721.66,,,MB-AUR-D-CD-RP-S-2026-05
+RA-AUR-03,24,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,12286.58,12286.58,,,MB-AUR-D-FALL-NW-L-2026-05
+RA-AUR-03,25,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,7.0,8601.11,60207.77,,,MB-AUR-D-FALL-NW-S-2026-05
+RA-AUR-03,26,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,3.0,10150.0,30450.0,,,MB-AUR-D-FALL-RC-L-2026-05
+RA-AUR-03,27,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,9.0,7105.0,63945.0,,,MB-AUR-D-FALL-RC-S-2026-05
+RA-AUR-03,28,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,6.0,2350.74,14104.44,,,MB-AUR-D-FALL-RP-L-2026-05
+RA-AUR-03,29,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,21.0,1645.31,34551.51,,,MB-AUR-D-FALL-RP-S-2026-05
+RA-AUR-03,30,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,23.0,448.63,10318.49,,,MB-AUR-D-OUT-NW-L-2026-05
+RA-AUR-03,31,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,49.0,313.64,15368.36,,,MB-AUR-D-OUT-NW-S-2026-05
+RA-AUR-03,32,SOV,D-PIPE-NW-S,"New Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,4636.52,4636.52,,,MB-AUR-D-PIPE-NW-S-2026-05
+RA-AUR-03,33,SOV,D-PIPE-RC-S,"Reconstruct Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,3889.48,3889.48,,,MB-AUR-D-PIPE-RC-S-2026-05
+RA-AUR-03,34,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,2.0,972.37,1944.74,,,MB-AUR-D-PIPE-RP-S-2026-05
+RA-AUR-03,35,SOV,D-SLAB-NW-S,"New Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,19445.37,19445.37,,,MB-AUR-D-SLAB-NW-S-2026-05
+RA-AUR-03,36,SOV,D-SLAB-RC-L,"Reconstruct Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,22436.57,22436.57,,,MB-AUR-D-SLAB-RC-L-2026-05
+RA-AUR-03,37,SOV,D-SLAB-RC-S,"Reconstruct Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,15706.11,15706.11,,,MB-AUR-D-SLAB-RC-S-2026-05
+RA-AUR-03,38,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,3.0,4060.0,12180.0,,,MB-AUR-D-SLAB-RP-L-2026-05
+RA-AUR-03,39,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,8.0,2842.0,22736.0,,,MB-AUR-D-SLAB-RP-S-2026-05
+RA-AUR-03,40,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,8018.66,85.0,100.0,MB-AUR-E2-2026-05
+RA-AUR-03,41,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,4490.45,30.0,51.0,MB-AUR-E3-2026-05
+RA-AUR-03,42,CO,CO-AUR-01,Substituted item: RCC NP3 900 mm pipes in lieu of 600 mm at 2 pipe culverts,each,1.0,7372.11,7372.11,,,
+RA-AUR-03,43,CO,CO-AUR-02,Retaining wall at Deo MR. near habitation,LS,1.0,15598.95,15598.95,,,
+RA-AUR-04,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,21.0,192.31,4038.51,,,MB-AUR-A1-2026-06
+RA-AUR-04,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,105.0,25.64,2692.2,,,MB-AUR-A2-2026-06
+RA-AUR-04,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,339.0,14.42,4888.38,,,MB-AUR-A3-2026-06
+RA-AUR-04,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,129497.0,0.15,19424.55,,,MB-AUR-A4-2026-06
+RA-AUR-04,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,19091.0,0.52,9927.32,,,MB-AUR-A5-2026-06
+RA-AUR-04,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,17297.04,2.51,43415.57,,,MB-AUR-B1-2026-06
+RA-AUR-04,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,31082.67,3.31,102883.64,,,MB-AUR-B2-2026-06
+RA-AUR-04,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,14713.68,1.98,29133.09,,,MB-AUR-B3-2026-06
+RA-AUR-04,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,3466.54,5.55,19239.3,,,MB-AUR-B4-2026-06
+RA-AUR-04,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,1637.36,15.49,25362.71,,,MB-AUR-B5-2026-06
+RA-AUR-04,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,841.0,12.29,10335.89,,,MB-AUR-C1-2026-06
+RA-AUR-04,12,SOV,C10,Toe drain lined with dismantled tiles,rm,2887.0,4.06,11721.22,,,MB-AUR-C10-2026-06
+RA-AUR-04,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,1249.0,8.33,10404.17,,,MB-AUR-C11-2026-06
+RA-AUR-04,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,1056.0,1.44,1520.64,,,MB-AUR-C2-2026-06
+RA-AUR-04,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,291.0,5.55,1615.05,,,MB-AUR-C3-2026-06
+RA-AUR-04,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,41559.0,0.66,27428.94,,,MB-AUR-C4-2026-06
+RA-AUR-04,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,3570.42,73.19,261319.04,,,MB-AUR-C5-2026-06
+RA-AUR-04,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,980.08,75.32,73819.63,,,MB-AUR-C6-2026-06
+RA-AUR-04,19,SOV,C7,PVC top seal in construction joints,rm,37141.0,1.98,74107.6,,,MB-AUR-C7-2026-06
+RA-AUR-04,20,SOV,C8,M10 coping along lining incl. construction joints,cum,494.72,59.83,29599.1,,,MB-AUR-C8-2026-06
+RA-AUR-04,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,3583.0,4.49,16087.67,,,MB-AUR-C9-2026-06
+RA-AUR-04,22,SOV,D-CD-NW-S,"New CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,33655.37,33655.37,,,MB-AUR-D-CD-NW-S-2026-06
+RA-AUR-04,23,SOV,D-CD-RC-L,"Reconstruct CD Work / Syphon / Aqueduct / Drainage Syphon (large channel) as per drawing, complete",each,1.0,40600.0,40600.0,,,MB-AUR-D-CD-RC-L-2026-06
+RA-AUR-04,24,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,2.0,4860.83,9721.66,,,MB-AUR-D-CD-RP-S-2026-06
+RA-AUR-04,25,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,12286.58,12286.58,,,MB-AUR-D-FALL-NW-L-2026-06
+RA-AUR-04,26,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,6.0,8601.11,51606.66,,,MB-AUR-D-FALL-NW-S-2026-06
+RA-AUR-04,27,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,2.0,10150.0,20300.0,,,MB-AUR-D-FALL-RC-L-2026-06
+RA-AUR-04,28,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,9.0,7105.0,63945.0,,,MB-AUR-D-FALL-RC-S-2026-06
+RA-AUR-04,29,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,5.0,2350.74,11753.7,,,MB-AUR-D-FALL-RP-L-2026-06
+RA-AUR-04,30,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,20.0,1645.31,32906.2,,,MB-AUR-D-FALL-RP-S-2026-06
+RA-AUR-04,31,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,22.0,448.63,9869.86,,,MB-AUR-D-OUT-NW-L-2026-06
+RA-AUR-04,32,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,48.0,313.64,15054.72,,,MB-AUR-D-OUT-NW-S-2026-06
+RA-AUR-04,33,SOV,D-PIPE-NW-S,"New Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,4636.52,4636.52,,,MB-AUR-D-PIPE-NW-S-2026-06
+RA-AUR-04,34,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,2.0,972.37,1944.74,,,MB-AUR-D-PIPE-RP-S-2026-06
+RA-AUR-04,35,SOV,D-SLAB-NW-S,"New Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,19445.37,19445.37,,,MB-AUR-D-SLAB-NW-S-2026-06
+RA-AUR-04,36,SOV,D-SLAB-RC-L,"Reconstruct Slab Bridge / Culvert (large channel) as per drawing, complete",each,2.0,22436.57,44873.14,,,MB-AUR-D-SLAB-RC-L-2026-06
+RA-AUR-04,37,SOV,D-SLAB-RC-S,"Reconstruct Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,15706.11,15706.11,,,MB-AUR-D-SLAB-RC-S-2026-06
+RA-AUR-04,38,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,4.0,4060.0,16240.0,,,MB-AUR-D-SLAB-RP-L-2026-06
+RA-AUR-04,39,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,7.0,2842.0,19894.0,,,MB-AUR-D-SLAB-RP-S-2026-06
+RA-AUR-04,40,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,4276.62,51.0,71.0,MB-AUR-E3-2026-06
+RA-AUR-05,1,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,9446.84,2.51,23711.57,,,MB-AUR-B1-2026-11
+RA-AUR-05,2,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,16975.91,3.31,56190.26,,,MB-AUR-B2-2026-11
+RA-AUR-05,3,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,8035.94,1.98,15911.16,,,MB-AUR-B3-2026-11
+RA-AUR-05,4,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,1893.26,5.55,10507.59,,,MB-AUR-B4-2026-11
+RA-AUR-05,5,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,894.25,15.49,13851.93,,,MB-AUR-B5-2026-11
+RA-AUR-05,6,SOV,C1,Under-drainage with porous concrete sleepers,rm,588.0,12.29,7226.52,,,MB-AUR-C1-2026-11
+RA-AUR-05,7,SOV,C10,Toe drain lined with dismantled tiles,rm,2022.0,4.06,8209.32,,,MB-AUR-C10-2026-11
+RA-AUR-05,8,SOV,C11,Brick block pitching at structure approaches and curves,sqm,874.0,8.33,7280.42,,,MB-AUR-C11-2026-11
+RA-AUR-05,9,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,739.0,1.44,1064.16,,,MB-AUR-C2-2026-11
+RA-AUR-05,10,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,204.0,5.55,1132.2,,,MB-AUR-C3-2026-11
+RA-AUR-05,11,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,29092.0,0.66,19200.72,,,MB-AUR-C4-2026-11
+RA-AUR-05,12,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,2499.28,73.19,182922.3,,,MB-AUR-C5-2026-11
+RA-AUR-05,13,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,686.06,75.32,51674.04,,,MB-AUR-C6-2026-11
+RA-AUR-05,14,SOV,C7,PVC top seal in construction joints,rm,25999.0,1.98,51478.02,,,MB-AUR-C7-2026-11
+RA-AUR-05,15,SOV,C8,M10 coping along lining incl. construction joints,cum,346.3,59.83,20719.13,,,MB-AUR-C8-2026-11
+RA-AUR-05,16,SOV,C9,Catch water drain lined with dismantled tiles,rm,2508.0,4.49,11260.92,,,MB-AUR-C9-2026-11
+RA-AUR-05,17,SOV,D-CD-RP-L,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (large channel) as per drawing, complete",each,1.0,6944.63,6944.63,,,MB-AUR-D-CD-RP-L-2026-11
+RA-AUR-05,18,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,2.0,4860.83,9721.66,,,MB-AUR-D-CD-RP-S-2026-11
+RA-AUR-05,19,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,5.0,8601.11,43005.55,,,MB-AUR-D-FALL-NW-S-2026-11
+RA-AUR-05,20,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,2.0,10150.0,20300.0,,,MB-AUR-D-FALL-RC-L-2026-11
+RA-AUR-05,21,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,7.0,7105.0,49735.0,,,MB-AUR-D-FALL-RC-S-2026-11
+RA-AUR-05,22,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,4.0,2350.74,9402.96,,,MB-AUR-D-FALL-RP-L-2026-11
+RA-AUR-05,23,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,14.0,1645.31,23034.34,,,MB-AUR-D-FALL-RP-S-2026-11
+RA-AUR-05,24,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,16.0,448.63,7178.08,,,MB-AUR-D-OUT-NW-L-2026-11
+RA-AUR-05,25,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,33.0,313.64,10350.12,,,MB-AUR-D-OUT-NW-S-2026-11
+RA-AUR-05,26,SOV,D-PIPE-RC-S,"Reconstruct Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,3889.48,3889.48,,,MB-AUR-D-PIPE-RC-S-2026-11
+RA-AUR-05,27,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,972.37,972.37,,,MB-AUR-D-PIPE-RP-S-2026-11
+RA-AUR-05,28,SOV,D-SLAB-NW-S,"New Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,19445.37,19445.37,,,MB-AUR-D-SLAB-NW-S-2026-11
+RA-AUR-05,29,SOV,D-SLAB-RC-L,"Reconstruct Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,22436.57,22436.57,,,MB-AUR-D-SLAB-RC-L-2026-11
+RA-AUR-05,30,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,2.0,4060.0,8120.0,,,MB-AUR-D-SLAB-RP-L-2026-11
+RA-AUR-05,31,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,6.0,2842.0,17052.0,,,MB-AUR-D-SLAB-RP-S-2026-11
+RA-AUR-05,32,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,2993.63,71.0,85.0,MB-AUR-E3-2026-11
+RA-MAD-01,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,10.26,174.12,1786.47,,,MB-MAD-A1-2026-03
+RA-MAD-01,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,51.0,23.21,1183.71,,,MB-MAD-A2-2026-03
+RA-MAD-01,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,166.0,13.06,2167.96,,,MB-MAD-A3-2026-03
+RA-MAD-01,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,96431.0,0.14,13500.34,,,MB-MAD-A4-2026-03
+RA-MAD-01,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,14130.0,0.47,6641.1,,,MB-MAD-A5-2026-03
+RA-MAD-01,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,6925.59,2.27,15721.09,,,MB-MAD-B1-2026-03
+RA-MAD-01,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,12636.17,3.0,37908.51,,,MB-MAD-B2-2026-03
+RA-MAD-01,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,5084.2,1.79,9100.72,,,MB-MAD-B3-2026-03
+RA-MAD-01,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,1322.71,5.03,6653.23,,,MB-MAD-B4-2026-03
+RA-MAD-01,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,545.07,14.02,7641.88,,,MB-MAD-B5-2026-03
+RA-MAD-01,11,SOV,D-CD-RP-L,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (large channel) as per drawing, complete",each,1.0,6287.8,6287.8,,,MB-MAD-D-CD-RP-L-2026-03
+RA-MAD-01,12,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,4401.09,4401.09,,,MB-MAD-D-CD-RP-S-2026-03
+RA-MAD-01,13,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,1.0,7787.61,7787.61,,,MB-MAD-D-FALL-NW-S-2026-03
+RA-MAD-01,14,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,1.0,6433.0,6433.0,,,MB-MAD-D-FALL-RC-S-2026-03
+RA-MAD-01,15,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,1.0,2128.4,2128.4,,,MB-MAD-D-FALL-RP-L-2026-03
+RA-MAD-01,16,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,2.0,1489.7,2979.4,,,MB-MAD-D-FALL-RP-S-2026-03
+RA-MAD-01,17,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,1.0,21282.2,21282.2,,,MB-MAD-D-HR-RC-L-2026-03
+RA-MAD-01,18,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,5.0,406.2,2031.0,,,MB-MAD-D-OUT-NW-L-2026-03
+RA-MAD-01,19,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,7.0,283.97,1987.79,,,MB-MAD-D-OUT-NW-S-2026-03
+RA-MAD-01,20,SOV,D-PIPE-RP-L,"Repair Pipe Culvert / Pipe Bridge (large channel) as per drawing, complete",each,1.0,1257.19,1257.19,,,MB-MAD-D-PIPE-RP-L-2026-03
+RA-MAD-01,21,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,3676.0,3676.0,,,MB-MAD-D-SLAB-RP-L-2026-03
+RA-MAD-01,22,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,2573.2,2573.2,,,MB-MAD-D-SLAB-RP-S-2026-03
+RA-MAD-01,23,SOV,E1,"Temporary diversion by Bailey bridge (IRC 24R loading) incl. civil works, complete",each,1.0,17896.61,17896.61,,,MB-MAD-E1-2026-03
+RA-MAD-01,24,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,29121.08,0.0,60.0,MB-MAD-E2-2026-03
+RA-MAD-01,25,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,2135.55,0.0,11.0,MB-MAD-E3-2026-03
+RA-MAD-02,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,18.81,174.12,3275.2,,,MB-MAD-A1-2026-04
+RA-MAD-02,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,94.0,23.21,2181.74,,,MB-MAD-A2-2026-04
+RA-MAD-02,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,304.0,13.06,3970.24,,,MB-MAD-A3-2026-04
+RA-MAD-02,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,176791.0,0.14,24750.74,,,MB-MAD-A4-2026-04
+RA-MAD-02,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,25906.0,0.47,12175.82,,,MB-MAD-A5-2026-04
+RA-MAD-02,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,12696.93,2.27,28822.03,,,MB-MAD-B1-2026-04
+RA-MAD-02,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,23166.32,3.0,69498.96,,,MB-MAD-B2-2026-04
+RA-MAD-02,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,9321.03,1.79,16684.64,,,MB-MAD-B3-2026-04
+RA-MAD-02,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,2424.98,5.03,12197.65,,,MB-MAD-B4-2026-04
+RA-MAD-02,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,999.31,14.02,14010.33,,,MB-MAD-B5-2026-04
+RA-MAD-02,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,540.0,11.13,6010.2,,,MB-MAD-C1-2026-04
+RA-MAD-02,12,SOV,C10,Toe drain lined with dismantled tiles,rm,1422.0,3.68,5232.96,,,MB-MAD-C10-2026-04
+RA-MAD-02,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,283.0,7.54,2133.82,,,MB-MAD-C11-2026-04
+RA-MAD-02,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,693.0,1.3,900.9,,,MB-MAD-C2-2026-04
+RA-MAD-02,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,162.0,5.03,814.86,,,MB-MAD-C3-2026-04
+RA-MAD-02,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,23652.0,0.6,14191.2,,,MB-MAD-C4-2026-04
+RA-MAD-02,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,1840.87,66.27,121994.45,,,MB-MAD-C5-2026-04
+RA-MAD-02,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,485.7,68.2,33124.74,,,MB-MAD-C6-2026-04
+RA-MAD-02,19,SOV,C7,PVC top seal in construction joints,rm,18679.0,1.79,33435.41,,,MB-MAD-C7-2026-04
+RA-MAD-02,20,SOV,C8,M10 coping along lining incl. construction joints,cum,272.02,54.18,14738.04,,,MB-MAD-C8-2026-04
+RA-MAD-02,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,1768.0,4.06,7178.08,,,MB-MAD-C9-2026-04
+RA-MAD-02,22,SOV,D-CD-RP-L,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (large channel) as per drawing, complete",each,3.0,6287.8,18863.4,,,MB-MAD-D-CD-RP-L-2026-04
+RA-MAD-02,23,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,2.0,4401.09,8802.18,,,MB-MAD-D-CD-RP-S-2026-04
+RA-MAD-02,24,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,11124.5,11124.5,,,MB-MAD-D-FALL-NW-L-2026-04
+RA-MAD-02,25,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,2.0,7787.61,15575.22,,,MB-MAD-D-FALL-NW-S-2026-04
+RA-MAD-02,26,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,1.0,9190.0,9190.0,,,MB-MAD-D-FALL-RC-L-2026-04
+RA-MAD-02,27,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,3.0,6433.0,19299.0,,,MB-MAD-D-FALL-RC-S-2026-04
+RA-MAD-02,28,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,2.0,2128.4,4256.8,,,MB-MAD-D-FALL-RP-L-2026-04
+RA-MAD-02,29,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,4.0,1489.7,5958.8,,,MB-MAD-D-FALL-RP-S-2026-04
+RA-MAD-02,30,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,1.0,21282.2,21282.2,,,MB-MAD-D-HR-RC-L-2026-04
+RA-MAD-02,31,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,9.0,406.2,3655.8,,,MB-MAD-D-OUT-NW-L-2026-04
+RA-MAD-02,32,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,14.0,283.97,3975.58,,,MB-MAD-D-OUT-NW-S-2026-04
+RA-MAD-02,33,SOV,D-PIPE-RP-L,"Repair Pipe Culvert / Pipe Bridge (large channel) as per drawing, complete",each,1.0,1257.19,1257.19,,,MB-MAD-D-PIPE-RP-L-2026-04
+RA-MAD-02,34,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,880.4,880.4,,,MB-MAD-D-PIPE-RP-S-2026-04
+RA-MAD-02,35,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,2.0,3676.0,7352.0,,,MB-MAD-D-SLAB-RP-L-2026-04
+RA-MAD-02,36,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,3.0,2573.2,7719.6,,,MB-MAD-D-SLAB-RP-S-2026-04
+RA-MAD-02,37,SOV,E1,"Temporary diversion by Bailey bridge (IRC 24R loading) incl. civil works, complete",each,1.0,17896.61,17896.61,,,MB-MAD-E1-2026-04
+RA-MAD-02,38,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,12133.78,60.0,85.0,MB-MAD-E2-2026-04
+RA-MAD-02,39,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,2135.55,11.0,22.0,MB-MAD-E3-2026-04
+RA-MAD-03,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,27.36,174.12,4763.92,,,MB-MAD-A1-2026-05
+RA-MAD-03,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,137.0,23.21,3179.77,,,MB-MAD-A2-2026-05
+RA-MAD-03,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,443.0,13.06,5785.58,,,MB-MAD-A3-2026-05
+RA-MAD-03,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,257150.0,0.14,36001.0,,,MB-MAD-A4-2026-05
+RA-MAD-03,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,37681.0,0.47,17710.07,,,MB-MAD-A5-2026-05
+RA-MAD-03,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,18689.87,2.27,42426.0,,,MB-MAD-B1-2026-05
+RA-MAD-03,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,33696.46,3.0,101089.38,,,MB-MAD-B2-2026-05
+RA-MAD-03,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,13557.86,1.79,24268.57,,,MB-MAD-B3-2026-05
+RA-MAD-03,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,3527.24,5.03,17742.02,,,MB-MAD-B4-2026-05
+RA-MAD-03,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,1453.53,14.02,20378.49,,,MB-MAD-B5-2026-05
+RA-MAD-03,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,959.0,11.13,10673.67,,,MB-MAD-C1-2026-05
+RA-MAD-03,12,SOV,C10,Toe drain lined with dismantled tiles,rm,2529.0,3.68,9306.72,,,MB-MAD-C10-2026-05
+RA-MAD-03,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,502.0,7.54,3785.08,,,MB-MAD-C11-2026-05
+RA-MAD-03,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,1232.0,1.3,1601.6,,,MB-MAD-C2-2026-05
+RA-MAD-03,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,287.0,5.03,1443.61,,,MB-MAD-C3-2026-05
+RA-MAD-03,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,42047.0,0.6,25228.2,,,MB-MAD-C4-2026-05
+RA-MAD-03,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,3272.65,66.27,216878.52,,,MB-MAD-C5-2026-05
+RA-MAD-03,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,863.47,68.2,58888.65,,,MB-MAD-C6-2026-05
+RA-MAD-03,19,SOV,C7,PVC top seal in construction joints,rm,33208.0,1.79,59442.32,,,MB-MAD-C7-2026-05
+RA-MAD-03,20,SOV,C8,M10 coping along lining incl. construction joints,cum,483.59,54.18,26200.91,,,MB-MAD-C8-2026-05
+RA-MAD-03,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,3142.0,4.06,12756.52,,,MB-MAD-C9-2026-05
+RA-MAD-03,22,SOV,D-CD-RP-L,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (large channel) as per drawing, complete",each,3.0,6287.8,18863.4,,,MB-MAD-D-CD-RP-L-2026-05
+RA-MAD-03,23,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,3.0,4401.09,13203.27,,,MB-MAD-D-CD-RP-S-2026-05
+RA-MAD-03,24,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,11124.5,11124.5,,,MB-MAD-D-FALL-NW-L-2026-05
+RA-MAD-03,25,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,3.0,7787.61,23362.83,,,MB-MAD-D-FALL-NW-S-2026-05
+RA-MAD-03,26,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,3.0,6433.0,19299.0,,,MB-MAD-D-FALL-RC-S-2026-05
+RA-MAD-03,27,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,3.0,2128.4,6385.2,,,MB-MAD-D-FALL-RP-L-2026-05
+RA-MAD-03,28,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,6.0,1489.7,8938.2,,,MB-MAD-D-FALL-RP-S-2026-05
+RA-MAD-03,29,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,2.0,21282.2,42564.4,,,MB-MAD-D-HR-RC-L-2026-05
+RA-MAD-03,30,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,13.0,406.2,5280.6,,,MB-MAD-D-OUT-NW-L-2026-05
+RA-MAD-03,31,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,19.0,283.97,5395.43,,,MB-MAD-D-OUT-NW-S-2026-05
+RA-MAD-03,32,SOV,D-PIPE-RP-L,"Repair Pipe Culvert / Pipe Bridge (large channel) as per drawing, complete",each,1.0,1257.19,1257.19,,,MB-MAD-D-PIPE-RP-L-2026-05
+RA-MAD-03,33,SOV,D-SLAB-RC-L,"Reconstruct Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,20314.5,20314.5,,,MB-MAD-D-SLAB-RC-L-2026-05
+RA-MAD-03,34,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,3.0,3676.0,11028.0,,,MB-MAD-D-SLAB-RP-L-2026-05
+RA-MAD-03,35,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,3.0,2573.2,7719.6,,,MB-MAD-D-SLAB-RP-S-2026-05
+RA-MAD-03,36,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,7280.27,85.0,100.0,MB-MAD-E2-2026-05
+RA-MAD-03,37,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,3106.25,22.0,38.0,MB-MAD-E3-2026-05
+RA-MAD-03,38,CO,CO-MAD-02,Substituted item: manual lining in narrow minors in lieu of paver lining,each,210.0,60.94,12797.4,,,
+RA-MAD-04,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,27.36,174.12,4763.92,,,MB-MAD-A1-2026-06
+RA-MAD-04,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,137.0,23.21,3179.77,,,MB-MAD-A2-2026-06
+RA-MAD-04,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,443.0,13.06,5785.58,,,MB-MAD-A3-2026-06
+RA-MAD-04,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,257150.0,0.14,36001.0,,,MB-MAD-A4-2026-06
+RA-MAD-04,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,37680.0,0.47,17709.6,,,MB-MAD-A5-2026-06
+RA-MAD-04,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,18468.25,2.27,41922.93,,,MB-MAD-B1-2026-06
+RA-MAD-04,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,33696.47,3.0,101089.41,,,MB-MAD-B2-2026-06
+RA-MAD-04,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,13557.86,1.79,24268.57,,,MB-MAD-B3-2026-06
+RA-MAD-04,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,3527.23,5.03,17741.97,,,MB-MAD-B4-2026-06
+RA-MAD-04,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,1453.53,14.02,20378.49,,,MB-MAD-B5-2026-06
+RA-MAD-04,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,959.0,11.13,10673.67,,,MB-MAD-C1-2026-06
+RA-MAD-04,12,SOV,C10,Toe drain lined with dismantled tiles,rm,2528.0,3.68,9303.04,,,MB-MAD-C10-2026-06
+RA-MAD-04,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,502.0,7.54,3785.08,,,MB-MAD-C11-2026-06
+RA-MAD-04,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,1231.0,1.3,1600.3,,,MB-MAD-C2-2026-06
+RA-MAD-04,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,288.0,5.03,1448.64,,,MB-MAD-C3-2026-06
+RA-MAD-04,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,42047.0,0.6,25228.2,,,MB-MAD-C4-2026-06
+RA-MAD-04,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,3272.66,66.27,216879.18,,,MB-MAD-C5-2026-06
+RA-MAD-04,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,863.46,68.2,58887.97,,,MB-MAD-C6-2026-06
+RA-MAD-04,19,SOV,C7,PVC top seal in construction joints,rm,33207.0,1.79,59440.53,,,MB-MAD-C7-2026-06
+RA-MAD-04,20,SOV,C8,M10 coping along lining incl. construction joints,cum,483.6,54.18,26201.45,,,MB-MAD-C8-2026-06
+RA-MAD-04,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,3143.0,4.06,12760.58,,,MB-MAD-C9-2026-06
+RA-MAD-04,22,SOV,D-CD-RP-L,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (large channel) as per drawing, complete",each,3.0,6287.8,18863.4,,,MB-MAD-D-CD-RP-L-2026-06
+RA-MAD-04,23,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,3.0,4401.09,13203.27,,,MB-MAD-D-CD-RP-S-2026-06
+RA-MAD-04,24,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,11124.5,11124.5,,,MB-MAD-D-FALL-NW-L-2026-06
+RA-MAD-04,25,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,2.0,7787.61,15575.22,,,MB-MAD-D-FALL-NW-S-2026-06
+RA-MAD-04,26,SOV,D-FALL-RC-L,"Reconstruct Fall (large channel) as per drawing, complete",each,1.0,9190.0,9190.0,,,MB-MAD-D-FALL-RC-L-2026-06
+RA-MAD-04,27,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,3.0,6433.0,19299.0,,,MB-MAD-D-FALL-RC-S-2026-06
+RA-MAD-04,28,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,2.0,2128.4,4256.8,,,MB-MAD-D-FALL-RP-L-2026-06
+RA-MAD-04,29,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,6.0,1489.7,8938.2,,,MB-MAD-D-FALL-RP-S-2026-06
+RA-MAD-04,30,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,2.0,21282.2,42564.4,,,MB-MAD-D-HR-RC-L-2026-06
+RA-MAD-04,31,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,14.0,406.2,5686.8,,,MB-MAD-D-OUT-NW-L-2026-06
+RA-MAD-04,32,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,19.0,283.97,5395.43,,,MB-MAD-D-OUT-NW-S-2026-06
+RA-MAD-04,33,SOV,D-PIPE-RP-L,"Repair Pipe Culvert / Pipe Bridge (large channel) as per drawing, complete",each,1.0,1257.19,1257.19,,,MB-MAD-D-PIPE-RP-L-2026-06
+RA-MAD-04,34,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,2.0,3676.0,7352.0,,,MB-MAD-D-SLAB-RP-L-2026-06
+RA-MAD-04,35,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,3.0,2573.2,7719.6,,,MB-MAD-D-SLAB-RP-S-2026-06
+RA-MAD-04,36,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,3106.25,38.0,54.0,MB-MAD-E3-2026-06
+RA-MAD-04,37,CO,CO-MAD-02,Substituted item: manual lining in narrow minors in lieu of paver lining,each,210.0,60.94,12797.4,,,
+RA-MAD-04,38,TM,DW-MAD-2026-06,Day-work: Hydraulic excavator 0.9 cum with operator (emergency breach / desilting),HR,126.0,23.7,2986.2,,,
+RA-MAD-04,39,CO,CO-MAD-01,Well-point dewatering at Kotwara Dy. RD 22-24 km,LS,1.0,25151.58,25151.58,,,
+RA-MAD-05,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,11.21,174.12,1951.89,,,MB-MAD-A1-2026-11
+RA-MAD-05,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,56.0,23.21,1299.76,,,MB-MAD-A2-2026-11
+RA-MAD-05,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,181.0,13.06,2363.86,,,MB-MAD-A3-2026-11
+RA-MAD-05,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,105360.0,0.14,14750.4,,,MB-MAD-A4-2026-11
+RA-MAD-05,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,15439.0,0.47,7256.33,,,MB-MAD-A5-2026-11
+RA-MAD-05,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,13851.19,2.27,31442.2,,,MB-MAD-B1-2026-11
+RA-MAD-05,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,26915.04,3.0,80745.12,,,MB-MAD-B2-2026-11
+RA-MAD-05,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,10168.39,1.79,18201.42,,,MB-MAD-B3-2026-11
+RA-MAD-05,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,2645.43,5.03,13306.51,,,MB-MAD-B4-2026-11
+RA-MAD-05,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,1090.15,14.02,15283.9,,,MB-MAD-B5-2026-11
+RA-MAD-05,11,SOV,C1,Under-drainage with porous concrete sleepers,rm,720.0,11.13,8013.6,,,MB-MAD-C1-2026-11
+RA-MAD-05,12,SOV,C10,Toe drain lined with dismantled tiles,rm,1896.0,3.68,6977.28,,,MB-MAD-C10-2026-11
+RA-MAD-05,13,SOV,C11,Brick block pitching at structure approaches and curves,sqm,377.0,7.54,2842.58,,,MB-MAD-C11-2026-11
+RA-MAD-05,14,SOV,C2,Geo-synthetic filter wrapping of under-drains,sqm,924.0,1.3,1201.2,,,MB-MAD-C2-2026-11
+RA-MAD-05,15,SOV,C3,GI/steel pressure relief pipes 40 mm,rm,216.0,5.03,1086.48,,,MB-MAD-C3-2026-11
+RA-MAD-05,16,SOV,C4,Providing and laying LDPE film 200 micron below lining,sqm,31535.0,0.6,18921.0,,,MB-MAD-C4-2026-11
+RA-MAD-05,17,SOV,C5,M15 concrete lining 100 mm thick by paver (batching plant + transit mixer),cum,2454.49,66.27,162659.05,,,MB-MAD-C5-2026-11
+RA-MAD-05,18,SOV,C6,M15 concrete lining 75 mm thick by paver (batching plant + transit mixer),cum,647.6,68.2,44166.32,,,MB-MAD-C6-2026-11
+RA-MAD-05,19,SOV,C7,PVC top seal in construction joints,rm,24906.0,1.79,44581.74,,,MB-MAD-C7-2026-11
+RA-MAD-05,20,SOV,C8,M10 coping along lining incl. construction joints,cum,362.69,54.18,19650.54,,,MB-MAD-C8-2026-11
+RA-MAD-05,21,SOV,C9,Catch water drain lined with dismantled tiles,rm,2357.0,4.06,9569.42,,,MB-MAD-C9-2026-11
+RA-MAD-05,22,SOV,D-CD-RC-S,"Reconstruct CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,25732.0,25732.0,,,MB-MAD-D-CD-RC-S-2026-11
+RA-MAD-05,23,SOV,D-CD-RP-L,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (large channel) as per drawing, complete",each,3.0,6287.8,18863.4,,,MB-MAD-D-CD-RP-L-2026-11
+RA-MAD-05,24,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,3.0,4401.09,13203.27,,,MB-MAD-D-CD-RP-S-2026-11
+RA-MAD-05,25,SOV,D-FALL-NW-L,"New Fall (large channel) as per drawing, complete",each,1.0,11124.5,11124.5,,,MB-MAD-D-FALL-NW-L-2026-11
+RA-MAD-05,26,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,2.0,7787.61,15575.22,,,MB-MAD-D-FALL-NW-S-2026-11
+RA-MAD-05,27,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,3.0,6433.0,19299.0,,,MB-MAD-D-FALL-RC-S-2026-11
+RA-MAD-05,28,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,4.0,2128.4,8513.6,,,MB-MAD-D-FALL-RP-L-2026-11
+RA-MAD-05,29,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,4.0,1489.7,5958.8,,,MB-MAD-D-FALL-RP-S-2026-11
+RA-MAD-05,30,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,1.0,21282.2,21282.2,,,MB-MAD-D-HR-RC-L-2026-11
+RA-MAD-05,31,SOV,D-HRP-RC-L,"Reconstruct Head Regulator (Pipe) (large channel) as per drawing, complete",each,1.0,7255.5,7255.5,,,MB-MAD-D-HRP-RC-L-2026-11
+RA-MAD-05,32,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,10.0,406.2,4062.0,,,MB-MAD-D-OUT-NW-L-2026-11
+RA-MAD-05,33,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,15.0,283.97,4259.55,,,MB-MAD-D-OUT-NW-S-2026-11
+RA-MAD-05,34,SOV,D-PIPE-RP-L,"Repair Pipe Culvert / Pipe Bridge (large channel) as per drawing, complete",each,1.0,1257.19,1257.19,,,MB-MAD-D-PIPE-RP-L-2026-11
+RA-MAD-05,35,SOV,D-PIPE-RP-S,"Repair Pipe Culvert / Pipe Bridge (small channel) as per drawing, complete",each,1.0,880.4,880.4,,,MB-MAD-D-PIPE-RP-S-2026-11
+RA-MAD-05,36,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,2.0,3676.0,7352.0,,,MB-MAD-D-SLAB-RP-L-2026-11
+RA-MAD-05,37,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,3.0,2573.2,7719.6,,,MB-MAD-D-SLAB-RP-S-2026-11
+RA-MAD-05,38,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,2329.69,54.0,66.0,MB-MAD-E3-2026-11
+RA-MAD-01R,1,SOV,A1,"Survey, setting out and fixing design profile (incl. reference levels)",km,10.26,174.12,1786.47,,,MB-MAD-A1-2026-03
+RA-MAD-01R,2,SOV,A2,Fixing distance marks (RD stones) as per approved drawing,each,51.0,23.21,1183.71,,,MB-MAD-A2-2026-03
+RA-MAD-01R,3,SOV,A3,Fixing RCC boundary pillars as per approved drawing,each,166.0,13.06,2167.96,,,MB-MAD-A3-2026-03
+RA-MAD-01R,4,SOV,A4,"Clearing grass, jungle and bushes incl. cleaning of work front",sqm,96431.0,0.14,13500.34,,,MB-MAD-A4-2026-03
+RA-MAD-01R,5,SOV,A5,"Dismantling old tile lining, removal and stacking of serviceable tiles",sqm,14130.0,0.47,6641.1,,,MB-MAD-A5-2026-03
+RA-MAD-01R,6,SOV,B1,"Earthwork excavation in cutting in all soils incl. lift, lead and dewatering",cum,6925.59,2.27,15721.09,,,MB-MAD-B1-2026-03
+RA-MAD-01R,7,SOV,B2,"Earthwork in filling from borrow area, laid in layers and compacted to design profile",cum,12636.17,3.0,37908.51,,,MB-MAD-B2-2026-03
+RA-MAD-01R,8,SOV,B3,Restoring canal banks to designed section incl. dressing and compaction,cum,5084.2,1.79,9100.72,,,MB-MAD-B3-2026-03
+RA-MAD-01R,9,SOV,B4,Providing CNS layer as per IS code and drawings incl. lift and lead,cum,1322.71,5.03,6653.23,,,MB-MAD-B4-2026-03
+RA-MAD-01R,10,SOV,B5,Providing sand layer as per IS code and drawings incl. lift and lead,cum,545.07,14.02,7641.88,,,MB-MAD-B5-2026-03
+RA-MAD-01R,11,SOV,D-CD-RP-L,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (large channel) as per drawing, complete",each,1.0,6287.8,6287.8,,,MB-MAD-D-CD-RP-L-2026-03
+RA-MAD-01R,12,SOV,D-CD-RP-S,"Repair CD Work / Syphon / Aqueduct / Drainage Syphon (small channel) as per drawing, complete",each,1.0,4401.09,4401.09,,,MB-MAD-D-CD-RP-S-2026-03
+RA-MAD-01R,13,SOV,D-FALL-NW-S,"New Fall (small channel) as per drawing, complete",each,1.0,7787.61,7787.61,,,MB-MAD-D-FALL-NW-S-2026-03
+RA-MAD-01R,14,SOV,D-FALL-RC-S,"Reconstruct Fall (small channel) as per drawing, complete",each,1.0,6433.0,6433.0,,,MB-MAD-D-FALL-RC-S-2026-03
+RA-MAD-01R,15,SOV,D-FALL-RP-L,"Repair Fall (large channel) as per drawing, complete",each,1.0,2128.4,2128.4,,,MB-MAD-D-FALL-RP-L-2026-03
+RA-MAD-01R,16,SOV,D-FALL-RP-S,"Repair Fall (small channel) as per drawing, complete",each,2.0,1489.7,2979.4,,,MB-MAD-D-FALL-RP-S-2026-03
+RA-MAD-01R,17,SOV,D-HR-RC-L,"Reconstruct Head Regulator (large channel) as per drawing, complete",each,1.0,21282.2,21282.2,,,MB-MAD-D-HR-RC-L-2026-03
+RA-MAD-01R,18,SOV,D-OUT-NW-L,"New Outlet (large channel) as per drawing, complete",each,5.0,406.2,2031.0,,,MB-MAD-D-OUT-NW-L-2026-03
+RA-MAD-01R,19,SOV,D-OUT-NW-S,"New Outlet (small channel) as per drawing, complete",each,7.0,283.97,1987.79,,,MB-MAD-D-OUT-NW-S-2026-03
+RA-MAD-01R,20,SOV,D-PIPE-RP-L,"Repair Pipe Culvert / Pipe Bridge (large channel) as per drawing, complete",each,1.0,1257.19,1257.19,,,MB-MAD-D-PIPE-RP-L-2026-03
+RA-MAD-01R,21,SOV,D-SLAB-RP-L,"Repair Slab Bridge / Culvert (large channel) as per drawing, complete",each,1.0,3676.0,3676.0,,,MB-MAD-D-SLAB-RP-L-2026-03
+RA-MAD-01R,22,SOV,D-SLAB-RP-S,"Repair Slab Bridge / Culvert (small channel) as per drawing, complete",each,1.0,2573.2,2573.2,,,MB-MAD-D-SLAB-RP-S-2026-03
+RA-MAD-01R,23,SOV,E1,"Temporary diversion by Bailey bridge (IRC 24R loading) incl. civil works, complete",each,1.0,17896.61,17896.61,,,MB-MAD-E1-2026-03
+RA-MAD-01R,24,SOV,E2,"Mobilization, site establishment, camps, batching plant set-up",LS,,,29121.08,0.0,60.0,MB-MAD-E2-2026-03
+RA-MAD-01R,25,SOV,E3,"Field laboratory, quality control testing and amenities to WAPCOS",LS,,,2135.55,0.0,11.0,MB-MAD-E3-2026-03

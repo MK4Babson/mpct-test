@@ -1,0 +1,19 @@
+po_id,project_id,prime_id,contract_type,retainage_rate
+PO-WTX-A1-E,WTX-A1,PRM-E,Unit price + lump sum,0.1
+PO-WTX-A1-M,WTX-A1,PRM-M,Unit price + lump sum,0.1
+PO-WTX-A1-C,WTX-A1,PRM-C,Unit price + lump sum,0.1
+PO-WTX-A2-E,WTX-A2,PRM-E,Unit price + lump sum,0.1
+PO-WTX-A2-M,WTX-A2,PRM-M,Unit price + lump sum,0.1
+PO-WTX-A2-C,WTX-A2,PRM-C,Unit price + lump sum,0.1
+PO-WTX-B1-E,WTX-B1,PRM-E,Unit price + lump sum,0.1
+PO-WTX-B1-M,WTX-B1,PRM-M,Unit price + lump sum,0.1
+PO-WTX-B1-C,WTX-B1,PRM-C,Unit price + lump sum,0.1
+PO-WTX-B2-E,WTX-B2,PRM-E,Unit price + lump sum,0.1
+PO-WTX-B2-M,WTX-B2,PRM-M,Unit price + lump sum,0.1
+PO-WTX-B2-C,WTX-B2,PRM-C,Unit price + lump sum,0.1
+PO-WTX-C1-E,WTX-C1,PRM-E,Unit price + lump sum,0.1
+PO-WTX-C1-M,WTX-C1,PRM-M,Unit price + lump sum,0.1
+PO-WTX-C1-C,WTX-C1,PRM-C,Unit price + lump sum,0.1
+PO-WTX-C2-E,WTX-C2,PRM-E,Unit price + lump sum,0.1
+PO-WTX-C2-M,WTX-C2,PRM-M,Unit price + lump sum,0.1
+PO-WTX-C2-C,WTX-C2,PRM-C,Unit price + lump sum,0.1

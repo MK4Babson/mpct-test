@@ -1,0 +1,5 @@
+project_id,campus,project_name,short_name,latitude,longitude,location,structure
+NK-AMB,"Amba Division, North Koel RMC (Bihar)",Distribution Network for Amba Division,Amba,24.64,84.25,"Amba, Aurangabad district, Bihar, India (approximate)",canal
+NK-NAB,"Nabinagar Division, North Koel RMC (Bihar)",Distribution Network for Nabinagar Division,Nabinagar,24.62,84.12,"Nabinagar, Aurangabad district, Bihar, India",canal
+NK-AUR,"Aurangabad Division, North Koel RMC (Bihar)",Distribution Network for Aurangabad Division,Aurangabad,24.7505,84.363,"Aurangabad, Bihar, India",canal
+NK-MAD,"Madanpur Division, North Koel RMC (Bihar)",Distribution Network for Madanpur Division,Madanpur,24.65,84.5632,"Madanpur, Aurangabad district, Bihar, India",canal

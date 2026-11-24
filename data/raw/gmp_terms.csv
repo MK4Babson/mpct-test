@@ -1,0 +1,4 @@
+package_id,prime_id,fee_pct,labor_burden_cap_pct,gc_budget,contract_months,start_period,contingency_budget
+GMP-PRM-E,PRM-E,5.0,38.0,2400000,12,2026-01,600000
+GMP-PRM-M,PRM-M,5.0,38.0,2100000,12,2026-01,500000
+GMP-PRM-C,PRM-C,5.0,38.0,2900000,12,2026-01,700000

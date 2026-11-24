@@ -1,0 +1,25 @@
+invoice_id,po_id,description,location,value,bill_of_sale,insurance_certificate,owner_inspection,delivery_receipt
+INV-1109,PO-WTX-C2-M,Chilled-water pipe and fittings,Off-site bonded warehouse,105277.29,N,Y,Y,Y
+INV-1075,PO-WTX-B2-E,"Switchgear lineup, 15kV","On site, secured laydown",374801.25,Y,Y,Y,Y
+INV-1083,PO-WTX-B2-C,Precast trench sections,Off-site bonded warehouse,54489.4,Y,Y,Y,Y
+INV-1073,PO-WTX-B2-E,Busway sections,"On site, secured laydown",61275.87,Y,Y,Y,Y
+INV-1069,PO-WTX-B1-C,Embed plates,"On site, secured laydown",41139.25,Y,Y,Y,Y
+INV-1094,PO-WTX-C1-M,Pumps and VFDs,Off-site bonded warehouse,104052.86,Y,Y,Y,Y
+INV-1022,PO-WTX-A1-C,Precast trench sections,"On site, secured laydown",53041.96,Y,Y,Y,Y
+INV-1076,PO-WTX-B2-E,Busway sections,Off-site bonded warehouse,60123.1,Y,Y,N,Y
+INV-1107,PO-WTX-C2-E,MV cable reels,"On site, secured laydown",151794.31,Y,Y,Y,Y
+INV-1097,PO-WTX-C1-M,CRAH units,"On site, secured laydown",326153.04,Y,Y,Y,Y
+INV-1099,PO-WTX-C1-C,Embed plates,Off-site bonded warehouse,27833.63,N,Y,Y,Y
+INV-1096,PO-WTX-C1-M,Chilled-water pipe and fittings,Off-site bonded warehouse,113334.14,Y,Y,Y,Y
+INV-1006,PO-WTX-A1-E,"Switchgear lineup, 15kV","On site, secured laydown",327670.64,Y,Y,Y,N
+INV-1080,PO-WTX-B2-M,CRAH units,"On site, secured laydown",418265.22,Y,Y,Y,Y
+INV-1095,PO-WTX-C1-M,CRAH units,"On site, secured laydown",443972.03,Y,Y,Y,Y
+INV-1111,PO-WTX-C2-M,CRAH units,Off-site bonded warehouse,316928.71,Y,Y,Y,Y
+INV-1039,PO-WTX-A2-M,CRAH units,Off-site bonded warehouse,295177.42,Y,Y,Y,Y
+INV-1033,PO-WTX-A2-E,Busway sections,Off-site bonded warehouse,102926.84,Y,Y,Y,Y
+INV-1053,PO-WTX-B1-E,Busway sections,"On site, secured laydown",102569.99,Y,Y,Y,Y
+INV-1036,PO-WTX-A2-M,Chilled-water pipe and fittings,Off-site bonded warehouse,120479.32,Y,Y,Y,Y
+INV-1013,PO-WTX-A1-M,CRAH units,Off-site bonded warehouse,410427.13,Y,Y,Y,Y
+INV-1015,PO-WTX-A1-M,CRAH units,Off-site bonded warehouse,385048.08,Y,Y,Y,Y
+INV-1114,PO-WTX-C2-C,"Rebar, fabricated","On site, secured laydown",149143.62,Y,Y,Y,Y
+INV-1060,PO-WTX-B1-M,Pumps and VFDs,"On site, secured laydown",68848.57,Y,Y,Y,N

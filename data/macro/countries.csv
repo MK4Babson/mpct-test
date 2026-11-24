@@ -1,0 +1,8 @@
+code,name,currency,central_bank,framework,rr_d,rr_n,fx_regime,capital_mobility,broad_label,B0,c0,n0,e0,rate0,target,fx0,fx_drift,fx_vol
+US,United States,USD,Federal Reserve,floor (ample reserves),0.0,0.0,floating,high,M2,3500,0.1,0.2,0.12,1.5,2.0,1.0,0.0,0.0
+IN,India,INR,Reserve Bank of India,"corridor (repo, SDF floor)",0.04,0.04,managed float,medium,M3,30000,1.35,7.2,0.006,6.0,4.0,70.0,0.03,0.008
+KR,Korea,KRW,Bank of Korea,corridor,0.07,0.02,floating,high,M2,230000,0.12,3.5,0.004,1.5,2.0,1100.0,0.02,0.012
+MX,Mexico,MXN,Banco de Mexico,corridor,0.0,0.0,floating,high,M2,1600,0.55,2.2,0.01,7.5,3.0,19.0,-0.005,0.018
+EA,Euro area,EUR,European Central Bank,floor (deposit facility),0.01,0.01,floating,high,M2,3300,0.13,0.85,0.15,-0.4,2.0,0.85,0.008,0.015
+JP,Japan,JPY,Bank of Japan,floor / yield control,0.008,0.008,floating,high,M2,480000,0.13,0.75,0.42,-0.1,2.0,110.0,0.0,0.012
+CN,China,CNY,People's Bank of China,corridor + reserve ratio,0.08,0.08,managed (band),low,M2,32000,0.12,2.6,0.02,4.35,3.0,6.6,0.01,0.008

@@ -1,0 +1,13 @@
+prime_id,coverage,limit_required,limit_on_certificate,expires
+PRM-E,General liability,2000000,2000000,2027-03-31
+PRM-E,Umbrella / excess,10000000,10000000,2027-03-31
+PRM-E,Workers' compensation,1000000,1000000,2027-03-31
+PRM-E,Auto liability,1000000,1000000,2027-03-31
+PRM-M,General liability,2000000,2000000,2027-03-31
+PRM-M,Umbrella / excess,10000000,10000000,2026-07-15
+PRM-M,Workers' compensation,1000000,1000000,2027-03-31
+PRM-M,Auto liability,1000000,1000000,2027-03-31
+PRM-C,General liability,2000000,2000000,2027-03-31
+PRM-C,Umbrella / excess,10000000,10000000,2027-03-31
+PRM-C,Workers' compensation,1000000,1000000,2027-03-31
+PRM-C,Auto liability,1000000,500000,2027-03-31

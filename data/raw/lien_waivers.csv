@@ -1,0 +1,455 @@
+invoice_id,party,waiver_type,amount_covered,received
+INV-1017,Prime contractor,"Conditional, this payment",1000701.99,Y
+INV-1017,Llano Rebar (fictional),"Conditional, this payment",217643.24,Y
+INV-1017,Draw Concrete Pumping (fictional),"Conditional, this payment",87057.3,Y
+INV-1018,Prime contractor,"Conditional, this payment",4305385.92,Y
+INV-1018,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1018,Llano Rebar (fictional),"Conditional, this payment",949434.47,Y
+INV-1018,Draw Concrete Pumping (fictional),"Conditional, this payment",379773.79,Y
+INV-1019,Prime contractor,"Conditional, this payment",9256373.81,Y
+INV-1019,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1019,Llano Rebar (fictional),"Conditional, this payment",2046709.42,Y
+INV-1019,Draw Concrete Pumping (fictional),"Conditional, this payment",818683.77,Y
+INV-1020,Prime contractor,"Conditional, this payment",12725566.08,Y
+INV-1020,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1020,Llano Rebar (fictional),"Conditional, this payment",2818042.82,Y
+INV-1020,Draw Concrete Pumping (fictional),"Conditional, this payment",1127217.13,Y
+INV-1021,Prime contractor,"Conditional, this payment",9188795.83,Y
+INV-1021,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1021,Llano Rebar (fictional),"Conditional, this payment",2029180.18,Y
+INV-1021,Draw Concrete Pumping (fictional),"Conditional, this payment",811672.07,Y
+INV-1022,Prime contractor,"Conditional, this payment",4905184.23,Y
+INV-1022,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1022,Llano Rebar (fictional),"Conditional, this payment",1080493.96,Y
+INV-1022,Draw Concrete Pumping (fictional),"Conditional, this payment",432197.58,Y
+INV-1023,Prime contractor,"Conditional, this payment",2388443.48,Y
+INV-1023,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1023,Llano Rebar (fictional),"Conditional, this payment",521012.51,Y
+INV-1023,Draw Concrete Pumping (fictional),"Conditional, this payment",208405.0,Y
+INV-1024,Prime contractor,"Conditional, this payment",1001642.37,Y
+INV-1024,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1024,Llano Rebar (fictional),"Conditional, this payment",206368.58,Y
+INV-1024,Draw Concrete Pumping (fictional),"Conditional, this payment",82547.43,Y
+INV-1001,Prime contractor,"Conditional, this payment",515614.77,Y
+INV-1001,Caprock Low-Voltage (fictional),"Conditional, this payment",95327.91,Y
+INV-1001,Pecos Cable Pulling (fictional),"Conditional, this payment",63551.94,Y
+INV-1002,Prime contractor,"Conditional, this payment",1124307.64,Y
+INV-1002,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1002,Caprock Low-Voltage (fictional),"Conditional, this payment",213026.71,Y
+INV-1002,Pecos Cable Pulling (fictional),"Conditional, this payment",142017.81,Y
+INV-1003,Prime contractor,"Conditional, this payment",1036891.64,Y
+INV-1003,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1003,Caprock Low-Voltage (fictional),"Conditional, this payment",188373.75,Y
+INV-1003,Pecos Cable Pulling (fictional),"Conditional, this payment",125582.5,Y
+INV-1004,Prime contractor,"Conditional, this payment",1105211.66,Y
+INV-1004,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1004,Caprock Low-Voltage (fictional),"Conditional, this payment",207673.97,Y
+INV-1004,Pecos Cable Pulling (fictional),"Conditional, this payment",138449.31,Y
+INV-1005,Prime contractor,"Conditional, this payment",2243887.28,Y
+INV-1005,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1005,Caprock Low-Voltage (fictional),"Conditional, this payment",431521.34,N
+INV-1005,Pecos Cable Pulling (fictional),"Conditional, this payment",287680.89,Y
+INV-1006,Prime contractor,"Conditional, this payment",4256308.77,Y
+INV-1006,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1006,Caprock Low-Voltage (fictional),"Conditional, this payment",830933.2,Y
+INV-1006,Pecos Cable Pulling (fictional),"Conditional, this payment",553955.47,Y
+INV-1007,Prime contractor,"Conditional, this payment",5326807.89,Y
+INV-1007,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1007,Caprock Low-Voltage (fictional),"Conditional, this payment",1002079.05,Y
+INV-1007,Pecos Cable Pulling (fictional),"Conditional, this payment",668052.7,Y
+INV-1008,Prime contractor,"Conditional, this payment",3831892.89,Y
+INV-1008,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1008,Caprock Low-Voltage (fictional),"Conditional, this payment",748603.47,Y
+INV-1008,Pecos Cable Pulling (fictional),"Conditional, this payment",499068.98,Y
+INV-1009,Prime contractor,"Conditional, this payment",409826.61,Y
+INV-1009,Sandhill Insulation (fictional),"Conditional, this payment",41976.22,Y
+INV-1009,Mesa Controls (fictional),"Conditional, this payment",62964.33,Y
+INV-1010,Prime contractor,"Conditional, this payment",888711.74,Y
+INV-1010,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1010,Sandhill Insulation (fictional),"Conditional, this payment",94446.63,Y
+INV-1010,Mesa Controls (fictional),"Conditional, this payment",141669.94,Y
+INV-1011,Prime contractor,"Conditional, this payment",911785.36,Y
+INV-1011,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1011,Sandhill Insulation (fictional),"Conditional, this payment",95299.18,Y
+INV-1011,Mesa Controls (fictional),"Conditional, this payment",142948.78,Y
+INV-1012,Prime contractor,"Conditional, this payment",1176425.32,Y
+INV-1012,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1012,Sandhill Insulation (fictional),"Conditional, this payment",125003.46,Y
+INV-1012,Mesa Controls (fictional),"Conditional, this payment",187505.19,Y
+INV-1013,Prime contractor,"Conditional, this payment",2503177.84,Y
+INV-1013,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1013,Sandhill Insulation (fictional),"Conditional, this payment",272071.33,Y
+INV-1013,Mesa Controls (fictional),"Conditional, this payment",408106.99,Y
+INV-1014,Prime contractor,"Conditional, this payment",4677369.11,Y
+INV-1014,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1014,Sandhill Insulation (fictional),"Conditional, this payment",514251.59,Y
+INV-1014,Mesa Controls (fictional),"Conditional, this payment",771377.39,Y
+INV-1015,Prime contractor,"Conditional, this payment",5543820.64,Y
+INV-1015,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1015,Sandhill Insulation (fictional),"Conditional, this payment",610623.9,Y
+INV-1015,Mesa Controls (fictional),"Conditional, this payment",915935.86,Y
+INV-1016,Prime contractor,"Conditional, this payment",3937233.83,Y
+INV-1016,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1016,Sandhill Insulation (fictional),"Conditional, this payment",431206.28,Y
+INV-1016,Mesa Controls (fictional),"Conditional, this payment",646809.42,Y
+INV-1042,Prime contractor,"Conditional, this payment",953711.33,Y
+INV-1042,Llano Rebar (fictional),"Conditional, this payment",207063.81,Y
+INV-1042,Draw Concrete Pumping (fictional),"Conditional, this payment",82825.52,Y
+INV-1043,Prime contractor,"Conditional, this payment",3150919.46,Y
+INV-1043,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1043,Llano Rebar (fictional),"Conditional, this payment",693895.88,Y
+INV-1043,Draw Concrete Pumping (fictional),"Conditional, this payment",277558.35,Y
+INV-1044,Prime contractor,"Conditional, this payment",7776866.17,Y
+INV-1044,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1044,Llano Rebar (fictional),"Conditional, this payment",1716426.93,Y
+INV-1044,Draw Concrete Pumping (fictional),"Conditional, this payment",686570.77,Y
+INV-1045,Prime contractor,"Conditional, this payment",10198307.62,Y
+INV-1045,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1045,Llano Rebar (fictional),"Conditional, this payment",2258009.96,Y
+INV-1045,Draw Concrete Pumping (fictional),"Conditional, this payment",903203.98,Y
+INV-1046,Prime contractor,"Conditional, this payment",7775391.69,Y
+INV-1046,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1046,Llano Rebar (fictional),"Conditional, this payment",1720079.98,Y
+INV-1046,Draw Concrete Pumping (fictional),"Conditional, this payment",688031.99,Y
+INV-1047,Prime contractor,"Conditional, this payment",4553919.83,Y
+INV-1047,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1047,Llano Rebar (fictional),"Conditional, this payment",1003796.81,Y
+INV-1047,Draw Concrete Pumping (fictional),"Conditional, this payment",401518.72,Y
+INV-1048,Prime contractor,"Conditional, this payment",2149018.22,Y
+INV-1048,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1048,Llano Rebar (fictional),"Conditional, this payment",468854.15,Y
+INV-1048,Draw Concrete Pumping (fictional),"Conditional, this payment",187541.66,Y
+INV-1049,Prime contractor,"Conditional, this payment",849109.45,Y
+INV-1049,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1049,Llano Rebar (fictional),"Conditional, this payment",174409.82,Y
+INV-1049,Draw Concrete Pumping (fictional),"Conditional, this payment",69763.93,Y
+INV-1025,Prime contractor,"Conditional, this payment",426340.63,Y
+INV-1025,Caprock Low-Voltage (fictional),"Conditional, this payment",80780.33,Y
+INV-1025,Pecos Cable Pulling (fictional),"Conditional, this payment",53853.55,Y
+INV-1026,Prime contractor,"Conditional, this payment",927983.56,Y
+INV-1026,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1026,Caprock Low-Voltage (fictional),"Conditional, this payment",176916.51,Y
+INV-1026,Pecos Cable Pulling (fictional),"Conditional, this payment",117944.34,Y
+INV-1027,Prime contractor,"Conditional, this payment",837088.15,Y
+INV-1027,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1027,Caprock Low-Voltage (fictional),"Conditional, this payment",154535.59,Y
+INV-1027,Pecos Cable Pulling (fictional),"Conditional, this payment",103023.73,Y
+INV-1028,Prime contractor,"Conditional, this payment",944284.09,Y
+INV-1028,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1028,Caprock Low-Voltage (fictional),"Conditional, this payment",176262.94,Y
+INV-1028,Pecos Cable Pulling (fictional),"Conditional, this payment",117508.63,Y
+INV-1029,Prime contractor,"Conditional, this payment",1558360.62,Y
+INV-1029,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1029,Caprock Low-Voltage (fictional),"Conditional, this payment",299204.84,Y
+INV-1029,Pecos Cable Pulling (fictional),"Conditional, this payment",199469.9,Y
+INV-1030,Prime contractor,"Conditional, this payment",1558360.62,Y
+INV-1030,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1030,Caprock Low-Voltage (fictional),"Conditional, this payment",299204.84,Y
+INV-1030,Pecos Cable Pulling (fictional),"Conditional, this payment",199469.9,Y
+INV-1031,Prime contractor,"Conditional, this payment",2964077.89,Y
+INV-1031,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1031,Caprock Low-Voltage (fictional),"Conditional, this payment",580579.22,Y
+INV-1031,Pecos Cable Pulling (fictional),"Conditional, this payment",387052.81,Y
+INV-1032,Prime contractor,"Conditional, this payment",3852359.43,Y
+INV-1032,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1032,Caprock Low-Voltage (fictional),"Conditional, this payment",758807.49,Y
+INV-1032,Pecos Cable Pulling (fictional),"Conditional, this payment",505871.66,Y
+INV-1033,Prime contractor,"Conditional, this payment",2880137.13,Y
+INV-1033,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1033,Caprock Low-Voltage (fictional),"Conditional, this payment",562382.31,N
+INV-1033,Pecos Cable Pulling (fictional),"Conditional, this payment",374921.54,Y
+INV-1034,Prime contractor,"Conditional, this payment",351431.98,Y
+INV-1034,Sandhill Insulation (fictional),"Conditional, this payment",36077.78,Y
+INV-1034,Mesa Controls (fictional),"Conditional, this payment",54116.66,Y
+INV-1035,Prime contractor,"Conditional, this payment",971072.61,Y
+INV-1035,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1035,Sandhill Insulation (fictional),"Conditional, this payment",103274.64,Y
+INV-1035,Mesa Controls (fictional),"Conditional, this payment",154911.95,Y
+INV-1036,Prime contractor,"Conditional, this payment",887744.86,Y
+INV-1036,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1036,Sandhill Insulation (fictional),"Conditional, this payment",93589.74,Y
+INV-1036,Mesa Controls (fictional),"Conditional, this payment",140384.61,Y
+INV-1037,Prime contractor,"Conditional, this payment",1117167.83,Y
+INV-1037,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1037,Sandhill Insulation (fictional),"Conditional, this payment",118814.01,Y
+INV-1037,Mesa Controls (fictional),"Conditional, this payment",178221.02,Y
+INV-1038,Prime contractor,"Conditional, this payment",2342763.77,Y
+INV-1038,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1038,Sandhill Insulation (fictional),"Conditional, this payment",254479.26,N
+INV-1038,Mesa Controls (fictional),"Conditional, this payment",381718.89,Y
+INV-1039,Prime contractor,"Conditional, this payment",4509322.73,Y
+INV-1039,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1039,Sandhill Insulation (fictional),"Conditional, this payment",494957.23,Y
+INV-1039,Mesa Controls (fictional),"Conditional, this payment",742435.84,Y
+INV-1040,Prime contractor,"Conditional, this payment",5198896.66,Y
+INV-1040,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1040,Sandhill Insulation (fictional),"Conditional, this payment",572499.02,Y
+INV-1040,Mesa Controls (fictional),"Conditional, this payment",858748.53,Y
+INV-1041,Prime contractor,"Conditional, this payment",3248705.69,Y
+INV-1041,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1041,Sandhill Insulation (fictional),"Conditional, this payment",355483.74,Y
+INV-1041,Mesa Controls (fictional),"Conditional, this payment",533225.61,Y
+INV-1064,Prime contractor,"Conditional, this payment",1275487.92,Y
+INV-1064,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1064,Llano Rebar (fictional),"Conditional, this payment",276492.56,Y
+INV-1064,Draw Concrete Pumping (fictional),"Conditional, this payment",110597.02,Y
+INV-1065,Prime contractor,"Conditional, this payment",5035036.69,Y
+INV-1065,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1065,Llano Rebar (fictional),"Conditional, this payment",1111217.26,Y
+INV-1065,Draw Concrete Pumping (fictional),"Conditional, this payment",444486.91,Y
+INV-1066,Prime contractor,"Conditional, this payment",10771035.61,Y
+INV-1066,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1066,Llano Rebar (fictional),"Conditional, this payment",2382824.89,Y
+INV-1066,Draw Concrete Pumping (fictional),"Conditional, this payment",953129.96,Y
+INV-1067,Prime contractor,"Conditional, this payment",14110347.33,Y
+INV-1067,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1067,Llano Rebar (fictional),"Conditional, this payment",3122035.49,Y
+INV-1067,Draw Concrete Pumping (fictional),"Conditional, this payment",1248814.19,Y
+INV-1068,Prime contractor,"Conditional, this payment",10510705.77,Y
+INV-1068,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1068,Llano Rebar (fictional),"Conditional, this payment",2326083.9,Y
+INV-1068,Draw Concrete Pumping (fictional),"Conditional, this payment",930433.56,Y
+INV-1069,Prime contractor,"Conditional, this payment",5789401.27,Y
+INV-1069,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1069,Llano Rebar (fictional),"Conditional, this payment",1272270.82,Y
+INV-1069,Draw Concrete Pumping (fictional),"Conditional, this payment",508908.33,Y
+INV-1070,Prime contractor,"Conditional, this payment",2709649.96,Y
+INV-1070,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1070,Llano Rebar (fictional),"Conditional, this payment",591925.68,Y
+INV-1070,Draw Concrete Pumping (fictional),"Conditional, this payment",236770.27,Y
+INV-1050,Prime contractor,"Conditional, this payment",584339.34,Y
+INV-1050,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1050,Caprock Low-Voltage (fictional),"Conditional, this payment",107975.11,Y
+INV-1050,Pecos Cable Pulling (fictional),"Conditional, this payment",71983.41,Y
+INV-1051,Prime contractor,"Conditional, this payment",1219404.89,Y
+INV-1051,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1051,Caprock Low-Voltage (fictional),"Conditional, this payment",232047.86,Y
+INV-1051,Pecos Cable Pulling (fictional),"Conditional, this payment",154698.57,Y
+INV-1052,Prime contractor,"Conditional, this payment",982509.37,Y
+INV-1052,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1052,Caprock Low-Voltage (fictional),"Conditional, this payment",180693.83,Y
+INV-1052,Pecos Cable Pulling (fictional),"Conditional, this payment",120462.56,Y
+INV-1053,Prime contractor,"Conditional, this payment",1221520.42,Y
+INV-1053,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1053,Caprock Low-Voltage (fictional),"Conditional, this payment",227774.4,Y
+INV-1053,Pecos Cable Pulling (fictional),"Conditional, this payment",151849.6,Y
+INV-1054,Prime contractor,"Conditional, this payment",2069217.0,Y
+INV-1054,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1054,Caprock Low-Voltage (fictional),"Conditional, this payment",397434.76,Y
+INV-1054,Pecos Cable Pulling (fictional),"Conditional, this payment",264956.51,Y
+INV-1055,Prime contractor,"Conditional, this payment",4188361.75,Y
+INV-1055,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1055,Caprock Low-Voltage (fictional),"Conditional, this payment",821429.11,Y
+INV-1055,Pecos Cable Pulling (fictional),"Conditional, this payment",547619.41,Y
+INV-1056,Prime contractor,"Conditional, this payment",5605182.07,Y
+INV-1056,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1056,Caprock Low-Voltage (fictional),"Conditional, this payment",1105475.53,Y
+INV-1056,Pecos Cable Pulling (fictional),"Conditional, this payment",736983.69,Y
+INV-1057,Prime contractor,"Conditional, this payment",478921.02,Y
+INV-1057,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1057,Sandhill Insulation (fictional),"Conditional, this payment",49123.05,Y
+INV-1057,Mesa Controls (fictional),"Conditional, this payment",73684.57,Y
+INV-1058,Prime contractor,"Conditional, this payment",1203387.36,Y
+INV-1058,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1058,Sandhill Insulation (fictional),"Conditional, this payment",124113.7,Y
+INV-1058,Mesa Controls (fictional),"Conditional, this payment",186170.54,Y
+INV-1059,Prime contractor,"Conditional, this payment",1117607.92,Y
+INV-1059,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1059,Sandhill Insulation (fictional),"Conditional, this payment",117547.94,Y
+INV-1059,Mesa Controls (fictional),"Conditional, this payment",176321.9,Y
+INV-1060,Prime contractor,"Conditional, this payment",1451464.34,Y
+INV-1060,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1060,Sandhill Insulation (fictional),"Conditional, this payment",154372.39,Y
+INV-1060,Mesa Controls (fictional),"Conditional, this payment",231558.59,Y
+INV-1061,Prime contractor,"Conditional, this payment",3125664.32,Y
+INV-1061,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1061,Sandhill Insulation (fictional),"Conditional, this payment",340116.77,Y
+INV-1061,Mesa Controls (fictional),"Conditional, this payment",510175.15,Y
+INV-1062,Prime contractor,"Conditional, this payment",5852656.38,Y
+INV-1062,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1062,Sandhill Insulation (fictional),"Conditional, this payment",643385.8,Y
+INV-1062,Mesa Controls (fictional),"Conditional, this payment",965078.7,Y
+INV-1063,Prime contractor,"Conditional, this payment",7083153.62,Y
+INV-1063,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1063,Sandhill Insulation (fictional),"Conditional, this payment",779473.6,Y
+INV-1063,Mesa Controls (fictional),"Conditional, this payment",1169210.4,Y
+INV-1083,Prime contractor,"Conditional, this payment",935933.62,Y
+INV-1083,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1083,Llano Rebar (fictional),"Conditional, this payment",202447.29,Y
+INV-1083,Draw Concrete Pumping (fictional),"Conditional, this payment",80978.92,Y
+INV-1084,Prime contractor,"Conditional, this payment",3121636.2,Y
+INV-1084,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1084,Llano Rebar (fictional),"Conditional, this payment",687461.11,Y
+INV-1084,Draw Concrete Pumping (fictional),"Conditional, this payment",274984.44,Y
+INV-1085,Prime contractor,"Conditional, this payment",7476910.27,Y
+INV-1085,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1085,Llano Rebar (fictional),"Conditional, this payment",1653388.95,Y
+INV-1085,Draw Concrete Pumping (fictional),"Conditional, this payment",661355.58,Y
+INV-1086,Prime contractor,"Conditional, this payment",10022366.84,Y
+INV-1086,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1086,Llano Rebar (fictional),"Conditional, this payment",2219244.59,Y
+INV-1086,Draw Concrete Pumping (fictional),"Conditional, this payment",887697.83,Y
+INV-1087,Prime contractor,"Conditional, this payment",8178565.64,Y
+INV-1087,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1087,Llano Rebar (fictional),"Conditional, this payment",1807728.72,Y
+INV-1087,Draw Concrete Pumping (fictional),"Conditional, this payment",723091.49,Y
+INV-1088,Prime contractor,"Conditional, this payment",4812398.37,Y
+INV-1088,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1088,Llano Rebar (fictional),"Conditional, this payment",1060638.48,Y
+INV-1088,Draw Concrete Pumping (fictional),"Conditional, this payment",424255.39,Y
+INV-1071,Prime contractor,"Conditional, this payment",416816.7,Y
+INV-1071,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1071,Caprock Low-Voltage (fictional),"Conditional, this payment",77094.9,Y
+INV-1071,Pecos Cable Pulling (fictional),"Conditional, this payment",51396.6,Y
+INV-1072,Prime contractor,"Conditional, this payment",928676.77,Y
+INV-1072,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1072,Caprock Low-Voltage (fictional),"Conditional, this payment",176453.91,Y
+INV-1072,Pecos Cable Pulling (fictional),"Conditional, this payment",117635.94,Y
+INV-1073,Prime contractor,"Conditional, this payment",811952.97,Y
+INV-1073,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1073,Caprock Low-Voltage (fictional),"Conditional, this payment",149591.47,Y
+INV-1073,Pecos Cable Pulling (fictional),"Conditional, this payment",99727.65,Y
+INV-1074,Prime contractor,"Conditional, this payment",896343.83,Y
+INV-1074,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1074,Caprock Low-Voltage (fictional),"Conditional, this payment",167420.01,Y
+INV-1074,Pecos Cable Pulling (fictional),"Conditional, this payment",111613.34,Y
+INV-1075,Prime contractor,"Conditional, this payment",1628049.36,Y
+INV-1075,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1075,Caprock Low-Voltage (fictional),"Conditional, this payment",314039.59,Y
+INV-1075,Pecos Cable Pulling (fictional),"Conditional, this payment",209359.73,Y
+INV-1076,Prime contractor,"Conditional, this payment",3088327.11,Y
+INV-1076,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1076,Caprock Low-Voltage (fictional),"Conditional, this payment",604917.98,Y
+INV-1076,Pecos Cable Pulling (fictional),"Conditional, this payment",403278.66,Y
+INV-1077,Prime contractor,"Conditional, this payment",369695.75,Y
+INV-1077,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1077,Sandhill Insulation (fictional),"Conditional, this payment",37873.24,Y
+INV-1077,Mesa Controls (fictional),"Conditional, this payment",56809.86,Y
+INV-1078,Prime contractor,"Conditional, this payment",722743.78,Y
+INV-1078,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1078,Sandhill Insulation (fictional),"Conditional, this payment",76335.0,Y
+INV-1078,Mesa Controls (fictional),"Conditional, this payment",114502.5,Y
+INV-1079,Prime contractor,"Conditional, this payment",915268.41,Y
+INV-1079,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1079,Sandhill Insulation (fictional),"Conditional, this payment",96343.66,Y
+INV-1079,Mesa Controls (fictional),"Conditional, this payment",144515.49,Y
+INV-1080,Prime contractor,"Conditional, this payment",1283495.63,Y
+INV-1080,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1080,Sandhill Insulation (fictional),"Conditional, this payment",137045.44,Y
+INV-1080,Mesa Controls (fictional),"Conditional, this payment",205568.16,Y
+INV-1081,Prime contractor,"Conditional, this payment",2227646.75,Y
+INV-1081,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1081,Sandhill Insulation (fictional),"Conditional, this payment",242364.8,Y
+INV-1081,Mesa Controls (fictional),"Conditional, this payment",363547.19,Y
+INV-1082,Prime contractor,"Conditional, this payment",4297588.11,Y
+INV-1082,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1082,Sandhill Insulation (fictional),"Conditional, this payment",471720.15,Y
+INV-1082,Mesa Controls (fictional),"Conditional, this payment",707580.22,Y
+INV-1099,Prime contractor,"Conditional, this payment",1108785.0,Y
+INV-1099,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1099,Llano Rebar (fictional),"Conditional, this payment",241269.91,Y
+INV-1099,Draw Concrete Pumping (fictional),"Conditional, this payment",96507.96,Y
+INV-1100,Prime contractor,"Conditional, this payment",4180641.48,Y
+INV-1100,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1100,Llano Rebar (fictional),"Conditional, this payment",921305.93,Y
+INV-1100,Draw Concrete Pumping (fictional),"Conditional, this payment",368522.37,Y
+INV-1101,Prime contractor,"Conditional, this payment",9720673.55,Y
+INV-1101,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1101,Llano Rebar (fictional),"Conditional, this payment",2150479.23,Y
+INV-1101,Draw Concrete Pumping (fictional),"Conditional, this payment",860191.69,Y
+INV-1102,Prime contractor,"Conditional, this payment",12764912.68,Y
+INV-1102,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1102,Llano Rebar (fictional),"Conditional, this payment",2827500.24,Y
+INV-1102,Draw Concrete Pumping (fictional),"Conditional, this payment",1131000.1,Y
+INV-1103,Prime contractor,"Conditional, this payment",10518896.43,Y
+INV-1103,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1103,Llano Rebar (fictional),"Conditional, this payment",2326900.5,Y
+INV-1103,Draw Concrete Pumping (fictional),"Conditional, this payment",930760.2,Y
+INV-1089,Prime contractor,"Conditional, this payment",653163.03,Y
+INV-1089,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1089,Caprock Low-Voltage (fictional),"Conditional, this payment",120099.31,Y
+INV-1089,Pecos Cable Pulling (fictional),"Conditional, this payment",80066.21,Y
+INV-1090,Prime contractor,"Conditional, this payment",1104849.52,Y
+INV-1090,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1090,Caprock Low-Voltage (fictional),"Conditional, this payment",210241.34,Y
+INV-1090,Pecos Cable Pulling (fictional),"Conditional, this payment",140160.9,Y
+INV-1091,Prime contractor,"Conditional, this payment",853823.44,Y
+INV-1091,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1091,Caprock Low-Voltage (fictional),"Conditional, this payment",157169.05,Y
+INV-1091,Pecos Cable Pulling (fictional),"Conditional, this payment",104779.37,Y
+INV-1092,Prime contractor,"Conditional, this payment",1149285.47,Y
+INV-1092,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1092,Caprock Low-Voltage (fictional),"Conditional, this payment",215272.57,Y
+INV-1092,Pecos Cable Pulling (fictional),"Conditional, this payment",143515.05,Y
+INV-1093,Prime contractor,"Conditional, this payment",1968315.16,Y
+INV-1093,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1093,Caprock Low-Voltage (fictional),"Conditional, this payment",377798.95,Y
+INV-1093,Pecos Cable Pulling (fictional),"Conditional, this payment",251865.97,Y
+INV-1094,Prime contractor,"Conditional, this payment",525658.09,Y
+INV-1094,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1094,Sandhill Insulation (fictional),"Conditional, this payment",54913.72,Y
+INV-1094,Mesa Controls (fictional),"Conditional, this payment",82370.58,Y
+INV-1095,Prime contractor,"Conditional, this payment",941633.37,Y
+INV-1095,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1095,Sandhill Insulation (fictional),"Conditional, this payment",99904.19,Y
+INV-1095,Mesa Controls (fictional),"Conditional, this payment",149856.28,N
+INV-1096,Prime contractor,"Conditional, this payment",1068288.42,Y
+INV-1096,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1096,Sandhill Insulation (fictional),"Conditional, this payment",113323.89,Y
+INV-1096,Mesa Controls (fictional),"Conditional, this payment",169985.84,Y
+INV-1097,Prime contractor,"Conditional, this payment",1637464.25,Y
+INV-1097,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1097,Sandhill Insulation (fictional),"Conditional, this payment",175323.97,Y
+INV-1097,Mesa Controls (fictional),"Conditional, this payment",262985.96,Y
+INV-1098,Prime contractor,"Conditional, this payment",2683189.51,Y
+INV-1098,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1098,Sandhill Insulation (fictional),"Conditional, this payment",291791.47,Y
+INV-1098,Mesa Controls (fictional),"Conditional, this payment",437687.2,Y
+INV-1112,Prime contractor,"Conditional, this payment",817469.13,Y
+INV-1112,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1112,Llano Rebar (fictional),"Conditional, this payment",177318.61,N
+INV-1112,Draw Concrete Pumping (fictional),"Conditional, this payment",70927.44,Y
+INV-1113,Prime contractor,"Conditional, this payment",2875766.46,Y
+INV-1113,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1113,Llano Rebar (fictional),"Conditional, this payment",632333.21,Y
+INV-1113,Draw Concrete Pumping (fictional),"Conditional, this payment",252933.29,Y
+INV-1114,Prime contractor,"Conditional, this payment",7076848.84,Y
+INV-1114,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1114,Llano Rebar (fictional),"Conditional, this payment",1486748.79,Y
+INV-1114,Draw Concrete Pumping (fictional),"Conditional, this payment",594699.52,Y
+INV-1115,Prime contractor,"Conditional, this payment",9167668.73,Y
+INV-1115,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1115,Llano Rebar (fictional),"Conditional, this payment",2028982.78,Y
+INV-1115,Draw Concrete Pumping (fictional),"Conditional, this payment",811593.11,Y
+INV-1104,Prime contractor,"Conditional, this payment",446489.2,Y
+INV-1104,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1104,Caprock Low-Voltage (fictional),"Conditional, this payment",82426.72,Y
+INV-1104,Pecos Cable Pulling (fictional),"Conditional, this payment",54951.15,Y
+INV-1105,Prime contractor,"Conditional, this payment",941355.0,Y
+INV-1105,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1105,Caprock Low-Voltage (fictional),"Conditional, this payment",178694.52,Y
+INV-1105,Pecos Cable Pulling (fictional),"Conditional, this payment",119129.68,N
+INV-1106,Prime contractor,"Conditional, this payment",677207.38,Y
+INV-1106,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1106,Caprock Low-Voltage (fictional),"Conditional, this payment",124717.96,Y
+INV-1106,Pecos Cable Pulling (fictional),"Conditional, this payment",83145.3,Y
+INV-1107,Prime contractor,"Conditional, this payment",805115.44,Y
+INV-1107,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1107,Caprock Low-Voltage (fictional),"Conditional, this payment",150566.61,Y
+INV-1107,Pecos Cable Pulling (fictional),"Conditional, this payment",100377.74,Y
+INV-1108,Prime contractor,"Conditional, this payment",329661.85,Y
+INV-1108,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1108,Sandhill Insulation (fictional),"Conditional, this payment",33793.06,Y
+INV-1108,Mesa Controls (fictional),"Conditional, this payment",50689.59,Y
+INV-1109,Prime contractor,"Conditional, this payment",707252.59,Y
+INV-1109,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1109,Sandhill Insulation (fictional),"Conditional, this payment",74440.83,Y
+INV-1109,Mesa Controls (fictional),"Conditional, this payment",111661.25,Y
+INV-1110,Prime contractor,"Conditional, this payment",695931.48,Y
+INV-1110,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1110,Sandhill Insulation (fictional),"Conditional, this payment",72692.9,Y
+INV-1110,Mesa Controls (fictional),"Conditional, this payment",109039.35,Y
+INV-1111,Prime contractor,"Conditional, this payment",1027509.36,Y
+INV-1111,Prime contractor,"Unconditional, previous payment",0.0,Y
+INV-1111,Sandhill Insulation (fictional),"Conditional, this payment",109489.9,Y
+INV-1111,Mesa Controls (fictional),"Conditional, this payment",164234.84,Y

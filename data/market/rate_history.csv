@@ -1,0 +1,1601 @@
+bid_id,item_code,family,trade,unit,period,region,union_labor,accelerated,site_difficulty,quantity,unit_rate
+BID-00001,E-103,Conduit,Electrical,LF,2020-10,Mountain West,0,0,2,7379.2,89.54
+BID-00002,M-206,Galvanized ductwork,Mechanical,LB,2023-10,West Texas,1,0,1,483506.8,13.07
+BID-00003,E-102,MV cable,Electrical,LF,2025-09,West Texas,1,0,1,67612.4,48.45
+BID-00004,C-302,Structural concrete,Civil,CY,2019-05,West Texas,0,0,3,33991.3,420.58
+BID-00005,E-101,Cable tray,Electrical,LF,2024-11,West Texas,0,0,1,26593.6,53.37
+BID-00006,C-306,Duct bank,Civil,LF,2023-11,West Texas,1,0,1,11857.2,245.27
+BID-00007,C-306,Duct bank,Civil,LF,2020-09,Southeast,1,0,2,5317.4,216.02
+BID-00008,M-206,Galvanized ductwork,Mechanical,LB,2021-05,Mountain West,0,0,1,204716.4,17.11
+BID-00009,M-203,CDU set/connect,Mechanical,EA,2026-08,Gulf Coast,0,0,2,127.3,17975.31
+BID-00010,M-206,Galvanized ductwork,Mechanical,LB,2022-11,West Texas,0,0,1,222086.3,12.33
+BID-00011,C-302,Structural concrete,Civil,CY,2022-07,West Texas,0,0,1,18360.2,422.84
+BID-00012,M-203,CDU set/connect,Mechanical,EA,2025-03,Mountain West,0,0,2,596.0,14911.17
+BID-00013,M-203,CDU set/connect,Mechanical,EA,2020-04,West Texas,0,1,1,126.9,10134.44
+BID-00014,C-304,Aggregate base,Civil,SY,2021-04,Mountain West,0,0,3,239976.6,18.63
+BID-00015,M-206,Galvanized ductwork,Mechanical,LB,2026-07,West Texas,0,0,1,190873.6,15.39
+BID-00016,M-203,CDU set/connect,Mechanical,EA,2021-02,West Texas,0,0,1,94.4,12173.97
+BID-00017,E-105,Switchgear set/terminate,Electrical,EA,2020-04,Mountain West,0,0,2,17.9,36945.42
+BID-00018,C-305,Storm drain RCP 36in,Civil,LF,2021-01,Gulf Coast,1,0,1,16208.1,138.61
+BID-00019,M-201,Chilled water pipe 12in,Mechanical,LF,2024-09,Gulf Coast,0,1,1,14070.0,319.59
+BID-00020,E-105,Switchgear set/terminate,Electrical,EA,2022-09,Gulf Coast,1,0,1,24.3,38747.82
+BID-00021,E-107,Generator set/terminate,Electrical,EA,2018-12,Midwest,0,1,2,21.0,71236.91
+BID-00022,E-105,Switchgear set/terminate,Electrical,EA,2019-01,West Texas,1,0,1,23.7,30540.85
+BID-00023,E-105,Switchgear set/terminate,Electrical,EA,2022-07,West Texas,0,0,2,9.8,36188.33
+BID-00024,E-106,UPS set/terminate,Electrical,EA,2019-04,Midwest,1,1,2,19.1,25052.76
+BID-00025,M-205,CRAH set/connect,Mechanical,EA,2018-11,Midwest,0,0,2,106.8,8091.9
+BID-00026,C-305,Storm drain RCP 36in,Civil,LF,2021-08,Gulf Coast,1,1,1,10750.5,165.59
+BID-00027,M-204,Chiller set/connect,Mechanical,EA,2019-03,Southeast,1,0,1,16.9,46125.23
+BID-00028,C-301,Mass excavation,Civil,CY,2026-03,Southeast,0,0,1,740105.6,8.62
+BID-00029,E-106,UPS set/terminate,Electrical,EA,2024-02,Gulf Coast,1,0,2,16.2,25573.66
+BID-00030,M-203,CDU set/connect,Mechanical,EA,2020-10,Gulf Coast,1,0,1,79.4,13737.93
+BID-00031,M-204,Chiller set/connect,Mechanical,EA,2020-01,Gulf Coast,1,1,3,82.1,53045.62
+BID-00032,M-206,Galvanized ductwork,Mechanical,LB,2024-11,Gulf Coast,0,1,1,197204.9,13.83
+BID-00033,M-204,Chiller set/connect,Mechanical,EA,2022-09,Midwest,0,1,2,66.6,48010.6
+BID-00034,E-107,Generator set/terminate,Electrical,EA,2024-06,Southeast,0,0,1,45.9,57892.18
+BID-00035,C-305,Storm drain RCP 36in,Civil,LF,2026-03,Midwest,1,0,3,4268.7,224.16
+BID-00036,E-102,MV cable,Electrical,LF,2025-07,Mountain West,1,0,1,45619.9,52.98
+BID-00037,M-202,Process pipe 8in,Mechanical,LF,2025-12,West Texas,0,0,3,27047.6,206.66
+BID-00038,E-107,Generator set/terminate,Electrical,EA,2019-03,Mountain West,1,0,1,38.1,53834.8
+BID-00039,E-103,Conduit,Electrical,LF,2020-08,Midwest,0,0,2,17081.1,63.05
+BID-00040,E-101,Cable tray,Electrical,LF,2023-04,Gulf Coast,1,0,1,4550.8,71.61
+BID-00041,M-205,CRAH set/connect,Mechanical,EA,2022-08,Southeast,1,0,2,103.9,9484.84
+BID-00042,E-107,Generator set/terminate,Electrical,EA,2021-01,West Texas,1,0,3,29.0,63369.88
+BID-00043,E-102,MV cable,Electrical,LF,2022-07,West Texas,1,0,1,73705.6,45.45
+BID-00044,M-201,Chilled water pipe 12in,Mechanical,LF,2026-06,Midwest,0,1,3,10116.2,401.09
+BID-00045,E-105,Switchgear set/terminate,Electrical,EA,2023-08,Southeast,1,0,3,13.5,49033.38
+BID-00046,M-201,Chilled water pipe 12in,Mechanical,LF,2020-05,Southeast,0,0,2,15304.2,265.06
+BID-00047,E-107,Generator set/terminate,Electrical,EA,2019-03,Gulf Coast,0,0,1,30.7,51690.12
+BID-00048,E-102,MV cable,Electrical,LF,2026-06,Gulf Coast,0,1,1,33764.3,59.41
+BID-00049,C-302,Structural concrete,Civil,CY,2020-04,Mountain West,0,0,2,24541.6,404.95
+BID-00050,E-105,Switchgear set/terminate,Electrical,EA,2018-12,Gulf Coast,0,0,1,65.0,29817.24
+BID-00051,C-302,Structural concrete,Civil,CY,2021-10,West Texas,0,0,2,97784.5,345.31
+BID-00052,C-303,Reinforcing steel,Civil,TON,2018-09,Southeast,0,0,1,4408.4,1716.43
+BID-00053,E-107,Generator set/terminate,Electrical,EA,2022-09,Midwest,1,0,1,158.5,63910.81
+BID-00054,E-102,MV cable,Electrical,LF,2021-11,West Texas,0,1,1,25671.1,53.0
+BID-00055,E-105,Switchgear set/terminate,Electrical,EA,2022-07,Gulf Coast,1,0,1,13.6,42524.39
+BID-00056,E-103,Conduit,Electrical,LF,2025-10,Midwest,1,0,1,19956.4,85.11
+BID-00057,E-106,UPS set/terminate,Electrical,EA,2020-02,West Texas,0,1,1,21.5,17056.44
+BID-00058,M-206,Galvanized ductwork,Mechanical,LB,2020-09,Southeast,0,0,1,174705.4,12.59
+BID-00059,C-303,Reinforcing steel,Civil,TON,2023-02,Gulf Coast,0,0,2,6519.0,2263.03
+BID-00060,C-301,Mass excavation,Civil,CY,2024-03,West Texas,0,0,1,121499.8,9.11
+BID-00061,E-104,Busway,Electrical,LF,2022-08,Southeast,0,0,1,2061.4,1176.95
+BID-00062,M-201,Chilled water pipe 12in,Mechanical,LF,2024-10,Gulf Coast,0,1,1,9335.4,322.72
+BID-00063,C-304,Aggregate base,Civil,SY,2021-05,Midwest,0,0,2,537224.6,16.19
+BID-00064,C-306,Duct bank,Civil,LF,2022-06,Midwest,1,0,2,4112.3,294.18
+BID-00065,M-203,CDU set/connect,Mechanical,EA,2022-01,Midwest,1,0,2,82.8,15462.98
+BID-00066,E-106,UPS set/terminate,Electrical,EA,2019-02,West Texas,0,0,1,52.9,15750.91
+BID-00067,C-305,Storm drain RCP 36in,Civil,LF,2019-05,Mountain West,0,1,3,3057.5,161.06
+BID-00068,M-203,CDU set/connect,Mechanical,EA,2024-11,Gulf Coast,0,0,1,192.4,14249.81
+BID-00069,C-302,Structural concrete,Civil,CY,2022-12,Gulf Coast,0,0,1,21166.5,523.38
+BID-00070,E-101,Cable tray,Electrical,LF,2023-05,Southeast,0,1,2,14300.7,62.14
+BID-00071,E-106,UPS set/terminate,Electrical,EA,2022-08,Southeast,0,0,1,34.5,19078.8
+BID-00072,M-206,Galvanized ductwork,Mechanical,LB,2021-01,Midwest,0,1,1,395347.1,16.4
+BID-00073,E-106,UPS set/terminate,Electrical,EA,2021-06,Midwest,0,0,2,63.7,19896.21
+BID-00074,C-301,Mass excavation,Civil,CY,2019-04,West Texas,0,0,1,810776.6,7.47
+BID-00075,C-305,Storm drain RCP 36in,Civil,LF,2018-01,West Texas,0,0,1,9802.0,130.36
+BID-00076,M-202,Process pipe 8in,Mechanical,LF,2018-08,Gulf Coast,0,1,1,13395.6,188.19
+BID-00077,E-103,Conduit,Electrical,LF,2018-06,Midwest,0,0,2,13293.3,57.32
+BID-00078,M-205,CRAH set/connect,Mechanical,EA,2024-02,Gulf Coast,0,0,1,136.2,10065.01
+BID-00079,E-107,Generator set/terminate,Electrical,EA,2020-11,West Texas,0,0,1,81.6,46680.19
+BID-00080,M-205,CRAH set/connect,Mechanical,EA,2018-12,Midwest,0,0,1,175.7,8232.92
+BID-00081,C-304,Aggregate base,Civil,SY,2020-06,West Texas,0,0,1,122347.8,14.6
+BID-00082,M-205,CRAH set/connect,Mechanical,EA,2020-10,Southeast,0,0,1,169.5,7462.78
+BID-00083,E-101,Cable tray,Electrical,LF,2021-04,Southeast,1,0,2,50813.1,67.16
+BID-00084,E-106,UPS set/terminate,Electrical,EA,2026-01,West Texas,0,0,2,43.2,22486.86
+BID-00085,C-306,Duct bank,Civil,LF,2026-06,Midwest,0,0,1,3246.2,242.64
+BID-00086,C-302,Structural concrete,Civil,CY,2020-01,West Texas,0,0,1,54672.5,340.07
+BID-00087,E-102,MV cable,Electrical,LF,2019-08,Midwest,0,0,2,25265.5,40.65
+BID-00088,E-105,Switchgear set/terminate,Electrical,EA,2022-04,Southeast,0,0,2,11.4,35255.32
+BID-00089,E-104,Busway,Electrical,LF,2021-05,Southeast,0,0,1,3451.6,911.77
+BID-00090,M-206,Galvanized ductwork,Mechanical,LB,2019-07,Midwest,0,0,1,247293.8,12.21
+BID-00091,C-305,Storm drain RCP 36in,Civil,LF,2025-10,Midwest,0,0,1,3890.7,181.71
+BID-00092,C-303,Reinforcing steel,Civil,TON,2023-08,Gulf Coast,0,0,1,5979.5,1915.6
+BID-00093,M-201,Chilled water pipe 12in,Mechanical,LF,2022-03,Midwest,0,0,1,23141.9,331.53
+BID-00094,M-203,CDU set/connect,Mechanical,EA,2023-09,Gulf Coast,0,0,3,71.4,15648.82
+BID-00095,M-205,CRAH set/connect,Mechanical,EA,2026-06,Mountain West,0,1,1,286.6,10503.05
+BID-00096,C-306,Duct bank,Civil,LF,2024-02,Gulf Coast,0,0,1,8209.9,257.63
+BID-00097,C-303,Reinforcing steel,Civil,TON,2021-12,Southeast,1,0,1,6273.3,2741.45
+BID-00098,C-302,Structural concrete,Civil,CY,2021-11,Midwest,1,1,1,20329.7,437.42
+BID-00099,E-104,Busway,Electrical,LF,2024-02,Mountain West,1,0,1,1332.7,1218.12
+BID-00100,M-206,Galvanized ductwork,Mechanical,LB,2024-06,Midwest,0,0,1,107630.6,12.61
+BID-00101,C-304,Aggregate base,Civil,SY,2019-06,Mountain West,0,0,1,446765.6,14.06
+BID-00102,M-202,Process pipe 8in,Mechanical,LF,2018-03,Gulf Coast,0,0,1,41662.4,130.58
+BID-00103,M-203,CDU set/connect,Mechanical,EA,2018-03,Mountain West,1,1,1,314.3,12773.29
+BID-00104,E-107,Generator set/terminate,Electrical,EA,2025-05,Gulf Coast,0,0,1,85.1,66423.04
+BID-00105,E-107,Generator set/terminate,Electrical,EA,2021-09,Southeast,0,1,2,39.4,57878.57
+BID-00106,E-107,Generator set/terminate,Electrical,EA,2018-01,Southeast,0,1,1,23.7,50346.03
+BID-00107,E-101,Cable tray,Electrical,LF,2022-05,Mountain West,0,0,1,34508.5,61.93
+BID-00108,E-104,Busway,Electrical,LF,2019-05,Mountain West,1,0,1,2256.5,1016.25
+BID-00109,E-104,Busway,Electrical,LF,2023-12,West Texas,0,0,1,19289.2,1030.05
+BID-00110,E-105,Switchgear set/terminate,Electrical,EA,2019-05,Gulf Coast,1,0,1,32.2,31724.3
+BID-00111,E-103,Conduit,Electrical,LF,2025-03,Southeast,0,0,2,26818.7,60.57
+BID-00112,C-301,Mass excavation,Civil,CY,2019-06,Southeast,0,0,1,1561667.8,6.63
+BID-00113,M-206,Galvanized ductwork,Mechanical,LB,2023-09,Gulf Coast,0,0,1,536135.3,13.57
+BID-00114,M-203,CDU set/connect,Mechanical,EA,2020-03,Gulf Coast,1,0,3,108.0,15901.35
+BID-00115,M-203,CDU set/connect,Mechanical,EA,2019-05,Gulf Coast,0,0,1,102.7,11533.69
+BID-00116,C-305,Storm drain RCP 36in,Civil,LF,2025-10,Gulf Coast,1,0,1,3715.9,222.9
+BID-00117,E-107,Generator set/terminate,Electrical,EA,2023-03,Midwest,0,1,1,23.9,69418.61
+BID-00118,C-301,Mass excavation,Civil,CY,2023-01,Midwest,0,0,2,443567.1,8.64
+BID-00119,C-302,Structural concrete,Civil,CY,2019-08,West Texas,0,1,1,40897.5,392.21
+BID-00120,M-204,Chiller set/connect,Mechanical,EA,2022-10,West Texas,0,0,1,70.6,43342.48
+BID-00121,E-104,Busway,Electrical,LF,2020-05,West Texas,0,0,2,3549.1,887.88
+BID-00122,M-204,Chiller set/connect,Mechanical,EA,2018-10,Southeast,1,0,2,46.6,44268.36
+BID-00123,M-206,Galvanized ductwork,Mechanical,LB,2019-11,West Texas,0,0,1,237987.2,11.36
+BID-00124,C-306,Duct bank,Civil,LF,2018-01,Gulf Coast,0,0,1,8496.6,166.74
+BID-00125,E-104,Busway,Electrical,LF,2024-03,Gulf Coast,0,0,2,1235.4,1232.29
+BID-00126,M-205,CRAH set/connect,Mechanical,EA,2020-03,Gulf Coast,0,0,1,290.1,7838.47
+BID-00127,M-206,Galvanized ductwork,Mechanical,LB,2019-07,West Texas,1,0,1,368353.4,11.61
+BID-00128,M-201,Chilled water pipe 12in,Mechanical,LF,2025-10,Gulf Coast,1,0,1,8068.2,362.12
+BID-00129,M-201,Chilled water pipe 12in,Mechanical,LF,2026-06,Midwest,0,0,1,7652.3,345.93
+BID-00130,M-204,Chiller set/connect,Mechanical,EA,2022-03,Mountain West,0,0,1,42.2,41617.95
+BID-00131,E-103,Conduit,Electrical,LF,2025-12,Midwest,0,1,1,58233.9,66.52
+BID-00132,C-303,Reinforcing steel,Civil,TON,2023-03,Mountain West,0,0,1,14834.5,1716.79
+BID-00133,M-201,Chilled water pipe 12in,Mechanical,LF,2021-12,Southeast,0,0,1,22037.9,347.92
+BID-00134,E-106,UPS set/terminate,Electrical,EA,2021-06,Midwest,0,0,2,65.0,20359.07
+BID-00135,C-306,Duct bank,Civil,LF,2024-10,Southeast,1,0,1,6201.5,253.93
+BID-00136,C-301,Mass excavation,Civil,CY,2023-01,Midwest,1,1,2,932142.5,11.39
+BID-00137,C-306,Duct bank,Civil,LF,2019-03,Southeast,1,1,1,11449.9,225.96
+BID-00138,M-203,CDU set/connect,Mechanical,EA,2021-06,West Texas,0,0,1,197.5,11099.18
+BID-00139,M-202,Process pipe 8in,Mechanical,LF,2019-07,West Texas,1,0,1,24129.8,161.57
+BID-00140,C-301,Mass excavation,Civil,CY,2021-01,Midwest,1,0,1,473446.5,9.57
+BID-00141,C-306,Duct bank,Civil,LF,2025-05,Gulf Coast,1,0,2,3135.0,312.32
+BID-00142,M-202,Process pipe 8in,Mechanical,LF,2023-09,Midwest,0,0,2,31351.1,171.97
+BID-00143,C-304,Aggregate base,Civil,SY,2022-08,West Texas,0,0,2,79138.8,17.46
+BID-00144,E-101,Cable tray,Electrical,LF,2024-09,Mountain West,0,0,1,13174.8,62.64
+BID-00145,E-104,Busway,Electrical,LF,2020-01,Mountain West,0,0,1,13423.4,843.26
+BID-00146,C-303,Reinforcing steel,Civil,TON,2023-08,West Texas,1,0,1,10638.0,2067.49
+BID-00147,C-303,Reinforcing steel,Civil,TON,2023-11,Mountain West,1,0,2,4440.5,2435.05
+BID-00148,E-106,UPS set/terminate,Electrical,EA,2022-09,Mountain West,0,0,1,48.3,20502.37
+BID-00149,E-105,Switchgear set/terminate,Electrical,EA,2021-06,Gulf Coast,1,0,1,19.6,37683.73
+BID-00150,M-203,CDU set/connect,Mechanical,EA,2023-08,West Texas,0,0,1,47.5,14191.79
+BID-00151,E-104,Busway,Electrical,LF,2019-08,Mountain West,0,1,3,6522.6,1076.75
+BID-00152,E-106,UPS set/terminate,Electrical,EA,2026-06,Midwest,0,0,2,14.4,22694.94
+BID-00153,E-101,Cable tray,Electrical,LF,2018-10,Gulf Coast,1,0,1,15942.5,57.64
+BID-00154,E-103,Conduit,Electrical,LF,2025-09,West Texas,1,1,2,18126.6,90.5
+BID-00155,E-101,Cable tray,Electrical,LF,2019-06,Midwest,0,0,3,20765.5,52.2
+BID-00156,M-201,Chilled water pipe 12in,Mechanical,LF,2025-11,West Texas,0,0,1,10010.2,307.07
+BID-00157,E-103,Conduit,Electrical,LF,2023-02,West Texas,1,0,1,32106.7,69.63
+BID-00158,E-106,UPS set/terminate,Electrical,EA,2021-03,West Texas,0,1,2,20.5,19907.05
+BID-00159,C-302,Structural concrete,Civil,CY,2024-12,Gulf Coast,0,0,1,107080.0,433.51
+BID-00160,M-202,Process pipe 8in,Mechanical,LF,2022-02,West Texas,0,0,1,45697.6,207.88
+BID-00161,E-101,Cable tray,Electrical,LF,2021-08,Mountain West,0,0,1,31317.6,69.95
+BID-00162,C-306,Duct bank,Civil,LF,2024-02,Southeast,0,1,2,11642.2,228.59
+BID-00163,C-302,Structural concrete,Civil,CY,2024-05,West Texas,0,1,3,107832.3,444.53
+BID-00164,M-204,Chiller set/connect,Mechanical,EA,2020-06,Midwest,0,1,1,48.3,44708.72
+BID-00165,E-102,MV cable,Electrical,LF,2024-08,Mountain West,0,0,1,114725.6,40.12
+BID-00166,E-103,Conduit,Electrical,LF,2018-11,Midwest,1,1,2,35784.1,72.8
+BID-00167,E-104,Busway,Electrical,LF,2026-02,West Texas,1,0,1,776.2,1489.93
+BID-00168,M-203,CDU set/connect,Mechanical,EA,2023-01,Midwest,0,1,1,305.9,13805.05
+BID-00169,C-302,Structural concrete,Civil,CY,2019-11,Gulf Coast,0,0,3,113078.4,379.1
+BID-00170,E-105,Switchgear set/terminate,Electrical,EA,2025-08,Gulf Coast,0,1,1,29.2,40930.11
+BID-00171,E-107,Generator set/terminate,Electrical,EA,2019-07,Mountain West,0,0,3,39.4,49531.48
+BID-00172,E-105,Switchgear set/terminate,Electrical,EA,2026-06,Mountain West,0,0,1,19.1,47737.04
+BID-00173,C-302,Structural concrete,Civil,CY,2024-10,West Texas,1,0,1,32628.7,481.43
+BID-00174,E-101,Cable tray,Electrical,LF,2021-11,West Texas,0,0,1,26743.7,68.95
+BID-00175,M-201,Chilled water pipe 12in,Mechanical,LF,2025-05,West Texas,1,0,1,24917.2,306.58
+BID-00176,E-106,UPS set/terminate,Electrical,EA,2022-04,Midwest,1,1,3,77.5,25142.0
+BID-00177,E-103,Conduit,Electrical,LF,2019-11,Southeast,0,0,1,11417.5,61.0
+BID-00178,C-306,Duct bank,Civil,LF,2025-04,West Texas,0,0,1,6079.0,247.91
+BID-00179,C-301,Mass excavation,Civil,CY,2021-01,Gulf Coast,0,0,1,174414.1,9.34
+BID-00180,C-301,Mass excavation,Civil,CY,2020-02,Gulf Coast,1,0,2,626300.0,9.6
+BID-00181,E-104,Busway,Electrical,LF,2020-04,West Texas,0,0,1,2325.2,823.48
+BID-00182,C-302,Structural concrete,Civil,CY,2018-07,West Texas,0,0,1,66780.9,308.7
+BID-00183,C-303,Reinforcing steel,Civil,TON,2022-01,Midwest,0,1,2,5057.8,3316.05
+BID-00184,M-204,Chiller set/connect,Mechanical,EA,2020-08,Southeast,0,0,3,12.7,45626.22
+BID-00185,C-306,Duct bank,Civil,LF,2023-03,Gulf Coast,0,0,1,9957.3,226.63
+BID-00186,M-206,Galvanized ductwork,Mechanical,LB,2024-01,Gulf Coast,0,1,1,137441.9,15.06
+BID-00187,E-107,Generator set/terminate,Electrical,EA,2019-02,Gulf Coast,0,0,1,71.0,43199.82
+BID-00188,C-301,Mass excavation,Civil,CY,2025-06,Midwest,0,0,2,175745.3,11.08
+BID-00189,E-104,Busway,Electrical,LF,2021-05,Midwest,0,0,1,1754.5,1146.95
+BID-00190,C-305,Storm drain RCP 36in,Civil,LF,2025-04,Mountain West,0,0,1,10719.4,165.93
+BID-00191,M-201,Chilled water pipe 12in,Mechanical,LF,2019-11,Gulf Coast,1,1,1,5764.9,378.71
+BID-00192,C-301,Mass excavation,Civil,CY,2018-11,Midwest,0,1,2,693922.2,9.4
+BID-00193,C-304,Aggregate base,Civil,SY,2018-09,Gulf Coast,0,0,2,173294.9,13.74
+BID-00194,E-104,Busway,Electrical,LF,2020-10,Southeast,0,0,2,2598.3,1007.73
+BID-00195,E-102,MV cable,Electrical,LF,2023-06,West Texas,0,0,1,25144.9,46.48
+BID-00196,M-206,Galvanized ductwork,Mechanical,LB,2023-05,Mountain West,0,0,2,544184.7,14.71
+BID-00197,E-107,Generator set/terminate,Electrical,EA,2022-09,Midwest,0,0,1,116.1,51678.37
+BID-00198,M-202,Process pipe 8in,Mechanical,LF,2019-08,Gulf Coast,0,0,1,85859.3,135.23
+BID-00199,C-306,Duct bank,Civil,LF,2018-07,Gulf Coast,0,0,2,6724.0,203.86
+BID-00200,C-302,Structural concrete,Civil,CY,2020-01,Gulf Coast,1,0,1,28392.2,434.21
+BID-00201,M-201,Chilled water pipe 12in,Mechanical,LF,2020-02,Gulf Coast,0,0,1,7423.1,284.24
+BID-00202,E-107,Generator set/terminate,Electrical,EA,2020-09,Gulf Coast,0,0,1,27.4,55202.65
+BID-00203,M-205,CRAH set/connect,Mechanical,EA,2020-10,Gulf Coast,1,0,1,76.7,9134.15
+BID-00204,E-107,Generator set/terminate,Electrical,EA,2025-01,West Texas,0,0,2,16.5,63340.64
+BID-00205,E-107,Generator set/terminate,Electrical,EA,2021-05,Midwest,0,0,1,28.0,67729.03
+BID-00206,M-206,Galvanized ductwork,Mechanical,LB,2019-05,Gulf Coast,1,0,1,173164.3,14.82
+BID-00207,E-102,MV cable,Electrical,LF,2022-01,Southeast,0,0,2,14388.1,51.41
+BID-00208,C-302,Structural concrete,Civil,CY,2024-01,West Texas,0,0,1,69762.6,389.26
+BID-00209,C-303,Reinforcing steel,Civil,TON,2025-03,Gulf Coast,1,1,1,5305.4,2998.32
+BID-00210,C-304,Aggregate base,Civil,SY,2018-03,West Texas,0,1,1,960891.8,12.32
+BID-00211,E-106,UPS set/terminate,Electrical,EA,2024-10,Southeast,0,1,2,42.6,21979.16
+BID-00212,C-303,Reinforcing steel,Civil,TON,2026-07,Southeast,0,1,1,7122.8,2293.89
+BID-00213,C-306,Duct bank,Civil,LF,2021-06,Southeast,1,0,2,13756.9,254.6
+BID-00214,E-105,Switchgear set/terminate,Electrical,EA,2018-05,Gulf Coast,0,0,1,39.8,30390.75
+BID-00215,M-202,Process pipe 8in,Mechanical,LF,2021-09,Gulf Coast,0,0,3,8193.4,242.88
+BID-00216,C-305,Storm drain RCP 36in,Civil,LF,2026-07,Gulf Coast,0,0,1,3704.6,178.37
+BID-00217,E-106,UPS set/terminate,Electrical,EA,2024-08,Southeast,1,0,1,60.4,18566.38
+BID-00218,C-305,Storm drain RCP 36in,Civil,LF,2023-11,West Texas,1,0,3,8255.8,214.77
+BID-00219,E-107,Generator set/terminate,Electrical,EA,2020-04,Midwest,0,0,1,45.3,50429.21
+BID-00220,M-203,CDU set/connect,Mechanical,EA,2020-10,Gulf Coast,1,0,2,438.9,13372.37
+BID-00221,E-102,MV cable,Electrical,LF,2022-06,Mountain West,0,1,3,65355.7,60.54
+BID-00222,M-206,Galvanized ductwork,Mechanical,LB,2019-07,Midwest,0,0,1,329548.1,11.74
+BID-00223,E-102,MV cable,Electrical,LF,2026-09,West Texas,0,0,2,32098.5,62.7
+BID-00224,C-306,Duct bank,Civil,LF,2018-07,Midwest,0,1,1,6663.8,211.78
+BID-00225,M-206,Galvanized ductwork,Mechanical,LB,2023-08,Midwest,1,1,1,484048.1,17.0
+BID-00226,E-104,Busway,Electrical,LF,2020-02,West Texas,0,0,2,25169.1,838.18
+BID-00227,C-305,Storm drain RCP 36in,Civil,LF,2023-07,Mountain West,0,1,1,7678.3,173.61
+BID-00228,M-201,Chilled water pipe 12in,Mechanical,LF,2026-01,Southeast,0,0,1,13129.9,295.21
+BID-00229,E-106,UPS set/terminate,Electrical,EA,2026-06,Midwest,0,1,1,97.4,23243.06
+BID-00230,M-204,Chiller set/connect,Mechanical,EA,2022-04,Gulf Coast,0,0,1,103.4,44594.34
+BID-00231,C-306,Duct bank,Civil,LF,2026-05,West Texas,1,0,2,13093.4,293.79
+BID-00232,E-103,Conduit,Electrical,LF,2022-01,Gulf Coast,0,1,1,17929.7,79.38
+BID-00233,C-304,Aggregate base,Civil,SY,2023-09,Mountain West,0,0,2,277102.1,15.48
+BID-00234,C-301,Mass excavation,Civil,CY,2025-08,West Texas,0,0,1,696650.9,8.66
+BID-00235,E-102,MV cable,Electrical,LF,2019-09,Southeast,1,1,1,35746.7,40.47
+BID-00236,E-106,UPS set/terminate,Electrical,EA,2021-06,West Texas,0,0,3,173.1,16431.3
+BID-00237,E-102,MV cable,Electrical,LF,2026-03,West Texas,0,1,1,23606.1,54.88
+BID-00238,M-203,CDU set/connect,Mechanical,EA,2025-05,Southeast,0,0,3,38.8,18050.51
+BID-00239,C-306,Duct bank,Civil,LF,2025-08,Midwest,0,0,1,10841.3,255.37
+BID-00240,E-107,Generator set/terminate,Electrical,EA,2021-06,Mountain West,0,1,1,30.5,67524.9
+BID-00241,E-101,Cable tray,Electrical,LF,2020-10,Mountain West,0,0,1,14234.4,60.54
+BID-00242,M-204,Chiller set/connect,Mechanical,EA,2020-04,West Texas,0,1,2,34.9,45370.56
+BID-00243,E-107,Generator set/terminate,Electrical,EA,2023-12,Midwest,0,0,2,109.9,64122.01
+BID-00244,C-306,Duct bank,Civil,LF,2026-02,West Texas,0,0,2,15169.0,262.38
+BID-00245,M-202,Process pipe 8in,Mechanical,LF,2022-02,Gulf Coast,1,0,1,29743.4,217.95
+BID-00246,E-104,Busway,Electrical,LF,2024-07,West Texas,0,0,2,1453.1,1383.06
+BID-00247,E-101,Cable tray,Electrical,LF,2025-12,Southeast,0,1,1,12065.7,59.41
+BID-00248,C-305,Storm drain RCP 36in,Civil,LF,2019-11,Gulf Coast,1,0,1,7345.8,136.09
+BID-00249,E-107,Generator set/terminate,Electrical,EA,2026-04,West Texas,0,1,1,46.0,72009.26
+BID-00250,M-201,Chilled water pipe 12in,Mechanical,LF,2020-09,Gulf Coast,1,1,2,5750.9,393.4
+BID-00251,C-306,Duct bank,Civil,LF,2022-03,Gulf Coast,1,0,1,22129.8,213.81
+BID-00252,M-203,CDU set/connect,Mechanical,EA,2018-02,Gulf Coast,0,0,2,115.2,11490.92
+BID-00253,E-107,Generator set/terminate,Electrical,EA,2023-09,Mountain West,0,1,2,23.2,83587.79
+BID-00254,E-104,Busway,Electrical,LF,2021-12,Mountain West,0,1,2,2816.9,1316.68
+BID-00255,C-301,Mass excavation,Civil,CY,2021-02,Southeast,1,1,1,817673.6,8.07
+BID-00256,M-205,CRAH set/connect,Mechanical,EA,2022-03,Mountain West,0,1,1,227.3,8773.91
+BID-00257,M-206,Galvanized ductwork,Mechanical,LB,2025-07,Gulf Coast,0,1,1,320762.4,19.15
+BID-00258,E-101,Cable tray,Electrical,LF,2022-06,West Texas,0,0,2,27022.9,63.76
+BID-00259,C-304,Aggregate base,Civil,SY,2018-10,Gulf Coast,0,1,2,89957.8,16.73
+BID-00260,C-303,Reinforcing steel,Civil,TON,2023-04,Mountain West,0,0,3,3855.9,2300.07
+BID-00261,C-301,Mass excavation,Civil,CY,2021-03,West Texas,1,0,1,1251563.9,8.12
+BID-00262,C-303,Reinforcing steel,Civil,TON,2020-08,Gulf Coast,0,0,3,16486.0,2043.65
+BID-00263,E-102,MV cable,Electrical,LF,2026-01,Midwest,0,0,1,61201.5,53.93
+BID-00264,C-301,Mass excavation,Civil,CY,2026-03,Mountain West,1,1,1,709377.0,11.47
+BID-00265,M-203,CDU set/connect,Mechanical,EA,2023-02,West Texas,1,0,3,173.7,15795.07
+BID-00266,M-206,Galvanized ductwork,Mechanical,LB,2019-02,West Texas,0,0,2,329790.1,11.09
+BID-00267,C-303,Reinforcing steel,Civil,TON,2021-04,Gulf Coast,0,0,2,6293.1,2790.52
+BID-00268,C-302,Structural concrete,Civil,CY,2022-11,West Texas,1,0,2,46910.1,442.56
+BID-00269,M-206,Galvanized ductwork,Mechanical,LB,2022-02,West Texas,0,0,1,101263.2,18.71
+BID-00270,C-302,Structural concrete,Civil,CY,2024-03,West Texas,1,0,1,133300.2,408.05
+BID-00271,M-204,Chiller set/connect,Mechanical,EA,2021-11,Gulf Coast,0,1,1,40.8,50109.2
+BID-00272,M-204,Chiller set/connect,Mechanical,EA,2021-11,Gulf Coast,0,0,1,55.7,46974.17
+BID-00273,E-101,Cable tray,Electrical,LF,2021-08,West Texas,1,0,1,31354.6,70.64
+BID-00274,M-205,CRAH set/connect,Mechanical,EA,2022-07,West Texas,0,0,1,240.0,8616.62
+BID-00275,M-206,Galvanized ductwork,Mechanical,LB,2018-05,Midwest,0,1,2,220108.7,11.3
+BID-00276,E-105,Switchgear set/terminate,Electrical,EA,2026-06,West Texas,1,0,2,18.6,48431.32
+BID-00277,M-206,Galvanized ductwork,Mechanical,LB,2020-12,Midwest,0,1,1,337085.6,16.55
+BID-00278,E-101,Cable tray,Electrical,LF,2023-05,West Texas,0,0,2,17261.9,59.61
+BID-00279,C-304,Aggregate base,Civil,SY,2019-05,West Texas,1,0,1,396963.5,13.86
+BID-00280,C-305,Storm drain RCP 36in,Civil,LF,2018-04,West Texas,1,0,1,8215.0,135.17
+BID-00281,C-301,Mass excavation,Civil,CY,2026-05,Midwest,1,0,1,167636.3,11.85
+BID-00282,E-104,Busway,Electrical,LF,2026-01,West Texas,0,0,3,2963.2,1238.88
+BID-00283,M-206,Galvanized ductwork,Mechanical,LB,2020-03,Mountain West,1,1,1,147252.9,16.66
+BID-00284,E-104,Busway,Electrical,LF,2026-05,Gulf Coast,1,0,2,2324.3,1562.62
+BID-00285,E-103,Conduit,Electrical,LF,2018-04,Gulf Coast,0,0,3,18539.6,58.94
+BID-00286,E-102,MV cable,Electrical,LF,2024-06,West Texas,1,1,2,29469.2,58.07
+BID-00287,M-206,Galvanized ductwork,Mechanical,LB,2023-06,Gulf Coast,0,0,1,144849.5,13.79
+BID-00288,E-103,Conduit,Electrical,LF,2021-04,West Texas,1,0,1,71199.9,88.59
+BID-00289,E-101,Cable tray,Electrical,LF,2021-12,West Texas,0,0,1,24251.3,74.49
+BID-00290,E-104,Busway,Electrical,LF,2022-06,Mountain West,0,0,2,3494.7,1164.78
+BID-00291,M-204,Chiller set/connect,Mechanical,EA,2020-05,Mountain West,0,0,1,32.5,47077.12
+BID-00292,E-106,UPS set/terminate,Electrical,EA,2020-01,West Texas,0,0,1,34.5,18071.1
+BID-00293,C-305,Storm drain RCP 36in,Civil,LF,2019-10,Southeast,0,0,1,10280.6,119.2
+BID-00294,E-102,MV cable,Electrical,LF,2024-10,West Texas,0,0,2,37551.9,53.93
+BID-00295,M-202,Process pipe 8in,Mechanical,LF,2020-10,Midwest,1,1,2,25477.0,228.72
+BID-00296,C-303,Reinforcing steel,Civil,TON,2021-03,Gulf Coast,0,0,3,12346.8,2840.17
+BID-00297,M-205,CRAH set/connect,Mechanical,EA,2022-07,West Texas,0,0,3,193.0,9789.67
+BID-00298,M-203,CDU set/connect,Mechanical,EA,2019-11,Midwest,0,0,3,71.1,13844.25
+BID-00299,E-101,Cable tray,Electrical,LF,2020-10,Southeast,0,0,1,20716.7,49.83
+BID-00300,E-106,UPS set/terminate,Electrical,EA,2021-12,Midwest,1,1,1,36.4,23888.59
+BID-00301,C-306,Duct bank,Civil,LF,2023-08,Gulf Coast,0,0,1,7833.9,226.57
+BID-00302,M-201,Chilled water pipe 12in,Mechanical,LF,2020-09,Midwest,0,0,1,7652.9,309.89
+BID-00303,M-201,Chilled water pipe 12in,Mechanical,LF,2021-04,Midwest,0,1,1,34171.0,354.45
+BID-00304,E-107,Generator set/terminate,Electrical,EA,2024-11,Mountain West,0,0,3,56.0,66229.08
+BID-00305,E-107,Generator set/terminate,Electrical,EA,2025-02,West Texas,1,0,1,39.6,67064.49
+BID-00306,E-104,Busway,Electrical,LF,2026-07,Midwest,0,0,1,906.2,1270.68
+BID-00307,M-206,Galvanized ductwork,Mechanical,LB,2020-07,West Texas,0,0,1,1307940.2,12.61
+BID-00308,E-104,Busway,Electrical,LF,2024-03,Mountain West,0,0,1,8341.7,1053.25
+BID-00309,C-306,Duct bank,Civil,LF,2023-12,Gulf Coast,0,0,1,6329.7,242.5
+BID-00310,M-205,CRAH set/connect,Mechanical,EA,2020-04,West Texas,0,0,2,265.6,7628.1
+BID-00311,M-201,Chilled water pipe 12in,Mechanical,LF,2019-10,Mountain West,0,1,1,19278.8,264.37
+BID-00312,M-202,Process pipe 8in,Mechanical,LF,2018-07,Southeast,0,0,2,24615.7,150.93
+BID-00313,C-301,Mass excavation,Civil,CY,2024-08,West Texas,0,0,1,512089.1,9.13
+BID-00314,E-103,Conduit,Electrical,LF,2022-06,Mountain West,0,0,1,25145.4,70.03
+BID-00315,C-305,Storm drain RCP 36in,Civil,LF,2022-03,Gulf Coast,1,0,2,7369.8,142.84
+BID-00316,E-102,MV cable,Electrical,LF,2025-12,Midwest,1,0,1,34852.5,56.15
+BID-00317,M-204,Chiller set/connect,Mechanical,EA,2019-06,Midwest,1,0,2,39.6,50556.8
+BID-00318,E-102,MV cable,Electrical,LF,2019-08,West Texas,1,0,3,40869.2,46.19
+BID-00319,M-206,Galvanized ductwork,Mechanical,LB,2023-03,Midwest,0,0,2,163793.4,13.46
+BID-00320,M-201,Chilled water pipe 12in,Mechanical,LF,2022-05,West Texas,1,0,1,4558.5,400.31
+BID-00321,C-306,Duct bank,Civil,LF,2025-02,Gulf Coast,1,1,1,18616.8,274.55
+BID-00322,M-204,Chiller set/connect,Mechanical,EA,2018-12,Gulf Coast,0,1,1,30.7,43269.64
+BID-00323,E-105,Switchgear set/terminate,Electrical,EA,2019-07,Gulf Coast,0,0,1,25.0,32288.81
+BID-00324,C-301,Mass excavation,Civil,CY,2023-03,West Texas,1,0,1,123245.8,10.02
+BID-00325,E-105,Switchgear set/terminate,Electrical,EA,2022-08,Mountain West,0,1,2,13.9,44383.67
+BID-00326,E-106,UPS set/terminate,Electrical,EA,2025-08,Gulf Coast,0,0,1,47.1,19785.96
+BID-00327,C-304,Aggregate base,Civil,SY,2020-01,Southeast,0,0,1,219210.8,12.84
+BID-00328,C-304,Aggregate base,Civil,SY,2022-08,Midwest,0,0,1,151923.3,17.34
+BID-00329,E-105,Switchgear set/terminate,Electrical,EA,2018-01,West Texas,0,0,1,38.0,28651.92
+BID-00330,M-206,Galvanized ductwork,Mechanical,LB,2026-01,Mountain West,0,0,1,506500.2,14.55
+BID-00331,E-103,Conduit,Electrical,LF,2020-06,West Texas,1,1,1,64030.4,80.06
+BID-00332,E-104,Busway,Electrical,LF,2021-04,Gulf Coast,0,0,2,3313.9,1149.17
+BID-00333,M-204,Chiller set/connect,Mechanical,EA,2022-04,Midwest,0,0,1,30.5,50792.02
+BID-00334,C-304,Aggregate base,Civil,SY,2026-01,Southeast,0,0,1,134085.4,17.7
+BID-00335,E-105,Switchgear set/terminate,Electrical,EA,2024-05,Southeast,0,0,1,15.9,35754.02
+BID-00336,M-205,CRAH set/connect,Mechanical,EA,2025-08,Southeast,0,0,1,242.1,8844.61
+BID-00337,M-202,Process pipe 8in,Mechanical,LF,2020-01,West Texas,0,0,2,13233.6,149.39
+BID-00338,E-103,Conduit,Electrical,LF,2019-03,Southeast,1,1,1,12318.5,63.72
+BID-00339,M-203,CDU set/connect,Mechanical,EA,2024-07,Gulf Coast,0,1,1,84.8,17279.69
+BID-00340,M-205,CRAH set/connect,Mechanical,EA,2021-11,West Texas,0,1,3,345.1,9227.15
+BID-00341,C-301,Mass excavation,Civil,CY,2025-10,West Texas,1,0,3,953436.0,11.2
+BID-00342,M-204,Chiller set/connect,Mechanical,EA,2020-04,Gulf Coast,0,0,2,26.7,46454.01
+BID-00343,E-102,MV cable,Electrical,LF,2024-01,Southeast,0,0,1,26277.4,44.09
+BID-00344,E-102,MV cable,Electrical,LF,2025-05,Southeast,0,0,1,118709.2,36.26
+BID-00345,M-206,Galvanized ductwork,Mechanical,LB,2019-10,West Texas,1,0,2,367278.4,12.65
+BID-00346,C-303,Reinforcing steel,Civil,TON,2020-07,West Texas,0,0,2,7252.4,1962.24
+BID-00347,M-204,Chiller set/connect,Mechanical,EA,2018-12,West Texas,0,0,2,39.2,38398.05
+BID-00348,E-104,Busway,Electrical,LF,2021-02,West Texas,0,0,1,5541.3,1000.98
+BID-00349,E-104,Busway,Electrical,LF,2020-10,Southeast,1,0,1,3292.2,1042.34
+BID-00350,E-105,Switchgear set/terminate,Electrical,EA,2022-10,West Texas,1,0,1,24.0,40761.39
+BID-00351,E-107,Generator set/terminate,Electrical,EA,2022-07,Gulf Coast,0,1,1,133.2,54668.87
+BID-00352,E-106,UPS set/terminate,Electrical,EA,2021-10,Gulf Coast,1,0,1,18.1,24385.61
+BID-00353,C-303,Reinforcing steel,Civil,TON,2024-07,Gulf Coast,0,1,1,4040.5,2229.07
+BID-00354,M-206,Galvanized ductwork,Mechanical,LB,2021-11,West Texas,1,0,1,157346.8,23.43
+BID-00355,E-107,Generator set/terminate,Electrical,EA,2023-08,Mountain West,0,1,2,46.1,71130.15
+BID-00356,C-306,Duct bank,Civil,LF,2023-07,Mountain West,1,0,2,14348.7,284.78
+BID-00357,M-202,Process pipe 8in,Mechanical,LF,2022-11,Southeast,1,0,2,30600.1,192.81
+BID-00358,M-204,Chiller set/connect,Mechanical,EA,2026-03,Mountain West,0,1,2,40.0,70297.26
+BID-00359,M-204,Chiller set/connect,Mechanical,EA,2021-07,Midwest,0,0,2,78.8,47165.39
+BID-00360,C-303,Reinforcing steel,Civil,TON,2026-01,Gulf Coast,1,1,2,8073.9,3247.89
+BID-00361,E-106,UPS set/terminate,Electrical,EA,2024-03,Southeast,1,0,1,48.1,21311.42
+BID-00362,M-202,Process pipe 8in,Mechanical,LF,2022-06,Mountain West,0,1,1,48248.6,199.71
+BID-00363,C-304,Aggregate base,Civil,SY,2026-09,Mountain West,1,0,1,502498.6,21.99
+BID-00364,E-104,Busway,Electrical,LF,2020-12,Midwest,0,0,1,2860.6,905.1
+BID-00365,E-101,Cable tray,Electrical,LF,2022-06,Midwest,1,0,3,10361.3,83.61
+BID-00366,M-203,CDU set/connect,Mechanical,EA,2021-03,West Texas,0,0,2,65.6,12524.38
+BID-00367,M-206,Galvanized ductwork,Mechanical,LB,2022-02,Gulf Coast,0,0,2,438562.9,15.13
+BID-00368,C-303,Reinforcing steel,Civil,TON,2025-02,Midwest,0,1,2,10846.0,2142.86
+BID-00369,C-301,Mass excavation,Civil,CY,2023-09,Mountain West,0,1,1,155206.0,10.28
+BID-00370,C-305,Storm drain RCP 36in,Civil,LF,2024-07,Midwest,0,1,3,9949.8,195.95
+BID-00371,E-107,Generator set/terminate,Electrical,EA,2021-06,Midwest,0,0,1,33.0,55464.9
+BID-00372,C-305,Storm drain RCP 36in,Civil,LF,2024-06,Gulf Coast,0,0,2,9666.4,175.54
+BID-00373,M-204,Chiller set/connect,Mechanical,EA,2020-05,Mountain West,1,1,1,112.1,49980.96
+BID-00374,C-302,Structural concrete,Civil,CY,2025-02,Midwest,0,0,1,15070.8,547.57
+BID-00375,C-301,Mass excavation,Civil,CY,2026-06,Southeast,0,1,2,993278.2,11.17
+BID-00376,M-202,Process pipe 8in,Mechanical,LF,2021-06,Southeast,0,0,2,6951.1,206.58
+BID-00377,C-305,Storm drain RCP 36in,Civil,LF,2023-01,Gulf Coast,0,1,3,66146.9,161.58
+BID-00378,E-107,Generator set/terminate,Electrical,EA,2019-10,Gulf Coast,0,1,2,24.5,58380.88
+BID-00379,E-103,Conduit,Electrical,LF,2023-12,West Texas,0,1,2,14919.6,74.92
+BID-00380,M-204,Chiller set/connect,Mechanical,EA,2021-02,West Texas,0,0,2,31.4,45510.85
+BID-00381,E-103,Conduit,Electrical,LF,2023-01,West Texas,0,0,2,30179.0,59.17
+BID-00382,E-107,Generator set/terminate,Electrical,EA,2025-07,Mountain West,0,0,3,37.4,71520.47
+BID-00383,C-302,Structural concrete,Civil,CY,2020-05,West Texas,0,0,2,61791.5,348.94
+BID-00384,M-203,CDU set/connect,Mechanical,EA,2021-08,West Texas,1,0,1,160.6,13410.77
+BID-00385,C-302,Structural concrete,Civil,CY,2021-09,Gulf Coast,1,0,1,32594.4,490.84
+BID-00386,M-205,CRAH set/connect,Mechanical,EA,2024-01,West Texas,0,0,2,100.4,9172.62
+BID-00387,M-205,CRAH set/connect,Mechanical,EA,2018-04,Southeast,0,0,2,85.2,6980.64
+BID-00388,M-204,Chiller set/connect,Mechanical,EA,2024-08,Southeast,1,0,1,27.2,52397.83
+BID-00389,E-105,Switchgear set/terminate,Electrical,EA,2024-05,Gulf Coast,0,0,1,28.5,40882.87
+BID-00390,E-107,Generator set/terminate,Electrical,EA,2021-10,Mountain West,0,0,1,44.1,49446.73
+BID-00391,M-205,CRAH set/connect,Mechanical,EA,2021-08,Gulf Coast,1,0,1,220.3,8354.37
+BID-00392,E-102,MV cable,Electrical,LF,2018-04,Southeast,0,0,2,14858.5,35.65
+BID-00393,E-102,MV cable,Electrical,LF,2022-05,Gulf Coast,0,0,1,85387.0,45.65
+BID-00394,E-107,Generator set/terminate,Electrical,EA,2020-11,Gulf Coast,0,0,2,22.6,60029.33
+BID-00395,E-101,Cable tray,Electrical,LF,2024-10,West Texas,0,0,2,27801.0,48.61
+BID-00396,M-203,CDU set/connect,Mechanical,EA,2022-11,West Texas,1,1,1,54.9,16481.22
+BID-00397,C-301,Mass excavation,Civil,CY,2023-11,West Texas,0,0,1,407049.9,8.09
+BID-00398,C-303,Reinforcing steel,Civil,TON,2022-06,Mountain West,0,0,1,5550.8,2241.55
+BID-00399,M-201,Chilled water pipe 12in,Mechanical,LF,2021-01,West Texas,1,0,2,8639.3,370.15
+BID-00400,C-302,Structural concrete,Civil,CY,2020-11,Southeast,0,0,1,90840.2,282.03
+BID-00401,C-306,Duct bank,Civil,LF,2021-02,Southeast,0,0,1,13064.7,181.67
+BID-00402,E-102,MV cable,Electrical,LF,2020-04,West Texas,1,0,1,19722.4,45.2
+BID-00403,E-104,Busway,Electrical,LF,2022-01,West Texas,1,0,1,2240.4,1254.82
+BID-00404,C-306,Duct bank,Civil,LF,2019-03,Mountain West,0,0,1,41746.8,192.16
+BID-00405,M-204,Chiller set/connect,Mechanical,EA,2024-06,West Texas,1,0,1,16.7,63144.82
+BID-00406,E-106,UPS set/terminate,Electrical,EA,2021-04,Southeast,0,0,3,71.9,19952.9
+BID-00407,E-104,Busway,Electrical,LF,2025-04,Gulf Coast,0,0,2,1820.3,1241.15
+BID-00408,E-105,Switchgear set/terminate,Electrical,EA,2026-04,Southeast,1,0,1,16.7,42107.7
+BID-00409,C-305,Storm drain RCP 36in,Civil,LF,2020-07,Mountain West,0,0,2,10158.9,136.34
+BID-00410,E-103,Conduit,Electrical,LF,2023-02,Mountain West,1,0,3,14319.7,92.58
+BID-00411,M-202,Process pipe 8in,Mechanical,LF,2019-02,Gulf Coast,0,0,1,16614.8,141.45
+BID-00412,C-304,Aggregate base,Civil,SY,2021-12,Midwest,1,1,2,201603.4,21.12
+BID-00413,C-301,Mass excavation,Civil,CY,2023-07,Mountain West,0,0,1,442282.8,9.18
+BID-00414,C-304,Aggregate base,Civil,SY,2025-03,West Texas,0,0,2,322387.5,17.84
+BID-00415,M-204,Chiller set/connect,Mechanical,EA,2025-07,Southeast,0,0,1,17.4,62008.76
+BID-00416,M-202,Process pipe 8in,Mechanical,LF,2021-07,Southeast,1,1,2,35717.2,264.6
+BID-00417,C-306,Duct bank,Civil,LF,2022-09,West Texas,1,0,2,14939.7,257.17
+BID-00418,M-205,CRAH set/connect,Mechanical,EA,2023-05,West Texas,0,0,3,190.1,10543.4
+BID-00419,E-101,Cable tray,Electrical,LF,2024-10,West Texas,0,0,1,11553.5,61.56
+BID-00420,E-102,MV cable,Electrical,LF,2021-02,West Texas,1,0,1,25201.6,46.95
+BID-00421,M-202,Process pipe 8in,Mechanical,LF,2021-10,Gulf Coast,0,1,1,78759.3,204.31
+BID-00422,C-303,Reinforcing steel,Civil,TON,2021-03,Southeast,0,1,2,4758.6,2784.06
+BID-00423,C-302,Structural concrete,Civil,CY,2026-02,West Texas,0,0,1,65237.3,440.29
+BID-00424,C-301,Mass excavation,Civil,CY,2020-03,West Texas,0,0,1,470861.7,7.55
+BID-00425,C-305,Storm drain RCP 36in,Civil,LF,2019-12,Gulf Coast,1,0,3,7154.5,156.98
+BID-00426,M-206,Galvanized ductwork,Mechanical,LB,2021-05,Midwest,0,1,1,192355.6,16.49
+BID-00427,E-106,UPS set/terminate,Electrical,EA,2026-06,Mountain West,0,0,1,75.1,18533.25
+BID-00428,C-302,Structural concrete,Civil,CY,2024-07,Gulf Coast,0,0,2,33021.0,517.94
+BID-00429,M-205,CRAH set/connect,Mechanical,EA,2020-12,Southeast,0,0,1,232.4,6893.36
+BID-00430,E-107,Generator set/terminate,Electrical,EA,2023-07,Mountain West,0,1,2,48.9,60976.14
+BID-00431,M-205,CRAH set/connect,Mechanical,EA,2024-12,Southeast,0,0,2,191.2,9253.07
+BID-00432,E-107,Generator set/terminate,Electrical,EA,2021-04,Mountain West,0,1,1,32.4,64910.83
+BID-00433,M-206,Galvanized ductwork,Mechanical,LB,2024-08,Southeast,1,0,2,283406.2,16.24
+BID-00434,M-201,Chilled water pipe 12in,Mechanical,LF,2025-02,Southeast,0,0,1,10954.8,234.84
+BID-00435,M-203,CDU set/connect,Mechanical,EA,2025-11,Midwest,0,1,1,98.1,15531.09
+BID-00436,C-301,Mass excavation,Civil,CY,2019-02,Mountain West,1,0,1,585313.5,8.15
+BID-00437,C-306,Duct bank,Civil,LF,2021-08,Midwest,1,0,1,5373.3,229.36
+BID-00438,E-103,Conduit,Electrical,LF,2024-07,West Texas,0,1,3,28053.7,77.99
+BID-00439,E-105,Switchgear set/terminate,Electrical,EA,2026-06,West Texas,1,0,1,37.8,46459.68
+BID-00440,E-105,Switchgear set/terminate,Electrical,EA,2022-01,West Texas,1,1,1,23.7,39934.96
+BID-00441,C-302,Structural concrete,Civil,CY,2024-05,West Texas,0,0,3,36998.6,461.29
+BID-00442,C-304,Aggregate base,Civil,SY,2024-07,West Texas,0,0,3,352316.1,21.14
+BID-00443,C-301,Mass excavation,Civil,CY,2023-09,Midwest,1,0,1,846827.4,9.5
+BID-00444,M-202,Process pipe 8in,Mechanical,LF,2018-05,Mountain West,0,0,2,33180.8,164.89
+BID-00445,M-203,CDU set/connect,Mechanical,EA,2024-11,West Texas,0,0,3,222.1,14711.27
+BID-00446,C-306,Duct bank,Civil,LF,2026-07,West Texas,1,0,1,6924.8,288.95
+BID-00447,E-106,UPS set/terminate,Electrical,EA,2018-09,Midwest,0,1,1,103.4,17019.83
+BID-00448,E-102,MV cable,Electrical,LF,2025-01,Mountain West,0,0,1,62754.8,48.65
+BID-00449,C-302,Structural concrete,Civil,CY,2018-12,West Texas,0,1,1,58369.7,332.97
+BID-00450,M-201,Chilled water pipe 12in,Mechanical,LF,2023-08,West Texas,1,1,1,22151.1,302.54
+BID-00451,M-203,CDU set/connect,Mechanical,EA,2018-03,Midwest,1,0,1,65.3,13111.8
+BID-00452,E-103,Conduit,Electrical,LF,2020-12,Gulf Coast,0,0,3,6138.6,79.87
+BID-00453,M-203,CDU set/connect,Mechanical,EA,2023-04,Gulf Coast,0,0,3,51.2,15588.69
+BID-00454,C-304,Aggregate base,Civil,SY,2024-01,Southeast,0,0,1,361585.3,15.1
+BID-00455,E-103,Conduit,Electrical,LF,2020-03,Midwest,1,1,2,41556.8,66.6
+BID-00456,E-103,Conduit,Electrical,LF,2025-04,West Texas,0,0,3,15591.4,64.9
+BID-00457,E-102,MV cable,Electrical,LF,2019-03,West Texas,0,0,2,66272.5,33.39
+BID-00458,E-102,MV cable,Electrical,LF,2019-02,Gulf Coast,1,1,3,58120.2,54.04
+BID-00459,M-202,Process pipe 8in,Mechanical,LF,2023-07,West Texas,0,1,3,33857.7,196.51
+BID-00460,M-201,Chilled water pipe 12in,Mechanical,LF,2018-10,West Texas,0,1,1,7920.3,264.74
+BID-00461,C-304,Aggregate base,Civil,SY,2022-11,Southeast,0,0,1,163745.4,17.83
+BID-00462,C-303,Reinforcing steel,Civil,TON,2024-05,Gulf Coast,1,0,2,5346.4,2480.72
+BID-00463,C-301,Mass excavation,Civil,CY,2023-11,West Texas,1,0,1,643103.5,8.88
+BID-00464,C-305,Storm drain RCP 36in,Civil,LF,2019-11,Mountain West,0,0,1,10686.9,129.73
+BID-00465,M-203,CDU set/connect,Mechanical,EA,2019-08,Mountain West,0,0,2,83.8,12719.05
+BID-00466,M-204,Chiller set/connect,Mechanical,EA,2021-07,Midwest,0,1,2,22.5,55457.43
+BID-00467,M-206,Galvanized ductwork,Mechanical,LB,2020-09,West Texas,0,0,2,256345.1,11.53
+BID-00468,M-206,Galvanized ductwork,Mechanical,LB,2024-01,Southeast,1,1,1,366040.5,14.48
+BID-00469,C-301,Mass excavation,Civil,CY,2023-12,Gulf Coast,0,0,1,404867.7,8.24
+BID-00470,C-301,Mass excavation,Civil,CY,2022-10,West Texas,0,0,1,588077.4,7.2
+BID-00471,M-202,Process pipe 8in,Mechanical,LF,2020-12,West Texas,0,0,2,17542.3,196.37
+BID-00472,C-306,Duct bank,Civil,LF,2019-11,Midwest,0,0,2,7809.5,206.01
+BID-00473,C-302,Structural concrete,Civil,CY,2023-08,West Texas,0,0,3,24716.0,514.75
+BID-00474,C-302,Structural concrete,Civil,CY,2018-04,Midwest,0,0,1,118768.0,291.02
+BID-00475,E-101,Cable tray,Electrical,LF,2022-03,Gulf Coast,0,0,3,11362.8,79.77
+BID-00476,E-106,UPS set/terminate,Electrical,EA,2019-04,Gulf Coast,0,0,2,56.8,18499.81
+BID-00477,M-205,CRAH set/connect,Mechanical,EA,2020-07,West Texas,1,0,1,151.5,9031.19
+BID-00478,E-106,UPS set/terminate,Electrical,EA,2022-11,Midwest,0,0,1,21.6,16718.15
+BID-00479,M-201,Chilled water pipe 12in,Mechanical,LF,2025-10,Midwest,1,0,1,5685.7,373.09
+BID-00480,M-202,Process pipe 8in,Mechanical,LF,2024-11,Midwest,0,0,1,14327.0,162.75
+BID-00481,E-104,Busway,Electrical,LF,2024-04,West Texas,0,0,2,3218.3,1001.43
+BID-00482,M-206,Galvanized ductwork,Mechanical,LB,2022-05,West Texas,0,0,1,461856.9,14.78
+BID-00483,C-304,Aggregate base,Civil,SY,2020-11,Midwest,1,1,2,314659.7,19.41
+BID-00484,C-305,Storm drain RCP 36in,Civil,LF,2019-05,Midwest,0,0,1,6660.7,129.52
+BID-00485,M-205,CRAH set/connect,Mechanical,EA,2020-06,Gulf Coast,0,0,1,112.0,8665.75
+BID-00486,C-306,Duct bank,Civil,LF,2019-02,Midwest,1,1,2,25627.4,211.41
+BID-00487,E-106,UPS set/terminate,Electrical,EA,2020-03,Gulf Coast,0,1,1,23.4,19019.12
+BID-00488,M-203,CDU set/connect,Mechanical,EA,2021-04,West Texas,0,0,2,145.1,11865.76
+BID-00489,C-301,Mass excavation,Civil,CY,2021-12,West Texas,0,1,2,189215.3,10.72
+BID-00490,C-301,Mass excavation,Civil,CY,2019-01,Midwest,0,0,1,419460.8,7.37
+BID-00491,C-303,Reinforcing steel,Civil,TON,2021-10,Mountain West,0,0,1,6244.3,3095.95
+BID-00492,E-106,UPS set/terminate,Electrical,EA,2024-07,Southeast,1,0,2,49.7,24310.55
+BID-00493,M-206,Galvanized ductwork,Mechanical,LB,2018-02,Gulf Coast,1,0,1,478688.5,12.06
+BID-00494,E-104,Busway,Electrical,LF,2022-05,West Texas,0,1,1,6345.7,1166.29
+BID-00495,E-107,Generator set/terminate,Electrical,EA,2022-03,Midwest,1,0,1,17.0,59290.75
+BID-00496,E-106,UPS set/terminate,Electrical,EA,2024-11,Gulf Coast,0,0,1,46.0,20398.23
+BID-00497,E-106,UPS set/terminate,Electrical,EA,2025-01,Midwest,0,0,1,26.1,19985.46
+BID-00498,C-306,Duct bank,Civil,LF,2024-06,Midwest,0,0,1,13967.8,217.12
+BID-00499,E-106,UPS set/terminate,Electrical,EA,2020-08,Gulf Coast,1,0,2,176.1,19938.3
+BID-00500,C-303,Reinforcing steel,Civil,TON,2019-11,Mountain West,0,0,1,5228.7,1995.24
+BID-00501,C-302,Structural concrete,Civil,CY,2024-08,Gulf Coast,0,0,1,37970.4,420.56
+BID-00502,C-301,Mass excavation,Civil,CY,2021-05,West Texas,0,0,1,185909.5,8.25
+BID-00503,C-304,Aggregate base,Civil,SY,2020-12,West Texas,0,0,1,177731.3,15.17
+BID-00504,M-202,Process pipe 8in,Mechanical,LF,2020-07,Midwest,1,0,2,6555.5,210.82
+BID-00505,M-206,Galvanized ductwork,Mechanical,LB,2025-12,Southeast,0,1,1,307600.3,16.31
+BID-00506,C-302,Structural concrete,Civil,CY,2026-05,Midwest,0,1,2,83771.0,499.04
+BID-00507,E-103,Conduit,Electrical,LF,2025-08,Midwest,0,1,2,23311.1,82.74
+BID-00508,M-201,Chilled water pipe 12in,Mechanical,LF,2018-07,Gulf Coast,0,1,2,49988.9,234.72
+BID-00509,E-103,Conduit,Electrical,LF,2018-01,West Texas,1,0,1,141983.2,58.73
+BID-00510,E-107,Generator set/terminate,Electrical,EA,2025-09,Mountain West,1,0,1,36.1,74207.14
+BID-00511,M-204,Chiller set/connect,Mechanical,EA,2018-02,West Texas,1,1,3,45.0,52134.11
+BID-00512,C-305,Storm drain RCP 36in,Civil,LF,2020-07,West Texas,0,0,2,5475.4,147.34
+BID-00513,C-306,Duct bank,Civil,LF,2023-02,Midwest,0,0,1,10923.4,208.15
+BID-00514,M-204,Chiller set/connect,Mechanical,EA,2026-02,Mountain West,0,0,2,91.5,57086.76
+BID-00515,M-202,Process pipe 8in,Mechanical,LF,2025-07,Mountain West,0,0,1,7588.7,192.39
+BID-00516,E-105,Switchgear set/terminate,Electrical,EA,2023-10,West Texas,0,0,2,28.1,43563.69
+BID-00517,E-101,Cable tray,Electrical,LF,2019-10,Midwest,0,1,1,32327.7,52.6
+BID-00518,M-205,CRAH set/connect,Mechanical,EA,2026-01,Midwest,1,0,2,106.9,12290.51
+BID-00519,E-103,Conduit,Electrical,LF,2020-08,West Texas,0,1,1,11153.1,71.47
+BID-00520,M-202,Process pipe 8in,Mechanical,LF,2022-02,Southeast,1,0,2,20455.9,210.57
+BID-00521,M-205,CRAH set/connect,Mechanical,EA,2022-06,Gulf Coast,1,0,2,182.1,11212.72
+BID-00522,C-306,Duct bank,Civil,LF,2020-09,West Texas,1,0,1,7049.4,214.59
+BID-00523,M-206,Galvanized ductwork,Mechanical,LB,2026-08,Gulf Coast,0,1,1,390929.9,17.11
+BID-00524,C-305,Storm drain RCP 36in,Civil,LF,2018-01,Mountain West,0,0,3,13375.8,132.09
+BID-00525,C-302,Structural concrete,Civil,CY,2019-08,West Texas,0,1,3,13063.7,444.97
+BID-00526,M-201,Chilled water pipe 12in,Mechanical,LF,2020-12,Gulf Coast,1,0,1,19560.5,378.47
+BID-00527,M-205,CRAH set/connect,Mechanical,EA,2019-06,Southeast,0,0,2,108.4,6743.86
+BID-00528,C-302,Structural concrete,Civil,CY,2020-04,West Texas,0,1,3,67716.9,412.29
+BID-00529,C-303,Reinforcing steel,Civil,TON,2024-07,Midwest,0,0,2,16561.1,2052.51
+BID-00530,M-206,Galvanized ductwork,Mechanical,LB,2019-11,Mountain West,0,0,3,467575.6,11.92
+BID-00531,E-107,Generator set/terminate,Electrical,EA,2020-11,Southeast,0,0,2,16.2,55449.36
+BID-00532,E-104,Busway,Electrical,LF,2019-11,Mountain West,0,0,1,1320.2,992.46
+BID-00533,E-104,Busway,Electrical,LF,2023-10,Midwest,1,0,1,4869.9,1224.45
+BID-00534,C-304,Aggregate base,Civil,SY,2018-03,Midwest,1,0,1,283164.3,14.05
+BID-00535,C-303,Reinforcing steel,Civil,TON,2022-01,Southeast,0,0,1,4650.6,2848.42
+BID-00536,C-301,Mass excavation,Civil,CY,2023-06,West Texas,1,0,1,425819.9,10.06
+BID-00537,M-204,Chiller set/connect,Mechanical,EA,2019-02,Midwest,0,0,2,39.3,45148.65
+BID-00538,M-206,Galvanized ductwork,Mechanical,LB,2021-11,Southeast,1,0,1,224747.7,18.54
+BID-00539,C-306,Duct bank,Civil,LF,2020-07,Gulf Coast,0,0,2,15086.6,212.89
+BID-00540,M-201,Chilled water pipe 12in,Mechanical,LF,2025-02,West Texas,0,1,1,11702.1,313.49
+BID-00541,M-203,CDU set/connect,Mechanical,EA,2022-02,Gulf Coast,0,0,1,49.9,14662.92
+BID-00542,M-206,Galvanized ductwork,Mechanical,LB,2023-12,Mountain West,0,0,3,143217.8,16.4
+BID-00543,E-105,Switchgear set/terminate,Electrical,EA,2023-02,West Texas,0,0,1,23.8,40914.04
+BID-00544,M-204,Chiller set/connect,Mechanical,EA,2021-07,Gulf Coast,0,0,1,89.1,44065.37
+BID-00545,C-306,Duct bank,Civil,LF,2018-01,Midwest,1,1,1,16766.2,208.69
+BID-00546,C-303,Reinforcing steel,Civil,TON,2025-02,Gulf Coast,0,0,1,2760.2,1896.29
+BID-00547,E-103,Conduit,Electrical,LF,2025-09,Gulf Coast,1,0,1,38022.9,81.93
+BID-00548,M-202,Process pipe 8in,Mechanical,LF,2024-01,Gulf Coast,1,0,1,63179.9,178.62
+BID-00549,C-303,Reinforcing steel,Civil,TON,2019-01,Midwest,0,0,2,4154.5,1950.55
+BID-00550,E-104,Busway,Electrical,LF,2018-01,Midwest,0,0,3,2496.0,871.1
+BID-00551,C-303,Reinforcing steel,Civil,TON,2023-05,Southeast,0,0,2,4831.2,2195.49
+BID-00552,E-104,Busway,Electrical,LF,2020-06,Mountain West,0,0,1,2539.7,982.22
+BID-00553,C-303,Reinforcing steel,Civil,TON,2026-01,Gulf Coast,1,0,1,10435.2,2602.15
+BID-00554,C-305,Storm drain RCP 36in,Civil,LF,2025-10,Midwest,0,1,3,8025.2,216.49
+BID-00555,C-306,Duct bank,Civil,LF,2025-09,Gulf Coast,0,1,1,11202.6,256.24
+BID-00556,M-205,CRAH set/connect,Mechanical,EA,2021-05,West Texas,0,0,2,197.6,7590.47
+BID-00557,M-203,CDU set/connect,Mechanical,EA,2022-06,Southeast,1,0,2,418.4,13641.87
+BID-00558,E-104,Busway,Electrical,LF,2020-02,Southeast,0,0,2,3276.7,782.92
+BID-00559,E-102,MV cable,Electrical,LF,2019-07,Gulf Coast,0,0,1,36902.3,43.4
+BID-00560,C-306,Duct bank,Civil,LF,2022-09,Gulf Coast,0,0,3,5747.4,250.44
+BID-00561,E-107,Generator set/terminate,Electrical,EA,2026-08,Midwest,1,1,1,11.5,83911.68
+BID-00562,C-304,Aggregate base,Civil,SY,2018-01,Mountain West,1,0,1,128833.6,14.69
+BID-00563,M-203,CDU set/connect,Mechanical,EA,2024-11,West Texas,0,0,2,58.4,16075.08
+BID-00564,C-301,Mass excavation,Civil,CY,2026-03,Midwest,0,0,1,599627.5,9.7
+BID-00565,E-106,UPS set/terminate,Electrical,EA,2022-06,Mountain West,0,1,1,31.9,21444.38
+BID-00566,E-101,Cable tray,Electrical,LF,2018-09,Midwest,1,0,1,28797.1,51.61
+BID-00567,E-101,Cable tray,Electrical,LF,2021-10,Mountain West,0,0,2,38217.1,76.96
+BID-00568,E-107,Generator set/terminate,Electrical,EA,2025-07,West Texas,0,0,1,11.5,75019.42
+BID-00569,M-201,Chilled water pipe 12in,Mechanical,LF,2021-04,Mountain West,1,0,2,37667.0,389.02
+BID-00570,M-206,Galvanized ductwork,Mechanical,LB,2020-04,Southeast,0,1,1,213731.9,13.46
+BID-00571,E-105,Switchgear set/terminate,Electrical,EA,2024-06,West Texas,0,0,3,19.6,43755.79
+BID-00572,E-107,Generator set/terminate,Electrical,EA,2019-09,Mountain West,0,0,1,42.3,54582.76
+BID-00573,M-202,Process pipe 8in,Mechanical,LF,2025-01,Midwest,0,0,1,5735.3,211.69
+BID-00574,M-202,Process pipe 8in,Mechanical,LF,2021-04,Southeast,0,0,1,11570.3,210.0
+BID-00575,E-107,Generator set/terminate,Electrical,EA,2019-02,West Texas,0,1,3,44.0,66646.04
+BID-00576,M-203,CDU set/connect,Mechanical,EA,2025-04,Gulf Coast,0,0,1,74.0,13788.23
+BID-00577,C-306,Duct bank,Civil,LF,2023-09,Southeast,0,0,2,9185.1,225.33
+BID-00578,C-301,Mass excavation,Civil,CY,2018-03,Midwest,0,0,2,438280.2,8.58
+BID-00579,C-301,Mass excavation,Civil,CY,2019-09,Gulf Coast,1,0,2,814160.4,10.36
+BID-00580,E-104,Busway,Electrical,LF,2018-04,Southeast,0,1,2,1276.5,972.84
+BID-00581,E-103,Conduit,Electrical,LF,2026-02,Southeast,0,0,1,30975.3,72.85
+BID-00582,E-101,Cable tray,Electrical,LF,2019-07,Mountain West,0,0,1,4811.2,56.71
+BID-00583,M-205,CRAH set/connect,Mechanical,EA,2024-06,Midwest,0,0,3,187.9,10734.46
+BID-00584,M-203,CDU set/connect,Mechanical,EA,2019-04,Midwest,0,0,1,143.0,11864.82
+BID-00585,E-106,UPS set/terminate,Electrical,EA,2025-07,Gulf Coast,0,1,2,33.5,26841.26
+BID-00586,C-304,Aggregate base,Civil,SY,2023-09,Mountain West,1,1,2,206582.4,21.4
+BID-00587,M-206,Galvanized ductwork,Mechanical,LB,2023-01,Midwest,0,0,3,177610.3,15.38
+BID-00588,E-104,Busway,Electrical,LF,2018-03,Gulf Coast,0,0,1,2069.0,842.27
+BID-00589,M-202,Process pipe 8in,Mechanical,LF,2019-01,Midwest,0,0,3,48055.2,143.01
+BID-00590,E-106,UPS set/terminate,Electrical,EA,2023-06,Midwest,0,1,2,114.0,20249.35
+BID-00591,E-106,UPS set/terminate,Electrical,EA,2023-10,West Texas,1,0,2,81.8,22091.74
+BID-00592,M-203,CDU set/connect,Mechanical,EA,2021-01,Midwest,1,0,1,323.8,11202.26
+BID-00593,C-301,Mass excavation,Civil,CY,2026-09,Midwest,1,1,1,175413.0,12.21
+BID-00594,E-101,Cable tray,Electrical,LF,2020-04,Southeast,1,0,2,25539.7,53.89
+BID-00595,M-206,Galvanized ductwork,Mechanical,LB,2019-10,Mountain West,0,1,3,204354.3,15.34
+BID-00596,E-103,Conduit,Electrical,LF,2018-12,Gulf Coast,1,0,2,23782.1,65.93
+BID-00597,C-301,Mass excavation,Civil,CY,2025-05,Midwest,1,0,1,321249.1,10.33
+BID-00598,C-306,Duct bank,Civil,LF,2021-03,Midwest,0,0,1,12000.9,200.81
+BID-00599,E-105,Switchgear set/terminate,Electrical,EA,2020-09,Midwest,0,0,1,30.7,25539.94
+BID-00600,C-306,Duct bank,Civil,LF,2019-10,West Texas,0,0,1,35285.8,166.52
+BID-00601,E-107,Generator set/terminate,Electrical,EA,2018-10,Gulf Coast,0,1,1,51.4,52086.67
+BID-00602,E-107,Generator set/terminate,Electrical,EA,2020-07,Mountain West,0,0,1,29.4,54348.81
+BID-00603,M-201,Chilled water pipe 12in,Mechanical,LF,2018-07,West Texas,0,1,2,16036.2,249.46
+BID-00604,M-206,Galvanized ductwork,Mechanical,LB,2022-12,West Texas,0,1,2,221301.5,13.38
+BID-00605,E-103,Conduit,Electrical,LF,2019-05,Gulf Coast,0,0,1,13468.7,56.53
+BID-00606,M-204,Chiller set/connect,Mechanical,EA,2021-10,Mountain West,1,1,2,27.4,62110.71
+BID-00607,E-102,MV cable,Electrical,LF,2018-09,West Texas,1,0,1,29977.1,36.52
+BID-00608,C-304,Aggregate base,Civil,SY,2019-04,Gulf Coast,1,1,1,158169.7,17.87
+BID-00609,C-303,Reinforcing steel,Civil,TON,2020-12,Southeast,1,0,2,16799.5,2415.29
+BID-00610,E-102,MV cable,Electrical,LF,2023-12,Midwest,1,1,2,19438.9,60.18
+BID-00611,E-103,Conduit,Electrical,LF,2021-02,Southeast,0,0,2,38615.6,81.23
+BID-00612,E-101,Cable tray,Electrical,LF,2018-04,West Texas,0,0,2,18783.3,49.93
+BID-00613,C-306,Duct bank,Civil,LF,2018-06,Midwest,1,0,1,12566.5,186.83
+BID-00614,E-105,Switchgear set/terminate,Electrical,EA,2024-01,Midwest,0,0,2,50.3,34380.53
+BID-00615,C-301,Mass excavation,Civil,CY,2018-10,Southeast,1,0,1,493798.6,7.69
+BID-00616,E-101,Cable tray,Electrical,LF,2021-07,Midwest,0,1,1,19711.2,74.47
+BID-00617,M-205,CRAH set/connect,Mechanical,EA,2025-09,West Texas,1,1,1,75.4,13161.07
+BID-00618,C-305,Storm drain RCP 36in,Civil,LF,2019-11,Southeast,0,1,1,7700.6,155.66
+BID-00619,M-206,Galvanized ductwork,Mechanical,LB,2021-07,West Texas,0,1,1,330756.4,16.34
+BID-00620,M-204,Chiller set/connect,Mechanical,EA,2019-05,West Texas,0,0,1,41.0,37101.25
+BID-00621,C-304,Aggregate base,Civil,SY,2018-12,West Texas,1,1,1,45420.6,17.41
+BID-00622,C-303,Reinforcing steel,Civil,TON,2024-04,Midwest,1,0,3,3861.7,2728.67
+BID-00623,M-202,Process pipe 8in,Mechanical,LF,2018-04,Midwest,0,0,3,37009.5,145.96
+BID-00624,M-204,Chiller set/connect,Mechanical,EA,2020-03,Gulf Coast,0,0,1,36.6,43138.35
+BID-00625,E-103,Conduit,Electrical,LF,2023-09,Gulf Coast,0,0,2,18766.7,67.65
+BID-00626,M-202,Process pipe 8in,Mechanical,LF,2022-07,West Texas,0,0,3,14104.0,214.86
+BID-00627,M-204,Chiller set/connect,Mechanical,EA,2019-12,Midwest,0,0,1,30.7,42652.01
+BID-00628,C-305,Storm drain RCP 36in,Civil,LF,2020-05,Gulf Coast,0,0,3,6474.6,146.02
+BID-00629,E-102,MV cable,Electrical,LF,2018-12,West Texas,0,0,2,14871.1,40.4
+BID-00630,M-204,Chiller set/connect,Mechanical,EA,2023-03,Mountain West,0,0,1,46.5,48878.95
+BID-00631,E-105,Switchgear set/terminate,Electrical,EA,2025-11,Midwest,0,0,1,17.4,40694.94
+BID-00632,M-201,Chilled water pipe 12in,Mechanical,LF,2022-03,Southeast,0,1,2,51881.4,311.64
+BID-00633,M-206,Galvanized ductwork,Mechanical,LB,2018-01,Mountain West,0,0,1,189532.1,12.54
+BID-00634,C-304,Aggregate base,Civil,SY,2023-01,Midwest,0,0,2,254765.1,17.81
+BID-00635,E-104,Busway,Electrical,LF,2023-02,West Texas,0,0,1,6266.0,1094.09
+BID-00636,C-302,Structural concrete,Civil,CY,2018-10,West Texas,1,0,3,31781.0,413.24
+BID-00637,C-303,Reinforcing steel,Civil,TON,2025-04,Midwest,1,1,1,7209.3,2575.23
+BID-00638,E-103,Conduit,Electrical,LF,2024-08,West Texas,0,0,2,33212.0,70.12
+BID-00639,E-102,MV cable,Electrical,LF,2022-08,Midwest,0,1,1,93829.0,48.19
+BID-00640,C-303,Reinforcing steel,Civil,TON,2021-11,Midwest,0,0,1,2671.1,3227.49
+BID-00641,E-106,UPS set/terminate,Electrical,EA,2025-04,Southeast,1,0,1,65.6,22272.85
+BID-00642,E-103,Conduit,Electrical,LF,2025-01,Southeast,0,1,1,55340.8,59.56
+BID-00643,E-107,Generator set/terminate,Electrical,EA,2026-07,Mountain West,0,0,1,47.0,66334.87
+BID-00644,M-204,Chiller set/connect,Mechanical,EA,2025-06,West Texas,1,0,1,34.5,73681.28
+BID-00645,C-305,Storm drain RCP 36in,Civil,LF,2023-03,West Texas,0,1,1,12146.5,160.09
+BID-00646,M-202,Process pipe 8in,Mechanical,LF,2026-02,Midwest,0,0,1,52402.3,168.28
+BID-00647,M-205,CRAH set/connect,Mechanical,EA,2019-03,Mountain West,0,1,1,123.6,8273.78
+BID-00648,E-105,Switchgear set/terminate,Electrical,EA,2022-05,Gulf Coast,0,0,1,16.3,34608.88
+BID-00649,E-102,MV cable,Electrical,LF,2021-02,Gulf Coast,0,0,1,98679.8,43.92
+BID-00650,C-304,Aggregate base,Civil,SY,2018-03,Gulf Coast,0,0,2,107106.7,15.05
+BID-00651,E-101,Cable tray,Electrical,LF,2019-10,West Texas,0,1,1,11551.5,50.92
+BID-00652,M-202,Process pipe 8in,Mechanical,LF,2020-01,West Texas,0,0,1,9418.1,149.11
+BID-00653,C-303,Reinforcing steel,Civil,TON,2026-05,West Texas,1,1,1,8546.7,2586.04
+BID-00654,M-201,Chilled water pipe 12in,Mechanical,LF,2024-07,Mountain West,1,1,1,11139.6,338.03
+BID-00655,E-105,Switchgear set/terminate,Electrical,EA,2025-09,Southeast,1,1,1,37.0,44671.39
+BID-00656,M-206,Galvanized ductwork,Mechanical,LB,2025-05,Southeast,0,0,1,198743.5,12.53
+BID-00657,M-201,Chilled water pipe 12in,Mechanical,LF,2022-08,Midwest,1,0,1,35571.2,309.8
+BID-00658,C-303,Reinforcing steel,Civil,TON,2019-11,Mountain West,0,0,3,5585.3,2023.89
+BID-00659,C-306,Duct bank,Civil,LF,2018-08,Midwest,1,0,2,15837.8,204.09
+BID-00660,E-107,Generator set/terminate,Electrical,EA,2023-02,West Texas,0,0,2,31.9,63957.29
+BID-00661,E-106,UPS set/terminate,Electrical,EA,2022-09,Mountain West,0,0,1,62.6,19507.84
+BID-00662,E-105,Switchgear set/terminate,Electrical,EA,2022-05,Gulf Coast,0,0,2,20.3,36161.54
+BID-00663,M-206,Galvanized ductwork,Mechanical,LB,2020-06,Gulf Coast,1,0,1,323466.5,13.76
+BID-00664,M-203,CDU set/connect,Mechanical,EA,2018-09,Southeast,0,0,2,318.6,9959.43
+BID-00665,M-205,CRAH set/connect,Mechanical,EA,2022-08,Mountain West,0,0,1,70.1,8914.73
+BID-00666,C-301,Mass excavation,Civil,CY,2019-07,Mountain West,1,0,1,301603.7,8.26
+BID-00667,E-106,UPS set/terminate,Electrical,EA,2023-01,West Texas,0,0,1,12.2,19752.52
+BID-00668,E-103,Conduit,Electrical,LF,2025-01,Gulf Coast,0,0,1,29293.5,66.41
+BID-00669,E-102,MV cable,Electrical,LF,2025-12,Mountain West,0,0,2,24220.5,55.28
+BID-00670,E-102,MV cable,Electrical,LF,2021-07,Gulf Coast,0,0,1,57995.9,42.89
+BID-00671,M-206,Galvanized ductwork,Mechanical,LB,2018-11,Midwest,0,1,2,281366.1,12.44
+BID-00672,E-107,Generator set/terminate,Electrical,EA,2020-12,West Texas,0,0,1,42.5,44174.94
+BID-00673,C-304,Aggregate base,Civil,SY,2020-10,West Texas,1,0,1,132355.2,15.91
+BID-00674,E-103,Conduit,Electrical,LF,2025-02,West Texas,0,0,1,30656.7,61.32
+BID-00675,C-303,Reinforcing steel,Civil,TON,2022-10,West Texas,0,1,1,10357.5,2135.06
+BID-00676,C-302,Structural concrete,Civil,CY,2019-06,Mountain West,0,0,2,16374.8,415.19
+BID-00677,C-301,Mass excavation,Civil,CY,2024-03,West Texas,0,0,1,192063.4,8.7
+BID-00678,E-102,MV cable,Electrical,LF,2020-03,Gulf Coast,0,0,3,17144.6,42.64
+BID-00679,M-201,Chilled water pipe 12in,Mechanical,LF,2026-03,Southeast,1,1,1,5023.9,386.0
+BID-00680,E-104,Busway,Electrical,LF,2025-11,Midwest,0,1,1,5840.1,1157.64
+BID-00681,C-301,Mass excavation,Civil,CY,2022-01,Midwest,1,0,1,436770.9,8.93
+BID-00682,C-305,Storm drain RCP 36in,Civil,LF,2023-10,West Texas,0,0,1,12712.2,155.81
+BID-00683,C-302,Structural concrete,Civil,CY,2022-08,Gulf Coast,0,0,1,26636.2,422.93
+BID-00684,C-306,Duct bank,Civil,LF,2026-04,Mountain West,1,0,1,50843.3,237.28
+BID-00685,E-102,MV cable,Electrical,LF,2025-02,West Texas,0,1,1,22394.5,50.55
+BID-00686,E-104,Busway,Electrical,LF,2019-08,Southeast,1,0,1,4300.3,1081.98
+BID-00687,C-303,Reinforcing steel,Civil,TON,2022-11,Midwest,0,0,1,2984.8,2022.01
+BID-00688,E-102,MV cable,Electrical,LF,2022-07,Mountain West,0,0,1,53150.1,49.24
+BID-00689,M-201,Chilled water pipe 12in,Mechanical,LF,2018-03,West Texas,0,0,1,14363.6,239.44
+BID-00690,M-201,Chilled water pipe 12in,Mechanical,LF,2025-08,Midwest,1,0,1,4689.3,349.24
+BID-00691,E-107,Generator set/terminate,Electrical,EA,2019-08,Midwest,0,0,1,42.9,49204.15
+BID-00692,E-106,UPS set/terminate,Electrical,EA,2022-01,West Texas,0,0,1,111.6,16571.73
+BID-00693,C-304,Aggregate base,Civil,SY,2020-01,Mountain West,1,1,3,114239.9,18.71
+BID-00694,E-102,MV cable,Electrical,LF,2026-03,Midwest,0,0,2,38685.5,53.72
+BID-00695,M-204,Chiller set/connect,Mechanical,EA,2026-02,Southeast,1,0,2,11.6,57734.85
+BID-00696,E-103,Conduit,Electrical,LF,2018-09,Southeast,1,0,1,6403.2,60.97
+BID-00697,M-206,Galvanized ductwork,Mechanical,LB,2023-01,Southeast,0,1,1,275321.1,13.02
+BID-00698,C-302,Structural concrete,Civil,CY,2023-08,Midwest,1,1,1,51757.0,480.73
+BID-00699,C-303,Reinforcing steel,Civil,TON,2024-01,Mountain West,0,0,1,7787.3,2033.41
+BID-00700,E-103,Conduit,Electrical,LF,2020-06,Midwest,0,0,2,26872.1,65.3
+BID-00701,E-104,Busway,Electrical,LF,2022-09,Mountain West,0,0,1,2484.2,1177.42
+BID-00702,E-106,UPS set/terminate,Electrical,EA,2023-10,Gulf Coast,1,0,2,43.6,23466.38
+BID-00703,E-106,UPS set/terminate,Electrical,EA,2025-03,West Texas,0,0,1,64.4,18986.73
+BID-00704,C-306,Duct bank,Civil,LF,2022-01,Gulf Coast,0,0,1,3783.2,208.22
+BID-00705,C-303,Reinforcing steel,Civil,TON,2018-08,Southeast,0,0,3,6343.4,1753.25
+BID-00706,C-304,Aggregate base,Civil,SY,2022-02,Midwest,1,1,3,147496.3,22.82
+BID-00707,C-301,Mass excavation,Civil,CY,2019-07,Midwest,0,0,1,505523.0,7.73
+BID-00708,M-204,Chiller set/connect,Mechanical,EA,2024-09,Southeast,1,1,1,114.5,59380.29
+BID-00709,E-107,Generator set/terminate,Electrical,EA,2020-10,Midwest,1,0,1,44.3,58432.3
+BID-00710,C-301,Mass excavation,Civil,CY,2019-12,Midwest,0,1,2,907754.0,8.49
+BID-00711,C-306,Duct bank,Civil,LF,2018-05,Gulf Coast,0,0,1,6581.3,189.22
+BID-00712,E-101,Cable tray,Electrical,LF,2019-05,Gulf Coast,0,1,1,25450.0,54.7
+BID-00713,M-204,Chiller set/connect,Mechanical,EA,2026-03,Midwest,0,0,1,84.0,54463.31
+BID-00714,M-203,CDU set/connect,Mechanical,EA,2018-03,Gulf Coast,0,0,1,177.6,11131.36
+BID-00715,C-304,Aggregate base,Civil,SY,2026-01,Midwest,0,0,3,345054.9,22.44
+BID-00716,M-203,CDU set/connect,Mechanical,EA,2020-06,Gulf Coast,1,0,2,209.6,14631.05
+BID-00717,C-304,Aggregate base,Civil,SY,2023-06,Southeast,1,1,1,192795.4,18.55
+BID-00718,C-304,Aggregate base,Civil,SY,2019-07,West Texas,0,0,1,121221.5,13.97
+BID-00719,M-206,Galvanized ductwork,Mechanical,LB,2022-07,Gulf Coast,0,0,1,397852.3,14.59
+BID-00720,M-204,Chiller set/connect,Mechanical,EA,2024-02,West Texas,1,0,1,62.5,46716.54
+BID-00721,E-105,Switchgear set/terminate,Electrical,EA,2020-09,Gulf Coast,0,0,2,26.0,35428.55
+BID-00722,E-102,MV cable,Electrical,LF,2022-01,Gulf Coast,1,0,1,70383.5,54.07
+BID-00723,E-105,Switchgear set/terminate,Electrical,EA,2019-10,Gulf Coast,0,0,3,54.4,35482.52
+BID-00724,C-306,Duct bank,Civil,LF,2021-03,Midwest,0,0,2,9847.4,230.52
+BID-00725,E-104,Busway,Electrical,LF,2018-02,West Texas,0,1,1,3702.8,789.51
+BID-00726,C-304,Aggregate base,Civil,SY,2019-10,West Texas,1,0,1,380448.9,15.61
+BID-00727,E-101,Cable tray,Electrical,LF,2025-05,West Texas,0,0,3,10368.7,67.79
+BID-00728,C-304,Aggregate base,Civil,SY,2018-04,Gulf Coast,0,0,1,96557.8,13.53
+BID-00729,E-106,UPS set/terminate,Electrical,EA,2019-04,Midwest,0,0,1,162.9,13602.98
+BID-00730,C-303,Reinforcing steel,Civil,TON,2021-04,Mountain West,0,0,1,12619.3,2798.03
+BID-00731,C-303,Reinforcing steel,Civil,TON,2020-11,Mountain West,1,1,1,1748.8,2967.27
+BID-00732,M-204,Chiller set/connect,Mechanical,EA,2024-05,West Texas,1,0,1,39.1,56527.46
+BID-00733,C-306,Duct bank,Civil,LF,2020-06,Gulf Coast,0,0,2,10217.7,190.62
+BID-00734,C-305,Storm drain RCP 36in,Civil,LF,2019-04,West Texas,1,0,1,3987.0,128.03
+BID-00735,C-304,Aggregate base,Civil,SY,2020-01,Gulf Coast,1,1,1,467492.2,16.48
+BID-00736,C-304,Aggregate base,Civil,SY,2021-04,Midwest,0,1,1,182692.6,16.03
+BID-00737,M-205,CRAH set/connect,Mechanical,EA,2025-09,Mountain West,0,0,1,262.5,10441.81
+BID-00738,C-306,Duct bank,Civil,LF,2023-08,West Texas,0,1,2,18787.4,228.26
+BID-00739,M-206,Galvanized ductwork,Mechanical,LB,2021-04,Midwest,1,0,1,92448.4,18.84
+BID-00740,M-203,CDU set/connect,Mechanical,EA,2024-10,Mountain West,1,0,1,96.6,18989.61
+BID-00741,C-306,Duct bank,Civil,LF,2025-12,Southeast,1,0,2,2961.5,323.94
+BID-00742,M-206,Galvanized ductwork,Mechanical,LB,2018-02,Mountain West,0,0,2,225023.5,14.3
+BID-00743,C-305,Storm drain RCP 36in,Civil,LF,2022-04,Southeast,0,0,2,14074.8,137.05
+BID-00744,M-204,Chiller set/connect,Mechanical,EA,2021-09,Gulf Coast,0,0,2,18.1,50942.06
+BID-00745,E-101,Cable tray,Electrical,LF,2023-03,Gulf Coast,1,0,1,42575.9,59.51
+BID-00746,E-107,Generator set/terminate,Electrical,EA,2018-11,West Texas,0,0,2,30.3,47147.07
+BID-00747,M-202,Process pipe 8in,Mechanical,LF,2022-07,West Texas,1,0,2,5790.9,258.23
+BID-00748,M-204,Chiller set/connect,Mechanical,EA,2020-06,Mountain West,0,1,1,92.5,45010.88
+BID-00749,M-205,CRAH set/connect,Mechanical,EA,2023-09,Southeast,1,0,2,339.4,9246.14
+BID-00750,M-203,CDU set/connect,Mechanical,EA,2024-08,Gulf Coast,0,0,3,285.2,15939.76
+BID-00751,C-305,Storm drain RCP 36in,Civil,LF,2019-12,Midwest,1,0,2,7083.3,156.93
+BID-00752,C-304,Aggregate base,Civil,SY,2020-01,Mountain West,0,1,1,91773.7,15.98
+BID-00753,M-205,CRAH set/connect,Mechanical,EA,2018-08,West Texas,0,0,2,319.7,7533.46
+BID-00754,C-306,Duct bank,Civil,LF,2018-09,Mountain West,1,0,1,22368.9,197.87
+BID-00755,C-306,Duct bank,Civil,LF,2024-07,West Texas,0,1,2,15133.6,234.32
+BID-00756,C-303,Reinforcing steel,Civil,TON,2021-05,Midwest,0,1,1,5187.7,3231.19
+BID-00757,M-202,Process pipe 8in,Mechanical,LF,2024-08,Mountain West,0,0,2,7792.3,203.3
+BID-00758,E-101,Cable tray,Electrical,LF,2026-01,Midwest,0,0,1,24763.3,62.89
+BID-00759,E-106,UPS set/terminate,Electrical,EA,2024-06,Southeast,1,0,1,147.1,20499.98
+BID-00760,C-306,Duct bank,Civil,LF,2022-09,Midwest,0,1,2,7459.1,266.8
+BID-00761,E-107,Generator set/terminate,Electrical,EA,2019-01,West Texas,0,0,1,11.5,46957.95
+BID-00762,E-101,Cable tray,Electrical,LF,2025-09,Southeast,0,0,2,33861.7,55.17
+BID-00763,M-205,CRAH set/connect,Mechanical,EA,2022-10,Gulf Coast,0,0,3,111.4,9724.88
+BID-00764,E-101,Cable tray,Electrical,LF,2019-10,West Texas,1,0,1,35374.7,49.05
+BID-00765,M-206,Galvanized ductwork,Mechanical,LB,2023-10,Mountain West,1,0,1,188460.6,15.3
+BID-00766,C-306,Duct bank,Civil,LF,2019-07,Midwest,1,0,1,3798.8,226.31
+BID-00767,M-206,Galvanized ductwork,Mechanical,LB,2019-05,West Texas,0,0,3,301391.5,13.37
+BID-00768,E-101,Cable tray,Electrical,LF,2019-04,Southeast,0,0,1,67100.4,39.17
+BID-00769,C-305,Storm drain RCP 36in,Civil,LF,2025-06,Mountain West,0,0,1,11463.1,161.72
+BID-00770,C-305,Storm drain RCP 36in,Civil,LF,2023-06,West Texas,0,0,1,7131.4,147.8
+BID-00771,C-303,Reinforcing steel,Civil,TON,2023-01,West Texas,0,0,1,4888.5,2095.39
+BID-00772,E-107,Generator set/terminate,Electrical,EA,2025-12,Midwest,0,0,1,32.8,59874.88
+BID-00773,C-303,Reinforcing steel,Civil,TON,2023-05,Gulf Coast,0,0,1,6814.6,1810.51
+BID-00774,C-303,Reinforcing steel,Civil,TON,2020-02,Gulf Coast,0,0,2,10293.9,1837.05
+BID-00775,M-203,CDU set/connect,Mechanical,EA,2023-03,Midwest,0,1,1,104.6,16157.67
+BID-00776,M-203,CDU set/connect,Mechanical,EA,2023-03,Southeast,0,0,2,55.7,13477.02
+BID-00777,E-102,MV cable,Electrical,LF,2025-06,Gulf Coast,0,0,1,43754.9,46.54
+BID-00778,C-304,Aggregate base,Civil,SY,2024-03,Gulf Coast,0,0,1,181009.3,19.13
+BID-00779,E-107,Generator set/terminate,Electrical,EA,2024-04,West Texas,0,0,2,27.3,58886.46
+BID-00780,E-102,MV cable,Electrical,LF,2021-07,Gulf Coast,0,0,3,37045.1,54.8
+BID-00781,C-306,Duct bank,Civil,LF,2024-11,Gulf Coast,0,1,2,4957.0,316.74
+BID-00782,C-301,Mass excavation,Civil,CY,2025-06,Gulf Coast,0,0,1,529392.0,9.42
+BID-00783,M-204,Chiller set/connect,Mechanical,EA,2020-09,Gulf Coast,1,0,2,16.1,50474.69
+BID-00784,M-206,Galvanized ductwork,Mechanical,LB,2021-03,Gulf Coast,0,0,3,444296.9,17.75
+BID-00785,C-305,Storm drain RCP 36in,Civil,LF,2018-11,Gulf Coast,0,1,1,6604.7,141.43
+BID-00786,E-103,Conduit,Electrical,LF,2019-09,West Texas,0,0,3,18196.5,66.65
+BID-00787,E-102,MV cable,Electrical,LF,2026-04,West Texas,1,1,1,32525.5,62.28
+BID-00788,M-205,CRAH set/connect,Mechanical,EA,2023-01,Midwest,1,1,1,116.9,12175.4
+BID-00789,E-102,MV cable,Electrical,LF,2019-08,West Texas,1,1,1,129481.2,42.87
+BID-00790,M-201,Chilled water pipe 12in,Mechanical,LF,2024-04,Midwest,0,0,1,12364.0,240.2
+BID-00791,M-205,CRAH set/connect,Mechanical,EA,2020-06,West Texas,0,0,2,219.0,8077.08
+BID-00792,M-204,Chiller set/connect,Mechanical,EA,2021-04,Midwest,0,0,1,41.4,41574.81
+BID-00793,C-303,Reinforcing steel,Civil,TON,2022-07,Gulf Coast,1,0,1,3726.1,3083.22
+BID-00794,E-102,MV cable,Electrical,LF,2022-01,West Texas,0,1,2,15532.9,60.12
+BID-00795,M-201,Chilled water pipe 12in,Mechanical,LF,2023-09,Gulf Coast,1,0,3,26542.7,328.63
+BID-00796,M-204,Chiller set/connect,Mechanical,EA,2018-03,Gulf Coast,1,0,3,75.8,49340.34
+BID-00797,E-101,Cable tray,Electrical,LF,2025-08,West Texas,0,1,1,12923.5,65.65
+BID-00798,E-101,Cable tray,Electrical,LF,2020-08,Midwest,1,0,1,9490.1,62.01
+BID-00799,C-303,Reinforcing steel,Civil,TON,2026-06,Gulf Coast,0,0,1,3782.0,2498.77
+BID-00800,E-106,UPS set/terminate,Electrical,EA,2020-01,Mountain West,0,0,1,57.1,16833.13
+BID-00801,M-203,CDU set/connect,Mechanical,EA,2019-06,Southeast,0,1,3,157.7,11485.68
+BID-00802,M-205,CRAH set/connect,Mechanical,EA,2022-04,Midwest,0,0,1,256.3,8978.41
+BID-00803,E-102,MV cable,Electrical,LF,2024-04,Midwest,0,0,3,17674.5,66.02
+BID-00804,M-202,Process pipe 8in,Mechanical,LF,2019-11,Gulf Coast,0,0,1,42425.9,139.04
+BID-00805,C-303,Reinforcing steel,Civil,TON,2023-12,Gulf Coast,0,1,2,4743.9,2445.91
+BID-00806,M-206,Galvanized ductwork,Mechanical,LB,2025-04,West Texas,0,0,1,144039.8,13.52
+BID-00807,E-106,UPS set/terminate,Electrical,EA,2022-02,Gulf Coast,0,1,2,23.4,20892.14
+BID-00808,C-301,Mass excavation,Civil,CY,2022-02,Midwest,1,0,2,393313.7,10.18
+BID-00809,E-101,Cable tray,Electrical,LF,2020-06,Midwest,0,0,2,15384.8,61.1
+BID-00810,E-106,UPS set/terminate,Electrical,EA,2021-01,Mountain West,0,1,1,56.2,20895.43
+BID-00811,E-101,Cable tray,Electrical,LF,2022-12,Midwest,1,0,1,14049.9,55.81
+BID-00812,M-203,CDU set/connect,Mechanical,EA,2020-01,Mountain West,1,0,2,198.2,14255.8
+BID-00813,C-301,Mass excavation,Civil,CY,2018-06,Gulf Coast,0,0,1,799866.9,8.05
+BID-00814,C-301,Mass excavation,Civil,CY,2022-04,West Texas,0,0,2,325899.1,9.11
+BID-00815,C-305,Storm drain RCP 36in,Civil,LF,2022-07,West Texas,0,1,1,7296.6,155.39
+BID-00816,E-104,Busway,Electrical,LF,2024-07,West Texas,0,0,2,1538.2,1163.53
+BID-00817,M-206,Galvanized ductwork,Mechanical,LB,2023-10,Southeast,0,1,2,443193.3,13.36
+BID-00818,C-304,Aggregate base,Civil,SY,2022-06,West Texas,1,0,1,139857.7,18.99
+BID-00819,C-303,Reinforcing steel,Civil,TON,2023-11,Southeast,0,1,1,12837.2,1963.86
+BID-00820,C-306,Duct bank,Civil,LF,2024-10,West Texas,1,1,2,9523.0,295.18
+BID-00821,C-302,Structural concrete,Civil,CY,2023-09,Southeast,0,1,2,60105.1,436.82
+BID-00822,E-106,UPS set/terminate,Electrical,EA,2018-09,West Texas,0,0,1,132.9,16054.14
+BID-00823,C-306,Duct bank,Civil,LF,2018-03,Gulf Coast,0,0,1,9294.8,190.03
+BID-00824,E-103,Conduit,Electrical,LF,2022-10,Midwest,0,0,1,28939.3,68.3
+BID-00825,C-306,Duct bank,Civil,LF,2018-07,Gulf Coast,0,0,2,11540.8,178.45
+BID-00826,C-302,Structural concrete,Civil,CY,2024-10,Mountain West,0,0,1,96917.0,394.79
+BID-00827,E-103,Conduit,Electrical,LF,2026-07,Mountain West,0,1,1,25374.4,88.01
+BID-00828,C-305,Storm drain RCP 36in,Civil,LF,2018-06,Mountain West,0,1,2,7672.2,153.05
+BID-00829,E-107,Generator set/terminate,Electrical,EA,2021-01,Gulf Coast,0,0,2,43.0,56423.84
+BID-00830,E-104,Busway,Electrical,LF,2023-08,West Texas,0,1,2,1741.1,1310.65
+BID-00831,M-201,Chilled water pipe 12in,Mechanical,LF,2023-05,West Texas,0,1,1,6515.7,279.94
+BID-00832,E-107,Generator set/terminate,Electrical,EA,2018-05,Gulf Coast,1,0,2,33.0,61304.9
+BID-00833,C-303,Reinforcing steel,Civil,TON,2022-06,Southeast,1,0,1,3567.6,2602.14
+BID-00834,M-201,Chilled water pipe 12in,Mechanical,LF,2024-07,Midwest,0,0,1,14114.7,287.87
+BID-00835,E-106,UPS set/terminate,Electrical,EA,2019-09,West Texas,0,0,1,121.9,14405.78
+BID-00836,M-205,CRAH set/connect,Mechanical,EA,2023-04,Southeast,0,0,1,184.1,8755.14
+BID-00837,E-102,MV cable,Electrical,LF,2025-09,Southeast,1,0,2,14146.5,64.06
+BID-00838,E-103,Conduit,Electrical,LF,2018-02,Southeast,0,0,1,48875.8,49.12
+BID-00839,M-201,Chilled water pipe 12in,Mechanical,LF,2018-12,Midwest,0,0,2,12150.9,240.02
+BID-00840,E-107,Generator set/terminate,Electrical,EA,2020-04,West Texas,0,0,1,54.3,56040.01
+BID-00841,M-203,CDU set/connect,Mechanical,EA,2026-06,West Texas,1,0,2,154.5,17078.95
+BID-00842,E-101,Cable tray,Electrical,LF,2022-12,Gulf Coast,1,0,1,15703.1,58.3
+BID-00843,E-106,UPS set/terminate,Electrical,EA,2025-08,Mountain West,1,1,3,42.2,34567.63
+BID-00844,C-302,Structural concrete,Civil,CY,2021-10,Midwest,1,0,2,20157.1,514.1
+BID-00845,M-206,Galvanized ductwork,Mechanical,LB,2019-03,Gulf Coast,0,0,2,138021.1,13.22
+BID-00846,M-206,Galvanized ductwork,Mechanical,LB,2023-10,Gulf Coast,0,0,2,445632.5,13.45
+BID-00847,M-202,Process pipe 8in,Mechanical,LF,2022-06,West Texas,0,0,2,48456.6,190.83
+BID-00848,M-205,CRAH set/connect,Mechanical,EA,2022-10,Gulf Coast,1,1,1,129.1,11468.93
+BID-00849,M-205,CRAH set/connect,Mechanical,EA,2018-10,West Texas,0,0,1,280.0,6391.53
+BID-00850,M-205,CRAH set/connect,Mechanical,EA,2019-06,West Texas,1,1,1,121.2,9910.84
+BID-00851,M-204,Chiller set/connect,Mechanical,EA,2019-05,West Texas,1,1,2,47.9,54550.76
+BID-00852,M-201,Chilled water pipe 12in,Mechanical,LF,2026-05,West Texas,0,0,2,11256.7,331.21
+BID-00853,M-205,CRAH set/connect,Mechanical,EA,2023-06,Gulf Coast,0,0,2,324.1,10052.25
+BID-00854,E-105,Switchgear set/terminate,Electrical,EA,2018-10,West Texas,0,0,3,22.3,33746.87
+BID-00855,E-103,Conduit,Electrical,LF,2026-03,West Texas,0,0,1,64630.2,64.48
+BID-00856,M-205,CRAH set/connect,Mechanical,EA,2025-05,Gulf Coast,0,0,2,90.7,10346.94
+BID-00857,E-103,Conduit,Electrical,LF,2020-08,Southeast,0,0,1,49988.2,48.74
+BID-00858,C-305,Storm drain RCP 36in,Civil,LF,2022-05,Gulf Coast,0,0,1,12661.2,142.07
+BID-00859,M-206,Galvanized ductwork,Mechanical,LB,2018-11,West Texas,0,0,1,227380.4,10.07
+BID-00860,C-304,Aggregate base,Civil,SY,2025-07,Southeast,0,0,1,173913.2,18.41
+BID-00861,E-102,MV cable,Electrical,LF,2026-03,Southeast,0,0,1,137278.9,35.36
+BID-00862,E-103,Conduit,Electrical,LF,2024-05,West Texas,1,0,2,58986.8,65.08
+BID-00863,C-306,Duct bank,Civil,LF,2018-02,Midwest,1,1,1,18892.7,187.83
+BID-00864,C-303,Reinforcing steel,Civil,TON,2018-01,Mountain West,0,0,1,6383.3,1881.88
+BID-00865,E-107,Generator set/terminate,Electrical,EA,2021-11,Southeast,0,0,1,17.3,60291.31
+BID-00866,E-107,Generator set/terminate,Electrical,EA,2022-02,Midwest,0,0,2,17.7,60255.74
+BID-00867,C-303,Reinforcing steel,Civil,TON,2026-02,Midwest,0,0,2,6214.2,2476.08
+BID-00868,C-301,Mass excavation,Civil,CY,2023-02,Southeast,1,0,2,637337.0,9.79
+BID-00869,E-107,Generator set/terminate,Electrical,EA,2019-04,West Texas,0,0,1,14.1,50369.38
+BID-00870,E-107,Generator set/terminate,Electrical,EA,2026-01,Gulf Coast,0,0,2,25.3,69282.07
+BID-00871,C-305,Storm drain RCP 36in,Civil,LF,2021-01,Midwest,0,0,1,13026.9,147.47
+BID-00872,M-203,CDU set/connect,Mechanical,EA,2021-05,Midwest,0,0,2,54.5,14121.75
+BID-00873,M-205,CRAH set/connect,Mechanical,EA,2019-11,Gulf Coast,0,0,3,184.2,9449.98
+BID-00874,M-206,Galvanized ductwork,Mechanical,LB,2020-01,West Texas,0,1,1,124581.7,13.78
+BID-00875,M-201,Chilled water pipe 12in,Mechanical,LF,2018-08,Mountain West,0,0,1,11267.0,231.74
+BID-00876,M-204,Chiller set/connect,Mechanical,EA,2020-06,West Texas,0,0,1,64.3,44115.72
+BID-00877,M-204,Chiller set/connect,Mechanical,EA,2020-07,Southeast,1,0,1,34.3,39502.09
+BID-00878,M-204,Chiller set/connect,Mechanical,EA,2026-09,Midwest,0,1,3,26.0,69498.65
+BID-00879,M-204,Chiller set/connect,Mechanical,EA,2026-09,Southeast,0,0,1,51.2,53861.87
+BID-00880,C-301,Mass excavation,Civil,CY,2025-07,West Texas,0,0,1,703802.3,9.16
+BID-00881,C-304,Aggregate base,Civil,SY,2019-11,West Texas,0,0,2,234234.5,15.38
+BID-00882,C-304,Aggregate base,Civil,SY,2024-03,Gulf Coast,1,1,3,223195.9,26.94
+BID-00883,C-306,Duct bank,Civil,LF,2021-06,Gulf Coast,1,1,2,43113.2,228.72
+BID-00884,C-303,Reinforcing steel,Civil,TON,2026-09,Midwest,0,0,1,11757.5,2251.48
+BID-00885,C-305,Storm drain RCP 36in,Civil,LF,2020-08,West Texas,0,0,1,7450.1,124.34
+BID-00886,E-103,Conduit,Electrical,LF,2025-11,West Texas,0,1,1,11978.4,82.26
+BID-00887,E-106,UPS set/terminate,Electrical,EA,2022-03,West Texas,0,0,2,19.4,20816.13
+BID-00888,C-306,Duct bank,Civil,LF,2021-02,Midwest,1,1,1,3647.0,242.91
+BID-00889,M-204,Chiller set/connect,Mechanical,EA,2023-12,Midwest,0,0,3,28.1,58386.86
+BID-00890,M-206,Galvanized ductwork,Mechanical,LB,2023-03,Gulf Coast,0,0,2,233054.3,15.37
+BID-00891,E-107,Generator set/terminate,Electrical,EA,2021-04,West Texas,0,0,1,13.1,62572.17
+BID-00892,E-103,Conduit,Electrical,LF,2026-03,Midwest,0,1,3,7271.5,86.66
+BID-00893,C-301,Mass excavation,Civil,CY,2019-03,Midwest,0,0,1,308323.3,7.44
+BID-00894,E-105,Switchgear set/terminate,Electrical,EA,2021-07,Gulf Coast,0,1,1,47.8,34789.7
+BID-00895,C-304,Aggregate base,Civil,SY,2020-01,Midwest,0,0,2,148801.7,15.52
+BID-00896,C-301,Mass excavation,Civil,CY,2025-08,Mountain West,0,1,2,344979.4,11.48
+BID-00897,E-104,Busway,Electrical,LF,2019-06,Gulf Coast,1,0,1,4765.4,1042.83
+BID-00898,E-102,MV cable,Electrical,LF,2022-10,Mountain West,0,1,2,82523.8,52.8
+BID-00899,E-105,Switchgear set/terminate,Electrical,EA,2019-12,Southeast,0,1,2,49.4,29010.04
+BID-00900,C-305,Storm drain RCP 36in,Civil,LF,2025-12,Midwest,1,0,1,19355.5,210.73
+BID-00901,E-107,Generator set/terminate,Electrical,EA,2021-04,Mountain West,1,0,1,87.0,61161.71
+BID-00902,E-103,Conduit,Electrical,LF,2020-05,Gulf Coast,0,0,3,9035.1,81.85
+BID-00903,E-103,Conduit,Electrical,LF,2025-03,West Texas,1,1,1,13093.6,82.14
+BID-00904,E-104,Busway,Electrical,LF,2019-12,West Texas,0,0,1,4448.0,748.02
+BID-00905,C-304,Aggregate base,Civil,SY,2020-09,Southeast,0,0,1,193908.2,14.1
+BID-00906,E-101,Cable tray,Electrical,LF,2024-09,Southeast,0,0,2,60704.9,48.69
+BID-00907,M-206,Galvanized ductwork,Mechanical,LB,2020-10,West Texas,0,1,1,268027.8,13.12
+BID-00908,C-301,Mass excavation,Civil,CY,2021-06,Midwest,0,0,2,180596.6,8.3
+BID-00909,E-105,Switchgear set/terminate,Electrical,EA,2026-04,Gulf Coast,0,0,1,14.2,46613.86
+BID-00910,M-206,Galvanized ductwork,Mechanical,LB,2023-07,West Texas,1,0,2,221567.7,14.54
+BID-00911,C-301,Mass excavation,Civil,CY,2019-04,Southeast,0,0,1,202279.2,7.33
+BID-00912,M-206,Galvanized ductwork,Mechanical,LB,2024-03,Midwest,0,0,1,185691.4,14.37
+BID-00913,E-106,UPS set/terminate,Electrical,EA,2024-06,Mountain West,0,0,1,53.9,21373.07
+BID-00914,M-202,Process pipe 8in,Mechanical,LF,2020-01,Mountain West,1,0,2,38546.1,157.28
+BID-00915,E-107,Generator set/terminate,Electrical,EA,2020-08,West Texas,0,0,1,34.7,53554.5
+BID-00916,C-304,Aggregate base,Civil,SY,2023-04,Midwest,0,1,2,434719.2,18.72
+BID-00917,C-303,Reinforcing steel,Civil,TON,2020-08,Midwest,0,0,2,6228.5,2059.67
+BID-00918,E-101,Cable tray,Electrical,LF,2019-06,Gulf Coast,0,1,1,11874.2,54.45
+BID-00919,C-304,Aggregate base,Civil,SY,2019-04,Gulf Coast,0,0,1,349743.4,12.05
+BID-00920,E-106,UPS set/terminate,Electrical,EA,2021-11,Midwest,0,0,2,49.7,18508.6
+BID-00921,C-302,Structural concrete,Civil,CY,2024-07,West Texas,0,0,1,64782.0,416.99
+BID-00922,C-302,Structural concrete,Civil,CY,2021-07,West Texas,1,0,3,37797.7,419.15
+BID-00923,M-201,Chilled water pipe 12in,Mechanical,LF,2022-07,West Texas,1,0,3,11024.5,364.48
+BID-00924,M-201,Chilled water pipe 12in,Mechanical,LF,2018-07,Mountain West,1,1,1,14888.1,311.17
+BID-00925,M-202,Process pipe 8in,Mechanical,LF,2018-02,West Texas,0,0,2,41356.1,131.33
+BID-00926,C-306,Duct bank,Civil,LF,2019-10,Gulf Coast,0,0,1,11899.3,186.67
+BID-00927,M-201,Chilled water pipe 12in,Mechanical,LF,2024-01,Gulf Coast,0,0,3,9191.2,321.01
+BID-00928,E-101,Cable tray,Electrical,LF,2026-04,Gulf Coast,0,0,1,36581.5,55.55
+BID-00929,C-303,Reinforcing steel,Civil,TON,2024-04,Mountain West,0,0,2,12147.6,2240.57
+BID-00930,M-206,Galvanized ductwork,Mechanical,LB,2024-02,Mountain West,0,0,1,413435.7,11.82
+BID-00931,E-104,Busway,Electrical,LF,2020-11,West Texas,0,0,2,6196.6,910.31
+BID-00932,M-202,Process pipe 8in,Mechanical,LF,2022-06,West Texas,1,0,1,26167.1,215.47
+BID-00933,M-202,Process pipe 8in,Mechanical,LF,2023-06,Mountain West,0,0,1,19765.4,176.49
+BID-00934,E-107,Generator set/terminate,Electrical,EA,2020-11,West Texas,1,0,1,69.5,54310.12
+BID-00935,E-101,Cable tray,Electrical,LF,2019-06,West Texas,0,0,1,23416.7,46.67
+BID-00936,E-107,Generator set/terminate,Electrical,EA,2020-09,Southeast,0,0,2,16.3,56922.19
+BID-00937,E-103,Conduit,Electrical,LF,2022-10,Southeast,0,0,1,99190.7,54.15
+BID-00938,M-206,Galvanized ductwork,Mechanical,LB,2018-02,Gulf Coast,0,0,2,536856.3,10.67
+BID-00939,C-304,Aggregate base,Civil,SY,2025-10,West Texas,1,1,1,171254.4,20.81
+BID-00940,M-206,Galvanized ductwork,Mechanical,LB,2022-10,Southeast,0,0,1,225197.3,12.51
+BID-00941,M-202,Process pipe 8in,Mechanical,LF,2018-12,Gulf Coast,1,1,1,17103.2,177.15
+BID-00942,C-306,Duct bank,Civil,LF,2021-10,West Texas,1,1,1,9065.4,227.54
+BID-00943,C-305,Storm drain RCP 36in,Civil,LF,2020-02,Midwest,1,0,3,15663.5,161.98
+BID-00944,E-103,Conduit,Electrical,LF,2022-03,Gulf Coast,0,0,1,30107.1,67.64
+BID-00945,E-103,Conduit,Electrical,LF,2024-05,West Texas,0,0,2,26835.7,69.75
+BID-00946,C-306,Duct bank,Civil,LF,2020-04,Mountain West,0,0,1,15250.3,211.48
+BID-00947,M-205,CRAH set/connect,Mechanical,EA,2020-08,Midwest,0,1,3,309.3,9250.89
+BID-00948,M-204,Chiller set/connect,Mechanical,EA,2024-09,West Texas,0,0,3,39.2,58071.34
+BID-00949,M-205,CRAH set/connect,Mechanical,EA,2026-01,Southeast,0,0,1,272.3,8586.58
+BID-00950,E-104,Busway,Electrical,LF,2025-01,West Texas,1,1,2,5317.3,1304.45
+BID-00951,M-202,Process pipe 8in,Mechanical,LF,2025-10,Mountain West,0,0,2,22286.2,244.71
+BID-00952,C-303,Reinforcing steel,Civil,TON,2022-06,Mountain West,0,1,1,10205.3,2704.26
+BID-00953,C-305,Storm drain RCP 36in,Civil,LF,2023-07,Midwest,0,0,1,5041.1,154.64
+BID-00954,E-105,Switchgear set/terminate,Electrical,EA,2024-05,Mountain West,0,0,3,3.7,44610.86
+BID-00955,M-205,CRAH set/connect,Mechanical,EA,2024-04,Gulf Coast,0,0,2,614.7,9438.65
+BID-00956,E-107,Generator set/terminate,Electrical,EA,2021-05,Gulf Coast,0,0,2,127.4,54678.05
+BID-00957,E-106,UPS set/terminate,Electrical,EA,2023-03,West Texas,1,0,2,258.0,19425.41
+BID-00958,C-302,Structural concrete,Civil,CY,2025-02,Gulf Coast,0,0,2,44482.0,496.27
+BID-00959,E-107,Generator set/terminate,Electrical,EA,2021-01,Midwest,0,0,1,61.4,54556.16
+BID-00960,C-304,Aggregate base,Civil,SY,2022-01,Gulf Coast,0,1,2,203434.0,18.78
+BID-00961,C-306,Duct bank,Civil,LF,2021-08,Mountain West,0,0,2,19913.2,201.41
+BID-00962,C-306,Duct bank,Civil,LF,2026-08,Mountain West,0,1,1,7573.4,288.18
+BID-00963,M-206,Galvanized ductwork,Mechanical,LB,2018-07,Mountain West,1,0,3,605462.1,15.05
+BID-00964,M-205,CRAH set/connect,Mechanical,EA,2025-02,West Texas,0,0,2,197.3,10811.49
+BID-00965,E-106,UPS set/terminate,Electrical,EA,2021-08,Southeast,1,0,1,71.2,15721.8
+BID-00966,M-204,Chiller set/connect,Mechanical,EA,2023-08,West Texas,0,0,1,26.9,46586.16
+BID-00967,E-104,Busway,Electrical,LF,2025-11,West Texas,1,0,1,2199.5,1467.49
+BID-00968,C-306,Duct bank,Civil,LF,2022-07,Gulf Coast,0,0,2,11724.0,223.97
+BID-00969,E-106,UPS set/terminate,Electrical,EA,2021-09,Mountain West,0,0,2,43.6,16949.37
+BID-00970,C-302,Structural concrete,Civil,CY,2022-04,West Texas,1,0,1,21445.7,425.51
+BID-00971,M-201,Chilled water pipe 12in,Mechanical,LF,2023-01,Gulf Coast,1,0,1,6221.9,297.73
+BID-00972,E-101,Cable tray,Electrical,LF,2025-01,Midwest,0,0,2,42885.4,57.56
+BID-00973,E-105,Switchgear set/terminate,Electrical,EA,2025-07,Gulf Coast,0,0,2,23.2,38241.66
+BID-00974,C-303,Reinforcing steel,Civil,TON,2025-08,Midwest,0,0,3,6715.6,2767.0
+BID-00975,E-103,Conduit,Electrical,LF,2025-02,Mountain West,1,0,2,13986.0,86.92
+BID-00976,C-303,Reinforcing steel,Civil,TON,2019-03,Mountain West,0,0,3,4994.9,2275.29
+BID-00977,C-305,Storm drain RCP 36in,Civil,LF,2026-01,Midwest,0,0,1,22138.0,171.86
+BID-00978,E-101,Cable tray,Electrical,LF,2025-04,Mountain West,1,0,2,10995.5,79.71
+BID-00979,M-205,CRAH set/connect,Mechanical,EA,2020-04,Southeast,0,0,1,144.4,7616.84
+BID-00980,M-204,Chiller set/connect,Mechanical,EA,2021-10,West Texas,0,1,1,74.0,43784.26
+BID-00981,E-103,Conduit,Electrical,LF,2018-04,Mountain West,0,1,1,16966.1,63.28
+BID-00982,C-305,Storm drain RCP 36in,Civil,LF,2020-06,Gulf Coast,0,0,2,6128.3,158.9
+BID-00983,C-302,Structural concrete,Civil,CY,2025-08,West Texas,0,1,1,42085.5,500.4
+BID-00984,M-206,Galvanized ductwork,Mechanical,LB,2021-10,Mountain West,0,0,1,519473.5,18.81
+BID-00985,E-107,Generator set/terminate,Electrical,EA,2025-05,Mountain West,0,0,1,29.5,59012.59
+BID-00986,C-303,Reinforcing steel,Civil,TON,2019-04,Midwest,0,1,1,3565.1,2169.33
+BID-00987,M-206,Galvanized ductwork,Mechanical,LB,2018-11,Southeast,0,1,3,174211.1,12.77
+BID-00988,C-304,Aggregate base,Civil,SY,2023-08,Mountain West,1,0,2,403427.5,19.81
+BID-00989,E-107,Generator set/terminate,Electrical,EA,2026-05,Gulf Coast,0,0,1,39.6,73631.28
+BID-00990,C-301,Mass excavation,Civil,CY,2026-05,West Texas,0,0,1,994494.3,8.59
+BID-00991,E-107,Generator set/terminate,Electrical,EA,2018-03,Southeast,0,0,2,77.7,44092.58
+BID-00992,M-203,CDU set/connect,Mechanical,EA,2018-10,West Texas,0,0,1,153.6,11112.25
+BID-00993,E-103,Conduit,Electrical,LF,2026-01,West Texas,0,1,1,25654.9,81.71
+BID-00994,C-303,Reinforcing steel,Civil,TON,2021-04,Gulf Coast,1,1,1,7182.9,3312.97
+BID-00995,M-203,CDU set/connect,Mechanical,EA,2021-02,West Texas,0,0,3,226.2,11945.34
+BID-00996,E-104,Busway,Electrical,LF,2022-01,Midwest,1,0,1,3891.8,1300.73
+BID-00997,E-101,Cable tray,Electrical,LF,2019-10,West Texas,0,0,1,37050.6,48.58
+BID-00998,E-104,Busway,Electrical,LF,2018-04,West Texas,1,0,1,2107.7,873.99
+BID-00999,M-205,CRAH set/connect,Mechanical,EA,2019-03,West Texas,0,0,2,232.2,7668.78
+BID-01000,E-105,Switchgear set/terminate,Electrical,EA,2024-02,West Texas,0,0,1,20.7,36366.21
+BID-01001,M-201,Chilled water pipe 12in,Mechanical,LF,2023-09,West Texas,0,0,1,6897.8,292.29
+BID-01002,M-202,Process pipe 8in,Mechanical,LF,2026-04,Midwest,0,0,1,22264.8,199.59
+BID-01003,C-302,Structural concrete,Civil,CY,2018-10,West Texas,0,0,1,35485.5,319.74
+BID-01004,C-305,Storm drain RCP 36in,Civil,LF,2025-12,West Texas,0,0,1,2864.7,183.75
+BID-01005,C-301,Mass excavation,Civil,CY,2026-05,Midwest,0,0,1,473156.9,8.69
+BID-01006,C-305,Storm drain RCP 36in,Civil,LF,2024-10,West Texas,1,0,1,8639.6,165.33
+BID-01007,C-302,Structural concrete,Civil,CY,2019-09,Midwest,0,1,1,40855.4,405.58
+BID-01008,E-107,Generator set/terminate,Electrical,EA,2018-12,Gulf Coast,1,1,1,35.8,72057.19
+BID-01009,M-202,Process pipe 8in,Mechanical,LF,2021-12,Mountain West,0,1,3,6097.9,258.39
+BID-01010,E-101,Cable tray,Electrical,LF,2018-02,West Texas,0,0,2,16278.0,50.88
+BID-01011,M-201,Chilled water pipe 12in,Mechanical,LF,2020-08,West Texas,0,0,2,30458.3,268.85
+BID-01012,C-305,Storm drain RCP 36in,Civil,LF,2026-05,Midwest,0,0,1,8412.6,182.61
+BID-01013,C-303,Reinforcing steel,Civil,TON,2024-09,Midwest,0,1,1,4794.2,2290.74
+BID-01014,M-201,Chilled water pipe 12in,Mechanical,LF,2024-07,Gulf Coast,0,0,3,7864.4,336.5
+BID-01015,M-206,Galvanized ductwork,Mechanical,LB,2018-04,Southeast,1,0,1,164897.6,12.92
+BID-01016,C-302,Structural concrete,Civil,CY,2023-08,Mountain West,0,0,1,13121.4,462.94
+BID-01017,E-101,Cable tray,Electrical,LF,2020-09,Mountain West,0,1,1,32921.7,61.8
+BID-01018,E-105,Switchgear set/terminate,Electrical,EA,2019-10,West Texas,1,1,1,15.7,40270.2
+BID-01019,M-206,Galvanized ductwork,Mechanical,LB,2024-04,Gulf Coast,0,0,1,135379.5,14.44
+BID-01020,M-206,Galvanized ductwork,Mechanical,LB,2024-02,West Texas,0,1,1,269808.9,12.66
+BID-01021,M-206,Galvanized ductwork,Mechanical,LB,2021-11,Midwest,0,0,1,167972.8,16.35
+BID-01022,C-306,Duct bank,Civil,LF,2023-02,Gulf Coast,1,0,1,11502.2,253.55
+BID-01023,C-306,Duct bank,Civil,LF,2024-01,West Texas,0,1,1,32198.7,232.76
+BID-01024,E-107,Generator set/terminate,Electrical,EA,2025-07,Mountain West,0,0,1,60.5,64329.96
+BID-01025,M-204,Chiller set/connect,Mechanical,EA,2019-12,Midwest,0,1,2,126.6,43994.94
+BID-01026,M-206,Galvanized ductwork,Mechanical,LB,2019-11,Mountain West,0,0,1,165127.0,13.24
+BID-01027,C-306,Duct bank,Civil,LF,2025-08,West Texas,0,0,1,9943.1,242.39
+BID-01028,C-302,Structural concrete,Civil,CY,2019-05,Southeast,0,0,1,53825.9,305.16
+BID-01029,E-101,Cable tray,Electrical,LF,2024-10,Midwest,0,1,1,9136.5,66.49
+BID-01030,E-101,Cable tray,Electrical,LF,2021-01,Mountain West,0,0,2,28781.0,68.71
+BID-01031,C-306,Duct bank,Civil,LF,2021-07,Midwest,0,0,1,18413.6,227.53
+BID-01032,E-106,UPS set/terminate,Electrical,EA,2022-09,Midwest,0,1,1,58.4,23201.73
+BID-01033,C-304,Aggregate base,Civil,SY,2020-03,Southeast,1,0,2,246242.0,14.06
+BID-01034,C-304,Aggregate base,Civil,SY,2022-09,West Texas,1,0,1,45399.9,18.03
+BID-01035,M-205,CRAH set/connect,Mechanical,EA,2023-01,Gulf Coast,0,0,1,71.0,9274.77
+BID-01036,C-305,Storm drain RCP 36in,Civil,LF,2023-06,Gulf Coast,1,0,1,24615.4,170.29
+BID-01037,E-104,Busway,Electrical,LF,2022-08,Southeast,1,0,1,2155.5,1279.32
+BID-01038,E-106,UPS set/terminate,Electrical,EA,2023-08,West Texas,1,1,1,17.3,24371.06
+BID-01039,C-302,Structural concrete,Civil,CY,2023-08,Southeast,0,1,2,57348.3,472.45
+BID-01040,E-105,Switchgear set/terminate,Electrical,EA,2023-07,Midwest,1,1,2,38.6,47984.7
+BID-01041,E-104,Busway,Electrical,LF,2026-05,West Texas,0,0,1,3149.4,1021.68
+BID-01042,E-103,Conduit,Electrical,LF,2020-06,West Texas,0,0,2,11237.1,63.31
+BID-01043,E-102,MV cable,Electrical,LF,2023-12,West Texas,0,1,1,11732.8,59.03
+BID-01044,M-202,Process pipe 8in,Mechanical,LF,2023-07,West Texas,0,0,1,26451.9,153.95
+BID-01045,M-202,Process pipe 8in,Mechanical,LF,2020-10,Mountain West,0,0,3,19175.0,184.83
+BID-01046,M-202,Process pipe 8in,Mechanical,LF,2025-03,Mountain West,0,0,1,13577.7,170.56
+BID-01047,E-106,UPS set/terminate,Electrical,EA,2021-09,Gulf Coast,0,0,3,70.0,20942.68
+BID-01048,M-204,Chiller set/connect,Mechanical,EA,2024-05,Midwest,0,0,1,63.3,53454.98
+BID-01049,E-103,Conduit,Electrical,LF,2026-09,Mountain West,1,0,1,33847.2,70.08
+BID-01050,E-107,Generator set/terminate,Electrical,EA,2024-08,Mountain West,1,0,2,21.2,73503.27
+BID-01051,M-201,Chilled water pipe 12in,Mechanical,LF,2023-12,West Texas,0,0,2,5936.3,316.44
+BID-01052,C-305,Storm drain RCP 36in,Civil,LF,2024-11,Mountain West,0,1,1,9901.4,186.56
+BID-01053,C-301,Mass excavation,Civil,CY,2021-01,West Texas,0,0,1,270655.8,7.97
+BID-01054,M-202,Process pipe 8in,Mechanical,LF,2024-11,West Texas,1,1,2,29818.4,207.89
+BID-01055,M-202,Process pipe 8in,Mechanical,LF,2022-05,Midwest,0,1,1,28356.5,209.2
+BID-01056,E-101,Cable tray,Electrical,LF,2021-03,Gulf Coast,0,1,1,6944.7,77.26
+BID-01057,E-102,MV cable,Electrical,LF,2023-10,Midwest,0,1,2,46019.2,49.13
+BID-01058,M-202,Process pipe 8in,Mechanical,LF,2026-06,Midwest,0,0,2,14041.2,228.34
+BID-01059,M-205,CRAH set/connect,Mechanical,EA,2020-07,Midwest,0,0,2,193.0,8164.09
+BID-01060,E-105,Switchgear set/terminate,Electrical,EA,2020-08,Mountain West,0,1,1,17.1,34319.47
+BID-01061,E-103,Conduit,Electrical,LF,2020-05,Midwest,0,0,2,63721.9,57.01
+BID-01062,E-103,Conduit,Electrical,LF,2018-02,West Texas,0,0,1,11020.7,54.46
+BID-01063,E-102,MV cable,Electrical,LF,2025-09,Midwest,1,0,1,59730.0,51.69
+BID-01064,E-103,Conduit,Electrical,LF,2022-02,Mountain West,0,0,3,19684.4,91.54
+BID-01065,M-205,CRAH set/connect,Mechanical,EA,2022-06,Mountain West,0,1,2,91.6,10753.11
+BID-01066,C-301,Mass excavation,Civil,CY,2018-06,Southeast,0,0,1,318332.1,6.63
+BID-01067,C-302,Structural concrete,Civil,CY,2020-04,Gulf Coast,1,0,2,26133.4,468.08
+BID-01068,M-201,Chilled water pipe 12in,Mechanical,LF,2021-02,Mountain West,0,0,1,7838.1,307.95
+BID-01069,E-103,Conduit,Electrical,LF,2022-05,Southeast,0,0,1,32331.5,65.53
+BID-01070,M-204,Chiller set/connect,Mechanical,EA,2024-06,West Texas,0,0,2,66.3,51131.97
+BID-01071,C-306,Duct bank,Civil,LF,2025-09,Gulf Coast,0,0,1,11496.8,247.69
+BID-01072,C-304,Aggregate base,Civil,SY,2022-01,Southeast,1,0,1,180457.4,14.21
+BID-01073,M-201,Chilled water pipe 12in,Mechanical,LF,2020-09,Midwest,0,0,1,7344.0,277.43
+BID-01074,E-105,Switchgear set/terminate,Electrical,EA,2023-11,Southeast,1,1,2,26.1,42263.38
+BID-01075,E-103,Conduit,Electrical,LF,2024-06,Midwest,1,0,3,14362.8,89.31
+BID-01076,E-104,Busway,Electrical,LF,2018-07,West Texas,0,0,2,2546.7,758.62
+BID-01077,M-205,CRAH set/connect,Mechanical,EA,2023-03,Southeast,0,0,1,91.8,8734.15
+BID-01078,E-104,Busway,Electrical,LF,2025-03,Midwest,0,0,1,2015.0,1160.65
+BID-01079,E-101,Cable tray,Electrical,LF,2025-01,Mountain West,1,0,2,13138.8,71.9
+BID-01080,M-203,CDU set/connect,Mechanical,EA,2020-04,West Texas,0,0,2,27.8,14160.9
+BID-01081,C-301,Mass excavation,Civil,CY,2019-04,Mountain West,0,0,1,467442.0,8.79
+BID-01082,E-105,Switchgear set/terminate,Electrical,EA,2025-02,Mountain West,1,0,1,24.5,47021.28
+BID-01083,E-103,Conduit,Electrical,LF,2018-07,Gulf Coast,0,0,1,17998.6,58.6
+BID-01084,C-306,Duct bank,Civil,LF,2018-08,Gulf Coast,0,1,1,12622.6,180.78
+BID-01085,E-104,Busway,Electrical,LF,2023-08,West Texas,1,0,2,6071.1,1297.04
+BID-01086,E-106,UPS set/terminate,Electrical,EA,2026-03,Midwest,0,0,1,39.9,20276.76
+BID-01087,C-303,Reinforcing steel,Civil,TON,2021-07,West Texas,0,0,2,5257.3,3205.74
+BID-01088,M-202,Process pipe 8in,Mechanical,LF,2019-03,West Texas,0,1,1,24510.7,142.92
+BID-01089,C-305,Storm drain RCP 36in,Civil,LF,2024-09,West Texas,1,0,2,27491.0,186.13
+BID-01090,C-301,Mass excavation,Civil,CY,2021-05,Southeast,1,0,1,348201.3,8.83
+BID-01091,C-306,Duct bank,Civil,LF,2020-09,West Texas,0,0,2,22227.8,209.83
+BID-01092,C-301,Mass excavation,Civil,CY,2023-06,Gulf Coast,0,1,1,875890.0,8.61
+BID-01093,E-107,Generator set/terminate,Electrical,EA,2018-08,West Texas,0,0,2,17.4,61693.99
+BID-01094,C-306,Duct bank,Civil,LF,2019-11,Mountain West,0,0,1,11526.5,180.61
+BID-01095,C-305,Storm drain RCP 36in,Civil,LF,2023-08,Gulf Coast,1,0,1,14769.6,169.16
+BID-01096,E-107,Generator set/terminate,Electrical,EA,2019-07,Southeast,1,1,1,32.8,52905.59
+BID-01097,C-301,Mass excavation,Civil,CY,2025-12,Southeast,0,0,2,290268.1,9.05
+BID-01098,E-107,Generator set/terminate,Electrical,EA,2023-06,West Texas,0,1,2,42.9,68350.83
+BID-01099,M-204,Chiller set/connect,Mechanical,EA,2021-03,West Texas,0,1,1,41.5,46552.43
+BID-01100,C-301,Mass excavation,Civil,CY,2019-01,West Texas,1,0,1,397978.5,7.55
+BID-01101,E-105,Switchgear set/terminate,Electrical,EA,2022-11,West Texas,0,0,1,30.0,37060.25
+BID-01102,C-303,Reinforcing steel,Civil,TON,2022-07,Gulf Coast,0,0,1,4951.1,2441.54
+BID-01103,C-304,Aggregate base,Civil,SY,2020-01,West Texas,0,0,1,86236.0,15.13
+BID-01104,E-102,MV cable,Electrical,LF,2019-02,Midwest,1,0,1,47550.1,39.05
+BID-01105,E-101,Cable tray,Electrical,LF,2024-08,Gulf Coast,0,0,2,20937.1,62.63
+BID-01106,C-303,Reinforcing steel,Civil,TON,2019-10,Southeast,1,0,2,3480.4,2131.31
+BID-01107,C-301,Mass excavation,Civil,CY,2018-05,West Texas,1,0,1,301611.9,8.47
+BID-01108,C-304,Aggregate base,Civil,SY,2024-05,West Texas,0,0,1,368543.6,17.75
+BID-01109,C-306,Duct bank,Civil,LF,2026-03,Southeast,1,0,1,8168.2,296.08
+BID-01110,C-302,Structural concrete,Civil,CY,2022-04,Midwest,0,0,1,22778.7,433.03
+BID-01111,M-206,Galvanized ductwork,Mechanical,LB,2019-04,West Texas,0,1,2,171460.7,14.42
+BID-01112,E-101,Cable tray,Electrical,LF,2021-12,Southeast,0,0,1,13332.6,71.91
+BID-01113,E-101,Cable tray,Electrical,LF,2022-08,Mountain West,0,0,1,11491.9,57.49
+BID-01114,E-104,Busway,Electrical,LF,2026-08,West Texas,0,0,2,1163.1,1347.1
+BID-01115,C-303,Reinforcing steel,Civil,TON,2021-05,Midwest,1,0,1,5071.8,2867.48
+BID-01116,C-303,Reinforcing steel,Civil,TON,2020-10,West Texas,0,0,1,1986.9,2368.05
+BID-01117,E-105,Switchgear set/terminate,Electrical,EA,2024-12,West Texas,0,1,3,5.2,49196.28
+BID-01118,M-202,Process pipe 8in,Mechanical,LF,2020-11,Midwest,1,0,2,12917.6,228.43
+BID-01119,E-103,Conduit,Electrical,LF,2021-02,Southeast,1,1,1,34573.4,84.9
+BID-01120,M-202,Process pipe 8in,Mechanical,LF,2026-02,Gulf Coast,0,0,3,34211.7,241.15
+BID-01121,M-203,CDU set/connect,Mechanical,EA,2023-10,Midwest,0,0,2,302.3,12932.33
+BID-01122,C-304,Aggregate base,Civil,SY,2018-04,West Texas,0,0,1,167729.6,11.58
+BID-01123,M-206,Galvanized ductwork,Mechanical,LB,2024-04,Mountain West,0,0,1,189621.6,14.36
+BID-01124,C-302,Structural concrete,Civil,CY,2023-11,West Texas,0,1,2,17667.2,506.7
+BID-01125,M-206,Galvanized ductwork,Mechanical,LB,2021-05,Gulf Coast,1,1,2,424758.5,23.18
+BID-01126,C-303,Reinforcing steel,Civil,TON,2018-09,Midwest,0,0,1,3952.7,1798.81
+BID-01127,M-205,CRAH set/connect,Mechanical,EA,2025-08,West Texas,1,0,1,282.0,10961.53
+BID-01128,M-204,Chiller set/connect,Mechanical,EA,2022-08,Midwest,0,0,2,17.0,53310.34
+BID-01129,C-304,Aggregate base,Civil,SY,2022-10,West Texas,0,1,2,97590.9,17.69
+BID-01130,C-302,Structural concrete,Civil,CY,2021-05,Gulf Coast,0,1,2,41087.0,460.57
+BID-01131,E-101,Cable tray,Electrical,LF,2021-08,West Texas,0,0,1,20967.6,66.75
+BID-01132,E-104,Busway,Electrical,LF,2025-04,Midwest,1,1,1,2508.1,1574.96
+BID-01133,E-103,Conduit,Electrical,LF,2021-05,Southeast,0,1,1,9934.5,90.69
+BID-01134,C-306,Duct bank,Civil,LF,2025-06,Mountain West,1,1,1,19262.0,274.58
+BID-01135,E-104,Busway,Electrical,LF,2018-05,Southeast,0,0,2,3783.7,769.36
+BID-01136,M-204,Chiller set/connect,Mechanical,EA,2018-10,Gulf Coast,0,0,2,12.7,54298.33
+BID-01137,C-305,Storm drain RCP 36in,Civil,LF,2026-08,Gulf Coast,0,0,1,10771.0,179.3
+BID-01138,E-107,Generator set/terminate,Electrical,EA,2022-05,Midwest,1,1,1,12.9,83582.05
+BID-01139,E-104,Busway,Electrical,LF,2021-09,Gulf Coast,1,0,1,7157.8,1196.07
+BID-01140,C-306,Duct bank,Civil,LF,2019-11,Gulf Coast,1,0,2,9953.4,217.46
+BID-01141,M-206,Galvanized ductwork,Mechanical,LB,2025-10,Southeast,0,0,1,294662.6,13.26
+BID-01142,M-203,CDU set/connect,Mechanical,EA,2022-12,Mountain West,0,0,2,147.7,14053.28
+BID-01143,E-105,Switchgear set/terminate,Electrical,EA,2018-08,Southeast,0,0,1,36.8,28640.41
+BID-01144,C-305,Storm drain RCP 36in,Civil,LF,2021-11,Mountain West,1,1,1,16736.8,154.45
+BID-01145,M-205,CRAH set/connect,Mechanical,EA,2020-01,Mountain West,0,1,1,229.7,8525.06
+BID-01146,C-305,Storm drain RCP 36in,Civil,LF,2023-07,West Texas,1,0,1,32503.1,153.53
+BID-01147,C-302,Structural concrete,Civil,CY,2024-04,West Texas,0,0,1,31214.9,429.11
+BID-01148,E-101,Cable tray,Electrical,LF,2025-11,West Texas,1,0,1,43376.7,60.07
+BID-01149,C-301,Mass excavation,Civil,CY,2023-07,Gulf Coast,0,0,3,776898.3,10.4
+BID-01150,M-205,CRAH set/connect,Mechanical,EA,2025-07,Mountain West,1,0,1,297.3,9897.53
+BID-01151,E-101,Cable tray,Electrical,LF,2025-01,West Texas,0,0,2,17843.6,63.26
+BID-01152,E-102,MV cable,Electrical,LF,2021-04,West Texas,1,0,1,50138.5,48.53
+BID-01153,E-105,Switchgear set/terminate,Electrical,EA,2019-11,Mountain West,1,0,1,27.3,36776.49
+BID-01154,M-203,CDU set/connect,Mechanical,EA,2019-11,Southeast,0,0,1,120.9,9650.93
+BID-01155,M-206,Galvanized ductwork,Mechanical,LB,2026-02,Gulf Coast,0,0,2,96847.3,16.95
+BID-01156,E-101,Cable tray,Electrical,LF,2020-09,Southeast,0,1,3,36247.9,50.86
+BID-01157,E-104,Busway,Electrical,LF,2023-03,West Texas,0,1,1,3637.8,1246.23
+BID-01158,E-106,UPS set/terminate,Electrical,EA,2025-03,Southeast,1,0,2,21.4,27154.72
+BID-01159,C-304,Aggregate base,Civil,SY,2021-12,Midwest,0,0,1,106763.3,16.57
+BID-01160,C-301,Mass excavation,Civil,CY,2021-07,West Texas,0,0,1,359834.8,7.36
+BID-01161,E-104,Busway,Electrical,LF,2022-07,West Texas,1,1,1,3307.2,1369.46
+BID-01162,E-106,UPS set/terminate,Electrical,EA,2021-05,Midwest,0,0,1,39.8,17887.67
+BID-01163,E-104,Busway,Electrical,LF,2025-12,Gulf Coast,1,0,1,5128.1,1306.06
+BID-01164,C-303,Reinforcing steel,Civil,TON,2025-04,Southeast,0,1,1,2058.5,2536.46
+BID-01165,M-205,CRAH set/connect,Mechanical,EA,2025-06,Southeast,0,0,2,220.6,9406.33
+BID-01166,M-201,Chilled water pipe 12in,Mechanical,LF,2025-03,West Texas,0,0,1,25820.7,309.55
+BID-01167,C-304,Aggregate base,Civil,SY,2018-06,Gulf Coast,1,0,1,139382.8,14.73
+BID-01168,E-105,Switchgear set/terminate,Electrical,EA,2021-06,West Texas,0,1,1,4.8,39378.21
+BID-01169,C-304,Aggregate base,Civil,SY,2023-12,West Texas,0,1,2,190674.8,21.06
+BID-01170,C-303,Reinforcing steel,Civil,TON,2021-09,West Texas,0,0,1,4306.0,2887.43
+BID-01171,M-204,Chiller set/connect,Mechanical,EA,2024-09,West Texas,1,0,1,24.7,57477.97
+BID-01172,C-301,Mass excavation,Civil,CY,2021-08,Midwest,1,0,1,433792.7,9.81
+BID-01173,C-306,Duct bank,Civil,LF,2018-12,West Texas,1,0,1,8493.6,218.27
+BID-01174,M-201,Chilled water pipe 12in,Mechanical,LF,2026-01,Gulf Coast,1,0,1,12541.4,368.72
+BID-01175,C-305,Storm drain RCP 36in,Civil,LF,2019-04,West Texas,0,0,1,5543.9,129.45
+BID-01176,M-206,Galvanized ductwork,Mechanical,LB,2021-08,Gulf Coast,0,0,1,399939.3,17.96
+BID-01177,M-206,Galvanized ductwork,Mechanical,LB,2021-12,Gulf Coast,0,0,1,542894.7,17.25
+BID-01178,C-301,Mass excavation,Civil,CY,2024-09,West Texas,1,0,1,396660.6,9.73
+BID-01179,E-104,Busway,Electrical,LF,2025-12,Gulf Coast,0,0,3,5837.4,1341.08
+BID-01180,E-104,Busway,Electrical,LF,2023-11,Southeast,0,0,1,3004.0,1031.04
+BID-01181,E-103,Conduit,Electrical,LF,2024-05,Gulf Coast,0,1,3,37588.6,73.18
+BID-01182,C-304,Aggregate base,Civil,SY,2026-05,Mountain West,0,0,2,471221.5,20.75
+BID-01183,M-206,Galvanized ductwork,Mechanical,LB,2025-11,Gulf Coast,1,0,1,187209.0,18.21
+BID-01184,E-106,UPS set/terminate,Electrical,EA,2018-12,Gulf Coast,0,1,1,46.1,19430.08
+BID-01185,E-101,Cable tray,Electrical,LF,2024-08,Gulf Coast,0,1,1,56034.9,55.95
+BID-01186,E-105,Switchgear set/terminate,Electrical,EA,2023-05,Midwest,0,0,1,7.7,44553.27
+BID-01187,E-102,MV cable,Electrical,LF,2023-09,Gulf Coast,0,0,1,40396.4,43.71
+BID-01188,E-101,Cable tray,Electrical,LF,2022-01,Midwest,0,1,2,8008.3,79.39
+BID-01189,E-101,Cable tray,Electrical,LF,2023-05,Gulf Coast,0,0,2,18392.1,62.77
+BID-01190,E-107,Generator set/terminate,Electrical,EA,2025-02,West Texas,0,1,1,60.5,62882.77
+BID-01191,E-101,Cable tray,Electrical,LF,2023-09,Mountain West,1,0,2,17901.9,65.04
+BID-01192,M-205,CRAH set/connect,Mechanical,EA,2025-08,Southeast,0,1,2,239.1,9446.38
+BID-01193,E-101,Cable tray,Electrical,LF,2019-04,Gulf Coast,1,0,2,29912.0,66.86
+BID-01194,M-201,Chilled water pipe 12in,Mechanical,LF,2018-04,Midwest,1,1,2,25033.5,298.79
+BID-01195,E-106,UPS set/terminate,Electrical,EA,2025-04,Mountain West,0,0,2,40.2,18373.62
+BID-01196,C-303,Reinforcing steel,Civil,TON,2022-11,West Texas,0,0,1,14461.4,2138.35
+BID-01197,E-103,Conduit,Electrical,LF,2022-10,West Texas,1,0,1,14858.8,70.73
+BID-01198,M-203,CDU set/connect,Mechanical,EA,2018-05,Gulf Coast,0,0,2,209.2,11518.62
+BID-01199,E-107,Generator set/terminate,Electrical,EA,2024-12,Midwest,0,0,1,30.2,69627.75
+BID-01200,C-302,Structural concrete,Civil,CY,2018-08,Mountain West,1,0,3,41460.2,400.43
+BID-01201,E-102,MV cable,Electrical,LF,2023-12,Southeast,0,0,1,50963.0,42.58
+BID-01202,E-101,Cable tray,Electrical,LF,2023-02,Gulf Coast,0,0,1,23426.0,50.74
+BID-01203,E-105,Switchgear set/terminate,Electrical,EA,2018-06,West Texas,0,0,1,6.5,29843.75
+BID-01204,E-105,Switchgear set/terminate,Electrical,EA,2022-08,West Texas,0,1,1,10.7,38614.89
+BID-01205,M-206,Galvanized ductwork,Mechanical,LB,2022-07,West Texas,1,0,2,244063.6,18.66
+BID-01206,E-102,MV cable,Electrical,LF,2024-04,West Texas,0,1,2,33360.4,55.08
+BID-01207,E-102,MV cable,Electrical,LF,2026-05,Midwest,0,0,1,90905.7,50.99
+BID-01208,M-204,Chiller set/connect,Mechanical,EA,2019-05,Mountain West,0,0,1,38.4,39718.06
+BID-01209,E-101,Cable tray,Electrical,LF,2020-02,Mountain West,0,0,1,25389.0,51.08
+BID-01210,M-204,Chiller set/connect,Mechanical,EA,2024-11,Southeast,1,0,1,49.7,49027.59
+BID-01211,E-101,Cable tray,Electrical,LF,2020-08,West Texas,1,1,3,7805.4,84.61
+BID-01212,M-201,Chilled water pipe 12in,Mechanical,LF,2019-10,West Texas,0,0,3,13770.7,241.62
+BID-01213,E-106,UPS set/terminate,Electrical,EA,2018-06,West Texas,1,0,1,46.3,19374.08
+BID-01214,M-204,Chiller set/connect,Mechanical,EA,2022-07,West Texas,0,0,1,66.6,40967.02
+BID-01215,C-302,Structural concrete,Civil,CY,2023-02,Southeast,0,0,1,46212.5,374.26
+BID-01216,E-102,MV cable,Electrical,LF,2020-11,West Texas,1,0,1,53084.5,45.57
+BID-01217,M-202,Process pipe 8in,Mechanical,LF,2020-07,Gulf Coast,0,1,1,34497.4,154.71
+BID-01218,C-305,Storm drain RCP 36in,Civil,LF,2021-10,Mountain West,0,0,1,37920.7,124.37
+BID-01219,E-102,MV cable,Electrical,LF,2018-11,West Texas,0,0,1,82007.0,31.38
+BID-01220,M-201,Chilled water pipe 12in,Mechanical,LF,2018-09,West Texas,0,0,3,15353.7,251.42
+BID-01221,E-106,UPS set/terminate,Electrical,EA,2024-09,West Texas,0,0,2,62.6,20478.77
+BID-01222,M-201,Chilled water pipe 12in,Mechanical,LF,2025-05,Midwest,1,0,1,18003.7,315.57
+BID-01223,E-105,Switchgear set/terminate,Electrical,EA,2023-05,West Texas,1,0,2,12.5,43637.01
+BID-01224,E-101,Cable tray,Electrical,LF,2026-04,Gulf Coast,0,0,3,13891.7,85.89
+BID-01225,M-201,Chilled water pipe 12in,Mechanical,LF,2019-09,West Texas,0,0,2,9065.6,276.43
+BID-01226,C-306,Duct bank,Civil,LF,2022-04,Gulf Coast,0,0,2,9674.0,238.93
+BID-01227,M-205,CRAH set/connect,Mechanical,EA,2018-09,Southeast,0,0,1,139.1,6762.23
+BID-01228,E-102,MV cable,Electrical,LF,2026-07,Gulf Coast,0,1,1,17268.6,64.53
+BID-01229,E-104,Busway,Electrical,LF,2024-04,Mountain West,0,0,2,4630.0,1173.08
+BID-01230,E-106,UPS set/terminate,Electrical,EA,2020-12,Southeast,1,1,1,11.4,23848.55
+BID-01231,M-204,Chiller set/connect,Mechanical,EA,2024-01,Southeast,0,0,1,66.5,45662.82
+BID-01232,C-304,Aggregate base,Civil,SY,2024-01,West Texas,0,0,1,544426.6,17.5
+BID-01233,C-305,Storm drain RCP 36in,Civil,LF,2023-09,West Texas,1,1,2,6099.0,221.91
+BID-01234,C-301,Mass excavation,Civil,CY,2023-02,Midwest,0,0,2,595684.2,8.54
+BID-01235,C-301,Mass excavation,Civil,CY,2018-07,West Texas,0,0,1,203525.7,7.76
+BID-01236,M-201,Chilled water pipe 12in,Mechanical,LF,2025-01,West Texas,0,1,1,15925.0,298.63
+BID-01237,C-303,Reinforcing steel,Civil,TON,2021-04,Gulf Coast,0,0,3,5837.3,3290.18
+BID-01238,C-301,Mass excavation,Civil,CY,2019-11,Mountain West,0,0,1,228879.0,8.6
+BID-01239,C-301,Mass excavation,Civil,CY,2019-07,Southeast,1,0,2,329911.6,8.75
+BID-01240,M-202,Process pipe 8in,Mechanical,LF,2025-03,Midwest,1,1,1,90135.5,192.33
+BID-01241,C-303,Reinforcing steel,Civil,TON,2024-08,Midwest,1,0,1,3906.6,2383.99
+BID-01242,E-105,Switchgear set/terminate,Electrical,EA,2025-07,Southeast,0,0,1,12.1,37735.87
+BID-01243,E-106,UPS set/terminate,Electrical,EA,2018-08,Midwest,1,1,3,25.9,25690.04
+BID-01244,C-304,Aggregate base,Civil,SY,2024-07,Midwest,0,1,1,127800.8,19.08
+BID-01245,M-201,Chilled water pipe 12in,Mechanical,LF,2018-12,Midwest,0,0,1,29122.3,239.52
+BID-01246,M-201,Chilled water pipe 12in,Mechanical,LF,2019-09,West Texas,0,0,1,11070.0,251.96
+BID-01247,M-201,Chilled water pipe 12in,Mechanical,LF,2026-03,Mountain West,0,0,1,3762.3,358.35
+BID-01248,C-306,Duct bank,Civil,LF,2023-02,Midwest,0,0,3,4720.7,284.84
+BID-01249,E-107,Generator set/terminate,Electrical,EA,2020-11,Southeast,0,0,1,24.6,44212.83
+BID-01250,E-101,Cable tray,Electrical,LF,2021-06,Midwest,1,1,2,12833.8,98.72
+BID-01251,E-106,UPS set/terminate,Electrical,EA,2019-07,West Texas,0,0,2,81.3,13573.73
+BID-01252,E-106,UPS set/terminate,Electrical,EA,2021-05,Gulf Coast,0,0,3,64.4,18778.92
+BID-01253,C-306,Duct bank,Civil,LF,2023-08,Southeast,0,0,2,17669.5,207.23
+BID-01254,E-103,Conduit,Electrical,LF,2026-04,West Texas,1,0,1,16165.1,89.4
+BID-01255,E-101,Cable tray,Electrical,LF,2024-09,Midwest,0,0,1,24456.9,54.18
+BID-01256,C-301,Mass excavation,Civil,CY,2023-03,West Texas,1,0,2,422028.8,10.02
+BID-01257,E-102,MV cable,Electrical,LF,2019-04,Gulf Coast,1,0,1,19847.7,39.36
+BID-01258,C-305,Storm drain RCP 36in,Civil,LF,2020-01,Midwest,0,0,2,2999.0,137.52
+BID-01259,E-103,Conduit,Electrical,LF,2021-11,West Texas,0,1,1,38030.9,84.21
+BID-01260,E-102,MV cable,Electrical,LF,2024-02,West Texas,1,0,1,36054.1,46.44
+BID-01261,E-104,Busway,Electrical,LF,2022-05,Midwest,1,0,1,2493.1,1278.86
+BID-01262,E-107,Generator set/terminate,Electrical,EA,2022-08,Gulf Coast,0,0,3,87.3,60461.58
+BID-01263,E-102,MV cable,Electrical,LF,2020-03,West Texas,1,0,1,33554.7,38.77
+BID-01264,C-303,Reinforcing steel,Civil,TON,2024-08,Southeast,1,0,2,5872.1,2378.37
+BID-01265,E-102,MV cable,Electrical,LF,2024-06,Southeast,0,0,1,70467.8,43.76
+BID-01266,M-205,CRAH set/connect,Mechanical,EA,2021-09,West Texas,1,0,2,240.5,10583.47
+BID-01267,C-304,Aggregate base,Civil,SY,2022-01,Mountain West,1,1,3,74216.5,26.9
+BID-01268,M-201,Chilled water pipe 12in,Mechanical,LF,2020-10,Southeast,0,1,1,14185.8,290.91
+BID-01269,M-201,Chilled water pipe 12in,Mechanical,LF,2022-12,West Texas,1,0,1,20668.3,278.39
+BID-01270,C-302,Structural concrete,Civil,CY,2025-07,Mountain West,1,1,1,52506.4,547.37
+BID-01271,E-105,Switchgear set/terminate,Electrical,EA,2021-03,Gulf Coast,0,0,1,30.1,33401.28
+BID-01272,C-303,Reinforcing steel,Civil,TON,2025-10,Gulf Coast,0,0,2,19944.7,2234.5
+BID-01273,C-306,Duct bank,Civil,LF,2020-09,Midwest,0,1,2,15211.0,202.9
+BID-01274,C-303,Reinforcing steel,Civil,TON,2021-04,Gulf Coast,0,1,1,11515.8,2895.96
+BID-01275,E-103,Conduit,Electrical,LF,2022-04,West Texas,1,0,1,36207.8,69.76
+BID-01276,E-101,Cable tray,Electrical,LF,2020-06,West Texas,0,0,1,22084.8,49.09
+BID-01277,E-102,MV cable,Electrical,LF,2021-02,Southeast,0,0,3,66769.8,42.85
+BID-01278,M-201,Chilled water pipe 12in,Mechanical,LF,2021-08,Mountain West,1,0,1,9275.6,446.25
+BID-01279,E-107,Generator set/terminate,Electrical,EA,2024-07,Mountain West,1,0,2,27.7,82590.23
+BID-01280,E-105,Switchgear set/terminate,Electrical,EA,2020-02,Mountain West,0,0,2,24.2,32103.64
+BID-01281,C-306,Duct bank,Civil,LF,2026-06,West Texas,0,0,2,13517.0,249.89
+BID-01282,C-306,Duct bank,Civil,LF,2018-11,West Texas,1,0,1,8169.4,186.01
+BID-01283,E-103,Conduit,Electrical,LF,2021-12,West Texas,0,0,1,17174.2,84.53
+BID-01284,M-204,Chiller set/connect,Mechanical,EA,2022-06,West Texas,0,0,2,29.5,47459.06
+BID-01285,M-203,CDU set/connect,Mechanical,EA,2022-08,Mountain West,1,0,1,394.3,14762.16
+BID-01286,M-205,CRAH set/connect,Mechanical,EA,2023-07,Mountain West,0,0,2,577.8,9665.99
+BID-01287,E-103,Conduit,Electrical,LF,2023-02,West Texas,0,0,1,25915.4,65.26
+BID-01288,E-107,Generator set/terminate,Electrical,EA,2026-02,Midwest,0,0,1,33.6,63253.89
+BID-01289,C-304,Aggregate base,Civil,SY,2018-10,Southeast,0,0,1,110408.0,13.49
+BID-01290,C-304,Aggregate base,Civil,SY,2020-04,Mountain West,0,0,1,37030.5,15.77
+BID-01291,M-205,CRAH set/connect,Mechanical,EA,2024-08,West Texas,1,0,1,139.2,10132.81
+BID-01292,E-107,Generator set/terminate,Electrical,EA,2018-04,Southeast,1,1,2,21.7,55575.45
+BID-01293,E-107,Generator set/terminate,Electrical,EA,2024-10,Southeast,0,0,1,78.3,56030.65
+BID-01294,E-105,Switchgear set/terminate,Electrical,EA,2025-03,Southeast,0,0,1,27.2,34567.93
+BID-01295,M-203,CDU set/connect,Mechanical,EA,2024-08,Mountain West,0,1,1,143.4,16288.19
+BID-01296,C-301,Mass excavation,Civil,CY,2020-08,Southeast,0,0,2,472692.0,8.39
+BID-01297,M-206,Galvanized ductwork,Mechanical,LB,2026-07,Midwest,0,1,1,218502.8,17.1
+BID-01298,M-203,CDU set/connect,Mechanical,EA,2026-01,Southeast,0,0,1,75.7,17735.32
+BID-01299,M-201,Chilled water pipe 12in,Mechanical,LF,2024-10,Mountain West,0,0,2,11409.6,281.68
+BID-01300,E-101,Cable tray,Electrical,LF,2021-11,Southeast,0,0,2,17563.3,70.17
+BID-01301,M-204,Chiller set/connect,Mechanical,EA,2026-08,Gulf Coast,0,0,3,29.1,62512.95
+BID-01302,C-301,Mass excavation,Civil,CY,2026-07,Gulf Coast,0,0,2,183081.8,12.82
+BID-01303,M-202,Process pipe 8in,Mechanical,LF,2023-12,West Texas,0,0,1,6468.0,182.38
+BID-01304,E-105,Switchgear set/terminate,Electrical,EA,2025-01,Gulf Coast,1,0,2,59.6,39483.93
+BID-01305,M-204,Chiller set/connect,Mechanical,EA,2020-11,West Texas,0,1,1,44.0,42621.39
+BID-01306,E-105,Switchgear set/terminate,Electrical,EA,2019-09,West Texas,1,0,2,14.3,39373.14
+BID-01307,M-206,Galvanized ductwork,Mechanical,LB,2018-04,Mountain West,0,0,1,132134.7,12.05
+BID-01308,M-201,Chilled water pipe 12in,Mechanical,LF,2018-06,West Texas,1,0,1,27060.9,233.62
+BID-01309,C-303,Reinforcing steel,Civil,TON,2025-12,West Texas,0,0,1,15279.4,2105.92
+BID-01310,E-105,Switchgear set/terminate,Electrical,EA,2020-03,Southeast,1,0,2,15.4,36158.2
+BID-01311,E-101,Cable tray,Electrical,LF,2023-06,Gulf Coast,1,0,1,15299.0,62.06
+BID-01312,M-202,Process pipe 8in,Mechanical,LF,2023-10,Gulf Coast,0,0,1,9445.9,172.63
+BID-01313,M-203,CDU set/connect,Mechanical,EA,2024-09,Gulf Coast,1,0,2,61.7,17463.21
+BID-01314,C-301,Mass excavation,Civil,CY,2025-08,Midwest,0,0,1,406737.8,8.78
+BID-01315,M-204,Chiller set/connect,Mechanical,EA,2022-11,Mountain West,0,1,2,60.2,60356.32
+BID-01316,E-103,Conduit,Electrical,LF,2025-03,Midwest,1,0,1,13854.1,83.43
+BID-01317,M-201,Chilled water pipe 12in,Mechanical,LF,2018-04,Gulf Coast,0,0,1,12540.1,252.83
+BID-01318,C-303,Reinforcing steel,Civil,TON,2022-02,Gulf Coast,0,1,1,1822.7,3278.69
+BID-01319,M-201,Chilled water pipe 12in,Mechanical,LF,2022-06,West Texas,1,0,2,10625.8,342.37
+BID-01320,M-202,Process pipe 8in,Mechanical,LF,2018-04,Southeast,0,0,1,23527.6,134.01
+BID-01321,C-304,Aggregate base,Civil,SY,2025-01,Midwest,0,0,1,146725.9,17.83
+BID-01322,M-203,CDU set/connect,Mechanical,EA,2026-06,West Texas,0,0,1,52.0,13775.53
+BID-01323,C-306,Duct bank,Civil,LF,2026-07,Gulf Coast,0,0,3,10534.3,294.39
+BID-01324,C-305,Storm drain RCP 36in,Civil,LF,2020-08,West Texas,0,0,2,9444.8,135.5
+BID-01325,C-304,Aggregate base,Civil,SY,2026-05,Gulf Coast,0,0,1,303232.1,18.31
+BID-01326,E-103,Conduit,Electrical,LF,2020-05,Midwest,1,0,1,8108.4,73.09
+BID-01327,E-101,Cable tray,Electrical,LF,2022-11,Gulf Coast,0,1,2,40216.0,62.47
+BID-01328,E-107,Generator set/terminate,Electrical,EA,2023-02,Southeast,0,0,1,80.7,52523.36
+BID-01329,M-203,CDU set/connect,Mechanical,EA,2019-08,Midwest,0,0,3,90.1,14412.62
+BID-01330,C-306,Duct bank,Civil,LF,2020-09,Southeast,0,1,1,26551.0,186.46
+BID-01331,M-202,Process pipe 8in,Mechanical,LF,2018-01,Mountain West,0,1,1,20557.2,156.4
+BID-01332,C-306,Duct bank,Civil,LF,2022-06,Gulf Coast,1,0,2,13129.6,254.01
+BID-01333,M-203,CDU set/connect,Mechanical,EA,2022-12,West Texas,1,0,2,106.4,15362.5
+BID-01334,C-301,Mass excavation,Civil,CY,2024-06,Southeast,0,0,2,353694.5,8.77
+BID-01335,E-107,Generator set/terminate,Electrical,EA,2024-05,Gulf Coast,0,0,1,30.2,58789.7
+BID-01336,C-302,Structural concrete,Civil,CY,2023-09,Mountain West,0,0,1,22647.0,457.3
+BID-01337,E-103,Conduit,Electrical,LF,2023-11,Mountain West,0,0,2,36277.6,65.42
+BID-01338,E-101,Cable tray,Electrical,LF,2023-07,Gulf Coast,1,1,1,16642.7,71.12
+BID-01339,M-205,CRAH set/connect,Mechanical,EA,2018-08,Mountain West,0,0,3,98.4,8270.15
+BID-01340,M-204,Chiller set/connect,Mechanical,EA,2026-06,Southeast,0,0,1,103.2,52646.06
+BID-01341,E-105,Switchgear set/terminate,Electrical,EA,2018-09,West Texas,0,0,1,8.1,31983.03
+BID-01342,M-205,CRAH set/connect,Mechanical,EA,2020-12,Mountain West,0,0,1,264.2,8895.41
+BID-01343,C-302,Structural concrete,Civil,CY,2020-12,West Texas,0,0,1,23674.9,362.95
+BID-01344,M-203,CDU set/connect,Mechanical,EA,2021-10,Southeast,0,0,1,54.7,12680.18
+BID-01345,C-301,Mass excavation,Civil,CY,2022-02,Southeast,0,0,1,123799.0,7.98
+BID-01346,E-104,Busway,Electrical,LF,2024-05,Gulf Coast,0,0,1,831.6,1200.05
+BID-01347,C-306,Duct bank,Civil,LF,2022-02,West Texas,0,0,1,8369.7,200.99
+BID-01348,C-305,Storm drain RCP 36in,Civil,LF,2022-02,West Texas,0,0,2,21464.2,118.88
+BID-01349,M-204,Chiller set/connect,Mechanical,EA,2018-12,Midwest,1,1,2,22.8,62173.88
+BID-01350,C-303,Reinforcing steel,Civil,TON,2025-07,Mountain West,0,0,2,4163.3,2540.57
+BID-01351,M-203,CDU set/connect,Mechanical,EA,2022-04,West Texas,0,0,2,90.9,13638.71
+BID-01352,E-102,MV cable,Electrical,LF,2025-12,Gulf Coast,0,0,1,24780.4,49.34
+BID-01353,E-107,Generator set/terminate,Electrical,EA,2025-02,Gulf Coast,1,0,1,40.2,70649.67
+BID-01354,C-305,Storm drain RCP 36in,Civil,LF,2019-02,Southeast,0,0,2,5513.1,147.23
+BID-01355,E-103,Conduit,Electrical,LF,2023-11,Midwest,0,1,1,26918.2,62.59
+BID-01356,E-105,Switchgear set/terminate,Electrical,EA,2020-01,West Texas,0,0,2,23.8,32106.33
+BID-01357,E-102,MV cable,Electrical,LF,2019-06,West Texas,0,0,1,35024.2,40.75
+BID-01358,E-103,Conduit,Electrical,LF,2025-11,Gulf Coast,0,0,1,30920.0,77.96
+BID-01359,E-102,MV cable,Electrical,LF,2022-01,West Texas,0,0,1,69661.1,44.59
+BID-01360,M-204,Chiller set/connect,Mechanical,EA,2023-08,Gulf Coast,0,0,1,35.0,53466.25
+BID-01361,E-106,UPS set/terminate,Electrical,EA,2025-07,Gulf Coast,1,0,1,41.1,26233.29
+BID-01362,E-106,UPS set/terminate,Electrical,EA,2021-03,Southeast,0,0,1,73.0,17315.02
+BID-01363,M-203,CDU set/connect,Mechanical,EA,2025-06,Mountain West,1,0,1,142.6,15674.85
+BID-01364,C-301,Mass excavation,Civil,CY,2024-08,West Texas,0,1,3,553416.6,12.71
+BID-01365,E-102,MV cable,Electrical,LF,2019-04,Mountain West,1,0,2,39302.4,38.74
+BID-01366,M-204,Chiller set/connect,Mechanical,EA,2021-08,Gulf Coast,1,0,2,36.7,57610.93
+BID-01367,E-102,MV cable,Electrical,LF,2021-06,West Texas,0,1,1,21714.9,49.04
+BID-01368,C-305,Storm drain RCP 36in,Civil,LF,2019-01,Mountain West,0,0,2,6218.3,126.3
+BID-01369,M-203,CDU set/connect,Mechanical,EA,2019-04,West Texas,0,0,2,132.4,12294.87
+BID-01370,E-102,MV cable,Electrical,LF,2026-06,Southeast,1,0,1,54379.7,48.06
+BID-01371,E-101,Cable tray,Electrical,LF,2022-12,Southeast,0,0,1,21626.0,53.04
+BID-01372,E-102,MV cable,Electrical,LF,2023-04,Midwest,0,0,2,28813.6,49.55
+BID-01373,E-104,Busway,Electrical,LF,2021-06,Gulf Coast,0,0,3,7043.5,1204.77
+BID-01374,C-303,Reinforcing steel,Civil,TON,2021-11,Gulf Coast,0,0,3,10394.8,3534.26
+BID-01375,C-302,Structural concrete,Civil,CY,2026-07,West Texas,1,1,3,82796.1,600.93
+BID-01376,E-103,Conduit,Electrical,LF,2024-03,Mountain West,0,0,2,8430.4,84.18
+BID-01377,E-106,UPS set/terminate,Electrical,EA,2022-06,Mountain West,0,0,2,28.8,20594.46
+BID-01378,C-305,Storm drain RCP 36in,Civil,LF,2018-04,West Texas,1,0,3,7722.6,141.09
+BID-01379,E-101,Cable tray,Electrical,LF,2024-03,Mountain West,0,0,1,53456.0,50.78
+BID-01380,M-204,Chiller set/connect,Mechanical,EA,2019-04,West Texas,1,1,1,65.4,41376.81
+BID-01381,E-104,Busway,Electrical,LF,2024-03,Southeast,1,0,1,484.0,1181.48
+BID-01382,C-302,Structural concrete,Civil,CY,2018-12,Midwest,0,0,1,34363.9,355.26
+BID-01383,M-205,CRAH set/connect,Mechanical,EA,2018-03,Gulf Coast,0,1,1,422.7,7451.59
+BID-01384,E-105,Switchgear set/terminate,Electrical,EA,2025-04,West Texas,0,0,2,7.9,40025.82
+BID-01385,M-202,Process pipe 8in,Mechanical,LF,2021-10,Gulf Coast,0,0,2,16746.3,221.13
+BID-01386,M-206,Galvanized ductwork,Mechanical,LB,2019-11,Southeast,0,0,1,487901.9,10.1
+BID-01387,M-202,Process pipe 8in,Mechanical,LF,2023-03,Midwest,1,0,1,32261.9,162.03
+BID-01388,M-205,CRAH set/connect,Mechanical,EA,2021-09,Gulf Coast,0,0,1,121.5,9194.13
+BID-01389,E-106,UPS set/terminate,Electrical,EA,2018-10,Mountain West,1,1,2,60.2,21423.15
+BID-01390,E-101,Cable tray,Electrical,LF,2026-08,Gulf Coast,1,0,1,54235.6,62.37
+BID-01391,E-107,Generator set/terminate,Electrical,EA,2023-12,Gulf Coast,1,0,1,34.9,73815.04
+BID-01392,C-304,Aggregate base,Civil,SY,2020-04,Southeast,1,0,1,154606.5,15.35
+BID-01393,E-106,UPS set/terminate,Electrical,EA,2018-01,Southeast,0,0,2,97.7,14313.47
+BID-01394,E-103,Conduit,Electrical,LF,2019-04,Midwest,0,0,1,38721.7,57.61
+BID-01395,M-205,CRAH set/connect,Mechanical,EA,2018-04,Midwest,1,0,1,135.4,7820.58
+BID-01396,M-202,Process pipe 8in,Mechanical,LF,2023-09,Southeast,0,0,2,12021.0,172.36
+BID-01397,E-103,Conduit,Electrical,LF,2022-05,Southeast,1,1,1,6184.9,101.01
+BID-01398,C-306,Duct bank,Civil,LF,2021-03,Mountain West,0,0,2,16710.9,208.16
+BID-01399,E-102,MV cable,Electrical,LF,2024-07,West Texas,0,1,1,89185.4,46.93
+BID-01400,M-205,CRAH set/connect,Mechanical,EA,2018-02,Southeast,0,0,1,276.6,6476.64
+BID-01401,C-301,Mass excavation,Civil,CY,2021-10,Gulf Coast,0,0,2,185540.1,8.38
+BID-01402,C-303,Reinforcing steel,Civil,TON,2025-09,Mountain West,1,0,1,4770.6,2970.41
+BID-01403,C-305,Storm drain RCP 36in,Civil,LF,2024-01,Midwest,0,0,1,15550.6,154.58
+BID-01404,M-202,Process pipe 8in,Mechanical,LF,2026-02,Gulf Coast,1,0,1,30435.7,225.86
+BID-01405,E-102,MV cable,Electrical,LF,2020-09,Gulf Coast,1,0,2,14730.6,50.41
+BID-01406,E-101,Cable tray,Electrical,LF,2022-11,Southeast,0,0,2,21008.4,57.06
+BID-01407,E-107,Generator set/terminate,Electrical,EA,2019-12,Gulf Coast,0,0,2,27.3,59339.54
+BID-01408,C-303,Reinforcing steel,Civil,TON,2018-05,Gulf Coast,0,0,3,5757.0,2325.38
+BID-01409,C-304,Aggregate base,Civil,SY,2018-02,Southeast,1,0,1,357410.1,13.65
+BID-01410,E-102,MV cable,Electrical,LF,2020-08,Mountain West,0,0,2,129213.6,37.55
+BID-01411,C-303,Reinforcing steel,Civil,TON,2026-07,Gulf Coast,0,0,1,7167.5,2659.09
+BID-01412,C-304,Aggregate base,Civil,SY,2021-02,West Texas,1,0,2,260876.6,16.64
+BID-01413,C-303,Reinforcing steel,Civil,TON,2026-01,West Texas,1,0,1,5024.8,2508.76
+BID-01414,M-201,Chilled water pipe 12in,Mechanical,LF,2024-11,Gulf Coast,1,0,1,20998.3,302.9
+BID-01415,M-202,Process pipe 8in,Mechanical,LF,2020-05,Gulf Coast,0,0,1,12289.4,172.12
+BID-01416,M-203,CDU set/connect,Mechanical,EA,2023-12,Midwest,0,1,1,168.6,15970.0
+BID-01417,M-204,Chiller set/connect,Mechanical,EA,2018-01,Midwest,1,1,1,49.2,51431.88
+BID-01418,E-107,Generator set/terminate,Electrical,EA,2018-10,Gulf Coast,0,0,1,64.7,46143.65
+BID-01419,E-102,MV cable,Electrical,LF,2025-11,West Texas,1,0,2,49151.7,59.79
+BID-01420,E-101,Cable tray,Electrical,LF,2025-08,Mountain West,1,1,3,34742.2,77.07
+BID-01421,M-201,Chilled water pipe 12in,Mechanical,LF,2021-01,Gulf Coast,0,0,2,4933.6,375.4
+BID-01422,C-306,Duct bank,Civil,LF,2018-07,Midwest,1,0,2,5714.7,222.66
+BID-01423,C-305,Storm drain RCP 36in,Civil,LF,2022-08,Gulf Coast,0,0,2,6745.4,169.34
+BID-01424,E-107,Generator set/terminate,Electrical,EA,2024-06,West Texas,0,0,2,127.2,61506.24
+BID-01425,C-302,Structural concrete,Civil,CY,2022-10,West Texas,0,0,3,364298.8,395.32
+BID-01426,M-204,Chiller set/connect,Mechanical,EA,2025-10,Mountain West,1,1,1,58.1,62818.07
+BID-01427,E-103,Conduit,Electrical,LF,2026-07,Midwest,1,0,1,17522.1,80.94
+BID-01428,E-104,Busway,Electrical,LF,2018-08,West Texas,0,0,1,2295.1,881.59
+BID-01429,C-301,Mass excavation,Civil,CY,2026-07,West Texas,1,0,1,703875.2,10.36
+BID-01430,E-107,Generator set/terminate,Electrical,EA,2019-05,Gulf Coast,0,0,2,74.5,53507.73
+BID-01431,E-103,Conduit,Electrical,LF,2022-02,West Texas,0,1,1,18844.9,82.48
+BID-01432,E-104,Busway,Electrical,LF,2020-10,Gulf Coast,1,0,1,5015.2,1046.73
+BID-01433,E-106,UPS set/terminate,Electrical,EA,2025-04,Southeast,0,1,1,92.3,17142.14
+BID-01434,E-102,MV cable,Electrical,LF,2022-06,Midwest,1,0,1,63555.6,57.96
+BID-01435,E-105,Switchgear set/terminate,Electrical,EA,2026-06,West Texas,0,1,1,8.8,41753.45
+BID-01436,M-203,CDU set/connect,Mechanical,EA,2019-11,Mountain West,0,0,1,123.7,12580.65
+BID-01437,M-201,Chilled water pipe 12in,Mechanical,LF,2025-03,Midwest,0,0,2,11312.3,302.18
+BID-01438,M-206,Galvanized ductwork,Mechanical,LB,2018-02,West Texas,0,0,3,200022.7,12.63
+BID-01439,E-102,MV cable,Electrical,LF,2019-07,West Texas,0,1,1,43464.5,38.98
+BID-01440,M-202,Process pipe 8in,Mechanical,LF,2022-10,Midwest,0,0,2,57127.3,163.17
+BID-01441,C-304,Aggregate base,Civil,SY,2018-07,West Texas,0,0,1,161044.5,12.63
+BID-01442,C-305,Storm drain RCP 36in,Civil,LF,2025-10,Gulf Coast,1,0,1,14837.7,198.37
+BID-01443,E-103,Conduit,Electrical,LF,2020-08,Gulf Coast,1,1,1,15783.9,78.7
+BID-01444,C-304,Aggregate base,Civil,SY,2022-09,Mountain West,0,0,1,87342.4,18.76
+BID-01445,M-206,Galvanized ductwork,Mechanical,LB,2022-12,Mountain West,1,0,2,477013.5,15.52
+BID-01446,M-202,Process pipe 8in,Mechanical,LF,2026-04,West Texas,0,0,1,50355.7,188.29
+BID-01447,E-101,Cable tray,Electrical,LF,2022-01,Southeast,0,1,1,10351.9,70.32
+BID-01448,C-303,Reinforcing steel,Civil,TON,2026-06,Mountain West,0,0,1,5173.2,2540.37
+BID-01449,E-106,UPS set/terminate,Electrical,EA,2022-07,Gulf Coast,0,0,2,78.1,19384.52
+BID-01450,C-306,Duct bank,Civil,LF,2020-01,West Texas,0,1,1,4701.6,224.03
+BID-01451,E-106,UPS set/terminate,Electrical,EA,2021-07,West Texas,0,1,2,62.7,19955.13
+BID-01452,M-202,Process pipe 8in,Mechanical,LF,2018-10,Midwest,0,0,1,30458.1,149.0
+BID-01453,M-203,CDU set/connect,Mechanical,EA,2024-10,Southeast,1,0,1,185.2,14465.79
+BID-01454,C-302,Structural concrete,Civil,CY,2022-06,West Texas,1,1,2,114618.1,522.42
+BID-01455,C-302,Structural concrete,Civil,CY,2024-03,West Texas,0,0,2,36864.9,474.05
+BID-01456,M-204,Chiller set/connect,Mechanical,EA,2022-01,Gulf Coast,0,0,3,95.7,44733.23
+BID-01457,E-101,Cable tray,Electrical,LF,2022-08,Midwest,0,0,1,83352.9,57.05
+BID-01458,M-201,Chilled water pipe 12in,Mechanical,LF,2018-08,Gulf Coast,0,1,1,34036.9,230.13
+BID-01459,E-103,Conduit,Electrical,LF,2026-01,Gulf Coast,0,0,1,16479.0,94.15
+BID-01460,C-301,Mass excavation,Civil,CY,2019-05,Mountain West,0,0,2,413119.8,8.2
+BID-01461,M-202,Process pipe 8in,Mechanical,LF,2019-02,Midwest,1,1,1,50732.1,177.94
+BID-01462,C-304,Aggregate base,Civil,SY,2019-02,Southeast,0,0,2,111502.7,14.06
+BID-01463,E-103,Conduit,Electrical,LF,2025-10,West Texas,1,0,2,58384.0,74.66
+BID-01464,M-201,Chilled water pipe 12in,Mechanical,LF,2024-04,Mountain West,1,1,2,25263.0,370.14
+BID-01465,E-105,Switchgear set/terminate,Electrical,EA,2024-03,Gulf Coast,0,0,3,56.2,39373.59
+BID-01466,C-302,Structural concrete,Civil,CY,2026-09,Midwest,1,0,2,29503.6,549.56
+BID-01467,M-202,Process pipe 8in,Mechanical,LF,2020-02,Gulf Coast,0,1,1,9007.2,174.42
+BID-01468,E-101,Cable tray,Electrical,LF,2026-06,Mountain West,0,0,1,22237.4,70.95
+BID-01469,E-107,Generator set/terminate,Electrical,EA,2024-08,Gulf Coast,0,0,2,27.3,69446.8
+BID-01470,C-303,Reinforcing steel,Civil,TON,2018-03,Mountain West,0,1,1,6128.2,2089.64
+BID-01471,E-106,UPS set/terminate,Electrical,EA,2020-12,Mountain West,0,1,1,14.6,22414.07
+BID-01472,C-304,Aggregate base,Civil,SY,2025-12,Southeast,1,0,1,144364.9,18.25
+BID-01473,M-203,CDU set/connect,Mechanical,EA,2025-02,West Texas,0,0,1,86.1,14763.92
+BID-01474,M-201,Chilled water pipe 12in,Mechanical,LF,2023-06,Southeast,0,0,3,16838.7,260.58
+BID-01475,C-303,Reinforcing steel,Civil,TON,2018-09,West Texas,0,0,1,3118.1,1528.87
+BID-01476,M-201,Chilled water pipe 12in,Mechanical,LF,2025-05,Mountain West,1,0,1,9886.3,335.45
+BID-01477,M-203,CDU set/connect,Mechanical,EA,2020-08,West Texas,0,0,1,520.6,10874.27
+BID-01478,C-306,Duct bank,Civil,LF,2023-01,West Texas,1,0,2,16687.6,264.45
+BID-01479,E-104,Busway,Electrical,LF,2025-04,Southeast,0,1,3,7397.6,1309.87
+BID-01480,E-106,UPS set/terminate,Electrical,EA,2020-10,Mountain West,0,0,1,86.3,17107.23
+BID-01481,E-103,Conduit,Electrical,LF,2024-11,Gulf Coast,1,0,2,16790.5,77.85
+BID-01482,E-105,Switchgear set/terminate,Electrical,EA,2018-12,Midwest,0,1,2,53.1,31388.76
+BID-01483,E-107,Generator set/terminate,Electrical,EA,2025-04,Southeast,0,0,1,53.3,57444.97
+BID-01484,M-201,Chilled water pipe 12in,Mechanical,LF,2022-07,Mountain West,0,0,3,2342.7,407.97
+BID-01485,M-201,Chilled water pipe 12in,Mechanical,LF,2026-04,Midwest,1,0,2,22089.9,325.15
+BID-01486,E-105,Switchgear set/terminate,Electrical,EA,2019-11,Midwest,0,0,1,8.9,29242.36
+BID-01487,C-303,Reinforcing steel,Civil,TON,2024-03,Mountain West,0,0,1,4592.1,2150.51
+BID-01488,M-204,Chiller set/connect,Mechanical,EA,2020-10,Southeast,0,0,1,24.5,37310.55
+BID-01489,C-303,Reinforcing steel,Civil,TON,2023-01,Gulf Coast,1,1,1,7437.0,2302.03
+BID-01490,E-101,Cable tray,Electrical,LF,2025-07,Gulf Coast,1,1,2,41213.7,76.81
+BID-01491,E-105,Switchgear set/terminate,Electrical,EA,2026-01,Gulf Coast,1,0,1,49.9,42040.93
+BID-01492,E-107,Generator set/terminate,Electrical,EA,2018-07,Midwest,1,0,2,27.8,59811.05
+BID-01493,E-103,Conduit,Electrical,LF,2023-06,Gulf Coast,1,0,2,19630.1,73.48
+BID-01494,E-105,Switchgear set/terminate,Electrical,EA,2021-09,West Texas,0,1,2,18.3,35117.04
+BID-01495,C-304,Aggregate base,Civil,SY,2021-09,Midwest,0,0,1,214124.1,13.79
+BID-01496,C-301,Mass excavation,Civil,CY,2025-04,West Texas,1,0,2,692365.0,11.98
+BID-01497,M-202,Process pipe 8in,Mechanical,LF,2018-09,Mountain West,0,0,1,6070.9,159.89
+BID-01498,C-302,Structural concrete,Civil,CY,2025-10,Gulf Coast,0,0,3,36065.0,537.12
+BID-01499,C-302,Structural concrete,Civil,CY,2018-05,Gulf Coast,1,0,2,28128.3,372.46
+BID-01500,C-304,Aggregate base,Civil,SY,2018-05,Midwest,0,0,1,253436.6,13.25
+BID-01501,C-302,Structural concrete,Civil,CY,2018-01,Midwest,0,0,2,52301.2,356.45
+BID-01502,C-303,Reinforcing steel,Civil,TON,2022-01,Mountain West,0,0,1,6414.0,3063.56
+BID-01503,M-203,CDU set/connect,Mechanical,EA,2026-07,West Texas,0,1,1,125.5,16126.42
+BID-01504,E-105,Switchgear set/terminate,Electrical,EA,2020-04,Gulf Coast,0,0,1,74.1,28488.93
+BID-01505,E-107,Generator set/terminate,Electrical,EA,2018-02,West Texas,0,0,2,71.8,51120.32
+BID-01506,E-107,Generator set/terminate,Electrical,EA,2020-02,Southeast,0,1,2,33.9,52255.85
+BID-01507,E-103,Conduit,Electrical,LF,2022-07,Gulf Coast,1,1,2,12198.5,92.94
+BID-01508,E-105,Switchgear set/terminate,Electrical,EA,2020-01,Midwest,0,0,1,14.9,26279.47
+BID-01509,E-107,Generator set/terminate,Electrical,EA,2024-07,Mountain West,1,0,2,51.7,81036.83
+BID-01510,C-301,Mass excavation,Civil,CY,2025-03,Southeast,0,0,1,437160.1,9.41
+BID-01511,E-106,UPS set/terminate,Electrical,EA,2019-11,Southeast,0,1,2,94.2,18331.1
+BID-01512,E-102,MV cable,Electrical,LF,2018-04,Southeast,1,0,1,38823.3,40.47
+BID-01513,E-106,UPS set/terminate,Electrical,EA,2023-03,West Texas,0,0,3,94.0,19394.16
+BID-01514,C-304,Aggregate base,Civil,SY,2022-05,Gulf Coast,1,0,1,135978.8,17.83
+BID-01515,E-105,Switchgear set/terminate,Electrical,EA,2018-06,West Texas,0,0,1,43.8,30835.23
+BID-01516,E-107,Generator set/terminate,Electrical,EA,2022-08,Southeast,1,0,3,48.0,63096.36
+BID-01517,M-206,Galvanized ductwork,Mechanical,LB,2020-08,West Texas,1,1,3,471938.9,19.51
+BID-01518,E-102,MV cable,Electrical,LF,2020-10,Gulf Coast,1,0,2,68030.9,47.1
+BID-01519,M-206,Galvanized ductwork,Mechanical,LB,2023-09,Southeast,0,0,2,516372.5,11.37
+BID-01520,C-301,Mass excavation,Civil,CY,2019-05,Gulf Coast,0,0,1,425521.5,7.2
+BID-01521,E-104,Busway,Electrical,LF,2018-07,West Texas,0,0,2,1110.1,785.29
+BID-01522,E-101,Cable tray,Electrical,LF,2025-08,Mountain West,0,1,1,17283.1,65.98
+BID-01523,C-302,Structural concrete,Civil,CY,2019-07,Gulf Coast,1,0,2,29077.9,439.41
+BID-01524,M-205,CRAH set/connect,Mechanical,EA,2018-07,Mountain West,1,0,2,225.0,8834.06
+BID-01525,E-102,MV cable,Electrical,LF,2018-01,Southeast,0,0,1,30065.9,31.28
+BID-01526,C-303,Reinforcing steel,Civil,TON,2024-09,Gulf Coast,0,0,1,4258.3,2144.67
+BID-01527,E-105,Switchgear set/terminate,Electrical,EA,2022-04,Southeast,0,0,2,14.2,39098.44
+BID-01528,C-301,Mass excavation,Civil,CY,2024-12,Gulf Coast,1,0,1,483978.1,11.25
+BID-01529,M-202,Process pipe 8in,Mechanical,LF,2021-04,Mountain West,0,0,1,7256.0,228.73
+BID-01530,E-105,Switchgear set/terminate,Electrical,EA,2020-07,Southeast,0,0,1,36.9,27954.79
+BID-01531,C-301,Mass excavation,Civil,CY,2024-02,Southeast,0,0,1,583764.6,8.07
+BID-01532,M-204,Chiller set/connect,Mechanical,EA,2021-11,Midwest,0,0,3,56.1,50161.82
+BID-01533,C-301,Mass excavation,Civil,CY,2025-04,Southeast,0,0,1,243305.8,9.69
+BID-01534,C-305,Storm drain RCP 36in,Civil,LF,2019-06,Southeast,1,1,3,6501.9,164.38
+BID-01535,E-106,UPS set/terminate,Electrical,EA,2026-09,Midwest,0,0,1,20.6,22104.14
+BID-01536,E-101,Cable tray,Electrical,LF,2024-12,Southeast,1,0,2,46248.3,64.7
+BID-01537,E-102,MV cable,Electrical,LF,2025-07,Midwest,1,0,2,32586.6,65.3
+BID-01538,E-105,Switchgear set/terminate,Electrical,EA,2025-02,West Texas,0,0,2,16.8,44210.88
+BID-01539,E-104,Busway,Electrical,LF,2025-08,Mountain West,0,1,1,1041.6,1323.32
+BID-01540,C-303,Reinforcing steel,Civil,TON,2025-04,Gulf Coast,1,1,2,9170.7,2753.77
+BID-01541,C-303,Reinforcing steel,Civil,TON,2023-01,West Texas,0,0,2,2762.0,2277.09
+BID-01542,E-106,UPS set/terminate,Electrical,EA,2022-09,West Texas,0,1,1,37.7,20576.96
+BID-01543,M-202,Process pipe 8in,Mechanical,LF,2018-05,West Texas,0,0,2,22925.1,146.34
+BID-01544,C-306,Duct bank,Civil,LF,2019-02,West Texas,0,0,2,12203.2,206.34
+BID-01545,E-105,Switchgear set/terminate,Electrical,EA,2024-06,Southeast,0,0,3,46.1,35747.27
+BID-01546,E-102,MV cable,Electrical,LF,2020-03,Midwest,0,0,3,11705.9,45.7
+BID-01547,C-303,Reinforcing steel,Civil,TON,2026-09,Southeast,0,0,1,6880.6,2115.71
+BID-01548,E-101,Cable tray,Electrical,LF,2018-08,West Texas,1,0,2,10992.9,54.46
+BID-01549,M-202,Process pipe 8in,Mechanical,LF,2025-07,Midwest,0,0,1,17361.3,206.42
+BID-01550,C-305,Storm drain RCP 36in,Civil,LF,2023-01,Southeast,1,0,1,7126.9,176.16
+BID-01551,M-203,CDU set/connect,Mechanical,EA,2026-06,Midwest,1,0,2,95.6,18908.42
+BID-01552,M-204,Chiller set/connect,Mechanical,EA,2019-05,West Texas,0,1,1,46.7,40637.94
+BID-01553,C-306,Duct bank,Civil,LF,2023-02,West Texas,1,1,2,26590.2,270.82
+BID-01554,E-103,Conduit,Electrical,LF,2018-04,West Texas,1,0,3,32193.5,66.12
+BID-01555,M-206,Galvanized ductwork,Mechanical,LB,2021-03,West Texas,0,1,1,273774.3,15.89
+BID-01556,C-305,Storm drain RCP 36in,Civil,LF,2019-01,West Texas,0,0,1,7782.2,119.48
+BID-01557,C-305,Storm drain RCP 36in,Civil,LF,2018-11,West Texas,0,1,1,3720.4,124.03
+BID-01558,C-301,Mass excavation,Civil,CY,2026-06,West Texas,0,0,3,981559.8,9.84
+BID-01559,E-104,Busway,Electrical,LF,2023-06,Gulf Coast,0,0,2,2077.9,1225.62
+BID-01560,C-301,Mass excavation,Civil,CY,2018-10,Gulf Coast,0,0,1,301106.8,7.59
+BID-01561,E-105,Switchgear set/terminate,Electrical,EA,2020-07,West Texas,1,1,2,86.9,40561.78
+BID-01562,C-303,Reinforcing steel,Civil,TON,2022-12,Mountain West,0,0,2,3012.8,2449.48
+BID-01563,E-102,MV cable,Electrical,LF,2018-06,Mountain West,0,0,1,33280.2,33.82
+BID-01564,C-306,Duct bank,Civil,LF,2023-02,Gulf Coast,0,0,2,4294.4,222.15
+BID-01565,C-301,Mass excavation,Civil,CY,2018-06,West Texas,1,0,1,285218.6,9.48
+BID-01566,C-306,Duct bank,Civil,LF,2025-03,Gulf Coast,0,0,1,14284.4,237.65
+BID-01567,C-304,Aggregate base,Civil,SY,2018-12,Midwest,0,0,1,180363.2,14.73
+BID-01568,C-303,Reinforcing steel,Civil,TON,2019-05,Gulf Coast,0,1,2,2813.8,2078.3
+BID-01569,C-303,Reinforcing steel,Civil,TON,2025-03,Midwest,0,0,1,3338.7,2150.4
+BID-01570,C-303,Reinforcing steel,Civil,TON,2025-02,Gulf Coast,0,0,1,6328.0,2204.97
+BID-01571,M-203,CDU set/connect,Mechanical,EA,2023-08,Midwest,0,0,2,341.4,13136.13
+BID-01572,M-203,CDU set/connect,Mechanical,EA,2019-08,Mountain West,0,1,1,219.0,12696.19
+BID-01573,E-107,Generator set/terminate,Electrical,EA,2019-03,Gulf Coast,0,0,2,15.2,57629.08
+BID-01574,M-203,CDU set/connect,Mechanical,EA,2018-11,West Texas,0,1,2,79.1,11814.14
+BID-01575,E-106,UPS set/terminate,Electrical,EA,2023-11,Gulf Coast,1,0,2,47.4,24873.78
+BID-01576,E-103,Conduit,Electrical,LF,2021-06,Southeast,0,0,1,36173.7,69.32
+BID-01577,M-202,Process pipe 8in,Mechanical,LF,2020-08,Southeast,0,0,2,23399.1,169.75
+BID-01578,C-302,Structural concrete,Civil,CY,2018-12,Midwest,1,0,2,51802.0,370.56
+BID-01579,M-204,Chiller set/connect,Mechanical,EA,2026-07,Gulf Coast,0,0,2,21.6,62586.54
+BID-01580,C-306,Duct bank,Civil,LF,2023-01,Midwest,0,0,2,3253.5,245.97
+BID-01581,E-104,Busway,Electrical,LF,2020-10,West Texas,0,0,2,9420.2,1032.58
+BID-01582,E-104,Busway,Electrical,LF,2023-10,Midwest,1,0,2,4521.2,1170.9
+BID-01583,M-201,Chilled water pipe 12in,Mechanical,LF,2019-11,West Texas,0,1,1,17314.2,263.66
+BID-01584,M-205,CRAH set/connect,Mechanical,EA,2023-08,Midwest,1,0,1,488.7,9087.36
+BID-01585,M-203,CDU set/connect,Mechanical,EA,2019-05,Mountain West,1,0,2,75.1,13204.25
+BID-01586,E-103,Conduit,Electrical,LF,2024-11,Mountain West,1,0,3,7975.8,86.13
+BID-01587,E-106,UPS set/terminate,Electrical,EA,2020-11,Mountain West,0,1,1,23.3,20866.75
+BID-01588,M-206,Galvanized ductwork,Mechanical,LB,2021-06,Gulf Coast,0,0,1,642273.1,14.8
+BID-01589,C-304,Aggregate base,Civil,SY,2025-08,West Texas,0,0,2,305999.2,18.94
+BID-01590,E-106,UPS set/terminate,Electrical,EA,2023-05,Southeast,1,0,1,32.1,24616.12
+BID-01591,E-106,UPS set/terminate,Electrical,EA,2024-11,Mountain West,0,1,2,34.5,25072.28
+BID-01592,C-302,Structural concrete,Civil,CY,2025-06,West Texas,1,1,2,84936.1,531.19
+BID-01593,M-203,CDU set/connect,Mechanical,EA,2019-04,Southeast,1,1,1,75.3,14183.91
+BID-01594,E-105,Switchgear set/terminate,Electrical,EA,2019-11,Midwest,0,1,2,24.3,37737.05
+BID-01595,E-101,Cable tray,Electrical,LF,2024-02,West Texas,0,0,1,10661.6,49.47
+BID-01596,M-204,Chiller set/connect,Mechanical,EA,2025-02,Midwest,0,1,3,25.6,69331.85
+BID-01597,M-202,Process pipe 8in,Mechanical,LF,2024-10,Midwest,0,0,1,11088.8,182.26
+BID-01598,E-101,Cable tray,Electrical,LF,2020-08,West Texas,0,1,2,58745.2,68.23
+BID-01599,C-302,Structural concrete,Civil,CY,2019-03,Southeast,0,0,1,16242.3,354.79
+BID-01600,E-107,Generator set/terminate,Electrical,EA,2020-07,Gulf Coast,0,0,2,33.3,51961.84

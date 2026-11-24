@@ -1,0 +1,76 @@
+item_id,factory_id,seq,stage,mean_days,sd_days
+CEM-OPC,F-TXC-MID,1,Manufacturing / pick,2.0,1.7320508075688772
+CEM-OPC,F-TXC-MID,2,Truck to West Texas,3.0,1.0
+AGG-57,F-PBA-BSP,1,Manufacturing / pick,2.0,1.0
+AGG-57,F-PBA-BSP,2,Truck to West Texas,3.0,1.0
+RBR-5,F-SWM-FTW,1,Manufacturing / pick,18.0,6.928203230275509
+RBR-5,F-SWM-FTW,2,Truck to West Texas,3.0,1.0
+STL-W,F-SWM-FTW,1,Manufacturing / pick,57.0,14.966629547095765
+STL-W,F-SWM-FTW,2,Truck to West Texas,3.0,1.0
+CT-24,F-GCE-HOU,1,Manufacturing / pick,27.0,7.937253933193772
+CT-24,F-GCE-HOU,2,Truck to West Texas,3.0,1.0
+MV-500,F-HNC-GUM,1,Manufacturing,21.0,18.83480820183736
+MV-500,F-HNC-GUM,2,Inland to Busan,2.0,1.0
+MV-500,F-HNC-GUM,3,Origin port dwell,4.0,2.0
+MV-500,F-HNC-GUM,4,Ocean: Busan to Houston (Panama Canal),32.0,5.0
+MV-500,F-HNC-GUM,5,Houston port dwell,4.0,3.0
+MV-500,F-HNC-GUM,6,US customs clearance,3.0,2.0
+MV-500,F-HNC-GUM,7,Truck/rail to West Texas,4.0,1.5
+CND-4,F-GCE-HOU,1,Manufacturing / pick,7.0,2.8284271247461903
+CND-4,F-GCE-HOU,2,Truck to West Texas,3.0,1.0
+LV-CU,F-GCE-HOU,1,Manufacturing / pick,18.0,5.916079783099616
+LV-CU,F-GCE-HOU,2,Truck to West Texas,3.0,1.0
+BUS-4K,F-MXE-MTY,1,Manufacturing,48.0,13.811227316933133
+BUS-4K,F-MXE-MTY,2,Truck to Laredo border,2.0,0.5
+BUS-4K,F-MXE-MTY,3,Border crossing + customs,3.0,2.0
+BUS-4K,F-MXE-MTY,4,Truck to West Texas,3.0,1.0
+PIPE-CHW,F-INS-KUT,1,Manufacturing,18.0,22.666053913286273
+PIPE-CHW,F-INS-KUT,2,Inland to Mundra,2.0,1.0
+PIPE-CHW,F-INS-KUT,3,Origin port dwell,5.0,3.0
+PIPE-CHW,F-INS-KUT,4,Ocean: Mundra to Houston (Suez or Cape),38.0,9.0
+PIPE-CHW,F-INS-KUT,5,Houston port dwell,4.0,3.0
+PIPE-CHW,F-INS-KUT,6,US customs clearance,4.0,3.0
+PIPE-CHW,F-INS-KUT,7,Truck/rail to West Texas,4.0,1.5
+DUCT,F-GCE-HOU,1,Manufacturing / pick,11.0,3.872983346207417
+DUCT,F-GCE-HOU,2,Truck to West Texas,3.0,1.0
+SWG,F-MXE-MTY,1,Manufacturing,292.0,44.94162880893393
+SWG,F-MXE-MTY,2,Truck to Laredo border,2.0,0.5
+SWG,F-MXE-MTY,3,Border crossing + customs,3.0,2.0
+SWG,F-MXE-MTY,4,Truck to West Texas,3.0,1.0
+XFMR,F-HNC-CHW,1,Manufacturing,316.0,59.621724228673564
+XFMR,F-HNC-CHW,2,Inland to Busan,2.0,1.0
+XFMR,F-HNC-CHW,3,Origin port dwell,4.0,2.0
+XFMR,F-HNC-CHW,4,Ocean: Busan to Houston (Panama Canal),32.0,5.0
+XFMR,F-HNC-CHW,5,Houston port dwell,4.0,3.0
+XFMR,F-HNC-CHW,6,US customs clearance,3.0,2.0
+XFMR,F-HNC-CHW,7,Truck/rail to West Texas,4.0,1.5
+UPS,F-INE-VAD,1,Manufacturing,143.0,33.37289319193048
+UPS,F-INE-VAD,2,Inland to Mundra,2.0,1.0
+UPS,F-INE-VAD,3,Origin port dwell,5.0,3.0
+UPS,F-INE-VAD,4,Ocean: Mundra to Houston (Suez or Cape),38.0,9.0
+UPS,F-INE-VAD,5,Houston port dwell,4.0,3.0
+UPS,F-INE-VAD,6,US customs clearance,4.0,3.0
+UPS,F-INE-VAD,7,Truck/rail to West Texas,4.0,1.5
+GEN,F-USG-IND,1,Manufacturing / pick,337.0,49.98999899979995
+GEN,F-USG-IND,2,Truck to West Texas,3.0,1.0
+CHL,F-DEK-KOL,1,Manufacturing,244.0,39.654760117796705
+CHL,F-DEK-KOL,2,Inland to Hamburg,2.0,1.0
+CHL,F-DEK-KOL,3,Origin port dwell,3.0,1.5
+CHL,F-DEK-KOL,4,Ocean: Hamburg to Houston,20.0,3.0
+CHL,F-DEK-KOL,5,Houston port dwell,4.0,3.0
+CHL,F-DEK-KOL,6,US customs clearance,3.0,2.0
+CHL,F-DEK-KOL,7,Truck/rail to West Texas,4.0,1.5
+CRAH,F-CNA-FOS,1,Manufacturing,69.0,29.04307146291521
+CRAH,F-CNA-FOS,2,Inland to Shekou,1.0,0.5
+CRAH,F-CNA-FOS,3,Origin port dwell,4.0,2.0
+CRAH,F-CNA-FOS,4,Ocean: Shekou to Houston (Panama Canal),33.0,5.0
+CRAH,F-CNA-FOS,5,Houston port dwell,4.0,3.0
+CRAH,F-CNA-FOS,6,US customs clearance,5.0,4.0
+CRAH,F-CNA-FOS,7,Truck/rail to West Texas,4.0,1.5
+CDU,F-JPC-OSA,1,Manufacturing,105.0,24.315632831575655
+CDU,F-JPC-OSA,2,Inland to Kobe,1.0,0.5
+CDU,F-JPC-OSA,3,Origin port dwell,3.0,1.5
+CDU,F-JPC-OSA,4,Ocean: Kobe to Houston (Panama Canal),30.0,4.0
+CDU,F-JPC-OSA,5,Houston port dwell,4.0,3.0
+CDU,F-JPC-OSA,6,US customs clearance,3.0,2.0
+CDU,F-JPC-OSA,7,Truck/rail to West Texas,4.0,1.5

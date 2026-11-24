@@ -1,0 +1,11 @@
+location_id,name,tier,campus,project_id,lat,lon,capacity_m2
+HUB-ODS,Odessa regional hub (fictional),hub,,,31.846,-102.368,12000
+SUB-MESA,Mesa campus sub-store,sub-store,Mesa,,32.383,-100.858,4000
+SUB-RIDGE,Ridge campus sub-store,sub-store,Ridge,,33.124,-101.575,4000
+SUB-PLAINS,Plains campus sub-store,sub-store,Plains,,34.423,-101.797,4000
+SITE-WTX-A1,Mesa A1 site store,site,Mesa,WTX-A1,32.381,-100.862,1500
+SITE-WTX-A2,Mesa A2 site store,site,Mesa,WTX-A2,32.3858,-100.8551,1500
+SITE-WTX-B1,Ridge B1 site store,site,Ridge,WTX-B1,33.121,-101.579,1500
+SITE-WTX-B2,Ridge B2 site store,site,Ridge,WTX-B2,33.1262,-101.5718,1500
+SITE-WTX-C1,Plains C1 site store,site,Plains,WTX-C1,34.4205,-101.801,1500
+SITE-WTX-C2,Plains C2 site store,site,Plains,WTX-C2,34.4251,-101.7932,1500

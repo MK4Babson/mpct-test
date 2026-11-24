@@ -1,0 +1,15 @@
+item_id,input,tier2_supplier,country,single_source
+XFMR,Grain-oriented electrical steel (core),Pohang Electrical Steel (fictional),Korea,True
+XFMR,Copper winding wire,Ulsan Copper (fictional),Korea,False
+SWG,Vacuum interrupters,Rhine Interrupter GmbH (fictional),Germany,True
+SWG,Protection relays,Guadalajara Controls (fictional),Mexico,False
+UPS,Lithium-ion battery cells,Ningde Cells (fictional),China,True
+UPS,IGBT power modules,Kyushu Semiconductor (fictional),Japan,False
+GEN,Diesel engine block,Columbus Engine Works (fictional),USA,True
+GEN,Alternator,Monterrey Alternators (fictional),Mexico,False
+CHL,Screw compressors,Brno Compressors (fictional),Czechia,True
+CRAH,EC fans,Suzhou Fan Motors (fictional),China,False
+CDU,Plate heat exchangers,Lund Thermal (fictional),Sweden,False
+MV-500,Copper rod,Onsan Smelter (fictional),Korea,False
+PIPE-CHW,Hot-rolled coil,Hazira Steel (fictional),India,False
+BUS-4K,Aluminum bus bar,Veracruz Aluminum (fictional),Mexico,False

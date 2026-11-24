@@ -1,0 +1,15 @@
+building,sequence,year,capacity_mw,cost_per_mw,build_months,source
+Past building 1,1,2018,48.0,10607606.0,14.6,synthetic
+Past building 2,2,2018,36.0,10494824.0,14.5,synthetic
+Past building 3,3,2019,48.0,10031361.0,14.1,synthetic
+Past building 4,4,2019,24.0,9840331.0,14.1,synthetic
+Past building 5,5,2020,48.0,9437778.0,13.8,synthetic
+Past building 6,6,2020,32.0,9125897.0,14.2,synthetic
+Past building 7,7,2021,36.0,8973891.0,13.4,synthetic
+Past building 8,8,2021,48.0,9041466.0,13.5,synthetic
+Past building 9,9,2022,36.0,8589385.0,12.8,synthetic
+Past building 10,10,2022,24.0,8788408.0,12.3,synthetic
+Past building 11,11,2023,40.0,9037527.0,12.5,synthetic
+Past building 12,12,2023,40.0,8190301.0,13.4,synthetic
+Past building 13,13,2024,36.0,8280745.0,12.5,synthetic
+Past building 14,14,2024,32.0,7971144.0,12.8,synthetic

@@ -1,0 +1,11 @@
+co_id,justification,cause_category,raised_by,schedule_days_if_rejected,source
+CO-AMB-01,Extra item: drainage syphon at Basdiha Dy. RD 14.20 km (new village drain). Acceleration costs for fire stopping to meet our recovery schedule.,Acceleration not directed,Contractor,30,synthetic
+CO-AMB-02,Substituted item: M20 lining in lieu of M15 at aqueduct approaches. Extra chiller pads for coordination with other trades.,Already in base scope,Contractor,30,synthetic
+CO-AMB-03,Excess quantity: earthwork filling in Mahuary Sub Dy. breach reach (beyond 25%). Authority having jurisdiction required cable tray supports at inspection 919.,Code / authority requirement,Contractor,15,synthetic
+CO-NAB-01,Extra item: breach closure of Ruir Branch Canal at RD 18.60 km. Utility interconnection requirement changed; seismic bracing mandated by the utility.,Code / authority requirement,Contractor,0,synthetic
+CO-NAB-02,Extra item: 24 additional outlets on village demand. Differing site condition: groundwater at column line 14 not shown in the geotechnical baseline.,Unforeseen site condition,Contractor,20,synthetic
+CO-AUR-01,"Substituted item: RCC NP3 900 mm pipes in lieu of 600 mm at 2 pipe culverts. Owner directed revision per RFI-904 and revised drawing E-166, rev 2.",Owner design change,Contractor,30,synthetic
+CO-AUR-02,Extra item: retaining wall at Deo MR. near habitation. Crew productivity lower than planned; extra hours for fire stopping.,Contractor productivity / rework,Contractor,30,synthetic
+CO-AUR-03,Excess quantity: CNS layer in Sondih-III black-cotton reach. Extra condenser water branch for coordination with other trades.,Already in base scope,Contractor,10,synthetic
+CO-MAD-01,Extra item: well-point dewatering at Kotwara Dy. RD 22-24 km. Utility interconnection requirement changed; cable tray supports mandated by the utility.,Code / authority requirement,Contractor,0,synthetic
+CO-MAD-02,Substituted item: manual lining in narrow minors in lieu of paver lining. Utility interconnection requirement changed; cable tray supports mandated by the utility.,Code / authority requirement,Contractor,10,synthetic

@@ -1,0 +1,7 @@
+project_id,campus,scale,start,short_name,latitude,longitude,location,structure,project_name
+WTX-A1,Mesa Campus (fictional),1.0,0,Mesa A1,32.381,-100.862,"Mesa Campus, West Texas, USA (illustrative location)",datacenter,Hyperscale data center building A1
+WTX-A2,Mesa Campus (fictional),0.85,0,Mesa A2,32.3858,-100.8551,"Mesa Campus, West Texas, USA (illustrative location)",datacenter,Hyperscale data center building A2
+WTX-B1,Ridge Campus (fictional),1.15,1,Ridge B1,33.121,-101.579,"Ridge Campus, West Texas, USA (illustrative location)",datacenter,Hyperscale data center building B1
+WTX-B2,Ridge Campus (fictional),0.9,2,Ridge B2,33.1262,-101.5718,"Ridge Campus, West Texas, USA (illustrative location)",datacenter,Hyperscale data center building B2
+WTX-C1,Plains Campus (fictional),1.05,3,Plains C1,34.4205,-101.801,"Plains Campus, West Texas, USA (illustrative location)",datacenter,Hyperscale data center building C1
+WTX-C2,Plains Campus (fictional),0.8,4,Plains C2,34.4251,-101.7932,"Plains Campus, West Texas, USA (illustrative location)",datacenter,Hyperscale data center building C2

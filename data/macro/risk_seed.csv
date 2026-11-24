@@ -1,0 +1,71 @@
+origin,driver,likelihood
+USA,Labor & demographics,2
+USA,Energy & raw materials,1
+USA,Export policy (origin country),1
+USA,Import policy (US tariffs),1
+USA,Currency & macro,1
+USA,Logistics chokepoints,1
+USA,Natural hazards & climate,2
+USA,Geopolitics & sanctions,1
+USA,Concentration (single source),2
+USA,Quality & compliance,1
+Mexico,Labor & demographics,1
+Mexico,Energy & raw materials,2
+Mexico,Export policy (origin country),1
+Mexico,Import policy (US tariffs),2
+Mexico,Currency & macro,2
+Mexico,Logistics chokepoints,1
+Mexico,Natural hazards & climate,1
+Mexico,Geopolitics & sanctions,1
+Mexico,Concentration (single source),2
+Mexico,Quality & compliance,1
+India,Labor & demographics,1
+India,Energy & raw materials,2
+India,Export policy (origin country),3
+India,Import policy (US tariffs),3
+India,Currency & macro,2
+India,Logistics chokepoints,2
+India,Natural hazards & climate,2
+India,Geopolitics & sanctions,1
+India,Concentration (single source),2
+India,Quality & compliance,2
+Korea,Labor & demographics,2
+Korea,Energy & raw materials,1
+Korea,Export policy (origin country),1
+Korea,Import policy (US tariffs),2
+Korea,Currency & macro,2
+Korea,Logistics chokepoints,2
+Korea,Natural hazards & climate,1
+Korea,Geopolitics & sanctions,1
+Korea,Concentration (single source),3
+Korea,Quality & compliance,1
+Germany,Labor & demographics,2
+Germany,Energy & raw materials,2
+Germany,Export policy (origin country),1
+Germany,Import policy (US tariffs),1
+Germany,Currency & macro,2
+Germany,Logistics chokepoints,2
+Germany,Natural hazards & climate,1
+Germany,Geopolitics & sanctions,1
+Germany,Concentration (single source),2
+Germany,Quality & compliance,1
+China,Labor & demographics,1
+China,Energy & raw materials,1
+China,Export policy (origin country),3
+China,Import policy (US tariffs),3
+China,Currency & macro,2
+China,Logistics chokepoints,2
+China,Natural hazards & climate,1
+China,Geopolitics & sanctions,3
+China,Concentration (single source),2
+China,Quality & compliance,2
+Japan,Labor & demographics,3
+Japan,Energy & raw materials,2
+Japan,Export policy (origin country),1
+Japan,Import policy (US tariffs),1
+Japan,Currency & macro,2
+Japan,Logistics chokepoints,2
+Japan,Natural hazards & climate,2
+Japan,Geopolitics & sanctions,1
+Japan,Concentration (single source),2
+Japan,Quality & compliance,1

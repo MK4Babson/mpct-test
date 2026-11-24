@@ -1,0 +1,20 @@
+item_id,name,family,unit,alt_unit,alt_per_unit,unit_cost_usd,qty_per_building,task_id,origin,currency,supplier_id,lead_days,lead_sd,shelf_life_days,flow,lot_size,storage_rate,critical,lead_time_reviewed
+CEM-OPC,Portland cement Type I/II,Concrete,t,bag (50 kg),20.0,165.0,4500,A05,USA,USD,SUP-TXC,5,2,90,hub,600,0.04,False,2026-06-30
+AGG-57,No. 57 crushed aggregate,Concrete,t,,1.0,28.0,9000,A05,USA,USD,SUP-PBA,3,1,9999,direct,1500,0.02,False,2026-06-30
+RBR-5,Rebar #5 Grade 60,Steel,t,,1.0,1150.0,1400,A05,USA,USD,SUP-SWM,21,7,9999,hub,250,0.03,False,2026-06-30
+STL-W,Structural steel W-shapes,Steel,t,,1.0,2400.0,3200,A07,USA,USD,SUP-SWM,60,15,9999,direct,800,0.03,False,2026-06-30
+CT-24,Cable tray 24 in ladder,Electrical,ft,,1.0,30.0,18000,A10,USA,USD,SUP-GCE,30,8,9999,hub,6000,0.03,False,2026-06-30
+MV-500,MV cable 15 kV 500 kcmil,Electrical,ft,"reel (2,500 ft)",0.0004,22.0,42000,A11,Korea,KRW,SUP-HNC,70,20,9999,hub,15000,0.03,False,2026-06-30
+CND-4,Conduit 4 in PVC Sch 40,Electrical,ft,,1.0,4.0,30000,A09,USA,USD,SUP-GCE,10,3,9999,hub,10000,0.03,False,2026-06-30
+LV-CU,LV copper building wire,Electrical,ft,,1.0,2.5,120000,A11,USA,USD,SUP-GCE,21,6,9999,hub,40000,0.03,False,2026-06-30
+BUS-4K,Busway 4000 A,Electrical,ft,,1.0,450.0,1500,A12,Mexico,MXN,SUP-MXE,56,14,9999,hub,500,0.03,False,2026-06-30
+PIPE-CHW,"Steel pipe, chilled water (ERW)",Mechanical,ft,,1.0,95.0,9000,A20,India,INR,SUP-INS,75,25,9999,hub,3000,0.03,False,2025-03-31
+DUCT,Galvanized ductwork,Mechanical,lb,,1.0,3.2,60000,A22,USA,USD,SUP-GCE,14,4,9999,hub,20000,0.03,False,2026-06-30
+SWG,MV switchgear lineup,Equipment,ea,,1.0,420000.0,8,A14,Mexico,USD,SUP-MXE,300,45,9999,direct,8,0.02,True,2026-06-30
+XFMR,Transformer 2.5 MVA pad-mount,Equipment,ea,,1.0,380000.0,8,A14,Korea,KRW,SUP-HNC,365,60,9999,direct,8,0.02,True,2026-06-30
+UPS,UPS module 1.2 MW,Equipment,ea,,1.0,260000.0,16,A15,India,INR,SUP-INE,200,35,9999,direct,16,0.02,True,2026-06-30
+GEN,Diesel generator 3 MW,Equipment,ea,,1.0,1400000.0,8,A17,USA,USD,SUP-USG,340,50,9999,direct,8,0.02,True,2026-06-30
+CHL,Air-cooled chiller 500 ton,Equipment,ea,,1.0,450000.0,10,A19,Germany,EUR,SUP-DEK,280,40,9999,direct,10,0.02,True,2026-06-30
+CRAH,CRAH unit 150 kW,Equipment,ea,,1.0,45000.0,40,A23,China,CNY,SUP-CNA,120,30,9999,direct,40,0.02,False,2026-06-30
+CDU,Coolant distribution unit,Equipment,ea,,1.0,90000.0,24,A24,Japan,JPY,SUP-JPC,150,25,9999,direct,24,0.02,False,2026-06-30
+CEM-OPC-B,Cement OPC Type I-II,Concrete,t,bag (50 kg),20.0,165.0,4500,A05,USA,USD,SUP-TXC,5,2,90,hub,600,0.04,False,2026-06-30

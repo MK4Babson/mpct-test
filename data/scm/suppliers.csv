@@ -1,0 +1,13 @@
+supplier_id,name,country,currency,incoterm,payment_days
+SUP-TXC,Lone Star Cement (fictional),USA,USD,DAP site,30
+SUP-PBA,Permian Basin Aggregates (fictional),USA,USD,DAP site,30
+SUP-SWM,Southwest Mill & Fab (fictional),USA,USD,FCA mill,45
+SUP-GCE,Gulf Coast Electrical Supply (fictional),USA,USD,DAP hub,45
+SUP-HNC,Hanbit Cable & Power (fictional),Korea,KRW,FOB Busan,60
+SUP-MXE,Monterrey Electro (fictional),Mexico,MXN,FCA Monterrey,45
+SUP-INS,Deccan Steel Tubes (fictional),India,INR,FOB Mundra,60
+SUP-INE,Narmada Power Systems (fictional),India,INR,FOB Nhava Sheva,60
+SUP-USG,Prairie Power Generation (fictional),USA,USD,DAP site,30
+SUP-DEK,Rheinland Kaeltetechnik (fictional),Germany,EUR,FOB Hamburg,60
+SUP-CNA,Pearl River Air Systems (fictional),China,CNY,FOB Shenzhen,60
+SUP-JPC,Kansai Coolant Systems (fictional),Japan,JPY,FOB Kobe,60

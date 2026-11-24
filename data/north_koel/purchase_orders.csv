@@ -1,0 +1,5 @@
+po_id,project_id,prime_id,retainage_rate,contract_type
+AGR-AMB-2026-01,NK-AMB,CON-SVI,0.025,Percentage rate (item BOQ)
+AGR-NAB-2026-01,NK-NAB,CON-MIB,0.025,Percentage rate (item BOQ)
+AGR-AUR-2026-01,NK-AUR,CON-KCC,0.025,Percentage rate (item BOQ)
+AGR-MAD-2026-01,NK-MAD,CON-PWL,0.025,Percentage rate (item BOQ)

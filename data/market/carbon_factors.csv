@@ -1,0 +1,13 @@
+item_code,unit,kg_per_unit,kgco2e_per_kg,material,basis,kgco2e_per_unit,source
+E-101,LF,4.5,1.55,Steel (galvanized tray),~4.5 kg/ft for 24in ladder tray; ICE-style steel section factor,6.975,approximate generic cradle-to-gate (A1-A3) factors in the style of the ICE database; replace with product EPDs
+E-102,LF,2.2,3.81,Copper + insulation,~2.2 kg/ft for 500kcmil Cu cable; copper ~3.8 kgCO2e/kg (primary-heavy mix),8.382,approximate generic cradle-to-gate (A1-A3) factors in the style of the ICE database; replace with product EPDs
+E-103,LF,4.9,1.55,Steel (RGS conduit),~4.9 kg/ft for 4in rigid steel conduit,7.595,approximate generic cradle-to-gate (A1-A3) factors in the style of the ICE database; replace with product EPDs
+E-104,LF,45.0,3.0,Copper/aluminium busbar,~45 kg/ft for 4000A busway; blended Cu/Al factor,135.0,approximate generic cradle-to-gate (A1-A3) factors in the style of the ICE database; replace with product EPDs
+C-302,CY,1835.0,0.13,Concrete (RC 32/40),"2,400 kg/m3 x 0.7646 m3/CY; ICE-style ~0.13 kgCO2e/kg",238.55,approximate generic cradle-to-gate (A1-A3) factors in the style of the ICE database; replace with product EPDs
+C-303,TON,907.2,1.99,Reinforcing steel,short ton; ICE v3-style rebar ~1.99 kgCO2e/kg (world average),1805.328,approximate generic cradle-to-gate (A1-A3) factors in the style of the ICE database; replace with product EPDs
+C-304,SY,150.0,0.0052,Crushed aggregate,~150 kg/SY at 6in; aggregate ~0.005 kgCO2e/kg,0.78,approximate generic cradle-to-gate (A1-A3) factors in the style of the ICE database; replace with product EPDs
+C-305,LF,360.0,0.13,Precast concrete pipe,~360 kg/ft for 36in RCP,46.8,approximate generic cradle-to-gate (A1-A3) factors in the style of the ICE database; replace with product EPDs
+C-306,LF,600.0,0.13,Concrete encasement,~0.33 m3/ft encasement,78.0,approximate generic cradle-to-gate (A1-A3) factors in the style of the ICE database; replace with product EPDs
+M-201,LF,74.0,1.55,Steel pipe,12in Sch 40 ~74 kg/ft,114.7,approximate generic cradle-to-gate (A1-A3) factors in the style of the ICE database; replace with product EPDs
+M-202,LF,43.0,1.55,Steel pipe,8in Sch 40 ~43 kg/ft,66.65,approximate generic cradle-to-gate (A1-A3) factors in the style of the ICE database; replace with product EPDs
+M-206,LB,0.4536,2.76,Galvanized sheet steel,per lb of ductwork; galvanized sheet ~2.8 kgCO2e/kg,1.252,approximate generic cradle-to-gate (A1-A3) factors in the style of the ICE database; replace with product EPDs

@@ -1,0 +1,11 @@
+co_id,po_id,status,approval_period,co_qty,co_unit_rate,co_amount,description
+CO-AMB-01,AGR-AMB-2026-01,APPROVED,2026-04,1,50987.37,50987.37,Extra item: drainage syphon at Basdiha Dy. RD 14.20 km (new village drain)
+CO-AMB-02,AGR-AMB-2026-01,APPROVED,2026-05,180,73.05,13149.0,Substituted item: M20 lining in lieu of M15 at aqueduct approaches
+CO-AMB-03,AGR-AMB-2026-01,PENDING,,9500,3.04,28880.0,Excess quantity: earthwork filling in Mahuary Sub Dy. breach reach (beyond 25%)
+CO-NAB-01,AGR-NAB-2026-01,APPROVED,2026-05,1,18341.05,18341.05,Extra item: breach closure of Ruir Branch Canal at RD 18.60 km
+CO-NAB-02,AGR-NAB-2026-01,PENDING,,24,427.96,10271.04,Extra item: 24 additional outlets on village demand
+CO-AUR-01,AGR-AUR-2026-01,APPROVED,2026-04,2,7372.11,14744.22,Substituted item: RCC NP3 900 mm pipes in lieu of 600 mm at 2 pipe culverts
+CO-AUR-02,AGR-AUR-2026-01,REJECTED,,1,15598.95,15598.95,Extra item: retaining wall at Deo MR. near habitation
+CO-AUR-03,AGR-AUR-2026-01,PENDING,,2400,5.56,13344.0,Excess quantity: CNS layer in Sondih-III black-cotton reach
+CO-MAD-01,AGR-MAD-2026-01,PENDING,,1,25151.58,25151.58,Extra item: well-point dewatering at Kotwara Dy. RD 22-24 km
+CO-MAD-02,AGR-MAD-2026-01,APPROVED,2026-05,420,60.94,25594.8,Substituted item: manual lining in narrow minors in lieu of paver lining

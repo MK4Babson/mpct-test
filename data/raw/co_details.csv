@@ -1,0 +1,52 @@
+co_id,justification,cause_category,raised_by,schedule_days_if_rejected,source
+CO-WTX-A1-E-01,Overtime premium to recover schedule on rebar dowels.,Acceleration not directed,Contractor,5,synthetic
+CO-WTX-A1-E-02,Scope added at owner request to support increased rack density; see ASI-771.,Owner design change,Contractor,0,synthetic
+CO-WTX-A1-E-03,Design change issued by the owner's engineer: added duct bank encasement per bulletin 100.,Owner design change,Owner,10,synthetic
+CO-WTX-A1-M-01,Buried utility not shown on survey found at column line 14; relocation required.,Unforeseen site condition,Owner,30,synthetic
+CO-WTX-A1-M-02,Buried utility not shown on survey found at the switchyard; relocation required.,Unforeseen site condition,Contractor,30,synthetic
+CO-WTX-A1-C-01,Buried utility not shown on survey found at the north utility yard; relocation required.,Unforeseen site condition,Owner,15,synthetic
+CO-WTX-A1-C-02,Authority having jurisdiction required chiller pads at inspection 213.,Code / authority requirement,Owner,0,synthetic
+CO-WTX-A1-C-03,Differing site condition: groundwater at grid line C-7 not shown in the geotechnical baseline.,Unforeseen site condition,Contractor,0,synthetic
+CO-WTX-A1-C-04,Authority having jurisdiction required seismic bracing at inspection 360.,Code / authority requirement,Contractor,30,synthetic
+CO-WTX-A2-E-01,Extra fire stopping for coordination with other trades.,Already in base scope,Contractor,30,synthetic
+CO-WTX-A2-E-02,Design change issued by the owner's engineer: added grounding conductors per bulletin 544.,Owner design change,Owner,30,synthetic
+CO-WTX-A2-M-01,Additional conduit runs needed to complete the system as installed.,Already in base scope,Contractor,20,synthetic
+CO-WTX-A2-M-02,Design change issued by the owner's engineer: added cable tray supports per bulletin 943.,Owner design change,Contractor,30,synthetic
+CO-WTX-A2-M-03,Buried utility not shown on survey found at column line 14; relocation required.,Unforeseen site condition,Designer,20,synthetic
+CO-WTX-A2-C-01,Unforeseen subsurface rock encountered at the MEP corridor; geotech report 430 attached.,Unforeseen site condition,Designer,5,synthetic
+CO-WTX-A2-C-02,Design change issued by the owner's engineer: added seismic bracing per bulletin 139.,Owner design change,Owner,0,synthetic
+CO-WTX-A2-C-03,Re-installation of cable tray supports after failed inspection.,Contractor productivity / rework,Contractor,5,synthetic
+CO-WTX-A2-C-04,Unforeseen subsurface rock encountered at electrical room 2; geotech report 525 attached.,Unforeseen site condition,Contractor,15,synthetic
+CO-WTX-B1-E-01,Acceleration costs for condenser water branch to meet our recovery schedule.,Acceleration not directed,Contractor,0,synthetic
+CO-WTX-B1-E-02,Acceleration costs for rebar dowels to meet our recovery schedule.,Acceleration not directed,Contractor,30,synthetic
+CO-WTX-B1-M-01,Crew productivity lower than planned; extra hours for grounding conductors.,Contractor productivity / rework,Contractor,0,synthetic
+CO-WTX-B1-M-02,Fire marshal comment 413 requires grounding conductors.,Code / authority requirement,Contractor,30,synthetic
+CO-WTX-B1-C-01,Acceleration costs for duct bank encasement to meet our recovery schedule.,Acceleration not directed,Contractor,15,synthetic
+CO-WTX-B1-C-02,Authority having jurisdiction required conduit runs at inspection 568.,Code / authority requirement,Owner,15,synthetic
+CO-WTX-B1-C-03,Design change issued by the owner's engineer: added chiller pads per bulletin 350.,Owner design change,Contractor,0,synthetic
+CO-WTX-B1-C-04,Unforeseen subsurface rock encountered at column line 14; geotech report 151 attached.,Unforeseen site condition,Owner,5,synthetic
+CO-WTX-B2-E-01,Design change issued by the owner's engineer: added grounding conductors per bulletin 571.,Owner design change,Contractor,0,synthetic
+CO-WTX-B2-E-02,Scope clarification: conduit runs required for a complete installation.,Already in base scope,Contractor,0,synthetic
+CO-WTX-B2-E-03,Unforeseen subsurface rock encountered at the MEP corridor; geotech report 324 attached.,Unforeseen site condition,Contractor,10,synthetic
+CO-WTX-B2-E-04,Scope added at owner request to support increased rack density; see ASI-603.,Owner design change,Contractor,0,synthetic
+CO-WTX-B2-M-01,Scope added at owner request to support increased rack density; see ASI-386.,Owner design change,Contractor,5,synthetic
+CO-WTX-B2-M-02,Fire marshal comment 741 requires seismic bracing.,Code / authority requirement,Contractor,30,synthetic
+CO-WTX-B2-M-03,Scope added at owner request to support increased rack density; see ASI-960.,Owner design change,Owner,0,synthetic
+CO-WTX-B2-M-04,Authority having jurisdiction required duct bank encasement at inspection 753.,Code / authority requirement,Contractor,0,synthetic
+CO-WTX-B2-C-01,Additional labor required due to rework of conduit runs at column line 14.,Contractor productivity / rework,Contractor,0,synthetic
+CO-WTX-B2-C-02,Re-installation of rebar dowels after failed inspection.,Contractor productivity / rework,Contractor,0,synthetic
+CO-WTX-C1-E-01,Authority having jurisdiction required cable tray supports at inspection 954.,Code / authority requirement,Owner,0,synthetic
+CO-WTX-C1-E-02,Unforeseen subsurface rock encountered at the switchyard; geotech report 243 attached.,Unforeseen site condition,Contractor,0,synthetic
+CO-WTX-C1-M-01,Authority having jurisdiction required pipe hangers at inspection 620.,Code / authority requirement,Owner,5,synthetic
+CO-WTX-C1-M-02,Scope clarification: pipe hangers required for a complete installation.,Already in base scope,Contractor,20,synthetic
+CO-WTX-C1-C-01,Acceleration costs for pipe hangers to meet our recovery schedule.,Acceleration not directed,Contractor,0,synthetic
+CO-WTX-C1-C-02,Authority having jurisdiction required duct bank encasement at inspection 738.,Code / authority requirement,Contractor,20,synthetic
+CO-WTX-C1-C-03,Fire marshal comment 743 requires pipe hangers.,Code / authority requirement,Contractor,15,synthetic
+CO-WTX-C1-C-04,Differing site condition: groundwater at column line 14 not shown in the geotechnical baseline.,Unforeseen site condition,Contractor,5,synthetic
+CO-WTX-C2-E-01,Additional labor required due to rework of pipe hangers at electrical room 2.,Contractor productivity / rework,Contractor,30,synthetic
+CO-WTX-C2-E-02,"Owner directed revision per RFI-679 and revised drawing E-654, rev 1.",Owner design change,Contractor,0,synthetic
+CO-WTX-C2-E-03,Buried utility not shown on survey found at electrical room 2; relocation required.,Unforeseen site condition,Contractor,10,synthetic
+CO-WTX-C2-M-01,Added second shift to maintain milestone dates for grounding conductors.,Acceleration not directed,Contractor,0,synthetic
+CO-WTX-C2-M-02,Re-installation of fire stopping after failed inspection.,Contractor productivity / rework,Contractor,20,synthetic
+CO-WTX-C2-C-01,Scope added at owner request to support increased rack density; see ASI-549.,Owner design change,Contractor,15,synthetic
+CO-WTX-C2-C-02,Fire marshal comment 474 requires pipe hangers.,Code / authority requirement,Designer,0,synthetic

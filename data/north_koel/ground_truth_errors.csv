@@ -1,0 +1,15 @@
+invoice_id,line_no,error_type,overbilled_amount,note,subtle
+RA-AMB-03,17.0,QTY_OVER_RECEIPT,28083.11,Lining billed ~10% above jointly measured MB quantity,False
+RA-AMB-02,42.0,PCT_COMPLETE_OVERBILL,9286.78,Mobilization claimed 100% while Engineer-in-Charge certified 85%,False
+RA-NAB-02,7.0,RATE_OVER_CONTRACT,3273.54,"Billed at estimate (SOR) rate, not the tendered rate (3.20% below)",False
+RA-NAB-02,17.0,RATE_OVER_CONTRACT,6755.13,"Billed at estimate (SOR) rate, not the tendered rate (3.20% below)",False
+RA-NAB-02,16.0,RATE_OVER_CONTRACT,771.94,"Billed at estimate (SOR) rate, not the tendered rate (3.20% below)",False
+RA-AUR-03,43.0,UNAPPROVED_CO,15598.95,Billed a change order that was REJECTED,False
+RA-AUR-04,19.0,EXTENSION_ERROR,568.42,Amount does not equal qty x rate (digit transposition),False
+RA-AUR-02,43.0,TM_OVER_APPROVED,994.84,Day-work hours billed above the pre-approved 100 hours,False
+RA-MAD-04,39.0,UNAPPROVED_CO,25151.58,Billed a change order still PENDING approval,False
+RA-MAD-05,7.0,QTY_OVER_RECEIPT,4928.1,Earthwork filling billed 6.5% above MB,False
+RA-MAD-05,28.0,QTY_OVER_RECEIPT,4256.8,Two more fall repairs billed than recorded complete in MB,False
+RA-MAD-03,6.0,QTY_OVER_RECEIPT,503.07,SUBTLE: excavation billed 1.2% above MB (below the 1.5% default tolerance),True
+RA-NAB-04,,RETAINAGE_ERROR,5068.44,Retention deducted at 2.0% instead of 2.5%,False
+RA-MAD-01R,,DUPLICATE_INVOICE,208925.86,Same RA bill resubmitted as 'Revised' with identical amount,False

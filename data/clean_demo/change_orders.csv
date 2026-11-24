@@ -1,0 +1,52 @@
+co_id,po_id,project_id,prime_id,base_item_code,description,unit,co_qty,co_unit_rate,co_amount,status,approval_period
+CO-WTX-A1-E-01,PO-WTX-A1-E,WTX-A1,PRM-E,E-101,"Added scope: Cable tray 24in ladder, installed",LF,2055.0,69.79,143418.45,APPROVED,2026-04
+CO-WTX-A1-E-02,PO-WTX-A1-E,WTX-A1,PRM-E,E-103,"Added scope: Conduit 4in PVC-coated RGS, installed",LF,1513.0,80.4,121645.2,PENDING,
+CO-WTX-A1-E-03,PO-WTX-A1-E,WTX-A1,PRM-E,E-104,"Added scope: Busway 4000A, installed",LF,290.0,1283.19,372125.1,APPROVED,2026-05
+CO-WTX-A1-M-01,PO-WTX-A1-M,WTX-A1,PRM-M,M-201,Added scope: Chilled water pipe 12in welded steel,LF,1290.0,352.26,454415.4,APPROVED,2026-03
+CO-WTX-A1-M-02,PO-WTX-A1-M,WTX-A1,PRM-M,M-202,Added scope: Process/condenser pipe 8in,LF,1297.0,211.44,274237.68,APPROVED,2026-03
+CO-WTX-A1-M-03,PO-WTX-A1-M,WTX-A1,PRM-M,M-206,Added scope: Galvanized ductwork,LB,11784.0,16.57,195260.88,APPROVED,2026-05
+CO-WTX-A1-C-01,PO-WTX-A1-C,WTX-A1,PRM-C,C-303,Added scope: Reinforcing steel,TON,452.7,2342.23,1060327.52,APPROVED,2026-05
+CO-WTX-A1-C-02,PO-WTX-A1-C,WTX-A1,PRM-C,C-302,Added scope: Structural concrete - foundations,CY,2961.0,459.54,1360697.94,APPROVED,2026-03
+CO-WTX-A1-C-03,PO-WTX-A1-C,WTX-A1,PRM-C,C-303,Added scope: Reinforcing steel,TON,500.0,2402.7,1201350.0,APPROVED,2026-03
+CO-WTX-A1-C-04,PO-WTX-A1-C,WTX-A1,PRM-C,C-304,Added scope: Aggregate base course,SY,18539.0,18.88,350016.32,PENDING,
+CO-WTX-A2-E-01,PO-WTX-A2-E,WTX-A2,PRM-E,E-105,Added scope: Switchgear lineup - set and terminate,EA,2.0,41315.69,82631.38,APPROVED,2026-02
+CO-WTX-A2-E-02,PO-WTX-A2-E,WTX-A2,PRM-E,E-106,Added scope: UPS module - set and terminate,EA,2.0,22295.44,44590.88,REJECTED,
+CO-WTX-A2-E-03,PO-WTX-A2-E,WTX-A2,PRM-E,E-107,Added scope: Generator set - place and terminate,EA,1.0,66464.24,66464.24,APPROVED,2026-04
+CO-WTX-A2-E-04,PO-WTX-A2-E,WTX-A2,PRM-E,E-101,"Added scope: Cable tray 24in ladder, installed",LF,843.0,64.38,54272.34,APPROVED,2026-05
+CO-WTX-A2-M-01,PO-WTX-A2-M,WTX-A2,PRM-M,M-206,Added scope: Galvanized ductwork,LB,8881.0,15.25,135435.25,APPROVED,2026-03
+CO-WTX-A2-M-02,PO-WTX-A2-M,WTX-A2,PRM-M,M-204,Added scope: Air-cooled chiller - set/connect,EA,3.0,51695.04,155085.12,APPROVED,2026-05
+CO-WTX-A2-C-01,PO-WTX-A2-C,WTX-A2,PRM-C,C-304,Added scope: Aggregate base course,SY,6133.0,20.36,124867.88,APPROVED,2026-04
+CO-WTX-A2-C-02,PO-WTX-A2-C,WTX-A2,PRM-C,C-304,Added scope: Aggregate base course,SY,8225.0,21.45,176426.25,PENDING,
+CO-WTX-B1-E-01,PO-WTX-B1-E,WTX-B1,PRM-E,E-104,"Added scope: Busway 4000A, installed",LF,167.0,1322.18,220804.06,APPROVED,2026-06
+CO-WTX-B1-E-02,PO-WTX-B1-E,WTX-B1,PRM-E,E-103,"Added scope: Conduit 4in PVC-coated RGS, installed",LF,1318.0,83.96,110659.28,APPROVED,2026-05
+CO-WTX-B1-M-01,PO-WTX-B1-M,WTX-B1,PRM-M,M-206,Added scope: Galvanized ductwork,LB,29885.0,14.85,443792.25,PENDING,
+CO-WTX-B1-M-02,PO-WTX-B1-M,WTX-B1,PRM-M,M-203,Added scope: Coolant distribution unit (CDU) - set/connect,EA,11.0,14995.88,164954.68,APPROVED,2026-03
+CO-WTX-B1-C-01,PO-WTX-B1-C,WTX-B1,PRM-C,C-302,Added scope: Structural concrete - foundations,CY,5192.0,527.4,2738260.8,APPROVED,2026-03
+CO-WTX-B1-C-02,PO-WTX-B1-C,WTX-B1,PRM-C,C-306,Added scope: Concrete-encased duct bank,LF,906.0,264.57,239700.42,PENDING,
+CO-WTX-B2-E-01,PO-WTX-B2-E,WTX-B2,PRM-E,E-104,"Added scope: Busway 4000A, installed",LF,238.0,1158.77,275787.26,APPROVED,2026-04
+CO-WTX-B2-E-02,PO-WTX-B2-E,WTX-B2,PRM-E,E-104,"Added scope: Busway 4000A, installed",LF,329.0,1166.69,383841.01,APPROVED,2026-06
+CO-WTX-B2-E-03,PO-WTX-B2-E,WTX-B2,PRM-E,E-102,"Added scope: MV cable 15kV 500kcmil, installed",LF,2239.0,49.79,111479.81,APPROVED,2026-04
+CO-WTX-B2-M-01,PO-WTX-B2-M,WTX-B2,PRM-M,M-203,Added scope: Coolant distribution unit (CDU) - set/connect,EA,10.0,16009.78,160097.8,APPROVED,2026-07
+CO-WTX-B2-M-02,PO-WTX-B2-M,WTX-B2,PRM-M,M-203,Added scope: Coolant distribution unit (CDU) - set/connect,EA,11.0,16004.03,176044.33,APPROVED,2026-05
+CO-WTX-B2-M-03,PO-WTX-B2-M,WTX-B2,PRM-M,M-206,Added scope: Galvanized ductwork,LB,22617.0,16.89,382001.13,APPROVED,2026-04
+CO-WTX-B2-C-01,PO-WTX-B2-C,WTX-B2,PRM-C,C-306,Added scope: Concrete-encased duct bank,LF,1000.0,249.43,249430.0,APPROVED,2026-06
+CO-WTX-B2-C-02,PO-WTX-B2-C,WTX-B2,PRM-C,C-302,Added scope: Structural concrete - foundations,CY,3077.0,479.81,1476375.37,PENDING,
+CO-WTX-B2-C-03,PO-WTX-B2-C,WTX-B2,PRM-C,C-301,Added scope: Mass excavation,CY,23380.0,9.53,222811.4,APPROVED,2026-06
+CO-WTX-B2-C-04,PO-WTX-B2-C,WTX-B2,PRM-C,C-306,Added scope: Concrete-encased duct bank,LF,510.0,247.01,125975.1,PENDING,
+CO-WTX-C1-E-01,PO-WTX-C1-E,WTX-C1,PRM-E,E-107,Added scope: Generator set - place and terminate,EA,3.0,66783.35,200350.05,APPROVED,2026-07
+CO-WTX-C1-E-02,PO-WTX-C1-E,WTX-C1,PRM-E,E-105,Added scope: Switchgear lineup - set and terminate,EA,2.0,38975.98,77951.96,APPROVED,2026-06
+CO-WTX-C1-E-03,PO-WTX-C1-E,WTX-C1,PRM-E,E-103,"Added scope: Conduit 4in PVC-coated RGS, installed",LF,2878.0,73.33,211043.74,APPROVED,2026-05
+CO-WTX-C1-M-01,PO-WTX-C1-M,WTX-C1,PRM-M,M-206,Added scope: Galvanized ductwork,LB,29992.0,14.91,447180.72,APPROVED,2026-05
+CO-WTX-C1-M-02,PO-WTX-C1-M,WTX-C1,PRM-M,M-203,Added scope: Coolant distribution unit (CDU) - set/connect,EA,11.0,14250.42,156754.62,APPROVED,2026-05
+CO-WTX-C1-M-03,PO-WTX-C1-M,WTX-C1,PRM-M,M-205,Added scope: CRAH unit - set/connect,EA,19.0,9871.39,187556.41,APPROVED,2026-07
+CO-WTX-C1-C-01,PO-WTX-C1-C,WTX-C1,PRM-C,C-306,Added scope: Concrete-encased duct bank,LF,1287.0,245.48,315932.76,REJECTED,
+CO-WTX-C1-C-02,PO-WTX-C1-C,WTX-C1,PRM-C,C-301,Added scope: Mass excavation,CY,29508.0,9.63,284162.04,REJECTED,
+CO-WTX-C2-E-01,PO-WTX-C2-E,WTX-C2,PRM-E,E-102,"Added scope: MV cable 15kV 500kcmil, installed",LF,3196.0,51.43,164370.28,APPROVED,2026-08
+CO-WTX-C2-E-02,PO-WTX-C2-E,WTX-C2,PRM-E,E-101,"Added scope: Cable tray 24in ladder, installed",LF,689.0,61.69,42504.41,REJECTED,
+CO-WTX-C2-E-03,PO-WTX-C2-E,WTX-C2,PRM-E,E-102,"Added scope: MV cable 15kV 500kcmil, installed",LF,3610.0,48.04,173424.4,PENDING,
+CO-WTX-C2-E-04,PO-WTX-C2-E,WTX-C2,PRM-E,E-101,"Added scope: Cable tray 24in ladder, installed",LF,925.0,62.33,57655.25,APPROVED,2026-08
+CO-WTX-C2-M-01,PO-WTX-C2-M,WTX-C2,PRM-M,M-201,Added scope: Chilled water pipe 12in welded steel,LF,1303.0,331.02,431319.06,APPROVED,2026-06
+CO-WTX-C2-M-02,PO-WTX-C2-M,WTX-C2,PRM-M,M-201,Added scope: Chilled water pipe 12in welded steel,LF,1253.0,338.22,423789.66,APPROVED,2026-08
+CO-WTX-C2-M-03,PO-WTX-C2-M,WTX-C2,PRM-M,M-202,Added scope: Process/condenser pipe 8in,LF,866.0,206.35,178699.1,REJECTED,
+CO-WTX-C2-C-01,PO-WTX-C2-C,WTX-C2,PRM-C,C-302,Added scope: Structural concrete - foundations,CY,1599.0,464.89,743359.11,PENDING,
+CO-WTX-C2-C-02,PO-WTX-C2-C,WTX-C2,PRM-C,C-305,Added scope: Storm drain pipe 36in RCP,LF,788.0,170.81,134598.28,PENDING,

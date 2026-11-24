@@ -1,0 +1,14 @@
+factory_id,supplier_id,factory,city,country,lat,lon,items,capacity_note
+F-TXC-MID,SUP-TXC,Kiln 2,"Midlothian, TX",USA,32.48,-96.99,CEM-OPC,"cement kiln, ~90,000 t/month"
+F-PBA-BSP,SUP-PBA,Quarry 7,"Big Spring, TX",USA,32.25,-101.48,AGG-57,"quarry, ~150,000 t/month"
+F-SWM-FTW,SUP-SWM,Mill & fab shop,"Fort Worth, TX",USA,32.75,-97.33,RBR-5;STL-W,rebar mill + structural fab
+F-GCE-HOU,SUP-GCE,Distribution center,"Houston, TX",USA,29.76,-95.37,CT-24;CND-4;LV-CU;DUCT,stocking distributor (makes nothing itself)
+F-HNC-GUM,SUP-HNC,Cable plant,Gumi,Korea,36.12,128.34,MV-500,MV cable lines
+F-HNC-CHW,SUP-HNC,Transformer works,Changwon,Korea,35.23,128.68,XFMR,transformer winding + test bay
+F-MXE-MTY,SUP-MXE,Switchgear plant,Monterrey,Mexico,25.69,-100.32,SWG;BUS-4K,switchgear + busway assembly
+F-INS-KUT,SUP-INS,ERW tube mill,"Kutch, Gujarat",India,23.07,70.13,PIPE-CHW,ERW pipe mill near Mundra port
+F-INE-VAD,SUP-INE,UPS assembly,"Vadodara, Gujarat",India,22.31,73.18,UPS,UPS assembly + battery cabinet integration
+F-USG-IND,SUP-USG,Genset assembly,"Lafayette, IN",USA,40.42,-86.88,GEN,genset packaging + load test
+F-DEK-KOL,SUP-DEK,Chiller plant,Cologne,Germany,50.94,6.96,CHL,chiller assembly + run test
+F-CNA-FOS,SUP-CNA,Air-handling plant,"Foshan, Guangdong",China,23.02,113.12,CRAH,CRAH assembly
+F-JPC-OSA,SUP-JPC,CDU plant,Osaka,Japan,34.69,135.5,CDU,CDU assembly + pressure test

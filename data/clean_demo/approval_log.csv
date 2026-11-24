@@ -1,0 +1,425 @@
+invoice_id,stage,start,end,source
+INV-1001,Auto-match (rules engine),2026-01-29 00:00,2026-01-31 01:35,synthetic
+INV-1001,Field verification,2026-01-31 01:35,2026-02-10 19:33,synthetic
+INV-1001,PM approval,2026-02-10 19:33,2026-02-12 18:57,synthetic
+INV-1001,Finance / AP,2026-02-12 18:57,2026-02-19 23:59,synthetic
+INV-1002,Auto-match (rules engine),2026-03-01 00:00,2026-03-01 18:28,synthetic
+INV-1002,Field verification,2026-03-01 18:28,2026-03-09 16:14,synthetic
+INV-1002,PM approval,2026-03-09 16:14,2026-03-15 11:07,synthetic
+INV-1002,Finance / AP,2026-03-15 11:07,2026-03-25 23:59,synthetic
+INV-1003,Auto-match (rules engine),2026-03-27 00:00,2026-03-27 06:26,synthetic
+INV-1003,Field verification,2026-03-27 06:26,2026-04-01 19:35,synthetic
+INV-1003,PM approval,2026-04-01 19:35,2026-04-04 12:59,synthetic
+INV-1003,Finance / AP,2026-04-04 12:59,2026-04-09 23:59,synthetic
+INV-1004,Auto-match (rules engine),2026-04-28 00:00,2026-04-29 09:14,synthetic
+INV-1004,Field verification,2026-04-29 09:14,2026-05-04 10:48,synthetic
+INV-1004,PM approval,2026-05-04 10:48,2026-05-10 12:39,synthetic
+INV-1004,Finance / AP,2026-05-10 12:39,2026-05-14 23:59,synthetic
+INV-1005,Auto-match (rules engine),2026-05-27 00:00,2026-05-27 13:55,synthetic
+INV-1005,Field verification,2026-05-27 13:55,2026-06-05 09:56,synthetic
+INV-1005,PM approval,2026-06-05 09:56,2026-06-09 11:39,synthetic
+INV-1005,Finance / AP,2026-06-09 11:39,2026-06-15 23:59,synthetic
+INV-1006,Auto-match (rules engine),2026-06-25 00:00,2026-06-25 04:48,synthetic
+INV-1006,Field verification,2026-06-25 04:48,2026-07-09 08:48,synthetic
+INV-1006,PM approval,2026-07-09 08:48,2026-07-13 10:36,synthetic
+INV-1006,Finance / AP,2026-07-13 10:36,2026-07-19 03:41,synthetic
+INV-1007,Auto-match (rules engine),2026-07-29 00:00,2026-07-29 20:00,synthetic
+INV-1007,Field verification,2026-07-29 20:00,2026-08-12 12:17,synthetic
+INV-1007,PM approval,2026-08-12 12:17,2026-08-15 06:16,synthetic
+INV-1007,Finance / AP,2026-08-15 06:16,2026-08-21 23:59,synthetic
+INV-1008,Auto-match (rules engine),2026-08-29 00:00,2026-08-29 04:48,synthetic
+INV-1008,Field verification,2026-08-29 04:48,,synthetic
+INV-1009,Auto-match (rules engine),2026-01-27 00:00,2026-01-27 12:05,synthetic
+INV-1009,Field verification,2026-01-27 12:05,2026-02-05 10:03,synthetic
+INV-1009,PM approval,2026-02-05 10:03,2026-02-08 13:59,synthetic
+INV-1009,Finance / AP,2026-02-08 13:59,2026-02-12 23:59,synthetic
+INV-1010,Auto-match (rules engine),2026-03-01 00:00,2026-03-01 13:48,synthetic
+INV-1010,Field verification,2026-03-01 13:48,2026-03-08 12:24,synthetic
+INV-1010,PM approval,2026-03-08 12:24,2026-03-12 20:44,synthetic
+INV-1010,Finance / AP,2026-03-12 20:44,2026-03-26 23:59,synthetic
+INV-1011,Auto-match (rules engine),2026-03-27 00:00,2026-03-27 09:13,synthetic
+INV-1011,Field verification,2026-03-27 09:13,2026-04-06 12:49,synthetic
+INV-1011,PM approval,2026-04-06 12:49,2026-04-09 14:05,synthetic
+INV-1011,Finance / AP,2026-04-09 14:05,2026-04-14 23:59,synthetic
+INV-1012,Auto-match (rules engine),2026-04-29 00:00,2026-04-29 07:42,synthetic
+INV-1012,Field verification,2026-04-29 07:42,2026-05-08 04:08,synthetic
+INV-1012,PM approval,2026-05-08 04:08,2026-05-13 17:49,synthetic
+INV-1012,Finance / AP,2026-05-13 17:49,2026-05-18 23:59,synthetic
+INV-1013,Auto-match (rules engine),2026-05-29 00:00,2026-05-29 16:18,synthetic
+INV-1013,Field verification,2026-05-29 16:18,2026-06-07 03:16,synthetic
+INV-1013,PM approval,2026-06-07 03:16,2026-06-16 11:34,synthetic
+INV-1013,Finance / AP,2026-06-16 11:34,2026-06-23 23:59,synthetic
+INV-1014,Auto-match (rules engine),2026-06-29 00:00,2026-06-29 04:48,synthetic
+INV-1014,Field verification,2026-06-29 04:48,2026-07-09 09:53,synthetic
+INV-1014,PM approval,2026-07-09 09:53,2026-07-12 02:04,synthetic
+INV-1014,Finance / AP,2026-07-12 02:04,2026-07-17 04:00,synthetic
+INV-1015,Auto-match (rules engine),2026-07-25 00:00,2026-07-25 13:37,synthetic
+INV-1015,Field verification,2026-07-25 13:37,2026-08-10 15:55,synthetic
+INV-1015,PM approval,2026-08-10 15:55,2026-08-11 20:23,synthetic
+INV-1015,Finance / AP,2026-08-11 20:23,2026-08-19 23:59,synthetic
+INV-1016,Auto-match (rules engine),2026-08-27 00:00,2026-08-27 13:08,synthetic
+INV-1016,Field verification,2026-08-27 13:08,,synthetic
+INV-1017,Auto-match (rules engine),2026-01-26 00:00,2026-01-26 04:48,synthetic
+INV-1017,Field verification,2026-01-26 04:48,2026-02-10 02:00,synthetic
+INV-1017,PM approval,2026-02-10 02:00,2026-02-13 06:49,synthetic
+INV-1017,Finance / AP,2026-02-13 06:49,2026-02-20 03:52,synthetic
+INV-1018,Auto-match (rules engine),2026-02-26 00:00,2026-02-27 17:37,synthetic
+INV-1018,Field verification,2026-02-27 17:37,2026-03-04 18:05,synthetic
+INV-1018,PM approval,2026-03-04 18:05,2026-03-11 20:23,synthetic
+INV-1018,Finance / AP,2026-03-11 20:23,2026-03-18 23:59,synthetic
+INV-1019,Auto-match (rules engine),2026-03-30 00:00,2026-03-30 05:15,synthetic
+INV-1019,Field verification,2026-03-30 05:15,2026-04-08 12:44,synthetic
+INV-1019,PM approval,2026-04-08 12:44,2026-04-10 02:32,synthetic
+INV-1019,Finance / AP,2026-04-10 02:32,2026-04-13 23:59,synthetic
+INV-1020,Auto-match (rules engine),2026-04-29 00:00,2026-05-03 13:11,synthetic
+INV-1020,Field verification,2026-05-03 13:11,2026-05-09 15:32,synthetic
+INV-1020,PM approval,2026-05-09 15:32,2026-05-15 16:20,synthetic
+INV-1020,Finance / AP,2026-05-15 16:20,2026-05-18 23:59,synthetic
+INV-1021,Auto-match (rules engine),2026-05-27 00:00,2026-05-27 17:54,synthetic
+INV-1021,Field verification,2026-05-27 17:54,2026-06-07 12:41,synthetic
+INV-1021,PM approval,2026-06-07 12:41,2026-06-11 02:56,synthetic
+INV-1021,Finance / AP,2026-06-11 02:56,2026-06-19 23:59,synthetic
+INV-1022,Auto-match (rules engine),2026-06-30 00:00,2026-07-01 16:37,synthetic
+INV-1022,Field verification,2026-07-01 16:37,2026-07-06 09:46,synthetic
+INV-1022,PM approval,2026-07-06 09:46,2026-07-13 07:15,synthetic
+INV-1022,Finance / AP,2026-07-13 07:15,2026-07-21 23:59,synthetic
+INV-1023,Auto-match (rules engine),2026-07-25 00:00,2026-07-25 05:04,synthetic
+INV-1023,Field verification,2026-07-25 05:04,2026-08-05 07:36,synthetic
+INV-1023,PM approval,2026-08-05 07:36,2026-08-08 15:53,synthetic
+INV-1023,Finance / AP,2026-08-08 15:53,2026-08-11 23:59,synthetic
+INV-1024,Auto-match (rules engine),2026-08-30 00:00,2026-08-30 04:48,synthetic
+INV-1024,Field verification,2026-08-30 04:48,2026-09-01 09:43,synthetic
+INV-1024,PM approval,2026-09-01 09:43,,synthetic
+INV-1025,Auto-match (rules engine),2026-01-25 00:00,2026-01-26 04:44,synthetic
+INV-1025,Field verification,2026-01-26 04:44,2026-02-03 07:25,synthetic
+INV-1025,PM approval,2026-02-03 07:25,2026-02-05 20:35,synthetic
+INV-1025,Finance / AP,2026-02-05 20:35,2026-02-10 23:59,synthetic
+INV-1026,Auto-match (rules engine),2026-03-02 00:00,2026-03-02 19:05,synthetic
+INV-1026,Field verification,2026-03-02 19:05,2026-03-15 13:02,synthetic
+INV-1026,PM approval,2026-03-15 13:02,2026-03-20 22:33,synthetic
+INV-1026,Finance / AP,2026-03-20 22:33,2026-03-27 23:59,synthetic
+INV-1027,Auto-match (rules engine),2026-03-29 00:00,2026-03-29 07:10,synthetic
+INV-1027,Field verification,2026-03-29 07:10,2026-04-10 13:04,synthetic
+INV-1027,PM approval,2026-04-10 13:04,2026-04-16 09:04,synthetic
+INV-1027,Finance / AP,2026-04-16 09:04,2026-04-19 23:59,synthetic
+INV-1028,Auto-match (rules engine),2026-04-30 00:00,2026-04-30 16:49,synthetic
+INV-1028,Field verification,2026-04-30 16:49,2026-05-10 23:58,synthetic
+INV-1028,PM approval,2026-05-10 23:58,2026-05-14 13:29,synthetic
+INV-1028,Finance / AP,2026-05-14 13:29,2026-05-19 23:59,synthetic
+INV-1029,Auto-match (rules engine),2026-05-30 00:00,2026-05-30 04:48,synthetic
+INV-1029,Field verification,2026-05-30 04:48,2026-06-04 15:36,synthetic
+INV-1029,PM approval,2026-06-04 15:36,2026-06-09 01:03,synthetic
+INV-1029,Finance / AP,2026-06-09 01:03,2026-06-13 04:03,synthetic
+INV-1030,Auto-match (rules engine),2026-06-27 00:00,2026-06-27 13:14,synthetic
+INV-1030,Field verification,2026-06-27 13:14,2026-07-06 00:50,synthetic
+INV-1030,PM approval,2026-07-06 00:50,2026-07-10 00:45,synthetic
+INV-1030,Finance / AP,2026-07-10 00:45,2026-07-16 23:59,synthetic
+INV-1031,Auto-match (rules engine),2026-07-26 00:00,2026-07-26 04:48,synthetic
+INV-1031,Field verification,2026-07-26 04:48,2026-08-04 16:18,synthetic
+INV-1031,PM approval,2026-08-04 16:18,2026-08-07 06:07,synthetic
+INV-1031,Finance / AP,2026-08-07 06:07,2026-08-12 02:55,synthetic
+INV-1032,Auto-match (rules engine),2026-08-26 00:00,2026-08-26 05:33,synthetic
+INV-1032,Field verification,2026-08-26 05:33,2026-08-29 17:11,synthetic
+INV-1032,PM approval,2026-08-29 17:11,,synthetic
+INV-1033,Auto-match (rules engine),2026-01-25 00:00,2026-01-26 13:32,synthetic
+INV-1033,Field verification,2026-01-26 13:32,2026-02-09 03:32,synthetic
+INV-1033,PM approval,2026-02-09 03:32,2026-02-12 23:07,synthetic
+INV-1033,Finance / AP,2026-02-12 23:07,2026-02-19 23:59,synthetic
+INV-1034,Auto-match (rules engine),2026-02-27 00:00,2026-02-27 07:13,synthetic
+INV-1034,Field verification,2026-02-27 07:13,2026-03-05 17:57,synthetic
+INV-1034,PM approval,2026-03-05 17:57,2026-03-11 12:55,synthetic
+INV-1034,Finance / AP,2026-03-11 12:55,2026-03-23 23:59,synthetic
+INV-1035,Auto-match (rules engine),2026-03-29 00:00,2026-03-30 02:27,synthetic
+INV-1035,Field verification,2026-03-30 02:27,2026-04-09 10:35,synthetic
+INV-1035,PM approval,2026-04-09 10:35,2026-04-13 03:50,synthetic
+INV-1035,Finance / AP,2026-04-13 03:50,2026-04-17 23:59,synthetic
+INV-1036,Auto-match (rules engine),2026-04-29 00:00,2026-04-29 11:39,synthetic
+INV-1036,Field verification,2026-04-29 11:39,2026-05-05 23:32,synthetic
+INV-1036,PM approval,2026-05-05 23:32,2026-05-08 23:56,synthetic
+INV-1036,Finance / AP,2026-05-08 23:56,2026-05-13 23:59,synthetic
+INV-1037,Auto-match (rules engine),2026-05-28 00:00,2026-05-28 09:17,synthetic
+INV-1037,Field verification,2026-05-28 09:17,2026-06-07 01:31,synthetic
+INV-1037,PM approval,2026-06-07 01:31,2026-06-11 10:46,synthetic
+INV-1037,Finance / AP,2026-06-11 10:46,2026-06-17 23:59,synthetic
+INV-1038,Auto-match (rules engine),2026-06-29 00:00,2026-06-29 07:31,synthetic
+INV-1038,Field verification,2026-06-29 07:31,2026-07-13 10:01,synthetic
+INV-1038,PM approval,2026-07-13 10:01,2026-07-18 05:05,synthetic
+INV-1038,Finance / AP,2026-07-18 05:05,2026-07-23 23:59,synthetic
+INV-1039,Auto-match (rules engine),2026-07-26 00:00,2026-07-28 01:34,synthetic
+INV-1039,Field verification,2026-07-28 01:34,2026-08-06 09:53,synthetic
+INV-1039,PM approval,2026-08-06 09:53,2026-08-08 14:49,synthetic
+INV-1039,Finance / AP,2026-08-08 14:49,2026-08-09 23:59,synthetic
+INV-1040,Auto-match (rules engine),2026-08-28 00:00,2026-08-28 08:36,synthetic
+INV-1040,Field verification,2026-08-28 08:36,,synthetic
+INV-1041,Auto-match (rules engine),2026-01-25 00:00,2026-01-25 04:48,synthetic
+INV-1041,Field verification,2026-01-25 04:48,2026-01-29 12:21,synthetic
+INV-1041,PM approval,2026-01-29 12:21,2026-02-05 09:33,synthetic
+INV-1041,Finance / AP,2026-02-05 09:33,2026-02-08 01:32,synthetic
+INV-1042,Auto-match (rules engine),2026-02-27 00:00,2026-02-27 04:56,synthetic
+INV-1042,Field verification,2026-02-27 04:56,2026-03-04 08:23,synthetic
+INV-1042,PM approval,2026-03-04 08:23,2026-03-06 13:24,synthetic
+INV-1042,Finance / AP,2026-03-06 13:24,2026-03-14 23:59,synthetic
+INV-1043,Auto-match (rules engine),2026-03-28 00:00,2026-03-28 04:48,synthetic
+INV-1043,Field verification,2026-03-28 04:48,2026-04-04 11:25,synthetic
+INV-1043,PM approval,2026-04-04 11:25,2026-04-08 19:57,synthetic
+INV-1043,Finance / AP,2026-04-08 19:57,2026-04-12 01:38,synthetic
+INV-1044,Auto-match (rules engine),2026-04-30 00:00,2026-04-30 04:48,synthetic
+INV-1044,Field verification,2026-04-30 04:48,2026-05-07 11:14,synthetic
+INV-1044,PM approval,2026-05-07 11:14,2026-05-11 11:16,synthetic
+INV-1044,Finance / AP,2026-05-11 11:16,2026-05-21 04:36,synthetic
+INV-1045,Auto-match (rules engine),2026-05-26 00:00,2026-05-26 04:48,synthetic
+INV-1045,Field verification,2026-05-26 04:48,2026-06-05 20:08,synthetic
+INV-1045,PM approval,2026-06-05 20:08,2026-06-11 09:49,synthetic
+INV-1045,Finance / AP,2026-06-11 09:49,2026-06-21 02:54,synthetic
+INV-1046,Auto-match (rules engine),2026-06-26 00:00,2026-06-26 04:48,synthetic
+INV-1046,Field verification,2026-06-26 04:48,2026-07-05 22:23,synthetic
+INV-1046,PM approval,2026-07-05 22:23,2026-07-09 12:08,synthetic
+INV-1046,Finance / AP,2026-07-09 12:08,2026-07-15 04:45,synthetic
+INV-1047,Auto-match (rules engine),2026-07-27 00:00,2026-07-27 14:34,synthetic
+INV-1047,Field verification,2026-07-27 14:34,2026-08-04 21:43,synthetic
+INV-1047,PM approval,2026-08-04 21:43,2026-08-09 05:48,synthetic
+INV-1047,Finance / AP,2026-08-09 05:48,2026-08-17 23:59,synthetic
+INV-1048,Auto-match (rules engine),2026-08-28 00:00,2026-08-28 04:48,synthetic
+INV-1048,Field verification,2026-08-28 04:48,2026-09-01 07:03,synthetic
+INV-1048,PM approval,2026-09-01 07:03,,synthetic
+INV-1049,Auto-match (rules engine),2026-02-28 00:00,2026-02-28 21:01,synthetic
+INV-1049,Field verification,2026-02-28 21:01,2026-03-12 10:09,synthetic
+INV-1049,PM approval,2026-03-12 10:09,2026-03-17 21:39,synthetic
+INV-1049,Finance / AP,2026-03-17 21:39,2026-03-20 23:59,synthetic
+INV-1050,Auto-match (rules engine),2026-03-30 00:00,2026-03-31 20:42,synthetic
+INV-1050,Field verification,2026-03-31 20:42,2026-04-08 06:14,synthetic
+INV-1050,PM approval,2026-04-08 06:14,2026-04-10 05:13,synthetic
+INV-1050,Finance / AP,2026-04-10 05:13,2026-04-17 23:59,synthetic
+INV-1051,Auto-match (rules engine),2026-04-28 00:00,2026-04-28 09:15,synthetic
+INV-1051,Field verification,2026-04-28 09:15,2026-05-12 00:28,synthetic
+INV-1051,PM approval,2026-05-12 00:28,2026-05-15 08:22,synthetic
+INV-1051,Finance / AP,2026-05-15 08:22,2026-05-21 23:59,synthetic
+INV-1052,Auto-match (rules engine),2026-05-28 00:00,2026-05-28 04:48,synthetic
+INV-1052,Field verification,2026-05-28 04:48,2026-06-01 19:15,synthetic
+INV-1052,PM approval,2026-06-01 19:15,2026-06-06 07:37,synthetic
+INV-1052,Finance / AP,2026-06-06 07:37,2026-06-12 01:13,synthetic
+INV-1053,Auto-match (rules engine),2026-06-28 00:00,2026-06-29 00:33,synthetic
+INV-1053,Field verification,2026-06-29 00:33,2026-07-03 10:57,synthetic
+INV-1053,PM approval,2026-07-03 10:57,2026-07-06 11:03,synthetic
+INV-1053,Finance / AP,2026-07-06 11:03,2026-07-11 23:59,synthetic
+INV-1054,Auto-match (rules engine),2026-07-26 00:00,2026-07-26 04:48,synthetic
+INV-1054,Field verification,2026-07-26 04:48,2026-08-07 12:09,synthetic
+INV-1054,PM approval,2026-08-07 12:09,2026-08-11 10:18,synthetic
+INV-1054,Finance / AP,2026-08-11 10:18,2026-08-17 04:13,synthetic
+INV-1055,Auto-match (rules engine),2026-08-27 00:00,2026-08-27 13:09,synthetic
+INV-1055,Field verification,2026-08-27 13:09,,synthetic
+INV-1056,Auto-match (rules engine),2026-02-28 00:00,2026-02-28 13:15,synthetic
+INV-1056,Field verification,2026-02-28 13:15,2026-03-06 19:24,synthetic
+INV-1056,PM approval,2026-03-06 19:24,2026-03-08 23:27,synthetic
+INV-1056,Finance / AP,2026-03-08 23:27,2026-03-14 23:59,synthetic
+INV-1057,Auto-match (rules engine),2026-03-28 00:00,2026-03-28 04:48,synthetic
+INV-1057,Field verification,2026-03-28 04:48,2026-04-03 14:59,synthetic
+INV-1057,PM approval,2026-04-03 14:59,2026-04-08 20:25,synthetic
+INV-1057,Finance / AP,2026-04-08 20:25,2026-04-19 04:44,synthetic
+INV-1058,Auto-match (rules engine),2026-04-27 00:00,2026-04-27 05:48,synthetic
+INV-1058,Field verification,2026-04-27 05:48,2026-05-07 02:51,synthetic
+INV-1058,PM approval,2026-05-07 02:51,2026-05-10 15:59,synthetic
+INV-1058,Finance / AP,2026-05-10 15:59,2026-05-16 23:59,synthetic
+INV-1059,Auto-match (rules engine),2026-05-30 00:00,2026-05-30 19:37,synthetic
+INV-1059,Field verification,2026-05-30 19:37,2026-06-13 19:02,synthetic
+INV-1059,PM approval,2026-06-13 19:02,2026-06-16 15:37,synthetic
+INV-1059,Finance / AP,2026-06-16 15:37,2026-06-24 23:59,synthetic
+INV-1060,Auto-match (rules engine),2026-06-26 00:00,2026-06-27 01:51,synthetic
+INV-1060,Field verification,2026-06-27 01:51,2026-07-03 08:58,synthetic
+INV-1060,PM approval,2026-07-03 08:58,2026-07-10 02:58,synthetic
+INV-1060,Finance / AP,2026-07-10 02:58,2026-07-12 23:59,synthetic
+INV-1061,Auto-match (rules engine),2026-07-26 00:00,2026-07-28 17:22,synthetic
+INV-1061,Field verification,2026-07-28 17:22,2026-08-23 08:11,synthetic
+INV-1061,PM approval,2026-08-23 08:11,,synthetic
+INV-1062,Auto-match (rules engine),2026-08-28 00:00,2026-08-28 04:48,synthetic
+INV-1062,Field verification,2026-08-28 04:48,,synthetic
+INV-1063,Auto-match (rules engine),2026-02-26 00:00,2026-02-26 04:48,synthetic
+INV-1063,Field verification,2026-02-26 04:48,2026-03-06 06:38,synthetic
+INV-1063,PM approval,2026-03-06 06:38,2026-03-07 06:36,synthetic
+INV-1063,Finance / AP,2026-03-07 06:36,2026-03-13 04:22,synthetic
+INV-1064,Auto-match (rules engine),2026-03-28 00:00,2026-03-28 04:48,synthetic
+INV-1064,Field verification,2026-03-28 04:48,2026-04-04 19:49,synthetic
+INV-1064,PM approval,2026-04-04 19:49,2026-04-07 21:23,synthetic
+INV-1064,Finance / AP,2026-04-07 21:23,2026-04-14 04:07,synthetic
+INV-1065,Auto-match (rules engine),2026-04-27 00:00,2026-04-27 05:10,synthetic
+INV-1065,Field verification,2026-04-27 05:10,2026-05-05 09:02,synthetic
+INV-1065,PM approval,2026-05-05 09:02,2026-05-09 21:39,synthetic
+INV-1065,Finance / AP,2026-05-09 21:39,2026-05-17 23:59,synthetic
+INV-1066,Auto-match (rules engine),2026-05-25 00:00,2026-05-25 04:48,synthetic
+INV-1066,Field verification,2026-05-25 04:48,2026-06-06 22:35,synthetic
+INV-1066,PM approval,2026-06-06 22:35,2026-06-11 01:56,synthetic
+INV-1066,Finance / AP,2026-06-11 01:56,2026-06-20 03:29,synthetic
+INV-1067,Auto-match (rules engine),2026-06-27 00:00,2026-06-27 20:11,synthetic
+INV-1067,Field verification,2026-06-27 20:11,2026-07-08 21:55,synthetic
+INV-1067,PM approval,2026-07-08 21:55,2026-07-12 23:38,synthetic
+INV-1067,Finance / AP,2026-07-12 23:38,2026-07-18 23:59,synthetic
+INV-1068,Auto-match (rules engine),2026-07-29 00:00,2026-07-29 04:48,synthetic
+INV-1068,Field verification,2026-07-29 04:48,2026-08-07 23:04,synthetic
+INV-1068,PM approval,2026-08-07 23:04,2026-08-16 02:23,synthetic
+INV-1068,Finance / AP,2026-08-16 02:23,2026-08-24 00:25,synthetic
+INV-1069,Auto-match (rules engine),2026-08-25 00:00,2026-08-25 04:48,synthetic
+INV-1069,Field verification,2026-08-25 04:48,2026-09-02 11:28,synthetic
+INV-1069,PM approval,2026-09-02 11:28,,synthetic
+INV-1070,Auto-match (rules engine),2026-03-29 00:00,2026-03-29 09:39,synthetic
+INV-1070,Field verification,2026-03-29 09:39,2026-04-07 17:45,synthetic
+INV-1070,PM approval,2026-04-07 17:45,2026-04-11 21:03,synthetic
+INV-1070,Finance / AP,2026-04-11 21:03,2026-04-16 23:59,synthetic
+INV-1071,Auto-match (rules engine),2026-04-25 00:00,2026-04-25 04:48,synthetic
+INV-1071,Field verification,2026-04-25 04:48,2026-05-07 17:51,synthetic
+INV-1071,PM approval,2026-05-07 17:51,2026-05-15 01:00,synthetic
+INV-1071,Finance / AP,2026-05-15 01:00,2026-05-21 01:58,synthetic
+INV-1072,Auto-match (rules engine),2026-05-28 00:00,2026-05-28 11:07,synthetic
+INV-1072,Field verification,2026-05-28 11:07,2026-06-09 13:37,synthetic
+INV-1072,PM approval,2026-06-09 13:37,2026-06-19 08:49,synthetic
+INV-1072,Finance / AP,2026-06-19 08:49,2026-06-21 23:59,synthetic
+INV-1073,Auto-match (rules engine),2026-06-29 00:00,2026-06-30 11:36,synthetic
+INV-1073,Field verification,2026-06-30 11:36,2026-07-09 12:52,synthetic
+INV-1073,PM approval,2026-07-09 12:52,2026-07-14 07:07,synthetic
+INV-1073,Finance / AP,2026-07-14 07:07,2026-07-18 23:59,synthetic
+INV-1074,Auto-match (rules engine),2026-07-27 00:00,2026-07-28 08:05,synthetic
+INV-1074,Field verification,2026-07-28 08:05,2026-08-02 13:17,synthetic
+INV-1074,PM approval,2026-08-02 13:17,2026-08-08 11:01,synthetic
+INV-1074,Finance / AP,2026-08-08 11:01,2026-08-13 23:59,synthetic
+INV-1075,Auto-match (rules engine),2026-08-30 00:00,2026-08-30 08:20,synthetic
+INV-1075,Field verification,2026-08-30 08:20,,synthetic
+INV-1076,Auto-match (rules engine),2026-03-30 00:00,2026-03-30 04:48,synthetic
+INV-1076,Field verification,2026-03-30 04:48,2026-04-09 14:32,synthetic
+INV-1076,PM approval,2026-04-09 14:32,2026-04-12 21:50,synthetic
+INV-1076,Finance / AP,2026-04-12 21:50,2026-04-22 01:56,synthetic
+INV-1077,Auto-match (rules engine),2026-04-27 00:00,2026-04-28 16:50,synthetic
+INV-1077,Field verification,2026-04-28 16:50,2026-05-05 15:45,synthetic
+INV-1077,PM approval,2026-05-05 15:45,2026-05-08 13:55,synthetic
+INV-1077,Finance / AP,2026-05-08 13:55,2026-05-14 23:59,synthetic
+INV-1078,Auto-match (rules engine),2026-05-27 00:00,2026-05-27 04:48,synthetic
+INV-1078,Field verification,2026-05-27 04:48,2026-06-08 00:04,synthetic
+INV-1078,PM approval,2026-06-08 00:04,2026-06-10 06:06,synthetic
+INV-1078,Finance / AP,2026-06-10 06:06,2026-06-15 03:55,synthetic
+INV-1079,Auto-match (rules engine),2026-06-25 00:00,2026-06-26 15:10,synthetic
+INV-1079,Field verification,2026-06-26 15:10,2026-07-07 10:43,synthetic
+INV-1079,PM approval,2026-07-07 10:43,2026-07-11 12:57,synthetic
+INV-1079,Finance / AP,2026-07-11 12:57,2026-07-20 23:59,synthetic
+INV-1080,Auto-match (rules engine),2026-07-27 00:00,2026-07-27 04:48,synthetic
+INV-1080,Field verification,2026-07-27 04:48,2026-08-18 22:05,synthetic
+INV-1080,PM approval,2026-08-18 22:05,,synthetic
+INV-1081,Auto-match (rules engine),2026-08-26 00:00,2026-08-27 04:57,synthetic
+INV-1081,Field verification,2026-08-27 04:57,,synthetic
+INV-1082,Auto-match (rules engine),2026-03-26 00:00,2026-03-26 04:48,synthetic
+INV-1082,Field verification,2026-03-26 04:48,2026-03-30 10:50,synthetic
+INV-1082,PM approval,2026-03-30 10:50,2026-04-05 05:15,synthetic
+INV-1082,Finance / AP,2026-04-05 05:15,2026-04-10 01:35,synthetic
+INV-1083,Auto-match (rules engine),2026-04-26 00:00,2026-04-26 04:48,synthetic
+INV-1083,Field verification,2026-04-26 04:48,2026-04-30 03:51,synthetic
+INV-1083,PM approval,2026-04-30 03:51,2026-05-06 22:30,synthetic
+INV-1083,Finance / AP,2026-05-06 22:30,2026-05-16 04:24,synthetic
+INV-1084,Auto-match (rules engine),2026-05-30 00:00,2026-05-30 07:12,synthetic
+INV-1084,Field verification,2026-05-30 07:12,2026-06-05 02:27,synthetic
+INV-1084,PM approval,2026-06-05 02:27,2026-06-07 18:27,synthetic
+INV-1084,Finance / AP,2026-06-07 18:27,2026-06-12 23:59,synthetic
+INV-1085,Auto-match (rules engine),2026-06-26 00:00,2026-06-26 04:48,synthetic
+INV-1085,Field verification,2026-06-26 04:48,2026-07-09 00:09,synthetic
+INV-1085,PM approval,2026-07-09 00:09,2026-07-11 14:15,synthetic
+INV-1085,Finance / AP,2026-07-11 14:15,2026-07-17 03:46,synthetic
+INV-1086,Auto-match (rules engine),2026-07-30 00:00,2026-07-30 04:48,synthetic
+INV-1086,Field verification,2026-07-30 04:48,2026-08-05 20:52,synthetic
+INV-1086,PM approval,2026-08-05 20:52,2026-08-11 03:16,synthetic
+INV-1086,Finance / AP,2026-08-11 03:16,2026-08-24 04:39,synthetic
+INV-1087,Auto-match (rules engine),2026-08-27 00:00,2026-08-27 15:30,synthetic
+INV-1087,Field verification,2026-08-27 15:30,,synthetic
+INV-1088,Auto-match (rules engine),2026-04-27 00:00,2026-04-27 22:34,synthetic
+INV-1088,Field verification,2026-04-27 22:34,2026-05-09 01:14,synthetic
+INV-1088,PM approval,2026-05-09 01:14,2026-05-18 11:55,synthetic
+INV-1088,Finance / AP,2026-05-18 11:55,2026-05-25 23:59,synthetic
+INV-1089,Auto-match (rules engine),2026-05-26 00:00,2026-05-26 04:48,synthetic
+INV-1089,Field verification,2026-05-26 04:48,2026-06-08 03:45,synthetic
+INV-1089,PM approval,2026-06-08 03:45,2026-06-12 01:25,synthetic
+INV-1089,Finance / AP,2026-06-12 01:25,2026-06-30 03:29,synthetic
+INV-1090,Auto-match (rules engine),2026-06-29 00:00,2026-06-29 04:48,synthetic
+INV-1090,Field verification,2026-06-29 04:48,2026-07-08 07:46,synthetic
+INV-1090,PM approval,2026-07-08 07:46,2026-07-14 05:55,synthetic
+INV-1090,Finance / AP,2026-07-14 05:55,2026-07-23 04:24,synthetic
+INV-1091,Auto-match (rules engine),2026-07-29 00:00,2026-07-30 20:29,synthetic
+INV-1091,Field verification,2026-07-30 20:29,2026-08-15 09:08,synthetic
+INV-1091,PM approval,2026-08-15 09:08,2026-08-19 13:13,synthetic
+INV-1091,Finance / AP,2026-08-19 13:13,2026-08-27 23:59,synthetic
+INV-1092,Auto-match (rules engine),2026-08-30 00:00,2026-08-30 04:48,synthetic
+INV-1092,Field verification,2026-08-30 04:48,,synthetic
+INV-1093,Auto-match (rules engine),2026-04-29 00:00,2026-04-29 04:48,synthetic
+INV-1093,Field verification,2026-04-29 04:48,2026-05-14 10:13,synthetic
+INV-1093,PM approval,2026-05-14 10:13,2026-05-22 01:24,synthetic
+INV-1093,Finance / AP,2026-05-22 01:24,2026-05-31 01:11,synthetic
+INV-1094,Auto-match (rules engine),2026-05-27 00:00,2026-05-27 04:48,synthetic
+INV-1094,Field verification,2026-05-27 04:48,2026-06-09 19:17,synthetic
+INV-1094,PM approval,2026-06-09 19:17,2026-06-17 04:43,synthetic
+INV-1094,Finance / AP,2026-06-17 04:43,2026-06-30 00:14,synthetic
+INV-1095,Auto-match (rules engine),2026-06-26 00:00,2026-06-26 11:35,synthetic
+INV-1095,Field verification,2026-06-26 11:35,2026-07-06 02:06,synthetic
+INV-1095,PM approval,2026-07-06 02:06,2026-07-12 22:53,synthetic
+INV-1095,Finance / AP,2026-07-12 22:53,2026-07-23 23:59,synthetic
+INV-1096,Auto-match (rules engine),2026-07-26 00:00,2026-07-26 19:43,synthetic
+INV-1096,Field verification,2026-07-26 19:43,2026-08-11 14:23,synthetic
+INV-1096,PM approval,2026-08-11 14:23,2026-08-19 12:54,synthetic
+INV-1096,Finance / AP,2026-08-19 12:54,2026-08-28 23:59,synthetic
+INV-1097,Auto-match (rules engine),2026-08-30 00:00,2026-08-30 04:48,synthetic
+INV-1097,Field verification,2026-08-30 04:48,,synthetic
+INV-1098,Auto-match (rules engine),2026-04-28 00:00,2026-04-28 07:46,synthetic
+INV-1098,Field verification,2026-04-28 07:46,2026-05-17 20:56,synthetic
+INV-1098,PM approval,2026-05-17 20:56,2026-05-23 01:15,synthetic
+INV-1098,Finance / AP,2026-05-23 01:15,2026-05-28 23:59,synthetic
+INV-1099,Auto-match (rules engine),2026-05-28 00:00,2026-05-29 16:56,synthetic
+INV-1099,Field verification,2026-05-29 16:56,2026-06-08 21:09,synthetic
+INV-1099,PM approval,2026-06-08 21:09,2026-06-11 12:39,synthetic
+INV-1099,Finance / AP,2026-06-11 12:39,2026-06-20 23:59,synthetic
+INV-1100,Auto-match (rules engine),2026-06-28 00:00,2026-06-29 00:08,synthetic
+INV-1100,Field verification,2026-06-29 00:08,2026-07-15 14:53,synthetic
+INV-1100,PM approval,2026-07-15 14:53,2026-07-23 00:05,synthetic
+INV-1100,Finance / AP,2026-07-23 00:05,2026-07-29 23:59,synthetic
+INV-1101,Auto-match (rules engine),2026-07-29 00:00,2026-07-29 04:48,synthetic
+INV-1101,Field verification,2026-07-29 04:48,2026-08-13 09:07,synthetic
+INV-1101,PM approval,2026-08-13 09:07,2026-08-25 18:59,synthetic
+INV-1101,Finance / AP,2026-08-25 18:59,2026-09-01 02:12,synthetic
+INV-1102,Auto-match (rules engine),2026-08-27 00:00,2026-08-27 04:48,synthetic
+INV-1102,Field verification,2026-08-27 04:48,2026-08-31 10:31,synthetic
+INV-1102,PM approval,2026-08-31 10:31,2026-09-02 16:16,synthetic
+INV-1102,Finance / AP,2026-09-02 16:16,,synthetic
+INV-1103,Auto-match (rules engine),2026-05-27 00:00,2026-05-27 04:48,synthetic
+INV-1103,Field verification,2026-05-27 04:48,2026-06-12 11:59,synthetic
+INV-1103,PM approval,2026-06-12 11:59,2026-06-18 10:58,synthetic
+INV-1103,Finance / AP,2026-06-18 10:58,2026-06-23 04:19,synthetic
+INV-1104,Auto-match (rules engine),2026-06-29 00:00,2026-06-29 22:56,synthetic
+INV-1104,Field verification,2026-06-29 22:56,2026-07-13 13:27,synthetic
+INV-1104,PM approval,2026-07-13 13:27,2026-07-20 07:43,synthetic
+INV-1104,Finance / AP,2026-07-20 07:43,2026-07-25 23:59,synthetic
+INV-1105,Auto-match (rules engine),2026-07-27 00:00,2026-07-27 09:31,synthetic
+INV-1105,Field verification,2026-07-27 09:31,2026-08-17 06:30,synthetic
+INV-1105,PM approval,2026-08-17 06:30,2026-08-22 07:43,synthetic
+INV-1105,Finance / AP,2026-08-22 07:43,2026-08-30 23:59,synthetic
+INV-1106,Auto-match (rules engine),2026-08-26 00:00,2026-08-26 14:50,synthetic
+INV-1106,Field verification,2026-08-26 14:50,,synthetic
+INV-1107,Auto-match (rules engine),2026-05-26 00:00,2026-05-30 12:22,synthetic
+INV-1107,Field verification,2026-05-30 12:22,2026-06-09 06:43,synthetic
+INV-1107,PM approval,2026-06-09 06:43,2026-06-13 01:14,synthetic
+INV-1107,Finance / AP,2026-06-13 01:14,2026-06-18 23:59,synthetic
+INV-1108,Auto-match (rules engine),2026-06-29 00:00,2026-06-29 04:48,synthetic
+INV-1108,Field verification,2026-06-29 04:48,2026-07-09 02:47,synthetic
+INV-1108,PM approval,2026-07-09 02:47,2026-07-14 07:10,synthetic
+INV-1108,Finance / AP,2026-07-14 07:10,2026-07-25 03:43,synthetic
+INV-1109,Auto-match (rules engine),2026-07-28 00:00,2026-07-28 12:41,synthetic
+INV-1109,Field verification,2026-07-28 12:41,2026-08-08 06:22,synthetic
+INV-1109,PM approval,2026-08-08 06:22,2026-08-16 15:33,synthetic
+INV-1109,Finance / AP,2026-08-16 15:33,2026-08-21 23:59,synthetic
+INV-1110,Auto-match (rules engine),2026-08-27 00:00,2026-08-27 04:48,synthetic
+INV-1110,Field verification,2026-08-27 04:48,,synthetic
+INV-1111,Auto-match (rules engine),2026-05-30 00:00,2026-05-30 13:39,synthetic
+INV-1111,Field verification,2026-05-30 13:39,2026-06-18 21:32,synthetic
+INV-1111,PM approval,2026-06-18 21:32,2026-06-25 17:40,synthetic
+INV-1111,Finance / AP,2026-06-25 17:40,2026-07-03 23:59,synthetic
+INV-1112,Auto-match (rules engine),2026-06-29 00:00,2026-06-30 09:09,synthetic
+INV-1112,Field verification,2026-06-30 09:09,2026-07-10 16:39,synthetic
+INV-1112,PM approval,2026-07-10 16:39,2026-07-18 13:07,synthetic
+INV-1112,Finance / AP,2026-07-18 13:07,2026-08-01 23:59,synthetic
+INV-1113,Auto-match (rules engine),2026-07-27 00:00,2026-07-27 09:48,synthetic
+INV-1113,Field verification,2026-07-27 09:48,2026-08-10 12:00,synthetic
+INV-1113,PM approval,2026-08-10 12:00,2026-08-18 08:29,synthetic
+INV-1113,Finance / AP,2026-08-18 08:29,2026-08-29 23:59,synthetic
+INV-1114,Auto-match (rules engine),2026-08-27 00:00,2026-08-27 04:48,synthetic
+INV-1114,Field verification,2026-08-27 04:48,,synthetic

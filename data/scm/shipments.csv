@@ -1,0 +1,38 @@
+po_id,item_id,project_id,qty,status,current_stage,days_in_stage,promised_due
+OPO-001,SWG,WTX-A1,2.0,balance of short shipment,Truck to West Texas,19.6,2026-08-13
+OPO-002,SWG,WTX-B2,7.0,not yet delivered,Manufacturing,287.3,2026-09-13
+OPO-003,SWG,WTX-C1,8.0,not yet delivered,Truck to West Texas,5.9,2026-09-07
+OPO-004,SWG,WTX-C2,6.0,not yet delivered,Manufacturing,198.6,2026-12-13
+OPO-005,XFMR,WTX-C1,8.0,not yet delivered,Ocean: Busan to Houston (Panama Canal),8.2,2026-10-08
+OPO-006,XFMR,WTX-C2,6.0,not yet delivered,Manufacturing,276.2,2026-11-27
+OPO-007,UPS,WTX-C1,17.0,not yet delivered,Ocean: Mundra to Houston (Suez or Cape),9.0,2026-10-09
+OPO-008,UPS,WTX-C2,13.0,not yet delivered,Manufacturing,70.1,2027-01-03
+OPO-009,GEN,WTX-B2,2.0,balance of short shipment,Manufacturing / pick,325.7,2026-09-12
+OPO-010,GEN,WTX-C1,8.0,not yet delivered,Truck to West Texas,1.8,2026-08-31
+OPO-011,GEN,WTX-C2,6.0,not yet delivered,Manufacturing / pick,255.1,2026-11-26
+OPO-012,CHL,WTX-A2,2.0,balance of short shipment,Truck/rail to West Texas,69.3,2026-06-27
+OPO-013,CHL,WTX-B2,2.0,balance of short shipment,Truck/rail to West Texas,26.9,2026-08-11
+OPO-014,CHL,WTX-C2,8.0,not yet delivered,Manufacturing,232.5,2026-10-17
+OPO-015,CRAH,WTX-C1,42.0,not yet delivered,Truck/rail to West Texas,2.7,2026-09-01
+OPO-016,CRAH,WTX-C2,32.0,not yet delivered,Manufacturing,42.1,2026-11-14
+OPO-017,CDU,WTX-C2,19.0,not yet delivered,Manufacturing,73.1,2026-11-14
+OPO-018,CT-24,,6000.0,hub replenishment,Manufacturing / pick,17.0,2026-09-10
+OPO-019,CT-24,,6000.0,hub replenishment,Not yet released to factory,0.0,2026-10-01
+OPO-020,CT-24,,6000.0,hub replenishment,Not yet released to factory,0.0,2026-10-22
+OPO-021,MV-500,,15000.0,hub replenishment,Houston port dwell,3.7,2026-09-10
+OPO-022,MV-500,,15000.0,hub replenishment,Ocean: Busan to Houston (Panama Canal),18.1,2026-10-01
+OPO-023,MV-500,,15000.0,hub replenishment,Manufacturing,19.0,2026-10-22
+OPO-024,LV-CU,,40000.0,hub replenishment,Manufacturing / pick,11.7,2026-09-10
+OPO-025,LV-CU,,40000.0,hub replenishment,Not yet released to factory,0.0,2026-10-01
+OPO-026,LV-CU,,40000.0,hub replenishment,Not yet released to factory,0.0,2026-10-22
+OPO-027,BUS-4K,,500.0,hub replenishment,Manufacturing,44.1,2026-09-10
+OPO-028,BUS-4K,,500.0,hub replenishment,Manufacturing,22.5,2026-10-01
+OPO-029,BUS-4K,,500.0,hub replenishment,Manufacturing,3.5,2026-10-22
+OPO-030,PIPE-CHW,,3000.0,hub replenishment,Houston port dwell,2.5,2026-09-10
+OPO-031,PIPE-CHW,,3000.0,hub replenishment,Ocean: Mundra to Houston (Suez or Cape),20.0,2026-10-01
+OPO-032,PIPE-CHW,,3000.0,hub replenishment,Ocean: Mundra to Houston (Suez or Cape),2.2,2026-10-22
+OPO-033,DUCT,,20000.0,hub replenishment,Manufacturing / pick,2.1,2026-09-10
+OPO-034,DUCT,,20000.0,hub replenishment,Not yet released to factory,0.0,2026-10-01
+OPO-035,DUCT,,20000.0,hub replenishment,Not yet released to factory,0.0,2026-10-22
+OPO-036,STL-W,WTX-C2,1156.1290322580644,blanket order call-off,Manufacturing / pick,55.7,2026-09-03
+OPO-037,STL-W,WTX-C2,454.1935483870967,blanket order call-off,Manufacturing / pick,30.4,2026-10-01

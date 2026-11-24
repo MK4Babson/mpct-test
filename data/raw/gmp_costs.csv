@@ -1,0 +1,79 @@
+cost_id,package_id,prime_id,period,category,description,base_cost,labor_burden_pct,burden_amount,sub_fee_included,sub_fee_amount,approval_ref,budget_value,award_value,fee_amount,billed_amount
+CP-001,GMP-PRM-E,PRM-E,2026-01,General conditions,"Site office, supervision, temporary utilities",201272.15,,0.0,,0.0,,,,10063.61,211335.76
+CP-002,GMP-PRM-E,PRM-E,2026-01,Labor,Direct craft labor (reimbursable),110319.34,36.0,39714.96,,0.0,,,,7501.72,157536.02
+CP-003,GMP-PRM-E,PRM-E,2026-01,Subcontract,Subcontract costs (sub fee excluded),239542.24,,0.0,N,0.0,,,,11977.11,251519.35
+CP-004,GMP-PRM-E,PRM-E,2026-02,General conditions,"Site office, supervision, temporary utilities",188341.3,,0.0,,0.0,,,,9417.07,197758.37
+CP-005,GMP-PRM-E,PRM-E,2026-02,Labor,Direct craft labor (reimbursable),91135.6,36.0,32808.82,,0.0,,,,6197.22,130141.64
+CP-006,GMP-PRM-E,PRM-E,2026-02,Subcontract,Subcontract costs (sub fee excluded),159905.26,,0.0,N,0.0,,,,7995.26,167900.52
+CP-007,GMP-PRM-E,PRM-E,2026-03,General conditions,"Site office, supervision, temporary utilities",202781.34,,0.0,,0.0,,,,10139.07,212920.41
+CP-008,GMP-PRM-E,PRM-E,2026-03,Labor,Direct craft labor (reimbursable),113093.86,36.0,40713.79,,0.0,,,,7690.38,161498.03
+CP-009,GMP-PRM-E,PRM-E,2026-03,Subcontract,Subcontract costs (includes sub's 10% fee),167739.9,,0.0,Y,16773.99,,,,8387.0,176126.9
+CP-010,GMP-PRM-E,PRM-E,2026-04,General conditions,"Site office, supervision, temporary utilities",197027.16,,0.0,,0.0,,,,9851.36,206878.52
+CP-011,GMP-PRM-E,PRM-E,2026-04,Labor,Direct craft labor (reimbursable),97615.61,46.0,44903.18,,0.0,,,,7125.94,149644.73
+CP-012,GMP-PRM-E,PRM-E,2026-04,Subcontract,Subcontract costs (sub fee excluded),226595.24,,0.0,N,0.0,,,,11329.76,237925.0
+CP-013,GMP-PRM-E,PRM-E,2026-05,General conditions,"Site office, supervision, temporary utilities",195600.06,,0.0,,0.0,,,,9780.0,205380.06
+CP-014,GMP-PRM-E,PRM-E,2026-05,Labor,Direct craft labor (reimbursable),109051.06,36.0,39258.38,,0.0,,,,7415.47,155724.91
+CP-015,GMP-PRM-E,PRM-E,2026-05,Subcontract,Subcontract costs (sub fee excluded),183166.33,,0.0,N,0.0,,,,9158.32,192324.65
+CP-016,GMP-PRM-E,PRM-E,2026-06,General conditions,"Site office, supervision, temporary utilities",200387.35,,0.0,,0.0,,,,10019.37,210406.72
+CP-017,GMP-PRM-E,PRM-E,2026-06,Labor,Direct craft labor (reimbursable),108090.63,36.0,38912.63,,0.0,,,,7350.16,154353.42
+CP-018,GMP-PRM-E,PRM-E,2026-06,Subcontract,Subcontract costs (sub fee excluded),159641.49,,0.0,N,0.0,,,,7982.07,167623.56
+CP-019,GMP-PRM-E,PRM-E,2026-07,General conditions,"Site office, supervision, temporary utilities",187068.15,,0.0,,0.0,,,,9353.41,196421.56
+CP-020,GMP-PRM-E,PRM-E,2026-07,Labor,Direct craft labor (reimbursable),138094.88,36.0,49714.16,,0.0,,,,9390.45,197199.49
+CP-021,GMP-PRM-E,PRM-E,2026-07,Subcontract,Subcontract costs (includes sub's 10% fee),249943.88,,0.0,Y,24994.39,,,,12497.19,262441.07
+CP-022,GMP-PRM-E,PRM-E,2026-08,General conditions,"Site office, supervision, temporary utilities",202192.39,,0.0,,0.0,,,,10109.62,212302.01
+CP-023,GMP-PRM-E,PRM-E,2026-08,Labor,Direct craft labor (reimbursable),103293.5,36.0,37185.66,,0.0,,,,7023.96,147503.12
+CP-024,GMP-PRM-E,PRM-E,2026-08,Subcontract,Subcontract costs (sub fee excluded),256609.4,,0.0,N,0.0,,,,12830.47,269439.87
+CP-025,GMP-PRM-M,PRM-M,2026-01,General conditions,"Site office, supervision, temporary utilities",178716.58,,0.0,,0.0,,,,8935.83,187652.41
+CP-026,GMP-PRM-M,PRM-M,2026-01,Labor,Direct craft labor (reimbursable),125844.51,36.0,45304.02,,0.0,,,,8557.43,179705.96
+CP-027,GMP-PRM-M,PRM-M,2026-01,Subcontract,Subcontract costs (sub fee excluded),199429.77,,0.0,N,0.0,,,,9971.49,209401.26
+CP-028,GMP-PRM-M,PRM-M,2026-02,General conditions,"Site office, supervision, temporary utilities",167193.5,,0.0,,0.0,,,,8359.67,175553.17
+CP-029,GMP-PRM-M,PRM-M,2026-02,Labor,Direct craft labor (reimbursable),94819.55,36.0,34135.04,,0.0,,,,6447.73,135402.32
+CP-030,GMP-PRM-M,PRM-M,2026-02,Subcontract,Subcontract costs (sub fee excluded),249286.26,,0.0,N,0.0,,,,12464.31,261750.57
+CP-031,GMP-PRM-M,PRM-M,2026-03,General conditions,"Site office, supervision, temporary utilities",171368.91,,0.0,,0.0,,,,8568.45,179937.36
+CP-032,GMP-PRM-M,PRM-M,2026-03,Labor,Direct craft labor (reimbursable),100118.17,36.0,36042.54,,0.0,,,,6808.04,142968.75
+CP-033,GMP-PRM-M,PRM-M,2026-03,Subcontract,Subcontract costs (sub fee excluded),183655.23,,0.0,N,0.0,,,,9182.76,192837.99
+CP-034,GMP-PRM-M,PRM-M,2026-04,General conditions,"Site office, supervision, temporary utilities",174177.25,,0.0,,0.0,,,,8708.86,182886.11
+CP-035,GMP-PRM-M,PRM-M,2026-04,Labor,Direct craft labor (reimbursable),98838.64,36.0,35581.91,,0.0,,,,6721.03,141141.58
+CP-036,GMP-PRM-M,PRM-M,2026-04,Subcontract,Subcontract costs (sub fee excluded),244227.57,,0.0,N,0.0,,,,12211.38,256438.95
+CP-037,GMP-PRM-M,PRM-M,2026-05,General conditions,"Site office, supervision, temporary utilities",178256.32,,0.0,,0.0,,,,8912.82,187169.14
+CP-038,GMP-PRM-M,PRM-M,2026-05,Labor,Direct craft labor (reimbursable),125973.15,46.0,57947.65,,0.0,,,,9196.04,193116.84
+CP-039,GMP-PRM-M,PRM-M,2026-05,Subcontract,Subcontract costs (sub fee excluded),197530.23,,0.0,N,0.0,,,,9876.51,207406.74
+CP-040,GMP-PRM-M,PRM-M,2026-06,General conditions,"Site office, supervision, temporary utilities",175271.28,,0.0,,0.0,,,,8763.56,184034.84
+CP-041,GMP-PRM-M,PRM-M,2026-06,Labor,Direct craft labor (reimbursable),119204.9,36.0,42913.76,,0.0,,,,8105.93,170224.59
+CP-042,GMP-PRM-M,PRM-M,2026-06,Subcontract,Subcontract costs (sub fee excluded),221483.13,,0.0,N,0.0,,,,11074.16,232557.29
+CP-043,GMP-PRM-M,PRM-M,2026-07,General conditions,"Site office, supervision, temporary utilities",162921.11,,0.0,,0.0,,,,8146.06,171067.17
+CP-044,GMP-PRM-M,PRM-M,2026-07,Labor,Direct craft labor (reimbursable),110790.37,36.0,39884.53,,0.0,,,,7533.74,158208.64
+CP-045,GMP-PRM-M,PRM-M,2026-07,Subcontract,Subcontract costs (sub fee excluded),154577.56,,0.0,N,0.0,,,,7728.88,162306.44
+CP-046,GMP-PRM-M,PRM-M,2026-08,General conditions,"Site office, supervision, temporary utilities",172238.29,,0.0,,0.0,,,,8611.91,180850.2
+CP-047,GMP-PRM-M,PRM-M,2026-08,Labor,Direct craft labor (reimbursable),106493.06,36.0,38337.5,,0.0,,,,7241.53,152072.09
+CP-048,GMP-PRM-M,PRM-M,2026-08,Subcontract,Subcontract costs (includes sub's 10% fee),165897.66,,0.0,Y,16589.77,,,,8294.88,174192.54
+CP-049,GMP-PRM-C,PRM-C,2026-01,General conditions,"Site office, supervision, temporary utilities",360931.06,,0.0,,0.0,,,,18046.55,378977.61
+CP-050,GMP-PRM-C,PRM-C,2026-01,Labor,Direct craft labor (reimbursable),119382.23,36.0,42977.6,,0.0,,,,8117.99,170477.82
+CP-051,GMP-PRM-C,PRM-C,2026-01,Subcontract,Subcontract costs (sub fee excluded),168765.23,,0.0,N,0.0,,,,8438.26,177203.49
+CP-052,GMP-PRM-C,PRM-C,2026-02,General conditions,"Site office, supervision, temporary utilities",402236.03,,0.0,,0.0,,,,20111.8,422347.83
+CP-053,GMP-PRM-C,PRM-C,2026-02,Labor,Direct craft labor (reimbursable),119053.06,46.0,54764.41,,0.0,,,,8690.87,182508.34
+CP-054,GMP-PRM-C,PRM-C,2026-02,Subcontract,Subcontract costs (sub fee excluded),188155.68,,0.0,N,0.0,,,,9407.78,197563.46
+CP-055,GMP-PRM-C,PRM-C,2026-03,General conditions,"Site office, supervision, temporary utilities",385436.69,,0.0,,0.0,,,,19271.83,404708.52
+CP-056,GMP-PRM-C,PRM-C,2026-03,Labor,Direct craft labor (reimbursable),91140.19,36.0,32810.47,,0.0,,,,6197.53,130148.19
+CP-057,GMP-PRM-C,PRM-C,2026-03,Subcontract,Subcontract costs (sub fee excluded),255441.51,,0.0,N,0.0,,,,12772.08,268213.59
+CP-058,GMP-PRM-C,PRM-C,2026-04,General conditions,"Site office, supervision, temporary utilities",379977.12,,0.0,,0.0,,,,18998.86,398975.98
+CP-059,GMP-PRM-C,PRM-C,2026-04,Labor,Direct craft labor (reimbursable),129136.76,36.0,46489.23,,0.0,,,,8781.3,184407.29
+CP-060,GMP-PRM-C,PRM-C,2026-04,Subcontract,Subcontract costs (sub fee excluded),159100.3,,0.0,N,0.0,,,,7955.02,167055.32
+CP-061,GMP-PRM-C,PRM-C,2026-05,General conditions,"Site office, supervision, temporary utilities",237622.52,,0.0,,0.0,,,,11881.13,249503.65
+CP-062,GMP-PRM-C,PRM-C,2026-05,Labor,Direct craft labor (reimbursable),114535.35,36.0,41232.73,,0.0,,,,7788.4,163556.48
+CP-063,GMP-PRM-C,PRM-C,2026-05,Subcontract,Subcontract costs (sub fee excluded),253160.91,,0.0,N,0.0,,,,12658.05,265818.96
+CP-064,GMP-PRM-C,PRM-C,2026-06,General conditions,"Site office, supervision, temporary utilities",240295.12,,0.0,,0.0,,,,12014.76,252309.88
+CP-065,GMP-PRM-C,PRM-C,2026-06,Labor,Direct craft labor (reimbursable),113674.47,36.0,40922.81,,0.0,,,,7729.86,162327.14
+CP-066,GMP-PRM-C,PRM-C,2026-06,Subcontract,Subcontract costs (sub fee excluded),179367.32,,0.0,N,0.0,,,,8968.37,188335.69
+CP-067,GMP-PRM-C,PRM-C,2026-07,General conditions,"Site office, supervision, temporary utilities",232750.13,,0.0,,0.0,,,,11637.51,244387.64
+CP-068,GMP-PRM-C,PRM-C,2026-07,Labor,Direct craft labor (reimbursable),116033.62,36.0,41772.1,,0.0,,,,7890.29,165696.01
+CP-069,GMP-PRM-C,PRM-C,2026-07,Subcontract,Subcontract costs (sub fee excluded),198280.26,,0.0,N,0.0,,,,9914.01,208194.27
+CP-070,GMP-PRM-C,PRM-C,2026-08,General conditions,"Site office, supervision, temporary utilities",223012.31,,0.0,,0.0,,,,11150.62,234162.93
+CP-071,GMP-PRM-C,PRM-C,2026-08,Labor,Direct craft labor (reimbursable),131314.6,36.0,47273.26,,0.0,,,,8929.39,187517.25
+CP-072,GMP-PRM-C,PRM-C,2026-08,Subcontract,Subcontract costs (sub fee excluded),248577.68,,0.0,N,0.0,,,,12428.88,261006.56
+CP-073,GMP-PRM-E,PRM-E,2026-06,Bonus,Project team completion bonus,42000.0,,0.0,,0.0,,,,2100.0,44100.0
+CP-074,GMP-PRM-M,PRM-M,2026-07,Legal,"Outside counsel, claim preparation",28500.0,,0.0,,0.0,,,,1425.0,29925.0
+CP-075,GMP-PRM-C,PRM-C,2026-05,Rework,Re-pour of rejected slab section (contractor error),61300.0,,0.0,,0.0,,,,3065.0,64365.0
+CP-076,GMP-PRM-E,PRM-E,2026-04,Contingency draw,Draw for conduit reroute,88000.0,,0.0,,0.0,OWN-CA-004,,,4400.0,92400.0
+CP-077,GMP-PRM-M,PRM-M,2026-08,Contingency draw,Draw for added pipe supports,54000.0,,0.0,,0.0,,,,2700.0,56700.0
+CP-078,GMP-PRM-C,PRM-C,2026-03,Subcontract buyout,"Site utilities subcontract, billed at budget",1250000.0,,0.0,,0.0,,1250000.0,1118000.0,62500.0,1312500.0

@@ -1,0 +1,52 @@
+co_id,justification,cause_category,raised_by,schedule_days_if_rejected,source
+CO-WTX-A1-E-01,Extra condenser water branch for coordination with other trades.,Already in base scope,Contractor,30,synthetic
+CO-WTX-A1-E-02,Additional pipe hangers needed to complete the system as installed.,Already in base scope,Contractor,20,synthetic
+CO-WTX-A1-E-03,Scope added at owner request to support increased rack density; see ASI-299.,Owner design change,Designer,10,synthetic
+CO-WTX-A1-M-01,Unforeseen subsurface rock encountered at electrical room 2; geotech report 910 attached.,Unforeseen site condition,Contractor,0,synthetic
+CO-WTX-A1-M-02,Added second shift to maintain milestone dates for cable tray supports.,Acceleration not directed,Contractor,30,synthetic
+CO-WTX-A1-M-03,Crew productivity lower than planned; extra hours for condenser water branch.,Contractor productivity / rework,Contractor,5,synthetic
+CO-WTX-A1-C-01,Extra fire stopping for coordination with other trades.,Already in base scope,Contractor,0,synthetic
+CO-WTX-A1-C-02,Additional pipe hangers needed to complete the system as installed.,Already in base scope,Contractor,15,synthetic
+CO-WTX-A1-C-03,Design change issued by the owner's engineer: added rebar dowels per bulletin 205.,Owner design change,Owner,0,synthetic
+CO-WTX-A1-C-04,Differing site condition: groundwater at grid line C-7 not shown in the geotechnical baseline.,Unforeseen site condition,Contractor,20,synthetic
+CO-WTX-A2-E-01,Unforeseen subsurface rock encountered at the north utility yard; geotech report 652 attached.,Unforeseen site condition,Contractor,30,synthetic
+CO-WTX-A2-E-02,Overtime premium to recover schedule on rebar dowels.,Acceleration not directed,Contractor,0,synthetic
+CO-WTX-A2-E-03,"Owner directed revision per RFI-277 and revised drawing E-558, rev 5.",Owner design change,Contractor,30,synthetic
+CO-WTX-A2-E-04,Scope added at owner request to support increased rack density; see ASI-268.,Owner design change,Contractor,10,synthetic
+CO-WTX-A2-M-01,Scope added at owner request to support increased rack density; see ASI-382.,Owner design change,Contractor,30,synthetic
+CO-WTX-A2-M-02,Scope added at owner request to support increased rack density; see ASI-522.,Owner design change,Designer,30,synthetic
+CO-WTX-A2-C-01,Overtime premium to recover schedule on grounding conductors.,Acceleration not directed,Contractor,10,synthetic
+CO-WTX-A2-C-02,Scope added at owner request to support increased rack density; see ASI-213.,Owner design change,Contractor,20,synthetic
+CO-WTX-B1-E-01,Scope clarification: rebar dowels required for a complete installation.,Already in base scope,Contractor,0,synthetic
+CO-WTX-B1-E-02,Acceleration costs for chiller pads to meet our recovery schedule.,Acceleration not directed,Contractor,0,synthetic
+CO-WTX-B1-M-01,"Owner directed revision per RFI-475 and revised drawing E-576, rev 4.",Owner design change,Contractor,10,synthetic
+CO-WTX-B1-M-02,Additional seismic bracing needed to complete the system as installed.,Already in base scope,Contractor,20,synthetic
+CO-WTX-B1-C-01,Extra rebar dowels for coordination with other trades.,Already in base scope,Contractor,0,synthetic
+CO-WTX-B1-C-02,Crew productivity lower than planned; extra hours for grounding conductors.,Contractor productivity / rework,Contractor,15,synthetic
+CO-WTX-B2-E-01,Scope clarification: rebar dowels required for a complete installation.,Already in base scope,Contractor,5,synthetic
+CO-WTX-B2-E-02,"Owner directed revision per RFI-634 and revised drawing E-470, rev 1.",Owner design change,Contractor,15,synthetic
+CO-WTX-B2-E-03,Additional pipe hangers needed to complete the system as installed.,Already in base scope,Contractor,10,synthetic
+CO-WTX-B2-M-01,Scope added at owner request to support increased rack density; see ASI-432.,Owner design change,Contractor,10,synthetic
+CO-WTX-B2-M-02,Extra grounding conductors for coordination with other trades.,Already in base scope,Contractor,10,synthetic
+CO-WTX-B2-M-03,Utility interconnection requirement changed; fire stopping mandated by the utility.,Code / authority requirement,Contractor,15,synthetic
+CO-WTX-B2-C-01,Scope clarification: seismic bracing required for a complete installation.,Already in base scope,Contractor,0,synthetic
+CO-WTX-B2-C-02,Acceleration costs for chiller pads to meet our recovery schedule.,Acceleration not directed,Contractor,10,synthetic
+CO-WTX-B2-C-03,Design change issued by the owner's engineer: added grounding conductors per bulletin 676.,Owner design change,Owner,0,synthetic
+CO-WTX-B2-C-04,Scope clarification: cable tray supports required for a complete installation.,Already in base scope,Contractor,30,synthetic
+CO-WTX-C1-E-01,Unforeseen subsurface rock encountered at grid line C-7; geotech report 827 attached.,Unforeseen site condition,Contractor,20,synthetic
+CO-WTX-C1-E-02,Scope added at owner request to support increased rack density; see ASI-332.,Owner design change,Owner,0,synthetic
+CO-WTX-C1-E-03,Scope clarification: pipe hangers required for a complete installation.,Already in base scope,Contractor,5,synthetic
+CO-WTX-C1-M-01,Unforeseen subsurface rock encountered at grid line C-7; geotech report 159 attached.,Unforeseen site condition,Contractor,30,synthetic
+CO-WTX-C1-M-02,Re-installation of condenser water branch after failed inspection.,Contractor productivity / rework,Contractor,5,synthetic
+CO-WTX-C1-M-03,Unforeseen subsurface rock encountered at the switchyard; geotech report 456 attached.,Unforeseen site condition,Contractor,5,synthetic
+CO-WTX-C1-C-01,Scope clarification: chiller pads required for a complete installation.,Already in base scope,Contractor,5,synthetic
+CO-WTX-C1-C-02,Crew productivity lower than planned; extra hours for rebar dowels.,Contractor productivity / rework,Contractor,0,synthetic
+CO-WTX-C2-E-01,"Owner directed revision per RFI-979 and revised drawing E-639, rev 5.",Owner design change,Owner,0,synthetic
+CO-WTX-C2-E-02,Scope added at owner request to support increased rack density; see ASI-914.,Owner design change,Contractor,0,synthetic
+CO-WTX-C2-E-03,Additional fire stopping needed to complete the system as installed.,Already in base scope,Contractor,30,synthetic
+CO-WTX-C2-E-04,Re-installation of grounding conductors after failed inspection.,Contractor productivity / rework,Contractor,20,synthetic
+CO-WTX-C2-M-01,Added second shift to maintain milestone dates for duct bank encasement.,Acceleration not directed,Contractor,5,synthetic
+CO-WTX-C2-M-02,Additional duct bank encasement needed to complete the system as installed.,Already in base scope,Contractor,0,synthetic
+CO-WTX-C2-M-03,Re-installation of pipe hangers after failed inspection.,Contractor productivity / rework,Contractor,15,synthetic
+CO-WTX-C2-C-01,Scope added at owner request to support increased rack density; see ASI-891.,Owner design change,Owner,5,synthetic
+CO-WTX-C2-C-02,Design change issued by the owner's engineer: added conduit runs per bulletin 163.,Owner design change,Contractor,0,synthetic
